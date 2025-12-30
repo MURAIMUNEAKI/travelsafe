@@ -7,7 +7,7 @@ const app = express();
 const PORT = 3000;
 
 app.use(cors());
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(__dirname));
 
 // Proxy endpoint to fetch XML data
 app.get('/api/safety-info', async (req, res) => {
