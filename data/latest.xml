@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opendata dataType="L" lastModified="2025/12/30 17:05:48" mailCount="4" odType="02">
+    <mail>
+        <keyCd>161706</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2025/12/30 16:25:37</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>テヘラン市内におけるデモ抗議の発生</title>
+        <lead>１２月２８日以降、首都テヘランにおいて、通貨の急落や物価高など経済状況の悪化に対して、商人や市民らによる抗議デモが行われました。同様のデモは一部の都市でも発生したと報じられています。また、一部の場所では、デモ参加者に対して治安当局が催涙ガスを使用して強制的に解散させたという報道も出ております。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161706</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161706A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161706.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161706L.xml</xmlLightUrl>
+        <koukanCd>703A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161705</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2025/12/30 07:30:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0056</cd>
+        </country>
+        <title>（注意喚起）サンティアゴ市ラス・コンデス区 San Carlos de Apoquindo 地区における森林火災の発生について</title>
+        <lead>国家防災対策庁（SENAPRED）により、現在、サンティアゴ市ラス・コンデス区に対し警戒警報（Alerta Amarilla）が発令されています。同区 San Carlos de Apoquindo 地区の山側において森林火災が発生しており、消防当局等による消火活動が継続されています。
+現時点では、市街地への直接的な被害は確認されていませんが、今後の気象条件等によっては、煙の拡散や周辺地域への影響が生じる可能性があります。
+なお、煙には健康に影響を及ぼすおそれのある微細な粒子やガスが含まれている可能性があります。つきましては、窓や扉を閉めて屋内への煙の侵入を防ぐとともに、不要不急の屋外活動は控えるなど、体調管理に十分ご留意ください。特に、呼吸器や心臓に持病のある方、ご高齢の方、お子さま、妊娠中の方につきましては、体調の変化に十分注意し、異変を感じた場合には無理をせず、速やかに適切な対応を取るようお願いいたします。
+また、当該地域および周辺への不要不急の立ち入りは控え、消防当局や自治体等から発表される最新の情報や指示に十分ご注意ください。
+皆さまにおかれましては、安全の確保を最優先に行動されますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161705</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161705A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161705.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161705L.xml</xmlLightUrl>
+        <koukanCd>404A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161704</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2025/12/29 15:25:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0886</cd>
+        </country>
+        <title>台湾周辺における中国による軍事演習について</title>
+        <lead>●１２月２９日、中国軍で台湾方面を管轄する東部戦区は、同日より台湾周辺において軍事演習を始めたと発表しました。また、中国側発表によれば、１２月３０日午前８時から１８時（台湾時間）に台湾周辺の海空域において実弾射撃を行うとされています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161704</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161704A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161704.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161704L.xml</xmlLightUrl>
+        <koukanCd>632B</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161703</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2025/12/29 12:05:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0886</cd>
+        </country>
+        <title>台湾周辺における中国による軍事演習について</title>
+        <lead>●１２月２９日、中国軍で台湾方面を管轄する東部戦区は、同日より台湾周辺において軍事演習を始めたと発表しました。また、中国側発表によれば、１２月３０日午前８時から１８時（台湾時間）に台湾周辺の海空域において実弾射撃を行うとされています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161703</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161703A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161703.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161703L.xml</xmlLightUrl>
+        <koukanCd>632A</koukanCd>
+    </mail>
+</opendata>
