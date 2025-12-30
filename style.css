@@ -304,16 +304,20 @@ footer {
         grid-template-columns: 1fr;
     }
 
-    header h1 {
-        font-size: 1.8rem;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 0.2rem;
+    /* Fix title specifically for mobile */
+    .logo h1 {
+        font-size: 1.4rem; /* Reduced from 1.8rem to prevent word breaking */
+        display: block; /* Removed flex column to allow natural flow */
+        width: 100%;
+    }
+
+    /* Hide airplane icon on mobile */
+    .logo .icon {
+        display: none;
     }
 
     .title-break {
-        display: none;
+        display: inline; /* Can show space now since we are not forcing column */
     }
 
     .container {
