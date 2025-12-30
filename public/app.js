@@ -1,0 +1,139 @@
+document.addEventListener('DOMContentLoaded', () => {
+    const infoGrid = document.getElementById('info-grid');
+    const refreshBtn = document.getElementById('refresh-btn');
+    const lastUpdatedSpan = document.getElementById('last-updated');
+
+    // Initial fetch
+    fetchData();
+
+    // Event listener
+    refreshBtn.addEventListener('click', fetchData);
+
+    async function fetchData() {
+        setLoading(true);
+        try {
+            // Using our local proxy to avoid CORS
+            const response = await fetch('/api/safety-info');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            const data = await response.text();
+            parseAndRender(data);
+        } catch (error) {
+            console.error('Error fetching data:', error);
+            renderError(error);
+        } finally {
+            setLoading(false);
+        }
+    }
+
+    function parseAndRender(xmlString) {
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(xmlString, "application/xml");
+
+        const mails = xmlDoc.getElementsByTagName('mail');
+        const lastModified = xmlDoc.querySelector('opendata')?.getAttribute('lastModified');
+
+        if (lastModified) {
+            lastUpdatedSpan.textContent = `Last active update: ${lastModified}`;
+        }
+
+        infoGrid.innerHTML = ''; // Clear current content
+
+        if (mails.length === 0) {
+            infoGrid.innerHTML = '<div class="error-state">No information available at the moment.</div>';
+            return;
+        }
+
+        // Convert HTMLCollection to Array to use forEach/map
+        Array.from(mails).forEach((mail, index) => {
+            const title = getTagValue(mail, 'title');
+            const lead = getTagValue(mail, 'lead');
+            const leaveDate = getTagValue(mail, 'leaveDate');
+            const infoUrl = getTagValue(mail, 'infoUrl');
+
+            // Try to extract country/area info if available (structure varies)
+            // But for now, we focus on the main content
+
+            const card = createCard({
+                title,
+                lead,
+                date: formatDate(leaveDate),
+                url: infoUrl,
+                index // for staggered animation delay
+            });
+
+            infoGrid.appendChild(card);
+        });
+    }
+
+    function getTagValue(parent, tagName) {
+        const node = parent.getElementsByTagName(tagName)[0];
+        return node ? node.textContent.trim() : '';
+    }
+
+    function createCard({ title, lead, date, url, index }) {
+        const card = document.createElement('article');
+        card.className = 'card';
+        card.style.animationDelay = `${index * 0.1}s`;
+
+        // Clean up lead text (sometimes has ellipsis or extra whitespace)
+        const cleanLead = lead.replace(/^…|…$/g, '').trim();
+
+        card.innerHTML = `
+            <div class="card-header">
+                <span class="card-tag">Safety Alert</span>
+                <span class="card-date">${date}</span>
+            </div>
+            <h3 class="card-title">${title}</h3>
+            <p class="card-summary">${cleanLead}</p>
+            <div class="card-footer">
+                <a href="${url}" target="_blank" rel="noopener noreferrer" class="card-link">
+                    詳細を見る <span>→</span>
+                </a>
+            </div>
+        `;
+
+        return card;
+    }
+
+    function formatDate(dateString) {
+        // Expected format: YYYY/MM/DD HH:MM:SS
+        // We can just basic parsing or use Intl
+        if (!dateString) return '';
+        try {
+            const date = new Date(dateString);
+            return new Intl.DateTimeFormat('ja-JP', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            }).format(date);
+        } catch (e) {
+            return dateString;
+        }
+    }
+
+    function setLoading(isLoading) {
+        if (isLoading) {
+            refreshBtn.classList.add('loading');
+            refreshBtn.disabled = true;
+            // Only clear grid if it's empty or we want a full refresh feel
+            // infoGrid.innerHTML = ... (Optional)
+        } else {
+            refreshBtn.classList.remove('loading');
+            refreshBtn.disabled = false;
+        }
+    }
+
+    function renderError(error) {
+        infoGrid.innerHTML = `
+            <div class="card" style="grid-column: 1 / -1; text-align: center; color: #ef4444;">
+                <h3>Error Loading Data</h3>
+                <p>${error.message}</p>
+                <p>Please try again later.</p>
+            </div>
+        `;
+    }
+});
