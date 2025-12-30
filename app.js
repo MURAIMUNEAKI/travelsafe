@@ -7,7 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchData();
 
     // Event listener
-    refreshBtn.addEventListener('click', fetchData);
+    refreshBtn.addEventListener('click', () => {
+        window.location.reload();
+    });
 
     async function fetchData() {
         setLoading(true);
