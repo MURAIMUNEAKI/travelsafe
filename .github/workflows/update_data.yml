@@ -1,0 +1,30 @@
+name: Update Safety Data
+
+on:
+  schedule:
+    # Run every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allow manual run
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download Safety Data
+        run: |
+          mkdir -p public/data
+          curl -L "https://www.ezairyu.mofa.go.jp/opendata/area/newarrivalL.xml" -o public/data/latest.xml
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add public/data/latest.xml
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update safety data [skip ci]" && git push)
