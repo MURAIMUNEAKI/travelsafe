@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/01 02:40:48" mailCount="5" odType="02">
+<opendata dataType="L" lastModified="2026/01/01 03:25:48" mailCount="6" odType="02">
+    <mail>
+        <keyCd>161711</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/01 02:50:40</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0052</cd>
+        </country>
+        <title>【注意喚起】ミチョアカン州モレリア市における塩素ガス入りタンク盗難に伴う警戒情報について</title>
+        <lead>●１２月３０日（火）、ミチョアカン州モレリア市において、有毒な塩素ガス入りタンクが盗難される事案が発生しました。メキシコ国家市民保護調整局は、塩素ガス漏出による健康被害の恐れがあるとして、警戒情報を発出しています。 
+●高速道路等における所持品検査が行われる可能性があります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161711</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161711A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161711.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161711L.xml</xmlLightUrl>
+        <koukanCd>410A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161709</keyCd>
         <infoType>R10</infoType>
