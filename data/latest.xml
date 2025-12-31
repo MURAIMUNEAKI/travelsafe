@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/01 07:15:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/01/01 07:45:47" mailCount="7" odType="02">
     <mail>
         <keyCd>161713</keyCd>
         <infoType>R10</infoType>
@@ -132,27 +132,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161706.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161706L.xml</xmlLightUrl>
         <koukanCd>703A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161705</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2025/12/30 07:30:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0056</cd>
-        </country>
-        <title>（注意喚起）サンティアゴ市ラス・コンデス区 San Carlos de Apoquindo 地区における森林火災の発生について</title>
-        <lead>国家防災対策庁（SENAPRED）により、現在、サンティアゴ市ラス・コンデス区に対し警戒警報（Alerta Amarilla）が発令されています。同区 San Carlos de Apoquindo 地区の山側において森林火災が発生しており、消防当局等による消火活動が継続されています。
-現時点では、市街地への直接的な被害は確認されていませんが、今後の気象条件等によっては、煙の拡散や周辺地域への影響が生じる可能性があります。
-なお、煙には健康に影響を及ぼすおそれのある微細な粒子やガスが含まれている可能性があります。つきましては、窓や扉を閉めて屋内への煙の侵入を防ぐとともに、不要不急の屋外活動は控えるなど、体調管理に十分ご留意ください。特に、呼吸器や心臓に持病のある方、ご高齢の方、お子さま、妊娠中の方につきましては、体調の変化に十分注意し、異変を感じた場合には無理をせず、速やかに適切な対応を取るようお願いいたします。
-また、当該地域および周辺への不要不急の立ち入りは控え、消防当局や自治体等から発表される最新の情報や指示に十分ご注意ください。
-皆さまにおかれましては、安全の確保を最優先に行動されますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161705</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161705A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161705.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161705L.xml</xmlLightUrl>
-        <koukanCd>404A</koukanCd>
     </mail>
 </opendata>
