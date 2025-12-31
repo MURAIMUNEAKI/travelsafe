@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2025/12/31 19:40:48" mailCount="4" odType="02">
+<opendata dataType="L" lastModified="2025/12/31 20:20:48" mailCount="5" odType="02">
+    <mail>
+        <keyCd>161709</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2025/12/31 19:45:37</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0261</cd>
+        </country>
+        <title>【注意喚起】マダガスカルにおけるエムポックスの発生について</title>
+        <lead>マダガスカル国内において、５例のエムポックス症例が確認されました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161709</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161709A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161709.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161709L.xml</xmlLightUrl>
+        <koukanCd>730A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161708</keyCd>
         <infoType>R10</infoType>
