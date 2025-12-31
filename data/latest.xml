@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/01 03:45:48" mailCount="7" odType="02">
+<opendata dataType="L" lastModified="2026/01/01 04:20:47" mailCount="8" odType="02">
+    <mail>
+        <keyCd>161713</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/01 04:15:37</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <title>クスコ-マチュピチュ間の鉄道の再開（12月31日）</title>
+        <lead>○12月30日（火）13時20分頃（現地時間）、マチュピチュ発の列車と対向列車とが正面衝突する事故が発生し、クスコとマチュピチュ間の列車は一時運休していましたが、ペルーレール社やインカレール社の発表によれば、両社は12月31日（水）より順次運行を再開しています。
+○12月31日（水）現在、クスコとマチュピチュ間の列車は、通常の運行スケジュールより大幅に遅延している場合があります。今後、同地域への渡航・滞在を予定されている方は、iPeru、鉄道会社、最寄り駅での聞き込み、及び報道等から最新情報を入手してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161713</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161713A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161713.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161713L.xml</xmlLightUrl>
+        <koukanCd>412A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161712</keyCd>
         <infoType>R10</infoType>
