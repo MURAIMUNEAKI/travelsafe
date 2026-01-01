@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/01 16:20:48" mailCount="7" odType="02">
+<opendata dataType="L" lastModified="2026/01/01 16:40:48" mailCount="6" odType="02">
     <mail>
         <keyCd>161713</keyCd>
         <infoType>R10</infoType>
@@ -114,23 +114,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161707.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161707L.xml</xmlLightUrl>
         <koukanCd>606A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161706</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2025/12/30 16:25:37</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0098</cd>
-        </country>
-        <title>テヘラン市内におけるデモ抗議の発生</title>
-        <lead>１２月２８日以降、首都テヘランにおいて、通貨の急落や物価高など経済状況の悪化に対して、商人や市民らによる抗議デモが行われました。同様のデモは一部の都市でも発生したと報じられています。また、一部の場所では、デモ参加者に対して治安当局が催涙ガスを使用して強制的に解散させたという報道も出ております。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161706</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161706A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161706.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161706L.xml</xmlLightUrl>
-        <koukanCd>703A</koukanCd>
     </mail>
 </opendata>
