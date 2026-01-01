@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/01 21:30:48" mailCount="5" odType="02">
+<opendata dataType="L" lastModified="2026/01/01 22:00:48" mailCount="7" odType="02">
+    <mail>
+        <keyCd>161715</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/01 21:50:36</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0244</cd>
+        </country>
+        <title>当地治安情報（ルアンダ市内における政府に対する抗議デモ実施の可能性）</title>
+        <lead>●1月3日（土）、ルアンダ州で抗議デモが行われる可能性があります。
+●在留邦人の皆様におかれましては、以下の点に留意しつつ、不要不急の外出を控え不測の事態に巻き込まれることのないよう常に最新の情報を元に慎重な行動を心がけてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161715</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161715A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161715.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161715L.xml</xmlLightUrl>
+        <koukanCd>731A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161714</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/01 21:35:43</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0041</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0423</cd>
+        </country>
+        <title>ヴァレー州クラン・モンタナでの火災事案</title>
+        <lead>１　ヴァレー州クラン・モンタナでの火災事案
+　本日午前１時３０分頃、ヴァレー州クラン・モンタナ（Crans-Montana）の飲食店で火災事案が発生し、多数の死傷者が発生しました。原因については現在も調査中とのことです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161714</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161714A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161714.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161714L.xml</xmlLightUrl>
+        <koukanCd>516A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161713</keyCd>
         <infoType>R10</infoType>
