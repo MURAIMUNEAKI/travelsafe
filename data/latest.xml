@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/02 12:35:48" mailCount="7" odType="02">
+<opendata dataType="L" lastModified="2026/01/02 12:55:48" mailCount="6" odType="02">
     <mail>
         <keyCd>161715</keyCd>
         <infoType>R10</infoType>
@@ -116,21 +116,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161709.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161709L.xml</xmlLightUrl>
         <koukanCd>730A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161708</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2025/12/31 12:50:47</leaveDate>
-        <title>南カリフォルニアにおける嵐による洪水・土砂崩れに関する注意喚起</title>
-        <lead>●NWS(米国立気象局)では、南カリフォルニアにおいて、31日（水）の大晦日から新年の週末にかけて、嵐による影響を受ける地域が広範囲に及ぶと予報し、洪水注意報を発出しています。また、今年１月に発生した山火事等の被災地域の一部では既に先週の大雨により土砂崩れ等が発生しているところ、再び土砂崩れの危険性が高まっています。
-
-●南カリフォルニアに居住・滞在される在留邦人・旅行者におかれては、今後の雨及び洪水について、気象予報及びお住まいの地域の自治体や報道等から最新の情報を入手して安全の確保につとめてください。また、避難指示が発出された場合は、当局の指示に従い、迅速に対応してください。
-
-●ホリデー・シーズンのため空港や道路が従来以上に混雑・渋滞する時期にあたりますが、嵐の影響に備えて時間に余裕をもった行動を心がけてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161708</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161708A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161708.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161708L.xml</xmlLightUrl>
-        <koukanCd>301F</koukanCd>
     </mail>
 </opendata>
