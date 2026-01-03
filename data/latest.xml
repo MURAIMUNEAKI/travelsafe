@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/03 16:20:48" mailCount="2" odType="02">
+<opendata dataType="L" lastModified="2026/01/03 16:40:48" mailCount="3" odType="02">
+    <mail>
+        <keyCd>161716</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/03 16:30:37</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0058</cd>
+        </country>
+        <title>米国との緊張の高まりに伴う注意喚起（その5）</title>
+        <lead>◎報道等によれば、1月3日午前2時頃、カラカス市内のカルロタ基地やフエルテ・ティウナ軍事施設等で爆発音が聞こえ、SNSでは大きな炎上映像も確認されています。
+◎米国は、ベネズエラでの地上作戦につき言及してきています。
+◎この状況を受け、非常事態宣言が発動され、行動制限等が行われる可能性があります。
+◎ベネズエラと米国との緊張は高まり、一部の国際線の運休を含め、当地情勢は極めて不透明となっていますので、最新情報の入手に努めるとともに、偽情報にはご注意ください。
+◎不測の事態が生じた際は、速やかに比較的安全な場所に退避する等、自らの安全確保に努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161716</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161716A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161716.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161716L.xml</xmlLightUrl>
+        <koukanCd>414A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161715</keyCd>
         <infoType>R10</infoType>
