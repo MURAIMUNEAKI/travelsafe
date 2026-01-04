@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/04 11:05:48" mailCount="6" odType="02">
+<opendata dataType="L" lastModified="2026/01/04 11:50:48" mailCount="8" odType="02">
+    <mail>
+        <keyCd>161722</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/04 11:40:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射（第二報）</title>
+        <lead>　本日１月４日の北朝鮮による弾道ミサイルの可能性があるものの発射に関し、我が国政府の対応状況等が首相官邸ホームページに掲載されました。 
+　引き続き、最新の情報に留意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161722</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161722A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161722.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161722L.xml</xmlLightUrl>
+        <koukanCd>616F</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161721</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/04 11:15:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射（第一報）</title>
+        <lead>　韓国当局によると、本日１月４日、北朝鮮から弾道ミサイルの可能性のあるものが発射されました。 
+　引き続き最新の情報に留意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161721</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161721A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161721.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161721L.xml</xmlLightUrl>
+        <koukanCd>616F</koukanCd>
+    </mail>
     <mail>
         <keyCd>161720</keyCd>
         <infoType>R10</infoType>
