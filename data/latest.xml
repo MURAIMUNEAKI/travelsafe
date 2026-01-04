@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/04 08:15:48" mailCount="4" odType="02">
+<opendata dataType="L" lastModified="2026/01/04 08:45:48" mailCount="5" odType="02">
+    <mail>
+        <keyCd>161719</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/04 08:30:43</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射（第１報）</title>
+        <lead>本４日、北朝鮮から弾道ミサイルの可能性があるものが発射されました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161719</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161719A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161719.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161719L.xml</xmlLightUrl>
+        <koukanCd>616A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161718</keyCd>
         <infoType>R10</infoType>
