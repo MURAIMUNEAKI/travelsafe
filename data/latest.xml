@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/04 23:40:48" mailCount="10" odType="02">
+<opendata dataType="L" lastModified="2026/01/05 00:20:48" mailCount="9" odType="02">
     <mail>
         <keyCd>161725</keyCd>
         <infoType>R10</infoType>
@@ -198,25 +198,5 @@ E-mail：ryouji@po.mofa.go.jp</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161716.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161716L.xml</xmlLightUrl>
         <koukanCd>414A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>2026C001</keyCd>
-        <infoType>C30</infoType>
-        <contentInfo>治安情勢 一般犯罪 誘拐 戦争 災害</contentInfo>
-        <leaveDate>2026/01/03 00:00:00</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0058</cd>
-        </country>
-        <title>ベネズエラ情勢に関する注意喚起</title>
-        <lead>●報道等によれば、現地時間1月3日午前2時頃、ベネズエラの首都カラカス市内の軍事施設等から爆発音があった模様です。この状況を受け、ベネズエラ政府は非常事態宣言を発出しました。
-●現地情勢は極めて不透明となっているので、ベネズエラに滞在中の方におかれては、不要不急の外出を控えるとともに、最新情報を入手して自らの安全確保に努めてください。お困りのことや、ご支援が必要なことがあれば在ベネズエラ日本国大使館にご連絡ください。
-●ベネズエラ全土に危険レベル３（渡航中止勧告）が出されています。ベネズエラへの渡航は止めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C001.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C001A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C001.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C001L.xml</xmlLightUrl>
     </mail>
 </opendata>
