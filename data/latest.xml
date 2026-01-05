@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/05 18:45:48" mailCount="11" odType="02">
+<opendata dataType="L" lastModified="2026/01/05 19:25:49" mailCount="12" odType="02">
+    <mail>
+        <keyCd>161731</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/05 18:50:37</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>イラン国内における抗議活動の継続</title>
+        <lead>昨年１２月２８日以降、通貨下落や経済情勢への不満を背景とする抗議活動は、１週間以上経過した現在もテヘランを含む各地で継続しています。イラン当局は破壊活動等を伴う暴動については徹底的に取り締まる方針を明らかにしており、一部の場所では、抗議活動参加者に対して治安当局が催涙ガスを使用して強制的に解散させたという報道に加え、逮捕者や死傷者が出ているとも報じられています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161731</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161731A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161731.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161731L.xml</xmlLightUrl>
+        <koukanCd>703A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161728</keyCd>
         <infoType>R10</infoType>
