@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/06 07:45:47" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/06 08:15:47" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161746</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/06 08:05:37</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0058</cd>
+        </country>
+        <title>米国との緊張の高まりに伴う注意喚起（その6）</title>
+        <lead>◎1月3日午前2時頃に発生した米国によるカラカス等への軍事攻撃を受け、同日、ベネズエラ政府は非常事態宣言を発動しました。これにより、国境での警戒・警備が強化され、また、入国制限・国境閉鎖等の措置を講じることが可能になるとされています。
+◎現地情勢は未だ不透明ですので、ベネズエラに滞在中の方におかれては、最新情報を入手して自らの安全確保に努め、水や食料、燃料等の備蓄についてご検討ください。お困りのことや、ご支援が必要なことがあれば当館にご連絡ください。
+◎ベネズエラ全土に危険レベル3（渡航中止勧告）が出されています。ベネズエラへの渡航は止めてください。
+◎フライトにキャンセル、遅延等が発生しています。ご利用前に各航空会社に状況を確認することをお勧めします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161746</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161746A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161746.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161746L.xml</xmlLightUrl>
+        <koukanCd>414A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161745</keyCd>
         <infoType>R10</infoType>
