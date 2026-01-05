@@ -1,5 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/06 01:45:47" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/06 02:15:48" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161745</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/06 02:00:49</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0231</cd>
+        </country>
+        <title>当館休館日（憲法記念日）の変更について</title>
+        <lead>【ポイント】
+●ガーナ政府の決定（「憲法記念日」の変更）に伴い、在ガーナ日本国大使館では、１月７日（水）を開館日に、また、１月９日（金）を休館日に変更します。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161745</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161745A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161745.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161745L.xml</xmlLightUrl>
+        <koukanCd>754A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161744</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/06 02:00:49</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0258</cd>
+        </country>
+        <title>窃盗事案の発生に伴う注意喚起</title>
+        <lead>１２月２３日（火）午後６時頃、マプト市内のバイシャ地区にあるシャパ（バス）乗り場１７番付近にて、邦人が盗難被害に遭う事案が発生しました。
+
+シャパに乗る際、一人の若い男が助手席に座ろうとした邦人（被害者）へ近づき、席を取り合う素振りを見せました。
+その後、一部始終を見ていた運転手らが、邦人へ携帯電話を持っているかと確認したところ、邦人は携帯電話を入れていた鞄のチャックが閉まっていたため、盗まれていないと判断し、その場では鞄の中を確認しなかったものの、後ほど確認したところ、携帯電話がなくなっていることに気づいたとのことです。
+おそらく、助手席を取り合う素振りを見せた隙に、男が鞄を開け携帯電話を盗んだとみられます。
+
+貴重品を鞄の中にしまっていたとしても、本件のように盗難被害に遭うこともありますので、公共交通機関等を利用する際には、貴重品を抜き取られないよう十分ご注意ください。
+万が一被害に遭われた場合は、警察当局へ被害届を提出するとともに、在モザンビーク日本大使館へご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161744</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161744A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161744.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161744L.xml</xmlLightUrl>
+        <koukanCd>763A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161743</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/06 01:55:45</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0232</cd>
+        </country>
+        <title>当館休館日（憲法記念日）の変更について</title>
+        <lead>【ポイント】
+●ガーナ政府の決定（「憲法記念日」の変更）に伴い、在ガーナ日本国大使館では、１月７日（水）を開館日に、また、１月９日（金）を休館日に変更します。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161743</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161743A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161743.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161743L.xml</xmlLightUrl>
+        <koukanCd>077A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161742</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/06 01:55:45</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0233</cd>
+        </country>
+        <title>当館休館日（憲法記念日）の変更について</title>
+        <lead>【ポイント】
+●ガーナ政府の決定（「憲法記念日」の変更）に伴い、在ガーナ日本国大使館では、１月７日（水）を開館日に、また、１月９日（金）を休館日に変更します。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161742</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161742A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161742.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161742L.xml</xmlLightUrl>
+        <koukanCd>712A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161739</keyCd>
         <infoType>R10</infoType>
