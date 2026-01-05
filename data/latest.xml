@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/06 02:15:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/06 02:50:48" mailCount="19" odType="02">
     <mail>
         <keyCd>161745</keyCd>
         <infoType>R10</infoType>
@@ -386,48 +386,5 @@ https://www.kantei.go.jp/jp/content/000189534.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161719.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161719L.xml</xmlLightUrl>
         <koukanCd>616A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161718</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/04 02:45:43</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0592</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0473</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0597</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0784</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0758</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0868</cd>
-        </country>
-        <title>ポートオブスペイン市内での抗議行動にご注意願います。</title>
-        <lead>【ポイント】
-　複数の市民団体が、米国によるベネズエラ国内での軍事行動に伴い、1月4日（日）午前10時半からポートオブスペイン市内のベネズエラ大使館前のVictoria Avenueにおいて抗議行動を呼びかけています。
-
-　上記の場所には絶対に近づかないよう安全を最優先に行動するようにして下さい。また、報道等で十分情報を確認し、抗議活動等が実施されている場所に遭遇した場合には、近づかず、速やかにその場から離れるようにしてください。
-
-在トリニダード・トバゴ日本国大使館（セントルシア、セントビンセント及びグレナディーン諸島、グレナダ、ガイアナ、スリナムを兼轄）   
-住所：5 Hayes Street、St. Clair、 Port of Spain、 Trinidad and Tobago、 W. I. (P.O.Box1039) 
-電話：628-5991  国外からは（国番号1-868）628-5991   
-FAX：622-0858  国外からは（国番号1-868）622-0858   
-ホームページ：https://www.tt.emb-japan.go.jp/itprtop_ja/index.html
-E-mail：ryouji@po.mofa.go.jp</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161718</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161718A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161718.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161718L.xml</xmlLightUrl>
-        <koukanCd>424A</koukanCd>
     </mail>
 </opendata>
