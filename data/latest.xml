@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/06 00:45:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/01/06 01:25:48" mailCount="16" odType="02">
     <mail>
         <keyCd>161739</keyCd>
         <infoType>R10</infoType>
@@ -347,24 +347,5 @@ E-mail：ryouji@po.mofa.go.jp</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161718.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161718L.xml</xmlLightUrl>
         <koukanCd>424A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161717</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/04 00:55:37</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0056</cd>
-        </country>
-        <title>（注意喚起）ベネズエラ情勢を受けた当地在留外国人による集会等の動き</title>
-        <lead>本３日、ベネズエラ情勢を受け、サンティアゴ市内において、主にベネズエラ出身のチリ在留外国人を中心とした大規模な集会や街頭活動が発生しているとの報道があります。これらの動きは、エスタシオン・セントラル地区をはじめ、市内複数の地点で確認されている他、今後その他の市・地域においても同様の動きが発生する可能性があります。  
-現時点では、これらの集会は概ね平穏に行われており、深刻な混乱や衝突に関する公式な報告は確認されていません。しかし、今後の状況の推移によっては、以下のような影響が生じる可能性もあることから、引き続き十分な注意が必要です。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161717</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161717A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161717.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161717L.xml</xmlLightUrl>
-        <koukanCd>404A</koukanCd>
     </mail>
 </opendata>
