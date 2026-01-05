@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/05 23:25:47" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/01/05 23:45:48" mailCount="16" odType="02">
+    <mail>
+        <keyCd>161738</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/05 23:40:36</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0593</cd>
+        </country>
+        <title>非常事態宣言の新規発令</title>
+        <lead>●ノボア大統領は、殺人や強盗などの暴力行為が続いている地域（9県3市）に対し、ピチンチャ県、グアヤス県、マナビ県、サンタエレナ県、ロス・リオス県、エル・オロ県、エスメラルダス県、サントドミンゴ県、スクンビオス県、コトパクシ県のマナ市、ボリバル県のラス・ナベス市およびエチェアンディア市を対象とした、60日間（2026年2月28日までを予定）の非常事態宣言を発令しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161738</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161738A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161738.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161738L.xml</xmlLightUrl>
+        <koukanCd>408A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161736</keyCd>
         <infoType>R10</infoType>
