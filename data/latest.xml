@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/06 08:15:47" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/06 08:45:48" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161747</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/06 08:40:37</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0058</cd>
+        </country>
+        <title>【差し替え】米国との緊張の高まりに伴う注意喚起（その6）</title>
+        <lead>◎1月3日午前2時頃に発生した米国によるカラカス等への軍事攻撃を受け、同日、ベネズエラ政府は非常事態宣言を発動しました。これにより、国境での警戒・警備が強化され、また、入国制限・国境閉鎖等の措置を講じることが可能になるとされています。
+◎現地情勢は未だ不透明ですので、ベネズエラに滞在中の方におかれては、最新情報を入手して自らの安全確保に努め、水や食料、燃料等の備蓄についてご検討ください。お困りのことや、ご支援が必要なことがあれば当館にご連絡ください。
+◎ベネズエラ全土に危険レベル3（渡航中止勧告）が出されています。ベネズエラへの渡航は止めてください。
+◎フライトにキャンセル、遅延等が発生しています。ご利用前に各航空会社に状況を確認することをお勧めします。
+
+※差し替え箇所は、以下2（4）。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161747</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161747A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161747.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161747L.xml</xmlLightUrl>
+        <koukanCd>414A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161746</keyCd>
         <infoType>R10</infoType>
@@ -389,23 +412,5 @@ https://www.kantei.go.jp/jp/content/000189534.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161720.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161720L.xml</xmlLightUrl>
         <koukanCd>616D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161719</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/04 08:30:43</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0082</cd>
-        </country>
-        <title>北朝鮮によるミサイル発射（第１報）</title>
-        <lead>本４日、北朝鮮から弾道ミサイルの可能性があるものが発射されました。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161719</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161719A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161719.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161719L.xml</xmlLightUrl>
-        <koukanCd>616A</koukanCd>
     </mail>
 </opendata>
