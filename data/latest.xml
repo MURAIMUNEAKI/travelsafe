@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/06 12:55:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/01/06 13:30:48" mailCount="18" odType="02">
+    <mail>
+        <keyCd>161748</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/06 13:05:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0977</cd>
+        </country>
+        <title>パルサ郡ビルガンジにおける外出禁止令の発令について</title>
+        <lead>ネパール在留邦人及び旅行者の皆様へ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　警察などによれば、１月３日にネパール南部マデシ州ダヌーシャ郡内で発生したイスラム教モスクが襲撃された事案を契機としたイスラム教徒とヒンドゥー教徒の対立により、本日（１月６日）午後１時まで、パルサ郡ビルガンジ市内の以下の地域内において外出禁止令が発令されているとのことです。外出禁止令は延長される可能性もあります。
+
+　東側: Bypass Road
+　西側: Sirsiya Bridge
+　北側: Powerhouse Chowk
+　南側: Shankar Acharya Gate 
+
+　在留邦人や旅行者の皆様におかれましては、デモ、集会、その他抗議活動などには極力近づかず、また、報道等で最新の情報を入手の上、安全確保に努め、不測の事態に巻き込まれることのないよう十分注意をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161748</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161748A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161748.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161748L.xml</xmlLightUrl>
+        <koukanCd>617A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161747</keyCd>
         <infoType>R10</infoType>
