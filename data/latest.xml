@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/07 01:45:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/07 02:25:47" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161753</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/07 01:50:37</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0229</cd>
+        </country>
+        <title>アボメ・カラヴィ大学周辺への外出について</title>
+        <lead>　現在、アボメ・カラヴィ大学周辺において、選挙の機会に乗じて、公共の治安を乱す動きがあるとの情報があります。
+　同所付近には、治安機関の人員が配置され、警戒態勢を敷いている模様ですので、当面の間、同大学付近には近づかないようお願い致します。
+　引き続き、選挙期間中は、選挙に絡む暴動や治安部隊との衝突が発生する可能性がありますので、不要不急の外出は控えて下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161753</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161753A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161753.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161753L.xml</xmlLightUrl>
+        <koukanCd>765A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161752</keyCd>
         <infoType>R10</infoType>
