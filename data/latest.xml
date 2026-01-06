@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/06 20:40:47" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/06 21:20:48" mailCount="19" odType="02">
     <mail>
         <keyCd>161750</keyCd>
         <infoType>R10</infoType>
@@ -403,24 +403,5 @@ https://www.kantei.go.jp/jp/content/000189534.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161725.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161725L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161724</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/04 21:00:37</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0030</cd>
-        </country>
-        <title>ギリシャ全土の空港における航空便の発着停止について</title>
-        <lead>○報道等によると、ギリシャ航空当局は技術的な問題を理由に、アテネ国際空港及び国内各地の地方空港におけるフライトの発着を停止しています。
-○現時点、一部の便については発着を再開しているとの情報もありますが、ギリシャ発着便をご利用予定の方は、航空会社等に最新情報をご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161724</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161724A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161724.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161724L.xml</xmlLightUrl>
-        <koukanCd>507A</koukanCd>
     </mail>
 </opendata>
