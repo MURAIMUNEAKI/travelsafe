@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/07 06:20:48" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/01/07 06:40:48" mailCount="20" odType="02">
     <mail>
         <keyCd>161754</keyCd>
         <infoType>R10</infoType>
@@ -429,25 +429,5 @@ https://www.kantei.go.jp/jp/content/000189534.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161727.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161727L.xml</xmlLightUrl>
         <koukanCd>616A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161726</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/05 06:30:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0591</cd>
-        </country>
-        <title>【注意喚起】エルアルト市からラパス市中心街へのデモ行進、及びムリーリョ広場周辺での抗議活動</title>
-        <lead>●　現パス政権が施行した経済改革法令5503号での燃油助成廃止に反発し、1月5日はエルアルト市からラパス中心街に向け、大規模なデモ隊による行進が行われます。
-●　デモ隊はラパス中心街に到着後、ムリーリョ広場周辺に滞留して抗議活動を行う見込みです。
-●　抗議活動では手製ダイナマイトの爆発が度々おこなわれており、非常に危険です。デモ行進や集会で多数の人が集まっている場所には近づかないようにしてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161726</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161726A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161726.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161726L.xml</xmlLightUrl>
-        <koukanCd>402A</koukanCd>
     </mail>
 </opendata>
