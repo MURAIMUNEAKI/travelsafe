@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/06 19:35:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/06 20:20:48" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161750</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/06 19:55:38</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0223</cd>
+        </country>
+        <title>アフリカネイションズカップ開催に伴う注意喚起</title>
+        <lead>●１月３日（土）、開催国モロッコで行われているマリ代表チームによるサッカー（アフリカネイションズカップ）の試合後、首都バマコ各所において、マリの勝利に興奮したサポーター等による迷惑運転ならびに、暴走運転による交通渋滞が多数発生しました。
+●１月９日（金）、マリ対セネガルの準決勝が予定されております。試合後の騒動に巻き込まれないようくれぐれも注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161750</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161750A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161750.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161750L.xml</xmlLightUrl>
+        <koukanCd>734A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161749</keyCd>
         <infoType>R10</infoType>
