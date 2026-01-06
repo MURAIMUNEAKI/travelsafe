@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/06 22:25:47" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/06 22:45:48" mailCount="19" odType="02">
     <mail>
         <keyCd>161752</keyCd>
         <infoType>R10</infoType>
@@ -408,26 +408,5 @@ https://www.kantei.go.jp/jp/content/000189534.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161726.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161726L.xml</xmlLightUrl>
         <koukanCd>402A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161725</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/04 22:35:37</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>銀行ＡＴＭに対する放火等事件の発生について（１月４日）</title>
-        <lead>○　昨夜、内務省は、マナマ市内の銀行ＡＴＭに対する放火及び爆破未遂容疑事件（１２月２９日頃発生）に関して、被疑者２名を逮捕した旨を発表しました。
-　　報道によると、被疑者は同ＡＴＭにガスシリンダーを設置した上で、可燃性物質に火を付け、ＡＴＭ施設を焼損させたとのことです（爆発には至らず。）。
-
-○　本件に関する負傷者や類似事件発生の情報はありませんが、特に無人のＡＴＭを利用する際には、利用前に不審物件が置かれていないことを確認するほか、ＡＴＭに限らず商業施設等利用時に不審物件を発見した際には、くれぐれも近寄らない、警察に通報するなどの対応をお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161725</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161725A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161725.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161725L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
     </mail>
 </opendata>
