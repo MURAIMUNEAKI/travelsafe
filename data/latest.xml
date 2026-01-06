@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/06 21:55:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/06 22:25:47" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161752</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/06 22:05:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>州議会選挙に関する注意喚起</title>
+        <lead>●今年は４月頃にタミル・ナド州、ケララ州、プドゥチェリー準州において州議会選挙ないし準州議会選挙が予定されています。
+
+●投票日など選挙日程はまだ公表されていませんが、各（準）州において既に選挙に向けた集会などが開催されています。昨年９月にはタミル・ナド州カルールでの集会に集まった支持者らが将棋倒しとなり、死者４１名、負傷者１００名以上という群衆事故が発生しました。
+
+●今後投票が想定される４月に向けて、各（準）州内各地で選挙活動に伴う集会や行進、またそれらに反対するデモ行為等が活発になることが予想されます。上記のとおり、こうした集会等で偶発的な事故ないし暴力行為に巻き込まれる可能性がありますので、在留邦人及び当地滞在中の皆様は、こうした集会等に近づかないようにして下さい。
+
+●また、選挙集会や行進、デモ行為等に際しては、交通規制が行われ、道路の渋滞など混乱が予想されますので、報道等を通じて常に最新の情報の入手に努めるようにして下さい。
+
+●なお、インド国内において、外国人が政治活動に関与した場合、査証・滞在資格が取り消され、国外退去やその他処罰等される可能性がありますので、十分注意して下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161752</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161752A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161752.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161752L.xml</xmlLightUrl>
+        <koukanCd>606T</koukanCd>
+    </mail>
     <mail>
         <keyCd>161750</keyCd>
         <infoType>R10</infoType>
