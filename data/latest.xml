@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/07 16:20:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/07 16:50:49" mailCount="21" odType="02">
+    <mail>
+        <keyCd>161758</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/07 16:30:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0063</cd>
+        </country>
+        <title>【安全対策情報】マニラ首都圏における「ブラック・ナザレ祭（1月9日）」開催に伴う注意喚起</title>
+        <lead>●1月9日（金）、マニラ首都圏（マニラ市街中心部）で、フィリピンのカトリック最大行事の一つ「ブラック・ナザレ祭」が開催されます。この行事では、多くの参加者や観客が集まるため、現地周辺で交通規制が実施されるほか、携帯電話を含む通信サービスが遮断される可能性があります。 
+　マニラ市発表（道路封鎖エリア）：https://manila.gov.ph/nazareno2026-narito-ang-mga-kalsadang-isasara-at-alternatibong-ruta/ 
+●フィリピン・マニラ首都圏に渡航・滞在される方は、混雑が見込まれる地域で不測の事態に巻き込まれないよう十分ご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161758</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161758A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161758.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161758L.xml</xmlLightUrl>
+        <koukanCd>611A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161757</keyCd>
         <infoType>R10</infoType>
