@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/07 12:55:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/07 13:30:48" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161757</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/07 13:10:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0063</cd>
+        </country>
+        <title>【安全対策情報】地震発生による注意喚起（１月７日）</title>
+        <lead>●フィリピン火山地震研究所によると、フィリピン時間午前11時2
+分（日本時間午後12時2分）頃、フィリピン付近（フィリピン諸島、ミンダナオ、東ダバオ州沖）でマグニチュード6.4の地震が発生しました。 
+●津波の発生情報は現時点ではありませんが、現地機関等から発出される情報に注意し、身の安全を最優先として行動をとるようにしてください。
+●この地震に関連して、日本人の方が被害に遭われたなどの情報がありましたら、現地在外公館への御連絡をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161757</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161757A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161757.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161757L.xml</xmlLightUrl>
+        <koukanCd>611E</koukanCd>
+    </mail>
     <mail>
         <keyCd>161756</keyCd>
         <infoType>R10</infoType>
