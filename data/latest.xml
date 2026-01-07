@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/07 21:30:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/07 22:00:48" mailCount="19" odType="02">
+    <mail>
+        <keyCd>161761</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/07 21:35:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0592</cd>
+        </country>
+        <title>米国大使館付近での抗議行動にご注意願います。</title>
+        <lead>　米国によるベネズエラ国内での軍事行動に伴い、1月7日（水）午前11時からジョージタウンの米国大使館付近において抗議行動が行われる予定です。
+
+　上記の場所には絶対に近づかないよう安全を最優先に行動するようにして下さい。また、報道等で十分情報を確認し、抗議活動等が実施されている場所に遭遇した場合には、速やかにその場から離れるようにしてください。
+
+在トリニダード・トバゴ日本国大使館（セントルシア、セントビンセント及びグレナディーン諸島、グレナダ、ガイアナ、スリナムを兼轄）   
+住所：5 Hayes Street、St. Clair、 Port of Spain、 Trinidad and Tobago、 W. I. (P.O.Box1039) 
+電話：628-5991  国外からは（国番号1-868）628-5991   
+FAX：622-0858  国外からは（国番号1-868）622-0858   
+ホームページ：https://www.tt.emb-japan.go.jp/itprtop_ja/index.html
+E-mail：ryouji@po.mofa.go.jp</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161761</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161761A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161761.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161761L.xml</xmlLightUrl>
+        <koukanCd>A81A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161758</keyCd>
         <infoType>R10</infoType>
@@ -396,48 +423,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161736.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161736L.xml</xmlLightUrl>
         <koukanCd>552A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161735</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/05 21:55:37</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>ジッダ市内でのAFC　U23アジアカップ開催について</title>
-        <lead>●サウジアラビアのジッダ市内で開催されるAFC　U23アジアカップ観戦のために同国に滞在する場合は、イスラム教及びその風俗・習慣を尊重した行動を取るよう心がけてください。
-●試合終了後の周辺の混雑やジッダ市内の道路渋滞を考慮に入れると、スタジアムから空港への移動は予想以上に時間がかかるおそれがあります。時間的余裕をもった旅行計画をたてて頂くようお願いします。
-●現地での予期せぬトラブルや事故に備え、海外旅行保険に加入することを強くお勧めします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161735</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161735A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161735.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161735L.xml</xmlLightUrl>
-        <koukanCd>708D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161734</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/05 21:30:51</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0033</cd>
-        </country>
-        <title>地下鉄等の公共の交通機関における傷害事件に関する注意喚起</title>
-        <lead>●１月５日（月）、パリ近郊のイヴリーヌ県において、ＲＥＲのＡ線車内で、刃物による刺傷事件が発生し、犯人は現在も逃走中と報じられています。
-
-●昨年１２月２６日（金）には、パリ市内の地下鉄３号線の車内において、刃物による刺傷事件が発生しており、また１２月２９日（月）には、同じ地下鉄３号線の車内において、ハンマーを用いた強盗未遂事件が発生しています。
-
-●地下鉄等の公共の交通機関を使用する際は、常に周囲の状況に気を配るとともに、異変を感じた場合は声を上げて周囲に知らせ、また警察の助けを求めてください。
-　また、地下鉄等に限らず、事件や事故に遭った場合は自身の安全を確保した後、当館までご連絡ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161734</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161734A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161734.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161734L.xml</xmlLightUrl>
-        <koukanCd>505A</koukanCd>
     </mail>
 </opendata>
