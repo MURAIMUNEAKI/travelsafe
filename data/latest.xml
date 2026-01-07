@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/07 08:40:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/07 09:25:48" mailCount="21" odType="02">
+    <mail>
+        <keyCd>161756</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/07 09:25:41</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0061</cd>
+        </country>
+        <title>在シドニー日本国総領事館メールマガジン第254号（2026年1月号）</title>
+        <lead>このメールは、在留届にて届けられたメールアドレス及び「たびレジ」登録者に自動的に配信されております。
+
+【目次】
+１ 領事情報（精神科医療専門家による無料相談窓口、DV被害者支援、電子化した証明書（e-証明書）の発給対象拡大、戸籍のフリガナの記載、在外選挙人名簿登録、旅券発給体制の変更、マイナ免許証、オンライン申請とオンライン決済、マイナンバーカード申請・交付、在留届と「たびレジ」）
+２ 治安・安全情報（イスラエル権益・ユダヤ人を標的としたテロに対する注意喚起）
+３ 日本文化関連行事
+４ 日本語補習授業校の教員募集
+５ 総領事通信・総領事館公式SNS
+６ 休館日のお知らせ（1月及び2月）
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161756</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161756A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161756.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161756L.xml</xmlLightUrl>
+        <koukanCd>614D</koukanCd>
+    </mail>
     <mail>
         <keyCd>161754</keyCd>
         <infoType>R10</infoType>
