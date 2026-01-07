@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/08 01:20:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/08 01:45:48" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161765</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/08 01:25:38</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0032</cd>
+        </country>
+        <title>【注意喚起】トラクターを利用した農民による抗議行動（道路封鎖の可能性）</title>
+        <lead>　報道等によれば、１月８日（木）の夕方以降、主にベルギー南部の高速道路網がトラクターを使った農民による抗議行動のために封鎖される可能性があると報じられており、当地の道路交通網に影響が出る可能性があります。
+　また、昨年12月18日（木）には、EU本部付近等において、トラクターを使った農民による抗議行動が過激化しました。
+　今回の抗議行動において、思わぬ騒動に巻き込まれる可能性もあることから、過激な行動等に遭遇した際には速やかにその場から離れて安全を確保されますようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161765</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161765A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161765.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161765L.xml</xmlLightUrl>
+        <koukanCd>521A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161764</keyCd>
         <infoType>R10</infoType>
