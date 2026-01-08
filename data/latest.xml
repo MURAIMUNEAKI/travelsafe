@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/08 11:00:48" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/01/08 11:40:48" mailCount="16" odType="02">
+    <mail>
+        <keyCd>161769</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/08 11:05:44</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>大規模デモ情報（ジャカルタ：１月８日）</title>
+        <lead>●　本８日午前９時頃から、ジャカルタ中心部の独立記念塔（モナス）周辺において、労働団体による抗議デモが予定されています。
+●　デモの周辺道路では交通規制が行われ、交通状況に影響が生じる可能性があります。外出の際にはご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161769</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161769A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161769.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161769L.xml</xmlLightUrl>
+        <koukanCd>607A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161768</keyCd>
         <infoType>R10</infoType>
