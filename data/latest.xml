@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/08 12:55:48" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/08 13:25:48" mailCount="16" odType="02">
+    <mail>
+        <keyCd>161771</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/08 13:20:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0095</cd>
+        </country>
+        <title>選挙投票日の注意事項（在ミャンマー日本国大使館より）</title>
+        <lead>１　１月１１日（日）、第二回総選挙として全国１００地区（うちヤンゴン地域では１６地区（参考参照））で選挙投票が行われる予定です。先般実施された第一回総選挙は、マンダレーでの爆発事案を含む数件の治安事案が主に地方部で発生したものの、特に大きな混乱もなく終了しましたが、今後も不測の事態が引き続き発生する可能性があります。
+
+２　在留邦人の皆様におかれましては、不測の事態に巻き込まれないよう、選挙投票日当日は、僧院関連施設、公立学校などの投票所、選挙管理委員会事務所、政党関係事務所等の選挙関連施設に近づかないよう、身の回りの安全に引き続き十分注意してください。同様に、前述の選挙関連施設、軍施設、警察署のほか、政府関連施設等の場所に近づいたり、カメラ等を向けて撮影したりしないなど、引き続き十分注意してください。
+
+３　また、１２月２７日、ヤンゴン地域の４４地区（コーコー島地区を除く）に発出されていた夜間外出禁止令(午前１時から午前３時)が解除されました。しかしながら、治安情勢が改善したわけではありません。ヤンゴン地域で最近、大きな事案が発生していないものの、引き続き、夜間時間帯の外出は極力控えて、安全にはこれまで以上に十分注意して行動してください。
+
+（参考）
+第二回選挙（１月１１日）対象地区１６地区 
+(1)バハン地区、(2)バベーダン地区、(3)ラター地区、(4) コーフムー地区、(5) クンジャンゴン地区、(6)北ダゴン地区、(7) ドーポン地区、(8) バズンダウン地区、(9) フライン地区、(10) シュエピィーター地区、(11) ダンダビン地区、(12) フレーグー地区、(13) 南オカラッパ地区、(14) コーコー島地区、(15) チーミィンダイン地区、(16) インセイン島地区
+
+■問い合わせ先：在ミャンマー日本国大使館領事班
+　電話：９５ー１ー５４９６４４～８
+　メール：ryoji@yn.mofa.go.jp</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161771</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161771A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161771.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161771L.xml</xmlLightUrl>
+        <koukanCd>601A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161769</keyCd>
         <infoType>R10</infoType>
@@ -338,32 +368,5 @@ E-mail：ryouji@po.mofa.go.jp</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161749.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161749L.xml</xmlLightUrl>
         <koukanCd>711A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161748</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/06 13:05:38</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0977</cd>
-        </country>
-        <title>パルサ郡ビルガンジにおける外出禁止令の発令について</title>
-        <lead>ネパール在留邦人及び旅行者の皆様へ
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-　警察などによれば、１月３日にネパール南部マデシ州ダヌーシャ郡内で発生したイスラム教モスクが襲撃された事案を契機としたイスラム教徒とヒンドゥー教徒の対立により、本日（１月６日）午後１時まで、パルサ郡ビルガンジ市内の以下の地域内において外出禁止令が発令されているとのことです。外出禁止令は延長される可能性もあります。
-
-　東側: Bypass Road
-　西側: Sirsiya Bridge
-　北側: Powerhouse Chowk
-　南側: Shankar Acharya Gate 
-
-　在留邦人や旅行者の皆様におかれましては、デモ、集会、その他抗議活動などには極力近づかず、また、報道等で最新の情報を入手の上、安全確保に努め、不測の事態に巻き込まれることのないよう十分注意をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161748</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161748A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161748.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161748L.xml</xmlLightUrl>
-        <koukanCd>617A</koukanCd>
     </mail>
 </opendata>
