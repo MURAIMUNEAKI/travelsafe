@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/09 05:10:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/01/09 05:45:48" mailCount="16" odType="02">
     <mail>
         <keyCd>161776</keyCd>
         <infoType>R10</infoType>
@@ -357,26 +357,5 @@ E-mail：ryouji@po.mofa.go.jp</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161756.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161756L.xml</xmlLightUrl>
         <koukanCd>614D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161754</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/07 05:20:37</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0056</cd>
-        </country>
-        <title>（注意喚起）アリカ市における強盗被害の発生について</title>
-        <lead>　以下のとおり、在留邦人が強盗被害に遭う事案が発生しましたので、お知らせいたします。
-　１月５日（月）午後６時頃、アリカ市の観光地 Morro de Arica（モロ・デ・アリカ） において、在留邦人１名が散策していたところ、男性１人に脅され、財布（現金およびクレジットカード）を奪われる強盗被害が発生しました。
-　同地は観光客の訪問が多い場所ですが、人目の少ない場所や周囲への注意が散漫になりやすい状況では、犯罪の被害に遭うリスクが高まります。
-　つきましては、以下の点にご留意いただき、安全対策の徹底をお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161754</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161754A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161754.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161754L.xml</xmlLightUrl>
-        <koukanCd>404A</koukanCd>
     </mail>
 </opendata>
