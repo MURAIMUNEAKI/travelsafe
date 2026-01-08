@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/08 22:30:49" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/08 22:50:48" mailCount="17" odType="02">
+    <mail>
+        <keyCd>161775</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/08 22:50:37</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0359</cd>
+        </country>
+        <title>邦人被害の窃盗事件が発生（ソフィア市）</title>
+        <lead>【ポイント】
+●１２月２９日（月）、ソフィア市ヴィトシャ通りの衣料品店において、在留邦人のコートの内ポケットに入れていた財布が盗まれる事件が発生しました。
+●人が集まる観光地や公共交通機関内などの人が密集する場所では、特に貴重品の管理に気をつけ、万が一被害に遭われた場合は、警察に通報するとともに、当館にもご一報願います。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161775</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161775A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161775.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161775L.xml</xmlLightUrl>
+        <koukanCd>524A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161774</keyCd>
         <infoType>R10</infoType>
