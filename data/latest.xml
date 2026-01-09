@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/10 04:20:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/10 04:40:48" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161793</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/10 04:25:37</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <title>イカ州ピスコ郡に対する非常事態宣言の発出</title>
+        <lead>●ペルー政府は、イカ州のピスコ郡に対し、治安対策のための非常事態宣言発出を官報に告示しました。
+●同宣言により、憲法で保障された権利の一部が制限されます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161793</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161793A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161793.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161793L.xml</xmlLightUrl>
+        <koukanCd>412A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161792</keyCd>
         <infoType>R10</infoType>
