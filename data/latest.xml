@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/09 21:30:48" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/01/09 22:00:48" mailCount="21" odType="02">
     <mail>
         <keyCd>161787</keyCd>
         <infoType>R10</infoType>
@@ -442,32 +442,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161762.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161762L.xml</xmlLightUrl>
         <koukanCd>768A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161761</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/07 21:35:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0592</cd>
-        </country>
-        <title>米国大使館付近での抗議行動にご注意願います。</title>
-        <lead>　米国によるベネズエラ国内での軍事行動に伴い、1月7日（水）午前11時からジョージタウンの米国大使館付近において抗議行動が行われる予定です。
-
-　上記の場所には絶対に近づかないよう安全を最優先に行動するようにして下さい。また、報道等で十分情報を確認し、抗議活動等が実施されている場所に遭遇した場合には、速やかにその場から離れるようにしてください。
-
-在トリニダード・トバゴ日本国大使館（セントルシア、セントビンセント及びグレナディーン諸島、グレナダ、ガイアナ、スリナムを兼轄）   
-住所：5 Hayes Street、St. Clair、 Port of Spain、 Trinidad and Tobago、 W. I. (P.O.Box1039) 
-電話：628-5991  国外からは（国番号1-868）628-5991   
-FAX：622-0858  国外からは（国番号1-868）622-0858   
-ホームページ：https://www.tt.emb-japan.go.jp/itprtop_ja/index.html
-E-mail：ryouji@po.mofa.go.jp</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161761</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161761A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161761.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161761L.xml</xmlLightUrl>
-        <koukanCd>A81A</koukanCd>
     </mail>
 </opendata>
