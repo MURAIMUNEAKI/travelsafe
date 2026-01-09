@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/09 23:40:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/10 00:20:48" mailCount="18" odType="02">
     <mail>
         <keyCd>161787</keyCd>
         <infoType>R10</infoType>
@@ -365,39 +365,5 @@ https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releas
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161765.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161765L.xml</xmlLightUrl>
         <koukanCd>521A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161764</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/08 00:20:37</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0355</cd>
-        </country>
-        <title>（注意喚起）アルバニアにおける悪天候の見通しについて</title>
-        <lead>アルバニアにお住まいの皆様及びたびレジ登録者の皆様
-
-　現地気象当局によると、昨日に続き本１月７日も終日、全国各地で悪天候が見込まれるとのことです。一部地域では更なる洪水や土砂崩れも予想されております。
-　つきましては、下記サイト等で最新の天気情報をご確認いただき、十分安全を心がけて下さい。
-
-https://www.facebook.com/meteorologji/ - SHMU (Military Meteorological Service)
-https://www.facebook.com/InstitutiGjeoshkencave/ - IGJEO (Institute of Geosciences)
-https://www.facebook.com/akmc.gov.al/　- AKMC（the National Civil Protection Agency）
-
-【問い合わせ先】
-在アルバニア日本国大使館
-電話： +355 4 454 7930
-メール： konsullore@av.mofa.go.jp
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-※「たびレジ」簡易登録をされた方で、メールの配信を変更・停止されたい場合は、以下の URL から停止手続きをお願いいたします。
-https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
-※災害や騒乱等が発生した際、ご家族、ご友人、同僚を守るため、一人でも多くの方に安全対策に関する情報が届くよう、在留届（3か月以上の滞在）の届出、又はたびレジ（3か月未満の滞在）の登録を、お知り合いの方や出張者・旅行者にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161764</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161764A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161764.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161764L.xml</xmlLightUrl>
-        <koukanCd>552A</koukanCd>
     </mail>
 </opendata>
