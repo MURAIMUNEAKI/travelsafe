@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/10 07:40:47" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/01/10 08:20:48" mailCount="22" odType="02">
+    <mail>
+        <keyCd>161796</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/10 08:10:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0052</cd>
+        </country>
+        <title>【注意喚起】車上狙い被害の発生について（イラプアト市内）</title>
+        <lead>●時間・場所を問わず、車上狙い被害が多発しております。出張者も含めご注意下さい。僅かな時間であっても車から離れる際は、バッグ等の荷物は車内に残さず必ず携行するか、外出時に不必要なものは、なるべく持ち出さないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161796</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161796A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161796.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161796L.xml</xmlLightUrl>
+        <koukanCd>410D</koukanCd>
+    </mail>
     <mail>
         <keyCd>161795</keyCd>
         <infoType>R10</infoType>
