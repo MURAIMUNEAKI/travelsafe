@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/10 03:25:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/01/10 03:45:48" mailCount="18" odType="02">
+    <mail>
+        <keyCd>161791</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/10 03:35:40</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0052</cd>
+        </country>
+        <title>メキシコ市内のデモ行進に関する注意喚起</title>
+        <lead>●１月１０日（土）午前１０時から午後３時にかけて、メキシコ市レフォルマ通りからセントロ地区にかけて、大規模なデモ行進が行われる予定です。一部過激化する可能性もあることから、近寄ることのないよう注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161791</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161791A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161791.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161791L.xml</xmlLightUrl>
+        <koukanCd>410A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161787</keyCd>
         <infoType>R10</infoType>
