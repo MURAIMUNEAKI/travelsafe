@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/09 12:55:48" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/09 13:25:47" mailCount="16" odType="02">
+    <mail>
+        <keyCd>161780</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/09 13:05:42</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0061</cd>
+        </country>
+        <title>【安全情報】QLD州北西部へのトロピカルサイクロンの接近</title>
+        <lead>●１月９日から１１日にかけて、サイクロンがQLD州北西部海岸沿いエリア（Cairns/Townsville/Mackay）に接近する見込みであり、周辺エリアにおいては豪雨及び突風による被害発生が予想されます。
+●人命や建物に被害が及ぶ可能性がありますので、同エリア周辺にお住まいの方、若しくは渡航予定の方は、気象局が発表する情報を随時確認し、身の安全を守るよう十分に注意して下さい。
+（気象局HPはこちら→https://www.bom.gov.au/weather-and-climate/warnings-and-alerts）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161780</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161780A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161780.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161780L.xml</xmlLightUrl>
+        <koukanCd>614T</koukanCd>
+    </mail>
     <mail>
         <keyCd>161779</keyCd>
         <infoType>R10</infoType>
@@ -329,26 +349,5 @@ E-mail：ryouji@po.mofa.go.jp</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161758.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161758L.xml</xmlLightUrl>
         <koukanCd>611A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161757</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/07 13:10:38</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0063</cd>
-        </country>
-        <title>【安全対策情報】地震発生による注意喚起（１月７日）</title>
-        <lead>●フィリピン火山地震研究所によると、フィリピン時間午前11時2
-分（日本時間午後12時2分）頃、フィリピン付近（フィリピン諸島、ミンダナオ、東ダバオ州沖）でマグニチュード6.4の地震が発生しました。 
-●津波の発生情報は現時点ではありませんが、現地機関等から発出される情報に注意し、身の安全を最優先として行動をとるようにしてください。
-●この地震に関連して、日本人の方が被害に遭われたなどの情報がありましたら、現地在外公館への御連絡をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161757</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161757A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161757.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161757L.xml</xmlLightUrl>
-        <koukanCd>611E</koukanCd>
     </mail>
 </opendata>
