@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/09 14:20:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/09 14:40:48" mailCount="19" odType="02">
+    <mail>
+        <keyCd>161783</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/09 14:40:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0052</cd>
+        </country>
+        <title>トランプ米大統領発言に伴う注意喚起</title>
+        <lead>●報道等によれば、ドナルド・トランプ米大統領は、１月８日夜に放映されたFOXニュースののインタビューで、「水路で密輸される薬物の９７％を撲滅した。カルテル対策において、地上での行動も開始する。カルテルがメキシコを動かしている。」と述べました。
+●現時点で具体的な脅威情報には接していませんが、今後急激に情勢が変化する可能性も否定できません。
+●ついては、報道等による最新情報の入手に努め、今後の状況の推移に注意して下さい。大使館でも関連情報に接すれば続報します。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161783</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161783A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161783.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161783L.xml</xmlLightUrl>
+        <koukanCd>410A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161782</keyCd>
         <infoType>R10</infoType>
