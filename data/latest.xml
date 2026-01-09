@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/09 13:25:47" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/09 13:50:48" mailCount="17" odType="02">
+    <mail>
+        <keyCd>161781</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/09 13:35:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>【注意喚起】デモ情報（メダン：１月９日）</title>
+        <lead>●本１月９日午後０時頃から、メダン市内で市民団体がデモを行う予定です。
+●デモが行われている場所やその周辺には近づかないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161781</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161781A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161781.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161781L.xml</xmlLightUrl>
+        <koukanCd>607T</koukanCd>
+    </mail>
     <mail>
         <keyCd>161780</keyCd>
         <infoType>R10</infoType>
