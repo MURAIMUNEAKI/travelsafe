@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/10 03:45:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/10 04:20:48" mailCount="19" odType="02">
+    <mail>
+        <keyCd>161792</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/10 04:20:37</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <title>リマ市サン・イシドロ区における拳銃強盗事件の発生について（1月6日）</title>
+        <lead>○ 1月6日（火）夜、サン・イシドロ区において拳銃を使用した強盗事件が発生しました。
+○ 本件は邦人が被害にあったものではなく、被害も最小限にとどまりましたが、在留邦人の生活圏内での発生であり、同様の強盗事案が周辺地区でも増加傾向にあります。
+○特に夜間の帰宅時には、防犯意識を一層高めて行動してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161792</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161792A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161792.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161792L.xml</xmlLightUrl>
+        <koukanCd>412A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161791</keyCd>
         <infoType>R10</infoType>
