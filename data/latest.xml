@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/10 23:45:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/11 00:15:48" mailCount="16" odType="02">
     <mail>
         <keyCd>161802</keyCd>
         <infoType>R10</infoType>
@@ -304,45 +304,5 @@ https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releas
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161779.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161779L.xml</xmlLightUrl>
         <koukanCd>402A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161776</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/09 00:15:37</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>北ドイツにおける大雪に関する注意喚起（１月８日から９日）</title>
-        <lead>　ドイツ気象庁（DWD）は、本日8日（木）から9日（金）にかけて、北ドイツにおける大雪に対する警戒を呼びかけています。
-　明日までに最大20センチの降雪が予想されており、電車やバスなどの公共交通機関は運休または大幅な遅延が発生する可能性があります。大雪や道路の凍結に伴い、車両を運転される方は細心の注意を払ってください。
-　不要不急の外出は控え、最新の気象情報を確認し、安全を確保するよう努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161776</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161776A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161776.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161776L.xml</xmlLightUrl>
-        <koukanCd>506E</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>2026C003</keyCd>
-        <infoType>C30</infoType>
-        <contentInfo>治安情勢</contentInfo>
-        <leaveDate>2026/01/09 00:00:00</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0098</cd>
-        </country>
-        <title>イラン国内における抗議活動を受けた注意喚起</title>
-        <lead>●2025年12月28日以来、首都テヘランを含む各地で抗議活動が行われ、当局の取締りによる逮捕者や死傷者が出ています。現地に滞在されている方は、抗議活動、集会や軍事・核関連施設には近かず、写真・動画撮影は厳に行わないでください。
-●現在、イランではインターネット及び国際電話が使えない又はつながりにくい状況です。不要不急の渡航は止めていただくよう危険情報が発出されていますが、どうしても渡航する場合には、衛星電話等の代替手段を確保する等必要な準備をしてください。
-●お困りの場合には、在イラン日本国大使館又は外務省領事局にご連絡ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C003.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C003A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C003.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C003L.xml</xmlLightUrl>
     </mail>
 </opendata>
