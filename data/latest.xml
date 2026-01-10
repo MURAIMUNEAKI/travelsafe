@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/10 09:30:48" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/01/10 10:10:47" mailCount="23" odType="02">
+    <mail>
+        <keyCd>161799</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/10 09:45:50</leaveDate>
+        <title>ICE（移民関税執行局）捜査官によるミネアポリスでの射殺事件に関する抗議集会（その２）</title>
+        <lead>●1月10日（土）及び11日（日）の両日、ミネアポリスにおいて発生したICE（移民関税執行局）捜査官による射殺事件に対する抗議集会が全米規模で計画されており、南カリフォルニア及びアリゾナ州においても各地で計画されていることが確認されました。
+●昨年、当地でおこなわれたICE等に対する抗議活動では、一部参加者が警官隊と衝突した経緯もあり注意が必要です。
+●不測の事態に巻き込まれないよう、外出される前には報道等で最新情報の入手に努め、抗議活動が行われている場所には安易に近づかない等、十分注意を払ってください。
+●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。また、車で外出される際には迂回ルートをあらかじめ想定しておいてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161799</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161799A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161799.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161799L.xml</xmlLightUrl>
+        <koukanCd>301F</koukanCd>
+    </mail>
     <mail>
         <keyCd>161796</keyCd>
         <infoType>R10</infoType>
