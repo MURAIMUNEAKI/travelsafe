@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/10 19:20:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/10 19:40:48" mailCount="19" odType="02">
     <mail>
         <keyCd>161801</keyCd>
         <infoType>R10</infoType>
@@ -362,24 +362,5 @@ https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releas
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161774.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161774L.xml</xmlLightUrl>
         <koukanCd>731A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161773</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/08 19:30:37</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0261</cd>
-        </country>
-        <title>【続報・注意喚起】マダガスカルとコモロにおけるエムポックスの予防措置の実施について</title>
-        <lead>・マダガスカル観光・工芸省から観光・工芸関連施設等でのマスク着用が指示されました。
-・コモロにおいてはマダガスカルからの入国者に対し、無感染証明書の提示が義務づけられました。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161773</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161773A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161773.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161773L.xml</xmlLightUrl>
-        <koukanCd>730A</koukanCd>
     </mail>
 </opendata>
