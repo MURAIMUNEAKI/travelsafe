@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/11 06:40:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/01/11 07:20:48" mailCount="16" odType="02">
     <mail>
         <keyCd>2026T002</keyCd>
         <infoType>T40</infoType>
@@ -312,26 +312,5 @@ https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releas
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161780.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161780L.xml</xmlLightUrl>
         <koukanCd>614T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161779</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/09 06:50:39</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0591</cd>
-        </country>
-        <title>【注意喚起】全国各地での道路封鎖</title>
-        <lead>● 最高政令第5503号による燃料助成廃止に反発する鉱山労働者団体等の抗議行動により、2026年1月8日現在、ボリビア全国で30か所以上の道路封鎖が確認されています。
-● 主要都市間のみならず、日本人観光客が多く訪れるウユニ塩湖やチチカカ湖方面への陸路にも影響が及んでいます。
-● 抗議活動では手製ダイナマイトが使用される事例もあり、封鎖地点やデモ現場周辺は非常に危険です。これらの場所には近づかないようにしてください。
-●不要不急の陸路による長距離移動は極力控え、特に高速バスでの地方都市・観光地への移動については慎重な判断を行ってください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161779</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161779A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161779.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161779L.xml</xmlLightUrl>
-        <koukanCd>402A</koukanCd>
     </mail>
 </opendata>
