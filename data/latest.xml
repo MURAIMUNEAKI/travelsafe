@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/11 16:40:48" mailCount="11" odType="02">
+<opendata dataType="L" lastModified="2026/01/11 17:20:48" mailCount="10" odType="02">
     <mail>
         <keyCd>161803</keyCd>
         <infoType>R10</infoType>
@@ -198,25 +198,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161791.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161791L.xml</xmlLightUrl>
         <koukanCd>410A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161787</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/09 16:55:39</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0091</cd>
-        </country>
-        <title>件名：コルカタ市内における州政府与党AITC（TMC）によるデモ行進（令和８年１月９日（金）予定）</title>
-        <lead>＜ポイント＞
-●　１月９日（金）午後２時以降、コルカタ市内のジャダプルからハズラにかけて、州政府与党AITC（TMC）によるデモ行進が予定されており、多数の参加者が見込まれます。
-●　デモ行進のルート周辺では、道路封鎖や混乱が予想されることから、トラブルに巻き込まれないためにも、近づかないようにする等の安全対策を心がけてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161787</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161787A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161787.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161787L.xml</xmlLightUrl>
-        <koukanCd>606E</koukanCd>
     </mail>
 </opendata>
