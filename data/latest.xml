@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/11 12:35:48" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/11 13:10:48" mailCount="15" odType="02">
     <mail>
         <keyCd>2026T002</keyCd>
         <infoType>T40</infoType>
@@ -292,25 +292,5 @@ https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releas
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161781.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161781L.xml</xmlLightUrl>
         <koukanCd>607T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161780</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/09 13:05:42</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0061</cd>
-        </country>
-        <title>【安全情報】QLD州北西部へのトロピカルサイクロンの接近</title>
-        <lead>●１月９日から１１日にかけて、サイクロンがQLD州北西部海岸沿いエリア（Cairns/Townsville/Mackay）に接近する見込みであり、周辺エリアにおいては豪雨及び突風による被害発生が予想されます。
-●人命や建物に被害が及ぶ可能性がありますので、同エリア周辺にお住まいの方、若しくは渡航予定の方は、気象局が発表する情報を随時確認し、身の安全を守るよう十分に注意して下さい。
-（気象局HPはこちら→https://www.bom.gov.au/weather-and-climate/warnings-and-alerts）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161780</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161780A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161780.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161780L.xml</xmlLightUrl>
-        <koukanCd>614T</koukanCd>
     </mail>
 </opendata>
