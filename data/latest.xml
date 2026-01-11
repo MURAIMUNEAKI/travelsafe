@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/11 14:25:48" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/01/11 14:45:48" mailCount="11" odType="02">
     <mail>
         <keyCd>2026T002</keyCd>
         <infoType>T40</infoType>
@@ -212,45 +212,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161786.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161786L.xml</xmlLightUrl>
         <koukanCd>410D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161785</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/09 14:45:40</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0061</cd>
-        </country>
-        <title>ACT政府発表：1月10日（土）全面火気禁止令（TOBAN）について注意喚起（安全情報）</title>
-        <lead>●ACT政府緊急サービス庁（ESA）は、2026年1月10日（土）午前0時から午後11時59分までの間（終日）、全面火気禁止令（Total Fire Bans：TOBAN）を宣言しました。
-●ACT全域の気象条件による火災の危険性が高まっています。
-https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/marisa-paterson-mla-media-releases/2026/first-total-fire-ban-declared-for-the-act-since-2020</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161785</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161785A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161785.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161785L.xml</xmlLightUrl>
-        <koukanCd>614A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161783</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/09 14:40:39</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0052</cd>
-        </country>
-        <title>トランプ米大統領発言に伴う注意喚起</title>
-        <lead>●報道等によれば、ドナルド・トランプ米大統領は、１月８日夜に放映されたFOXニュースののインタビューで、「水路で密輸される薬物の９７％を撲滅した。カルテル対策において、地上での行動も開始する。カルテルがメキシコを動かしている。」と述べました。
-●現時点で具体的な脅威情報には接していませんが、今後急激に情勢が変化する可能性も否定できません。
-●ついては、報道等による最新情報の入手に努め、今後の状況の推移に注意して下さい。大使館でも関連情報に接すれば続報します。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161783</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161783A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161783.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161783L.xml</xmlLightUrl>
-        <koukanCd>410A</koukanCd>
     </mail>
 </opendata>
