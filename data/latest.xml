@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/11 13:10:48" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/01/11 13:35:48" mailCount="14" odType="02">
     <mail>
         <keyCd>2026T002</keyCd>
         <infoType>T40</infoType>
@@ -273,24 +273,5 @@ https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releas
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161782.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161782L.xml</xmlLightUrl>
         <koukanCd>614V</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161781</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/09 13:35:38</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>【注意喚起】デモ情報（メダン：１月９日）</title>
-        <lead>●本１月９日午後０時頃から、メダン市内で市民団体がデモを行う予定です。
-●デモが行われている場所やその周辺には近づかないようにしてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161781</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161781A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161781.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161781L.xml</xmlLightUrl>
-        <koukanCd>607T</koukanCd>
     </mail>
 </opendata>
