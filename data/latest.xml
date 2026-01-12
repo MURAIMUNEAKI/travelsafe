@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/13 01:15:47" mailCount="9" odType="02">
+<opendata dataType="L" lastModified="2026/01/13 01:50:47" mailCount="10" odType="02">
+    <mail>
+        <keyCd>161815</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/13 01:20:38</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0237</cd>
+        </country>
+        <title>ヤウンデ市内における集団リンチ殺人事件の発生に伴う注意喚起</title>
+        <lead>【ポイント】
+　報道によると、首都ヤウンデのカルフール・ンコルビソンで集団リンチ殺人事件が発生した模様です。こうした犯罪に巻き込まれることがないよう、日頃から危険を避ける行動を心がけるとともに、最新情報の入手に努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161815</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161815A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161815.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161815L.xml</xmlLightUrl>
+        <koukanCd>753A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161814</keyCd>
         <infoType>R10</infoType>
