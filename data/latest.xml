@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/12 19:50:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/01/12 20:20:48" mailCount="7" odType="02">
     <mail>
         <keyCd>161811</keyCd>
         <infoType>R10</infoType>
@@ -169,26 +169,5 @@ cebucoj@ce.mofa.go.jp
         <infectionLevel2>0</infectionLevel2>
         <infectionLevel1>0</infectionLevel1>
         <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T002_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>161802</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/10 20:10:37</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0229</cd>
-        </country>
-        <title>選挙投票日等における注意事項及び国境の一時閉鎖等について</title>
-        <lead>　これまで領事メール等にて、ご案内させて頂いておりますように、当地では、明日11日、国民議会選挙等の投票が実施されます。
-　選挙当日は、インターネットの遮断や治安部隊との衝突等が発生する可能性があるほか、暫定結果の公表が見込まれる12、13日以降には、選挙結果に不満をもつ人々らによる暴動等が発生する可能性がありますので、不要不急の外出はお控え下さい。
-　また、当局の発表によれば、11日午前０時00分から12日午前６時00分までの間、隣国との陸地国境が閉鎖されるほか、11日午前６時00分から午後８時00分までのデモ行進禁止、バー等の施設の閉鎖が実施されます。
-　当地に在留邦人の皆様、当地に渡航中及び渡航予定のある方々は、十分注意して、行動して下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161802</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161802A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161802.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161802L.xml</xmlLightUrl>
-        <koukanCd>765A</koukanCd>
     </mail>
 </opendata>
