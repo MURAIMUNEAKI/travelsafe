@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/12 18:45:48" mailCount="7" odType="02">
+<opendata dataType="L" lastModified="2026/01/12 19:25:49" mailCount="8" odType="02">
+    <mail>
+        <keyCd>161811</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/12 18:55:38</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0996</cd>
+        </country>
+        <title>【重要なお知らせ】キルギスでの無査証（ビザなし）滞在可能日数の変更について</title>
+        <lead>本年１月１日より、日本を含む５５か国の国民に対する無査証（ビザなし）滞在にかかる法律が改正され、同制度を利用した日本人の当地滞在可能日数が、従来の１２０日間中の合計６０日から、６０日間中の合計３０日に大幅に短縮されました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161811</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161811A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161811.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161811L.xml</xmlLightUrl>
+        <koukanCd>535A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161810</keyCd>
         <infoType>R10</infoType>
