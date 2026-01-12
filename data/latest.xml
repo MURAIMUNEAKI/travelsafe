@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/12 23:50:49" mailCount="10" odType="02">
+<opendata dataType="L" lastModified="2026/01/13 00:20:48" mailCount="9" odType="02">
     <mail>
         <keyCd>161814</keyCd>
         <infoType>R10</infoType>
@@ -203,34 +203,5 @@ cebucoj@ce.mofa.go.jp
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161803.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161803L.xml</xmlLightUrl>
         <koukanCd>612A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>2026T002</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢 テロ 暴動 一般情報</contentInfo>
-        <leaveDate>2026/01/11 00:00:00</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0098</cd>
-        </country>
-        <title>イランの危険情報【一部地域の危険レベル引上げ】</title>
-        <lead>●2025年12月末以来、国内各地で経済状況の悪化に対する不満をきっかけとした抗議活動が継続しています。当局は暴動について取り締まりの方針を示し、一部では当局と抗議者との衝突も報じられており、逮捕者や死傷者が出ています。今後情勢が急速に変化する可能性は排除されません。
-●現在、イランではインターネット及び国際電話が使えない又はつながりにくい状況です。また、国際線のフライトは運航便数が減少しています。
-●上記の状況を受け、首都テヘランを含む、危険情報がレベル2であった地域の危険レベルを3（渡航中止勧告）に引き上げます。イランへの渡航は止めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T002.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T002A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T002.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T002L.xml</xmlLightUrl>
-        <riskLevel4>1</riskLevel4>
-        <riskLevel3>1</riskLevel3>
-        <riskLevel2>0</riskLevel2>
-        <riskLevel1>0</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T002_1_Detail.html</mapImageUrl>
     </mail>
 </opendata>
