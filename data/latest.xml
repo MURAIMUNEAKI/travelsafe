@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/12 16:45:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/01/12 17:25:49" mailCount="7" odType="02">
     <mail>
         <keyCd>161810</keyCd>
         <infoType>R10</infoType>
@@ -172,23 +172,5 @@ cebucoj@ce.mofa.go.jp
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161802.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161802L.xml</xmlLightUrl>
         <koukanCd>765A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161801</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/10 17:05:38</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0098</cd>
-        </country>
-        <title>イラン国内における抗議活動の継続（３）</title>
-        <lead>１月１０日（土）及び１１日（日）、イラン国内において、国外の反体制派によって抗議活動が呼びかけられていますので、十分注意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161801</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161801A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161801.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161801L.xml</xmlLightUrl>
-        <koukanCd>703A</koukanCd>
     </mail>
 </opendata>
