@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/12 20:40:49" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/01/12 21:30:48" mailCount="10" odType="02">
+    <mail>
+        <keyCd>161814</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/12 21:15:37</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0977</cd>
+        </country>
+        <title>ゼネラルストライキ（バンダ）に対する注意喚起</title>
+        <lead>ネパール在留邦人及び旅行者の皆様へ
+
+　警察などによれば、１月１３日（火）、カトマンズ盆地内において、共産党系政党の学生組織６団体がゼネラルストライキ（バンダ）の実施を呼びかけているとのことですので、特に早朝の外出を控え、不測の事態に巻き込まれることのないよう十分注意をお願いします。
+　
+　バンダとは、ある政党などが、その政党への国民の信任状況を確認するために、国民にストライキを呼びかけるものです。近年はバンダの事例も少なく、またバンダがあっても暴力的事案が発生していませんが、過去には、早朝に通行している車両を見せしめとして襲撃したこともあり、注意が必要です。
+
+　在留邦人や旅行者の皆様におかれましては、特に早朝の外出を控え、上記抗議行動の場や、デモ、集会などには極力近づかず、また、報道等で最新の情報を入手の上、安全確保に努め、不測の事態に巻き込まれることのないよう十分注意をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161814</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161814A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161814.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161814L.xml</xmlLightUrl>
+        <koukanCd>617A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161813</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/12 21:05:38</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0256</cd>
+        </country>
+        <title>当館休館日の変更について</title>
+        <lead>ウガンダ総選挙の翌日である２０２６年１月１６日に関し、ウガンダ政府から休日とする旨発表を受け、当館も同１月１６日を休館日としましたのでお知らせいたします。
+投票日とその前後に外出なされる際は、事前に安全情報をよくご確認のうえ、十分にお気をつけください。
+なお、今回の変更に伴い９月２１日を開館日に変更したので合わせてお知らせいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161813</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161813A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161813.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161813L.xml</xmlLightUrl>
+        <koukanCd>764A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161812</keyCd>
         <infoType>R10</infoType>
