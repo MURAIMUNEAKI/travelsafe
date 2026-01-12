@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/12 15:45:48" mailCount="6" odType="02">
+<opendata dataType="L" lastModified="2026/01/12 16:25:48" mailCount="7" odType="02">
+    <mail>
+        <keyCd>161809</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/12 16:20:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0063</cd>
+        </country>
+        <title>【総領事館からのお知らせ】電話回線不通のお知らせ</title>
+        <lead>●現在、当館の電話回線に不具合が発生しており、電話が繋がらない状況となっております。
+●復旧に向けて対応を進めておりますが、復旧までの間、当館へのご連絡につきましては、以下の方法にてご連絡くださいますようお願い申し上げます。
+●不急の場合、総領事館へのご連絡はメールにてご連絡をお願いいたします。
+cebucoj@ce.mofa.go.jp
+●邦人の生命に関わる事件・事故や緊急のご用件がある場合には、以下の電話番号までご連絡ください。
+【平日（8:30～17:15）】
+フィリピン国内から　0917-546-4360／0917-189-1173
+フィリピン国外から　（国番号：63）917-546-4360／（国番号：63）917-189-1173
+【休日および夜間（17:15～8:30）】
+フィリピン国内から　032-234-6315
+フィリピン国外から　（国番号：63）32-234-6315
+
+皆様にはご不便・ご迷惑をおかけし、誠に申し訳ございません。復旧次第、改めてご案内いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161809</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161809A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161809.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161809L.xml</xmlLightUrl>
+        <koukanCd>611F</koukanCd>
+    </mail>
     <mail>
         <keyCd>161806</keyCd>
         <infoType>R10</infoType>
