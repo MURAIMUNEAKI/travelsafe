@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/13 13:50:48" mailCount="12" odType="02">
+<opendata dataType="L" lastModified="2026/01/13 14:20:48" mailCount="13" odType="02">
     <mail>
         <keyCd>161818</keyCd>
         <infoType>R10</infoType>
@@ -82,6 +82,35 @@ https://trinidadexpress.com/newsextra/violent-carjacking-at-one-woodbrook-place-
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161815.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161815L.xml</xmlLightUrl>
         <koukanCd>753A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026T003</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢 一般犯罪 誘拐 戦争 災害</contentInfo>
+        <leaveDate>2026/01/13 00:00:00</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0675</cd>
+        </country>
+        <title>パプアニューギニアの危険情報【危険レベル継続】</title>
+        <lead>●山岳部のヘラ州、南ハイランド州では部族間闘争が頻発し、行政サービスが行き渡っておらず、治安は劣悪な状態となっています。両州について不要不急の渡航は中止してください。
+●首都ポートモレスビー、モロベ州レイ（ラエ）市等の都市部では部族間闘争、各種犯罪等が頻発しています。警察機構は人員・予算不足等で十分機能せず、治安情勢が不安定です。
+●2025年、ニューブリテン島近傍の太平洋側で大きな地震(M6.0程度)が頻発しました。十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T003.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T003A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T003.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T003L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>0</riskLevel3>
+        <riskLevel2>1</riskLevel2>
+        <riskLevel1>1</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T003_1_Detail.html</mapImageUrl>
     </mail>
     <mail>
         <keyCd>161814</keyCd>
