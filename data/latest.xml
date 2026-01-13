@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/13 20:45:48" mailCount="12" odType="02">
+<opendata dataType="L" lastModified="2026/01/13 21:25:48" mailCount="13" odType="02">
+    <mail>
+        <keyCd>161820</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/13 21:05:37</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0230</cd>
+        </country>
+        <title>チクングニア熱感染事例確認に伴う注意喚起</title>
+        <lead>○報道によれば、モーリシャスにおいて昨年12月以降6件のチクングニア熱のローカル感染が確認されています。1月8日現在、3件の陽性罹患者がおり、感染者は病院を受診し、病状は安定しています。また、保健当局は感染者追跡及び同地域の蚊の駆除作業を実施しています。 
+○チクングニア熱は蚊を媒介とする感染症であり、感染した場合、発熱、関節痛、発疹といった症状が現れます。蚊が多く発生する場所には近寄らず、忌避剤（虫除け剤）等を使用し感染を予防することを心がけるとともに、上記の症状が現れた場合には病院を受診し適切な治療を受けることを推奨します。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161820</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161820A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161820.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161820L.xml</xmlLightUrl>
+        <koukanCd>739A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161818</keyCd>
         <infoType>R10</infoType>
