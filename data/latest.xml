@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/14 00:20:48" mailCount="11" odType="02">
+<opendata dataType="L" lastModified="2026/01/14 00:50:48" mailCount="12" odType="02">
+    <mail>
+        <keyCd>161822</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/14 00:25:38</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0370</cd>
+        </country>
+        <title>海外安全対策情報（10月～12月）について</title>
+        <lead>　リトアニアにおける海外安全対策情報（10月～12月）を更新しました。
+　昨年同期と比較すると、犯罪発生件数及び外国人が被害に遭うケースは減少しております。
+　しかしながら、渡航・滞在先の安全情報を事前にしっかり収集し、常に「自分の身は自分で守る」意識を持って行動することが大切です。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161822</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161822A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161822.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161822L.xml</xmlLightUrl>
+        <koukanCd>529A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161820</keyCd>
         <infoType>R10</infoType>
