@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/13 15:25:49" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/01/13 15:45:48" mailCount="12" odType="02">
     <mail>
         <keyCd>161818</keyCd>
         <infoType>R10</infoType>
@@ -289,31 +289,5 @@ cebucoj@ce.mofa.go.jp
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161805.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161805L.xml</xmlLightUrl>
         <koukanCd>704A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161803</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/11 15:40:49</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0066</cd>
-        </country>
-        <title>深南部３県のガソリンスタンドにおける爆発事案に伴う注意喚起について</title>
-        <lead>・報道によれば、１月１１日深夜、タイ深南部３県（ヤラー県、パッタニー県、ナラティワート県）の複数のガソリンスタンドにおいて爆発事案が発生しました。
-・これらの地域では、分離独立を標榜するイスラム武力勢力による銃撃・爆発事件等が頻発しており、上記3県及びソンクラー県の一部(ジャナ郡、テーパー郡及びサバヨーイ郡)には、外務省より危険情報「レベル３：渡航は止めてください（渡航中止勧告）」が発出されています。これらの地域への渡航は、どのような目的であれ止めてください。また、上記以外のソンクラー県の各郡については、「レベル２：不要不急の渡航は止めてください」の危険情報が発出されていることにご留意ください。
-・不測の事態を避けるため、報道等から最新の情報の入手に努め、不特定多数の人が集まる場所を訪れる際には、周囲の状況及び不審物に注意を払うとともに、不審物を発見した場合は、むやみに近づくことなく速やかにその場を離れてください。
-・緊急時には、以下の在タイ日本国大使館領事部に連絡してください。
-【問い合わせ先】
-○在タイ日本国大使館領事部
-電話：（66-2）207-8500、696-3000
-所在地:177 Witthayu Road, Lumphini, Pathum Wan, Bangkok 10330
-（ウィタユ通り、ルンピニー警察署とMRTルンピニー駅のほぼ中間）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161803</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161803A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161803.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161803L.xml</xmlLightUrl>
-        <koukanCd>612A</koukanCd>
     </mail>
 </opendata>
