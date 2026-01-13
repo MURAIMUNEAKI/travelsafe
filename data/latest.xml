@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/13 21:25:48" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/01/13 21:55:48" mailCount="12" odType="02">
     <mail>
         <keyCd>161820</keyCd>
         <infoType>R10</infoType>
@@ -286,27 +286,5 @@ cebucoj@ce.mofa.go.jp
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161806.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161806L.xml</xmlLightUrl>
         <koukanCd>704W</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161805</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/11 21:50:37</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0964</cd>
-        </country>
-        <title>最近の中東情勢に関する注意喚起</title>
-        <lead>１　昨年末から続くイランでの抗議活動を受け、様々な報道等が発信されています。その中には、イラクの民兵組織等が抗議活動の沈静化に関わる可能性や米国によるイランへの軍事介入の示唆、さらには仮にイラン攻撃があった場合は周辺地域の米軍事施設等への反撃に言及するものも確認されています。また、11日、外務省では、イランの安全情報を更新し、レベルの引き上げを行っており、今後の動向に関しては、予断を許さない状況が続いています。
-
-２　昨年６月に発生した米国・イスラエル及びイラン間の衝突では、イラクの民兵組織等からも反米・イスラエルを強く訴えるSNS発信等も確認されたほか、イラクでの航空便が予期せず欠航・延期される事態も発生し、出入国が制限されました。今般のイランにおける抗議活動では、現時点でイラクの空域に影響はありませんが、今後の推移に注視が必要です。
-
-３　つきましては、外務省では海外安全ホームページを通じ、イラク国内の大部分に退避勧告（退避してください）または渡航中止勧告（渡航は止めてください）を発出していることにも十分にご留意の上、航空便の運航状況を含め、常に関連情報を収集する等、万全な安全対策を講じてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161805</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161805A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161805.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161805L.xml</xmlLightUrl>
-        <koukanCd>704A</koukanCd>
     </mail>
 </opendata>
