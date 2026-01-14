@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/15 05:45:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/15 06:15:49" mailCount="17" odType="02">
     <mail>
         <keyCd>161840</keyCd>
         <infoType>R10</infoType>
@@ -378,51 +378,5 @@ https://gouv.nc/sites/default/files/atoms/files/2026.01.14_cp_epidemie_dengue.pd
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161818.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161818L.xml</xmlLightUrl>
         <koukanCd>616A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161817</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/13 05:55:44</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0592</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0473</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0597</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0784</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0758</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0868</cd>
-        </country>
-        <title>ポートオブスペイン市内のOne Woodbrook Place地下駐車場での車両盗難及び強盗</title>
-        <lead>【ポイント】
-　ポートオブスペイン市内の中心部にある大型商業施設One Woodbrook Placeの地下駐車場において、昨日（1月11日）、車両・金品強奪事件が発生しました。同地下駐車場では、昨年11月及び12月にも各1件車両盗難事件が発生しています。
-　同商業施設に行かれる際には、十分ご注意ください。また、強盗に遭った際は、生命の安全を第一に考え、抵抗しないようにしてください。
-
-2025年
-　11月30日（日）、女性が午前7時半頃に駐車し、午後4時に戻ったところ、車がなくなっていた。
-12月15日（月）、警察官が午後8時過ぎに駐車し、9時半頃に戻ったところ、車がなくなっていた。
-Daily Express紙
-https://trinidadexpress.com/newsextra/two-vehicles-stolen-from-one-woodbrook-place-carpark/article_a8651033-8920-4e06-8f1c-e9007ef844b5.html
-
-2026年
-　 1月11日（日）、午後9時25分頃、男性が駐車していた車に戻ろうとしたところ、顔をバンダナで覆った3人の男が近づいてきて、6000米ドルのネックレス、約43000米ドルの車を奪われた。
-Daily Express紙
-https://trinidadexpress.com/newsextra/violent-carjacking-at-one-woodbrook-place-parking-lot/article_b51814aa-acaf-497f-8389-4761e3464d4e.html?utm_campaign=blox&amp;utm_source=facebook&amp;utm_medium=social&amp;fbclid=IwY2xjawPSBkZleHRuA2FlbQIxMQBicmlkETFhc0FNZ3JPZXdQbERQMkY5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHijeiuJn1A4SCPYtbJ-cFEEr9qdkp0yyOZsCCU5eHiMTI7DeIEd0lTETpl26_aem_jMyy4c2qP5xX6OeiEheO5g</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161817</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161817A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161817.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161817L.xml</xmlLightUrl>
-        <koukanCd>424A</koukanCd>
     </mail>
 </opendata>
