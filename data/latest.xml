@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/15 02:25:48" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/15 02:45:48" mailCount="17" odType="02">
+    <mail>
+        <keyCd>161837</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/15 02:45:38</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>中東情勢の緊張を受けた注意喚起について（１月１４日）</title>
+        <lead>○　報道によると、イラン国内において年末から経済情勢への不満等を背景とした抗議活動が継続され死者等も出ているほか、本件に関し米国大統領が直接関与する意向を示すなど、中東情勢の高まりが見受けられます。
+○　当地マナマ市内（Juffair地区）にも、米海軍第五艦隊司令部が所在しているものの、現在まで同所に関する具体的な報道は確認されておりません。しかしながら、在サウジアラビア米国大使館は本日、地域情勢の高まりを受けた在留米国市民向けのアラート（軍事施設への不要不急の立入りを控える等）を発出した他、カタールに所在するアル・ウデイド空軍基地の態勢縮小が報じられるなど、関連情報が確認されています。
+○　今後情勢が悪化した場合には、空域の閉鎖、航空便の欠航・遅延等が、予告なく発生する可能性があります。滞在中の方は、公的機関など信頼できる複数の情報源から最新情報を確認していただくほか、ご自身の安全確保への配慮をお願いいたします。
+
+【報道サイト等一覧】
+１．	バーレーン政府公式ニュース（Government of Bahrain）：
+https://www.bahrain.bh/wps/portal/en/BNP/RssFeedReader/RssFeedDetails?feedID=2
+
+２．バーレーン国際空港出発便：https://www.bahrainairport.bh/flight-departures
+
+３．バーレーン国際空港到着便：https://www.bahrainairport.bh/flight-arrivals
+
+４．警察署など緊急時の連絡先一覧（Ministry of Interior）：https://www.interior.gov.bh/en/emergency-numbers</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161837</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161837A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161837.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161837L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161836</keyCd>
         <infoType>R10</infoType>
