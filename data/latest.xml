@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/14 23:25:48" mailCount="12" odType="02">
+<opendata dataType="L" lastModified="2026/01/14 23:45:48" mailCount="13" odType="02">
     <mail>
         <keyCd>161830</keyCd>
         <infoType>R10</infoType>
@@ -159,6 +159,27 @@ https://gouv.nc/sites/default/files/atoms/files/2026.01.14_cp_epidemie_dengue.pd
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161822.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161822L.xml</xmlLightUrl>
         <koukanCd>529A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026C005</keyCd>
+        <infoType>C30</infoType>
+        <contentInfo>治安情勢</contentInfo>
+        <leaveDate>2026/01/14 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>イラン国内における抗議活動を受けた注意喚起（２）</title>
+        <lead>●2025年12月28日以来、イラン国内各地で抗議活動が行われ、当局の取締り等による逮捕者や死傷者が出ています。また、現在、イランではインターネット及び国際電話が使えない又はつながりにくい状況です。
+●上記を受け、各国も、イランに滞在する自国民に対し、最大限の警戒を呼びかけています。
+●イランへの渡航は止めてください。既に滞在中の方は、商用便の運航状況を確認の上、早期に出国することを検討してください。また、抗議活動、集会や軍事・核関連施設には近づかず、写真・動画撮影は厳に行わないでください。
+●お困りの場合には、在イラン日本大使館又は外務省領事局にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C005.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C005A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C005.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C005L.xml</xmlLightUrl>
     </mail>
     <mail>
         <keyCd>161820</keyCd>
