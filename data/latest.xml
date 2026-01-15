@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/15 13:30:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/15 13:50:48" mailCount="19" odType="02">
     <mail>
         <keyCd>161845</keyCd>
         <infoType>R10</infoType>
@@ -213,6 +213,79 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161832.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161832L.xml</xmlLightUrl>
         <koukanCd>402A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026C006</keyCd>
+        <infoType>C50</infoType>
+        <contentInfo>治安情勢 戦争</contentInfo>
+        <leaveDate>2026/01/15 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0093</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0967</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0963</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0090</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0962</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0961</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0020</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0291</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0253</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0249</cd>
+        </country>
+        <title>最近のイラン情勢に端を発した中東情勢の緊迫化の可能性</title>
+        <lead>2025年12月28日以降イラン国内で発生している抗議活動に端を発し、今後、中東情勢が更に緊迫化する可能性がありますので、複数の情報源からの最新情報を収集し、自らの安全確保に努めてください。
+お困りのことや、ご支援が必要なことがあれば、最寄りの在外公館又は外務省領事局海外邦人緊急事態課にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C006.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C006A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C006.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C006L.xml</xmlLightUrl>
     </mail>
     <mail>
         <keyCd>161830</keyCd>
