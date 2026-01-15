@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/15 09:25:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/01/15 10:10:48" mailCount="16" odType="02">
     <mail>
         <keyCd>161840</keyCd>
         <infoType>R10</infoType>
@@ -360,23 +360,5 @@ https://gouv.nc/sites/default/files/atoms/files/2026.01.14_cp_epidemie_dengue.pd
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161820.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161820L.xml</xmlLightUrl>
         <koukanCd>739A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161818</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/13 09:50:42</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0082</cd>
-        </country>
-        <title>（お知らせ）ソウル市内の路線バスのストライキについて</title>
-        <lead>本１３日始発からソウル市内を運航する路線バスでストライキが行われています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161818</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161818A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161818.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161818L.xml</xmlLightUrl>
-        <koukanCd>616A</koukanCd>
     </mail>
 </opendata>
