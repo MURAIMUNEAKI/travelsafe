@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/15 21:30:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/15 21:55:48" mailCount="21" odType="02">
+    <mail>
+        <keyCd>161849</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/15 21:40:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0880</cd>
+        </country>
+        <title>バングラデシュ国内総選挙に向けた安全対策</title>
+        <lead>１　本年２月１２日に予定されている総選挙に向けて、政治集会やデモが活発化し、破壊活動や衝突等に発展性する可能性があります。これまでのところ、立候補者への白昼銃撃、主要紙本社への襲撃、粗製爆弾の爆発、車両放火等の事案は散発しているものの、これらが大規模な混乱に発展するまでには至っておりませんが、特に１月２２日の選挙キャンペーン期間開始以降は、混乱や衝突がエスカレートする可能性も排除されません。また、総選挙が実施された後も、選挙結果に不満を有する政治勢力の動向を含め、治安上のリスクを注視する必要があります。
+
+２　在留邦人及び旅行者の皆様におかれましては、報道等により最新情報を入手するとともに、不測の事態に巻き込まれないよう、普段から、移動手段、行動範囲、時間帯等を十分考慮した行動を心がけてください。また、万が一、デモや暴動などの異常事態に遭遇した場合は、直ちにその場を離れ、自らの安全を確保した上で、大使館まで御一報ください。
+
+３　なお、当館では、年末から年明けにかけて、外務省海外安全ホームページの（１）「危険情報」（注：危険レベルは継続）（１２月２６日付け更新）、（２）「安全対策基礎データ」（１月１４日付け更新）、（３）「安全の手引き」（１月付け更新）の３点の資料の内容を更新いたしました。外務省海外安全ホームページの下記のリンクから閲覧可能ですので、適宜参照願います。
+【外務省海外安全ホームページ（バングラデシュ情報）】
+ 　https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_012.html#ad-image-0</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161849</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161849A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161849.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161849L.xml</xmlLightUrl>
+        <koukanCd>610D</koukanCd>
+    </mail>
     <mail>
         <keyCd>161847</keyCd>
         <infoType>R10</infoType>
