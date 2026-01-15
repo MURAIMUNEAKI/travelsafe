@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/15 16:20:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/15 16:45:48" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161846</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/15 16:45:38</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>（続報）アッティカ県におけるタクシーストライキの延長</title>
+        <lead>報道によると、アッティカ県における48時間のタクシーストライキは、本日15日（木）午前6時に終了予定でしたが、本日も継続されるとのことです。
+このため、アテネ市を含むアッティカ県ではタクシーの運行に影響が出ることが予想されます。ご利用予定の方はご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161846</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161846A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161846.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161846L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161845</keyCd>
         <infoType>R10</infoType>
