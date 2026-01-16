@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/17 05:15:49" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/01/17 05:40:48" mailCount="23" odType="02">
+    <mail>
+        <keyCd>161869</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/17 05:40:38</leaveDate>
+        <title>当館館員をかたる詐欺にご注意ください！</title>
+        <lead>　当館管轄地域に在住する複数の在留邦人の方より、当館館員を名乗る者から「あなた宛ての重要な書類が日本から当館に届いているので、来館していただく必要がある」といった内容の電話があったと連絡がありました。当館よりこのような電話をすることはありません。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161869</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161869A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161869.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161869L.xml</xmlLightUrl>
+        <koukanCd>301K</koukanCd>
+    </mail>
     <mail>
         <keyCd>161866</keyCd>
         <infoType>R10</infoType>
