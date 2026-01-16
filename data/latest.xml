@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/17 00:50:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/01/17 01:20:48" mailCount="26" odType="02">
+    <mail>
+        <keyCd>161866</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/17 01:20:37</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0355</cd>
+        </country>
+        <title>（注意喚起）ティラナ市における抗議デモについて</title>
+        <lead>アルバニアにお住まいの皆様及びたびレジ登録者の皆様
+
+　現地報道等によると、明日１月１７日１８：００より首都ティラナ市の首相官邸前にて野党主催の抗議デモが行われる予定です。
+　最新の情報の入手に努めるとともにデモが落ち着くまで抗議デモが行われている場所周辺に近づくことは避けるなど慎重な行動を心がけて下さい。
+
+　万が一、事件・事故等に巻き込まれた場合、警察当局に被害届を提出するとともに、その概要を在アルバニア日本国大使館に連絡して下さい。
+
+【問い合わせ先】
+在アルバニア日本国大使館
+電話： +355 4 454 7930
+メール： konsullore@av.mofa.go.jp
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+※「たびレジ」簡易登録をされた方で、メールの配信を変更・停止されたい場合は、以下の URL から停止手続きをお願いいたします。
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
+※災害や騒乱等が発生した際、ご家族、ご友人、同僚を守るため、一人でも多くの方に安全対策に関する情報が届くよう、在留届（3か月以上の滞在）の届出、又はたびレジ（3か月未満の滞在）の登録を、お知り合いの方や出張者・旅行者にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161866</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161866A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161866.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161866L.xml</xmlLightUrl>
+        <koukanCd>552A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161865</keyCd>
         <infoType>R10</infoType>
@@ -577,23 +609,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161835.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161835L.xml</xmlLightUrl>
         <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161834</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/15 00:55:36</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>中東情勢に関する注意喚起について</title>
-        <lead>１月１４日、報道によれば、アル・ウデイド空軍基地から一部の人員に対し、退去するようにとの指示がなされており、カタール国際メディアオフィス（IMO）も、右は地域情勢の緊迫化を受けた措置と認め、カタール政府は市民や在留者の安全保護、また重要インフラや軍事施設の安全に万全を期しているとの声明を発出しています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161834</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161834A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161834.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161834L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
     </mail>
 </opendata>
