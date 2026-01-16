@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/16 20:40:48" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/01/16 21:30:49" mailCount="22" odType="02">
+    <mail>
+        <keyCd>161861</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/16 21:10:37</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0977</cd>
+        </country>
+        <title>集会に対する注意喚起</title>
+        <lead>ネパール在留邦人及び旅行者の皆様へ
+
+　報道によれば、現在、ネパールコングレス（NC）党内の分裂をめぐり、カトマンズ市内タメル地区付近のネパール選挙管理委員会（Election Commission）前において、多数の同党員らが集結しているとのことです。
+
+　在留邦人や旅行者の皆様におかれましては、上記場所や、デモ、集会などには極力近づかず、また、報道等で最新の情報を入手の上、安全確保に努め、不測の事態に巻き込まれることのないよう十分注意をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161861</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161861A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161861.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161861L.xml</xmlLightUrl>
+        <koukanCd>617A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161860</keyCd>
         <infoType>R10</infoType>
