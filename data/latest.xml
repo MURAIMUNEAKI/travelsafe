@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/16 23:20:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/01/16 23:50:48" mailCount="28" odType="02">
+    <mail>
+        <keyCd>161864</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/16 23:50:38</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0962</cd>
+        </country>
+        <title>最近の中東情勢に関する注意喚起</title>
+        <lead>【ポイント】
+●最近の中東情勢の緊迫化の可能性を受け、外務省は昨１５日、ヨルダンを含む中東地域に広域情報を発出しています。
+●当地米国大使館も本１６日、自国民向けにセキュリティ・アラートを発出しました。
+●引き続き不測の事態の発生に備え、最新の情報を入手し、ご自身の安全にご留意ください。また、この機会に当館作成「安全の手引き」等をご一読ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161864</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161864A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161864.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161864L.xml</xmlLightUrl>
+        <koukanCd>757A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161863</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/16 23:45:45</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0041</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0423</cd>
+        </country>
+        <title>大規模デモ実施に伴う注意喚起</title>
+        <lead>●1月17日（土）午後、ベルンにてダボスで開催される世界経済フォーラム（WEF）に対する大規模な非認可デモが行われる模様です。パレスチナ支持派の抗議者も参加する見込みで、デモ隊が駅広場から市内中心部へ向けて行進するため、交通規制が行われる予定です。
+●1月18日と19日にはチューリッヒとダボスでも反WEFデモが計画されている模様です。
+●今後も予期しない形でデモが発生する可能性は排除できないところ、デモの周辺では思わぬ騒動に巻き込まれる可能性がありますので、付近に近づかないことをお勧めします。また、警察による交通規制が行われ、交通渋滞や公共交通手段の乱れ等の発生も予想されますので、警察等のSNSや報道により最新情報の入手に努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161863</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161863A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161863.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161863L.xml</xmlLightUrl>
+        <koukanCd>516A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161861</keyCd>
         <infoType>R10</infoType>
@@ -213,7 +257,7 @@
     <mail>
         <keyCd>2026T006</keyCd>
         <infoType>T40</infoType>
-        <contentInfo>治安情勢 戦争</contentInfo>
+        <contentInfo>治安情勢</contentInfo>
         <leaveDate>2026/01/16 00:00:00</leaveDate>
         <area>
             <cd>50</cd>
@@ -270,7 +314,7 @@
     <mail>
         <keyCd>2026T004</keyCd>
         <infoType>T40</infoType>
-        <contentInfo>治安情勢 戦争</contentInfo>
+        <contentInfo>治安情勢 一般情報</contentInfo>
         <leaveDate>2026/01/16 00:00:00</leaveDate>
         <area>
             <cd>50</cd>
