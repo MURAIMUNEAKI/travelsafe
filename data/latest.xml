@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/16 15:50:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/01/16 16:20:48" mailCount="18" odType="02">
+    <mail>
+        <keyCd>161856</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/16 16:00:38</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>最近の中東情勢に関する注意喚起（その２）</title>
+        <lead>１　１６日、当地米国大使館は、最近の中東情勢の緊張を背景に注意喚起アラートを発出しました。また、カタールを始めとする中東地域に所在する米国大使館からも類似の注意喚起がされています。
+
+２　外務省では、１５日付で中東地域への広域情報を出しているほか、イラク国内の大部分に退避勧告（退避してください）または渡航中止勧告（渡航は止めてください）としていることにも十分にご留意の上、航空便の運航状況も含め、常に関連情報を収集する等、万全な安全対策を講じてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161856</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161856A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161856.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161856L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161855</keyCd>
         <infoType>R10</infoType>
