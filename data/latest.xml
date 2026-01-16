@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/17 00:20:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/01/17 00:50:48" mailCount="26" odType="02">
+    <mail>
+        <keyCd>161865</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/17 00:40:38</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0221</cd>
+        </country>
+        <title>アフリカカップ決勝戦に関する注意喚起</title>
+        <lead>●１月１８日２０時より、アフリカネイションズカップ決勝戦が行われることに伴い、当日の外出には十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161865</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161865A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161865.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161865L.xml</xmlLightUrl>
+        <koukanCd>717A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161864</keyCd>
         <infoType>R10</infoType>
@@ -577,24 +595,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161834.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161834L.xml</xmlLightUrl>
         <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161833</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/15 00:45:37</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0224</cd>
-        </country>
-        <title>大統領就任式典(1/17)開催に関する注意喚起</title>
-        <lead>●1月１７日（土）首都コナクリ郊外ノンゴにあるランサナ・コンテ・スタジアムにおいて大統領就任式典の開催が予定されています。
-●大統領就任式典の前日から翌日にかけて空港や主要道路の閉鎖や渋滞の発生が予想されます。ギニアに滞在中の方は、不測の事態に巻き込まれることがないよう、慎重な行動を心がけるとともに、安全を確保するよう努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161833</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161833A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161833.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161833L.xml</xmlLightUrl>
-        <koukanCd>758A</koukanCd>
     </mail>
 </opendata>
