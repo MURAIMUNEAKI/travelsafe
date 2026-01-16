@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/16 15:25:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/16 15:50:48" mailCount="17" odType="02">
     <mail>
         <keyCd>161855</keyCd>
         <infoType>R10</infoType>
@@ -428,33 +428,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C006A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C006.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C006L.xml</xmlLightUrl>
-    </mail>
-    <mail>
-        <keyCd>161830</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/14 15:35:39</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0254</cd>
-        </country>
-        <country areaCd="60">
-            <cd>0252</cd>
-        </country>
-        <title>米国大使館周辺における抗議デモに関する注意喚起</title>
-        <lead>●　昨１３日、当地米国大使館は、今般のベネズエラでの米軍の行動に抗議するデモの呼びかけがSNS上で行われているとして、本１４日（水）、米国大使館周辺においてデモが発生する可能性がある旨警告しています。
-　ご参考までに、米国大使館からの警告は以下のとおり。
-
-https://ke.usembassy.gov/demonstration-alert-u-s-embassy-nairobi-kenya-january-13-2026/
-
-●　現時点で、本件にかかる具体的な情報はありませんが、今後、米国大使館周辺において、デモ等が突発的に実施される可能性があります。
-
-●　在留邦人及び旅行者の皆様におかれましては、引き続き最新の関連情報の入手に努めるとともに、不測の事態に巻き込まれないよう、デモの発生が予測される場所への訪問はなるべく避け、万一、デモ・集会等遭遇した場合には、すぐにその場から退避するなど、自らの安全確保に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161830</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161830A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161830.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161830L.xml</xmlLightUrl>
-        <koukanCd>713A</koukanCd>
     </mail>
 </opendata>
