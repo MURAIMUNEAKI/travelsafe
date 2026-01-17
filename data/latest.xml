@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/17 09:25:48" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/01/17 10:15:48" mailCount="25" odType="02">
+    <mail>
+        <keyCd>161873</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/17 09:35:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>【お知らせ】休館日の変更（在ボリビア日本国大使館）</title>
+        <lead>●ボリビア多民族国大統領府が１月23日（金）を多民族国設立記念日として制定したことを受け、1月22日（木）に予定していた在ボリビア日本国大使館の休館日を１月23日（金）に変更します。
+●在サンタクルス領事事務所については、予定どおり１月22日（木）が休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161873</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161873A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161873.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161873L.xml</xmlLightUrl>
+        <koukanCd>402A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161872</keyCd>
         <infoType>R10</infoType>
