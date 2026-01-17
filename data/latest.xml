@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/17 17:25:48" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/01/17 17:45:48" mailCount="23" odType="02">
+    <mail>
+        <keyCd>161874</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/17 17:30:38</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0251</cd>
+        </country>
+        <title>ティムカット祭（正教公現祭）の注意喚起</title>
+        <lead>【ポイント】 
+●１月１８日（日）から２０日（火）にかけて、ティムカット祭が開催されます。
+●アディスアベバ市内及び主要都市において、道路封鎖が実施される予定です。
+●群衆には近づかず、安全確保に努めてください。また、外出の際は、普段以上の防犯対策をお願いします。
+●犯罪被害に遭った時は、すぐに日本大使館へ連絡願います。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161874</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161874A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161874.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161874L.xml</xmlLightUrl>
+        <koukanCd>711A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161873</keyCd>
         <infoType>R10</infoType>
