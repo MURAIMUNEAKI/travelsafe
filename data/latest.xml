@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/17 22:40:47" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/01/17 23:20:48" mailCount="22" odType="02">
+    <mail>
+        <keyCd>161875</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/17 23:15:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0251</cd>
+        </country>
+        <title>【注意喚起】邦人被害の窃盗（ひったくり）事件の発生</title>
+        <lead>【ポイント】
+●アディスアベバ市内において、邦人被害の窃盗（ひったくり）事件が発生。
+●携帯電話等を狙った窃盗事件、強盗事件が昼夜を問わず発生。
+●特に早朝・夜間の徒歩移動は避けてください。
+●犯罪被害に遭ったときは、すぐに日本大使館へ連絡願います。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161875</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161875A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161875.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161875L.xml</xmlLightUrl>
+        <koukanCd>711A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161874</keyCd>
         <infoType>R10</infoType>
