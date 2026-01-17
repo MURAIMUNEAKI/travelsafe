@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/18 02:20:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/18 02:40:47" mailCount="17" odType="02">
     <mail>
         <keyCd>161875</keyCd>
         <infoType>R10</infoType>
@@ -343,25 +343,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161851.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161851L.xml</xmlLightUrl>
         <koukanCd>627A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161850</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/16 02:25:39</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0054</cd>
-        </country>
-        <title>【邦人被害】ブエノスアイレス市パレルモ地区のホテルでの置き引き</title>
-        <lead>【ポイント】
-●ブエノスアイレス市パレルモ地区のホテルのロビーにて邦人が置き引きの被害に遭遇しました。
-●旅先では、貴重品から決して目を離すことなく、管理には十分気を付けてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161850</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161850A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161850.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161850L.xml</xmlLightUrl>
-        <koukanCd>401A</koukanCd>
     </mail>
 </opendata>
