@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/17 11:45:48" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/01/17 12:35:48" mailCount="23" odType="02">
     <mail>
         <keyCd>161873</keyCd>
         <infoType>R10</infoType>
@@ -497,36 +497,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161846.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161846L.xml</xmlLightUrl>
         <koukanCd>507A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161845</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/15 12:25:38</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>中東情勢に関する注意喚起について</title>
-        <lead>●イラン情勢の緊張の高まりを受け、１月１５日、当地米国大使館は、在留米国人向けに以下のとおりセキュリティ・アラートを発出しています。
-（https://kw.usembassy.gov/security-alert-regional-tensions-u-s-embassy-kuwait-january-14-2026/）
-
-－万全の注意を期するため、在クウェート米国大使館は、職員に対しキャンプアリフジャン、キャンプビュアリング、アリアルサレム空軍基地及びキャンプパトリオットへの立入りを一時的に制限しました。
-－自身と家族の状況を常に把握し、最新のセキュリティガイダンスを確認の上、情報に基づいた判断をしてください。
-－米国大使館では、地域の情勢を引き続き監視しています。現時点で、米国大使館の職員体制及び運営は変更ありません。
- 
-●今後情勢が悪化した場合には、空域の閉鎖、航空便の欠航・遅延等が、予告なく発生する可能性があります。不測の事態に備え、複数の情報源から最新情報を確認し、ご自身の安全確保に努めてください。情報の入手に当たっては、信頼のおける報道等の情報源に当たるよう心がけてください。
-
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161845</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161845A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161845.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161845L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
     </mail>
 </opendata>
