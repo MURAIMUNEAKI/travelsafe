@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/17 08:15:48" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/01/17 08:45:48" mailCount="24" odType="02">
+    <mail>
+        <keyCd>161872</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/17 08:45:44</leaveDate>
+        <title>【注意喚起】移民関税執行局（ＩＣＥ）に対する抗議活動等の広がり</title>
+        <lead>【ポイント】
+○　移民関税執行局（ＩＣＥ）捜査員による女性射殺事件に端を発し、事件発生地であるミネアポリスをはじめ、全米各地においても、同様の抗議デモ活動が行われています。
+○　今後、同様の抗議活動が他の地域でも行われ、不測の事態が発生する可能性が排除されません。在留邦人及び旅行者の皆様におかれては、不測の事態に巻き込まれることのないよう、報道等で最新の情報の入手に努め、抗議活動が行われている場所に不用意に近づかないなど、十分に注意を払ってください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161872</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161872A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161872.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161872L.xml</xmlLightUrl>
+        <koukanCd>301D</koukanCd>
+    </mail>
     <mail>
         <keyCd>161869</keyCd>
         <infoType>R10</infoType>
