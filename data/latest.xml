@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/18 13:30:48" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/01/18 13:50:48" mailCount="14" odType="02">
     <mail>
         <keyCd>161875</keyCd>
         <infoType>R10</infoType>
@@ -285,23 +285,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161856.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161856L.xml</xmlLightUrl>
         <koukanCd>704A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161855</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/16 13:35:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0033</cd>
-        </country>
-        <title>熱帯低気圧の接近に伴う天候悪化の可能性について</title>
-        <lead>１　フランス気象局によると、現在、ニューカレドニアの北西付近に熱帯低気圧が発生しています。熱帯低気圧の発達や進路について予断はできませんが、週末から来週初めにかけて、熱帯低気圧の影響によりニューカレドニアの各地域において強風や大雨になる可能性があります。また、この熱帯低気圧がサイクロンに発達してニューカレドニアに接近する可能性もあります。天候に関して最新情報の収集を心がけるとともに、天候が悪化することが見込まれる場合には、外出を控えるなど身の安全の確保に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161855</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161855A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161855.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161855L.xml</xmlLightUrl>
-        <koukanCd>505W</koukanCd>
     </mail>
 </opendata>
