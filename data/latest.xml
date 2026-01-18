@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/19 05:20:48" mailCount="6" odType="02">
+<opendata dataType="L" lastModified="2026/01/19 05:40:48" mailCount="6" odType="02">
+    <mail>
+        <keyCd>161877</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/19 05:30:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0502</cd>
+        </country>
+        <title>首都グアテマラ市における治安機関に対する襲撃事件発生に伴う注意喚起</title>
+        <lead>◆１８日（日）首都グアテマラ市各地において国家文民警察（PNC）隊員への襲撃事件が発生しました。
+◆危険な事件に巻き込まれないために、報道を注視するとともに、日常的に行動する場所においても、１８日（日）の外出は避けるようにお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161877</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161877A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161877.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161877L.xml</xmlLightUrl>
+        <koukanCd>418A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161876</keyCd>
         <infoType>R10</infoType>
@@ -95,17 +114,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161872.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161872L.xml</xmlLightUrl>
         <koukanCd>301D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161869</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/17 05:40:38</leaveDate>
-        <title>当館館員をかたる詐欺にご注意ください！</title>
-        <lead>　当館管轄地域に在住する複数の在留邦人の方より、当館館員を名乗る者から「あなた宛ての重要な書類が日本から当館に届いているので、来館していただく必要がある」といった内容の電話があったと連絡がありました。当館よりこのような電話をすることはありません。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161869</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161869A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161869.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161869L.xml</xmlLightUrl>
-        <koukanCd>301K</koukanCd>
     </mail>
 </opendata>
