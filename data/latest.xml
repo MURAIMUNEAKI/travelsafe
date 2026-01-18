@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/18 23:15:48" mailCount="9" odType="02">
+<opendata dataType="L" lastModified="2026/01/18 23:45:48" mailCount="8" odType="02">
     <mail>
         <keyCd>161875</keyCd>
         <infoType>R10</infoType>
@@ -159,28 +159,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161864.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161864L.xml</xmlLightUrl>
         <koukanCd>757A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161863</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/16 23:45:45</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0041</cd>
-        </country>
-        <country areaCd="42">
-            <cd>0423</cd>
-        </country>
-        <title>大規模デモ実施に伴う注意喚起</title>
-        <lead>●1月17日（土）午後、ベルンにてダボスで開催される世界経済フォーラム（WEF）に対する大規模な非認可デモが行われる模様です。パレスチナ支持派の抗議者も参加する見込みで、デモ隊が駅広場から市内中心部へ向けて行進するため、交通規制が行われる予定です。
-●1月18日と19日にはチューリッヒとダボスでも反WEFデモが計画されている模様です。
-●今後も予期しない形でデモが発生する可能性は排除できないところ、デモの周辺では思わぬ騒動に巻き込まれる可能性がありますので、付近に近づかないことをお勧めします。また、警察による交通規制が行われ、交通渋滞や公共交通手段の乱れ等の発生も予想されますので、警察等のSNSや報道により最新情報の入手に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161863</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161863A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161863.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161863L.xml</xmlLightUrl>
-        <koukanCd>516A</koukanCd>
     </mail>
 </opendata>
