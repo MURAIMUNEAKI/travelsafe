@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/18 16:45:48" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/01/18 17:25:48" mailCount="11" odType="02">
     <mail>
         <keyCd>161875</keyCd>
         <infoType>R10</infoType>
@@ -223,47 +223,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161860.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161860L.xml</xmlLightUrl>
         <koukanCd>753A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161858</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/16 17:20:38</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0421</cd>
-        </country>
-        <title>ブラチスラバで予定される複数の抗議集会に関する注意喚起（1月17日、同22日及同28日）</title>
-        <lead>● ブラチスラバ市所在の米国大使館に隣接するフヴィエドスラボボ広場（Hviezdoslavovo Namestie）において、以下のとおり抗議集会の開催が予定されているとの情報があり、当地治安当局及び関係機関によれば、同集会に多数の参加者が見込まれるとしています。
-1月17日（土）午後3時～同6時までの間
-1月22日（木）午後6時～同7時までの間
-1月28日（水）午後5時～同7時までの間
-● 一般的に、大規模なイベントでは、イベントの趣旨に反対する団体による活動、不測の事態や無用なトラブル等に巻き込まれる可能性もあります。邦人の皆様におかれましては、報道等で最新の情報を入手するとともに、周辺を通行する際は、十分注意を払うようお願いいたします。また、異常を感じた場合や、万が一、事件等に遭遇した場合には、興味本位で現場に近づくことなく、直ちにその場から離れるなど、ご自身の安全確保を最優先にした行動に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161858</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161858A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161858.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161858L.xml</xmlLightUrl>
-        <koukanCd>543A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161857</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/16 17:05:37</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0964</cd>
-        </country>
-        <title>最近の中東情勢に関する注意喚起（その２）</title>
-        <lead>１　１６日、当地米国領事館は、最近の中東情勢の緊張を背景に注意喚起アラートを発出しました。また、バグダッドやカタール等を始めとする中東地域に所在する米国大使館からも類似の注意喚起がされています。
-
-２　外務省では、１５日付で中東地域への広域情報を出しているほか、クルディスタン地域にも渡航中止勧告（渡航は止めてください）等が発出されている地域があることにも十分にご留意の上、航空便の運航状況も含め、常に関連情報を収集する等、万全な安全対策を講じてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161857</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161857A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161857.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161857L.xml</xmlLightUrl>
-        <koukanCd>704W</koukanCd>
     </mail>
 </opendata>
