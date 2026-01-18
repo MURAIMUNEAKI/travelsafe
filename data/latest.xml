@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/18 23:45:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/01/19 00:15:48" mailCount="7" odType="02">
     <mail>
         <keyCd>161875</keyCd>
         <infoType>R10</infoType>
@@ -138,26 +138,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161865.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161865L.xml</xmlLightUrl>
         <koukanCd>717A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161864</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/16 23:50:38</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0962</cd>
-        </country>
-        <title>最近の中東情勢に関する注意喚起</title>
-        <lead>【ポイント】
-●最近の中東情勢の緊迫化の可能性を受け、外務省は昨１５日、ヨルダンを含む中東地域に広域情報を発出しています。
-●当地米国大使館も本１６日、自国民向けにセキュリティ・アラートを発出しました。
-●引き続き不測の事態の発生に備え、最新の情報を入手し、ご自身の安全にご留意ください。また、この機会に当館作成「安全の手引き」等をご一読ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161864</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161864A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161864.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161864L.xml</xmlLightUrl>
-        <koukanCd>757A</koukanCd>
     </mail>
 </opendata>
