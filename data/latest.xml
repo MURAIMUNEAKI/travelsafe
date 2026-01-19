@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/19 19:20:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/01/19 19:50:48" mailCount="9" odType="02">
+    <mail>
+        <keyCd>161884</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/19 19:35:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>最近の中東地域情勢に関する注意喚起</title>
+        <lead>１　2025年12月下旬以降、イラン国内で発生している抗議活動を受け、中東地域を巡る情勢について各国が自国民に対し注意喚起を行っています。本件については、1月15日付で、外務省から以下の広域情報を発出しています。
+（https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C006.html ）
+
+２　現時点でイスラエル国内において特段の具体的事案は確認されていませんが、今後の情勢推移に十分留意し、不測の事態に備え、ミサイルやロケット弾等の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
+
+３　引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161884</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161884A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161884.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161884L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161882</keyCd>
         <infoType>R10</infoType>
