@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/19 08:40:48" mailCount="6" odType="02">
+<opendata dataType="L" lastModified="2026/01/19 09:30:48" mailCount="6" odType="02">
+    <mail>
+        <keyCd>161878</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/19 09:10:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0056</cd>
+        </country>
+        <title>ビオビオ州及びニュブレ州における大規模森林火災及び外出禁止令の発出</title>
+        <lead>以下のとおり、チリ中南部において発生している大規模森林火災に関し、注意喚起いたします。
+１　１月１８日、チリ政府は、ビオビオ州及びニュブレ州において大規模な森林火災が発生していることを受け、当該地域に非常事態宣言を発出しました。
+２　同日、チリ政府は、ビオビオ州において以下の地域に対し外出禁止令（Toque de Queda）を発令しました。
+（１）リルケン：１月１８日午後７時から新たな指示があるまで。
+（２）ペンコ、ナシミエント、ラハ：１月１８日午後８時から翌１９日午前６時まで 。
+　※外出禁止令の終了時刻及び適用期間は、今後の状況により延長・変更される可能性があります。
+３　チリ国家防災対策庁（SENAPRED）によれば、ビオビオ州及びニュブレ州では多数の森林火災が同時多発的に発生しており、住宅地への延焼、住民の避難、人的被害が報告されています。また、両州の一部地域には赤色警報（最も危険度の高い警戒レベル）が発出されています。
+４　つきましては、外出禁止令が発出されている地域及びその周辺には近づくことを避けるとともに、テレビ、ラジオ、インターネット、チリ国家防災対策庁（SENAPRED）や地方自治体等から常に最新情報の入手に努め、当局の指示に従い、引き続き安全に十分注意してください。
+５　万が一、被害を受けた場合、又は被害を受けた邦人に関する情報をお持ちの場合には、速やかに在チリ日本国大使館までご連絡くださいますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161878</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161878A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161878.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161878L.xml</xmlLightUrl>
+        <koukanCd>404A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161877</keyCd>
         <infoType>R10</infoType>
@@ -100,19 +126,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161873.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161873L.xml</xmlLightUrl>
         <koukanCd>402A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161872</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/17 08:45:44</leaveDate>
-        <title>【注意喚起】移民関税執行局（ＩＣＥ）に対する抗議活動等の広がり</title>
-        <lead>【ポイント】
-○　移民関税執行局（ＩＣＥ）捜査員による女性射殺事件に端を発し、事件発生地であるミネアポリスをはじめ、全米各地においても、同様の抗議デモ活動が行われています。
-○　今後、同様の抗議活動が他の地域でも行われ、不測の事態が発生する可能性が排除されません。在留邦人及び旅行者の皆様におかれては、不測の事態に巻き込まれることのないよう、報道等で最新の情報の入手に努め、抗議活動が行われている場所に不用意に近づかないなど、十分に注意を払ってください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161872</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161872A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161872.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161872L.xml</xmlLightUrl>
-        <koukanCd>301D</koukanCd>
     </mail>
 </opendata>
