@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/19 18:50:49" mailCount="7" odType="02">
+<opendata dataType="L" lastModified="2026/01/19 19:20:48" mailCount="8" odType="02">
+    <mail>
+        <keyCd>161882</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/19 19:10:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0084</cd>
+        </country>
+        <title>テト（旧正月）に向けた犯罪被害防止に関する注意喚起</title>
+        <lead>●テト（旧正月）の前後は、スリ、ひったくり等の犯罪が増える傾向があると言われています。犯罪被害や様々なトラブルに巻き込まれないようにご注意ください。
+●大型連休時にハノイ市内においてスリやひったくりの盗難被害や旅券の紛失事案なども発生しております。貴重品の管理の徹底をお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161882</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161882A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161882.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161882L.xml</xmlLightUrl>
+        <koukanCd>620A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161881</keyCd>
         <infoType>R10</infoType>
