@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/19 12:45:48" mailCount="6" odType="02">
+<opendata dataType="L" lastModified="2026/01/19 13:30:49" mailCount="7" odType="02">
     <mail>
         <keyCd>161881</keyCd>
         <infoType>R10</infoType>
@@ -82,6 +82,33 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161876.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161876L.xml</xmlLightUrl>
         <koukanCd>720A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026T008</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>戦争</contentInfo>
+        <leaveDate>2026/01/19 00:00:00</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0380</cd>
+        </country>
+        <title>ウクライナの危険情報【危険レベル継続】（内容の更新）</title>
+        <lead>ウクライナ全土に対して引き続き危険レベル４の退避勧告を発出していますので、ウクライナへの渡航は止めてください。また、既に滞在されている方は、安全を確保した上で、直ちに退避してください。ただし書きの内容を更新しているところ、本文の内容をご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T008.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T008A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T008.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T008L.xml</xmlLightUrl>
+        <riskLevel4>1</riskLevel4>
+        <riskLevel3>0</riskLevel3>
+        <riskLevel2>0</riskLevel2>
+        <riskLevel1>0</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T008_1_Detail.html</mapImageUrl>
     </mail>
     <mail>
         <keyCd>161875</keyCd>
