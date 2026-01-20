@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/20 18:50:49" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/01/20 19:20:48" mailCount="22" odType="02">
+    <mail>
+        <keyCd>161902</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/20 19:05:38</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0221</cd>
+        </country>
+        <title>【注意喚起】アフリカカップ優勝記念パレードについて</title>
+        <lead>本日、1月２０日(火)以下の行程で、ダカール市内でセネガル代表チームのアフリカカップ優勝を記念するパレードが行われます。大勢の人が集まるが予想されます。外出の際は十分御注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161902</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161902A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161902.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161902L.xml</xmlLightUrl>
+        <koukanCd>717A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161901</keyCd>
         <infoType>R10</infoType>
