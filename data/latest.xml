@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/20 08:10:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/01/20 08:35:48" mailCount="18" odType="02">
+    <mail>
+        <keyCd>161896</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/20 08:15:41</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0061</cd>
+        </country>
+        <title>ゴールドコースト領事出張サービスの日程変更について</title>
+        <lead>【ポイント】
+●２月４日（水）に予定されていたゴールドコースト領事出張サービスは、諸事情により、２月２５日（水）１３時から１６時に変更となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161896</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161896A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161896.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161896L.xml</xmlLightUrl>
+        <koukanCd>614T</koukanCd>
+    </mail>
     <mail>
         <keyCd>161895</keyCd>
         <infoType>R10</infoType>
