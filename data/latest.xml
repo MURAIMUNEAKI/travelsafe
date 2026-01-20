@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/20 17:25:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/20 17:45:49" mailCount="21" odType="02">
+    <mail>
+        <keyCd>161901</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/20 17:40:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0093</cd>
+        </country>
+        <title>カブール市内における爆発事案の発生について（現地時間1月19日午後）</title>
+        <lead>○現地時間1月19日午後、首都カブール市の中心部に所在する中華料理店付近において、爆発事案が発生しました。報道等によると、この爆発により、外国人を含め少なくとも20人程の死傷者が発生したとのことです。現時点で、爆発の性質を含め、事案の詳細は明らかではありませんが、一部報道によると、ISKP（イスラム国ホラサーン州）が自爆攻撃と称し犯行声明を発表したとの情報もあります。
+○アフガニスタン全土に危険レベル４の退避勧告が発出されています。どのような目的であれアフガニスタンの渡航は止めていただくよう従来お願いしているところですが、以上の状況のように、アフガニスタンの情勢及び治安は極めて不安定かつ危険です。繰り返しになりますが、アフガニスタンへの渡航は、どのような目的であれ止めてください。既に滞在されている方は直ちに退避してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161901</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161901A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161901.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161901L.xml</xmlLightUrl>
+        <koukanCd>701A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161900</keyCd>
         <infoType>R10</infoType>
