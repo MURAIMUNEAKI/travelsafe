@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/21 19:20:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/21 19:50:48" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161918</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/21 19:50:38</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>悪天候に関する注意喚起</title>
+        <lead>○ギリシャ気象庁は、本日21日（水）から明日22日（木）にかけて、アッティカ県を含むほぼ全国での大雨や豪雨のほか、北部における強風と降雪を予報し、最も高い警戒レベルである「赤」を発令しました（4段階の警戒レベルの4）。
+○ギリシャ気候危機・市民防災省は、悪天候に対する以下の予防措置を呼びかけています。
+・テレビ、ラジオ等で最新情報を入手し、当局の指示に従う。
+・悪天候時には、不要不急の外出を控える。
+・海域や沿岸部での活動は避ける。
+・氾濫した沢や道路は、車でも徒歩でも横断しないこと。
+・強風時は、大きな木や標識等、倒れたり落下する危険性のあるものに近づかない。また、その下に駐車しない。
+・一部地域では、車のタイヤチェーン（降雪時は装着）の搭載など、滑り止め対策が義務付けられ、搭載していない場合は違反金が科せられることがある。
+・危険な時は、「112番」（緊急サービスに繋がる欧州共通緊急番号）または「100番」（警察）、「199番」（消防庁）、「166番」（救急救命）に連絡する。
+○ギリシャに滞在中の方は、以下ウェブサイト等から最新の気象情報の収集に努め、安全を確保してください。
+
+・ギリシャ気候危機・市民防災省
+https://civilprotection.gov.gr/
+・ギリシャ気象庁
+https://emy.gr/en?area=forecast　
+https://emy.gr/announcements/862　（悪天候に関する発表）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161918</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161918A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161918.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161918L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>161917</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/21 19:45:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0095</cd>
+        </country>
+        <title>選挙投票日の注意事項（在ミャンマー日本国大使館より）</title>
+        <lead>１　１月２５日、第三回総選挙が全国６１地区（うちヤンゴン地域では１７地区（参考参照））で選挙投票が行われる予定です。第二回総選挙は、選挙当日に地方部で選挙妨害行為が発生しており、ミャンマー当局の発表によれば、公務員２名が死亡し、国民１名が負傷しました。ヤンゴン市内では、大きな混乱がなく終了しましたが、今次選挙の最後になるため、予期しない事態が発生する可能性もあります。
+
+２　在留邦人の皆様におかれましては、不測の事態に巻き込まれないよう、選挙投票日当日は、公立学校などの投票所、選挙管理委員会事務所、政党関係事務所等の選挙関連施設に近づかないよう、身の回りの安全に引き続き十分注意してください。同様に、軍施設、警察署のほか、政府関連施設等の場所に近づいたり、カメラ等を向けて撮影したりしないなど、引き続き十分注意してください。
+
+（参考）
+ヤンゴン地域における対象地区１７地区 
+(1)ダゴン地区、(2)ランマドー地区、(3)セイッチーカナウント地区、(4)ダラ地区、(5)ダコンミョティ（セイカン）地区、(6)ダゴンミョティ（東）地区、(7)ミンガラタウンニュン地区、(8)タケタ地区、(9)タムエ地区、(10)北オッカラパ地区、(11)ヤンキン地区、(12)チャウタン地区、(13)カヤン地区、(14)トウングワ地区、(15)サンチャウン地区、(16)フラインターヤー（西）地区、(17)フラインターヤー（東）地区 
+
+
+■問い合わせ先：在ミャンマー日本国大使館領事班
+　電話：９５ー１ー５４９６４４～８
+　メール：ryoji@yn.mofa.go.jp</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161917</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161917A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161917.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161917L.xml</xmlLightUrl>
+        <koukanCd>601A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161916</keyCd>
         <infoType>R10</infoType>
@@ -388,31 +450,5 @@ https://satataxi.gr/48ori-apergiaki-kinitopoiisi-ton-taxi-tis-attikis-triti-20-t
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161885.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161885L.xml</xmlLightUrl>
         <koukanCd>507A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161884</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/19 19:35:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>最近の中東地域情勢に関する注意喚起</title>
-        <lead>１　2025年12月下旬以降、イラン国内で発生している抗議活動を受け、中東地域を巡る情勢について各国が自国民に対し注意喚起を行っています。本件については、1月15日付で、外務省から以下の広域情報を発出しています。
-（https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C006.html ）
-
-２　現時点でイスラエル国内において特段の具体的事案は確認されていませんが、今後の情勢推移に十分留意し、不測の事態に備え、ミサイルやロケット弾等の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
-
-３　引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161884</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161884A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161884.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161884L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
