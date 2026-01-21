@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/22 00:45:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/22 01:30:49" mailCount="20" odType="02">
+    <mail>
+        <keyCd>161921</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/22 01:15:38</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0258</cd>
+        </country>
+        <title>大雨に伴う洪水の発生に関する注意喚起</title>
+        <lead>●モザンビーク政府は、南部・中部の大雨・洪水被害について「危機的状況」と発表しました。
+●国道1号線（EN1）の一部を含む主要道路が寸断されています。
+●現在の水位は今後２週間続く見込みです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161921</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161921A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161921.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161921L.xml</xmlLightUrl>
+        <koukanCd>763A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161920</keyCd>
         <infoType>R10</infoType>
