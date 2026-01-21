@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/21 18:50:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/21 19:20:48" mailCount="19" odType="02">
+    <mail>
+        <keyCd>161916</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/21 18:55:37</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>【注意喚起】飛翔、飛来したドローン攻撃について</title>
+        <lead>１　報道によれば、１月２１日（水）未明、エルビル近郊にあるクルディスタン自由党（PAK）の本部がドローン攻撃を受け、党員１名が死亡、別の２名が負傷した被害が発生した模様です。
+
+２　ドローンの飛翔、飛来を確認した場合は、以下の方法で身の安全を守ってください。
+・コンクリート等の頑丈な建物内待機。
+・窓から離れ、バスルーム等の二重の壁に守られた場所に待機する。
+・屋外の場合は、頑丈な遮蔽物に隠れる。
+・墜落場所には近づかない。
+
+３　以下の注意事項を参考に、御自身及び御家族の安全に十分配慮した行動を心掛けていただけますようお願いいたします。
+(1)　当地の各種報道等より最新の安全情報を入手するようにし、安全な行動を心掛ける。
+(2)　集会が行われている場所には近づかない。
+(3)　攻撃の標的となりやすい場所(政党関連施設、政府機関、軍・警察等治安当局施設(車両、検問所等を含む））には近づかないようにし、その他の場所(レストラン、マーケット、報道機関、バス停、大型商業施設等)への立寄も、短時間で効率的に行なうように心掛け、常に周囲の状況に注意を払い、不審な状況を察知した場合には速やかにその場から離れるようにする。
+
+４　つきましては、今後も引き続き上記のような事案が発生する可能性が考えられるため、報道や警備会社などを通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161916</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161916A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161916.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161916L.xml</xmlLightUrl>
+        <koukanCd>704W</koukanCd>
+    </mail>
     <mail>
         <keyCd>161912</keyCd>
         <infoType>R10</infoType>
@@ -383,24 +414,5 @@ https://satataxi.gr/48ori-apergiaki-kinitopoiisi-ton-taxi-tis-attikis-triti-20-t
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161884.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161884L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161882</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/19 19:10:40</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0084</cd>
-        </country>
-        <title>テト（旧正月）に向けた犯罪被害防止に関する注意喚起</title>
-        <lead>●テト（旧正月）の前後は、スリ、ひったくり等の犯罪が増える傾向があると言われています。犯罪被害や様々なトラブルに巻き込まれないようにご注意ください。
-●大型連休時にハノイ市内においてスリやひったくりの盗難被害や旅券の紛失事案なども発生しております。貴重品の管理の徹底をお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161882</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161882A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161882.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161882L.xml</xmlLightUrl>
-        <koukanCd>620A</koukanCd>
     </mail>
 </opendata>
