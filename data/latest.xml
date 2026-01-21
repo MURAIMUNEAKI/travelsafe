@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/21 22:55:48" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/01/21 23:25:48" mailCount="20" odType="02">
     <mail>
         <keyCd>161920</keyCd>
         <infoType>R10</infoType>
@@ -460,23 +460,5 @@ https://www.cts-strasbourg.eu/fr/
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161888.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161888L.xml</xmlLightUrl>
         <koukanCd>720A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161886</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/19 23:05:39</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0256</cd>
-        </country>
-        <title>注意喚起：大統領・議会選挙後について</title>
-        <lead>1月15日総選挙（大統領選挙、議会選挙）が実施され、18日に大統領選の結果が発表されました。その後インターネット遮断が解除され、週が明けた本19日までカンパラ市内は平穏を保っています。しかし、現在までに野党支持者による小規模な抗議デモが数件発生し16日までに12人が死亡したとの報道があり、今後も支援者、治安部隊の衝突等により治安が乱れる可能性は否定できません。つきましては、引き続き報道等最新の治安情報を入手し自らの安全確保に十分ご注意するようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161886</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161886A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161886.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161886L.xml</xmlLightUrl>
-        <koukanCd>764A</koukanCd>
     </mail>
 </opendata>
