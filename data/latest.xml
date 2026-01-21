@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/21 19:50:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/01/21 20:25:48" mailCount="21" odType="02">
+    <mail>
+        <keyCd>161919</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/21 20:20:39</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>モディ首相訪問に伴うチェンナイ国際空港（MAA）の警戒強化について</title>
+        <lead>１．報道によりますと、本年１月23日、モディ首相がタミル・ナド州チェンガルパットゥ県マドゥランタガムを訪問することに伴い、20日から23日までの４日間、チェンナイ空港の警備が強化されます。
+
+２．また、１月23日午後においては、空港や集会場付近において、大規模な交通規制が敷かれます。付近を通行予定の方や空港ご利用予定の方におかれましては、時間に十分余裕を持って行動してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161919</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161919A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161919.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161919L.xml</xmlLightUrl>
+        <koukanCd>606T</koukanCd>
+    </mail>
     <mail>
         <keyCd>161918</keyCd>
         <infoType>R10</infoType>
