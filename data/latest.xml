@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/21 11:55:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/21 12:35:47" mailCount="19" odType="02">
+    <mail>
+        <keyCd>161912</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/21 12:20:47</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0086</cd>
+        </country>
+        <title>春節期間中の安全対策及び当館の連絡先について</title>
+        <lead>１　春節期間中の安全対策について
+
+　中国国内では、２月１５日（日）から２３日（月）まで、春節に伴う大型連休（当館も休館）となります（２月１４日（土）は当館も振替出勤日です。）。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161912</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161912A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161912.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161912L.xml</xmlLightUrl>
+        <koukanCd>619D</koukanCd>
+    </mail>
     <mail>
         <keyCd>161908</keyCd>
         <infoType>R10</infoType>
@@ -382,24 +402,5 @@ https://satataxi.gr/48ori-apergiaki-kinitopoiisi-ton-taxi-tis-attikis-triti-20-t
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161882.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161882L.xml</xmlLightUrl>
         <koukanCd>620A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161881</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/19 12:15:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0502</cd>
-        </country>
-        <title>グアテマラ全土に対する非常事態宣言発令について</title>
-        <lead>◆１８日（日）夕刻、グアテマラ政府は、刑務所での暴動及び国家文民警察（PNC）隊員への襲撃事件を受けてグアテマラ国土の全域に対して、本日から３０日間の非常事態を宣言（Estado de sitio）することを発表しました。
-◆危険な事件に巻き込まれないために、政府発表及び報道を注視するとともに、日常的に行動する場所においても、不要不急の外出は避けるようにお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161881</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161881A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161881.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161881L.xml</xmlLightUrl>
-        <koukanCd>418A</koukanCd>
     </mail>
 </opendata>
