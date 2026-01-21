@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/22 05:25:47" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/22 05:50:48" mailCount="18" odType="02">
     <mail>
         <keyCd>161921</keyCd>
         <infoType>R10</infoType>
@@ -403,31 +403,5 @@ https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161892.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161892L.xml</xmlLightUrl>
         <koukanCd>412A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161891</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/20 05:50:37</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0056</cd>
-        </country>
-        <title>チリ中南部における大規模森林火災について（続報）</title>
-        <lead>以下のとおり、チリ中南部において継続している大規模森林火災に関し、注意喚起いたします。
-
-１　１月１８日既報のとおり、ビオビオ州及びニュブレ州を中心に多数の森林火災が発生し、広範囲で延焼が続いています。これらの火災により、住宅・インフラへの重大な被害、避難者の発生、そして複数の死者が報告されています。なお、同地域では依然として多くの消防隊・防災部隊が消火活動にあたっています。
-２　チリ国家防災対策庁（SENAPRED）は、本日１月１９日午後、ラ・アラウカニア州テムコ市において森林火災により赤色警報（最も危険度の高い警戒レベル）を宣言しました。これは、火災が住宅地に近い場所で発生していることを受けた措置です。
-３　この赤色警報は、テムコ市全域に対し現在発出されており、火災の状況が安全と判断されるまで継続される見込みです。
-４　なお、ビオビオ州及びニュブレ州では引き続き多数の火災が並行して発生しており、当該地域全体に赤色警報が維持されています。
-５　つきましては、テムコ市及びその周辺地域、そして先にお知らせしたビオビオ州及びニュブレ州の火災影響地域には、現在も強い危険が存在しますので、不要不急の立ち入り・移動は控えてください。特に現場付近では煙や火災による交通規制、避難勧告等が出される可能性があります。
-６　引き続き、テレビ・ラジオ・インターネット等を通じて当局発表の最新情報を入手し、避難指示・外出制限等が出された場合には必ず従ってください。
-７　万が一、被害を受けた場合、又は被害を受けた邦人に関する情報をお持ちの場合には、速やかに在チリ日本国大使館までご連絡くださいますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161891</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161891A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161891.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161891L.xml</xmlLightUrl>
-        <koukanCd>404A</koukanCd>
     </mail>
 </opendata>
