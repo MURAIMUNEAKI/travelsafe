@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/22 05:50:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/22 06:20:48" mailCount="15" odType="02">
     <mail>
         <keyCd>161921</keyCd>
         <infoType>R10</infoType>
@@ -346,62 +346,5 @@ https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161895.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161895L.xml</xmlLightUrl>
         <koukanCd>418A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161894</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/20 06:15:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0051</cd>
-        </country>
-        <title>ラ・リベルタ州の一部地域に対する治安対策のための非常事態宣言の延長</title>
-        <lead>●ペルー政府は、ラ・リベルタ州トルヒーヨ郡とビル郡に対し、1月19日から60日間、治安対策のための非常事態宣言の延長を官報に告示しました。
-●同宣言により、憲法で保障された権利の一部が制限されます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161894</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161894A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161894.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161894L.xml</xmlLightUrl>
-        <koukanCd>412A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161893</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/20 06:05:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0051</cd>
-        </country>
-        <title>トゥンベス州の一部地域に対する治安対策のための非常事態宣言の延長</title>
-        <lead>●ペルー政府は、トゥンベス州トゥンベス郡とサルミージャ郡に対し、1月19日から60日間、治安対策のための非常事態宣言を延長しました。
-●同宣言により、憲法で保障された権利の一部が制限されます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161893</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161893A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161893.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161893L.xml</xmlLightUrl>
-        <koukanCd>412A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161892</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/20 06:00:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0051</cd>
-        </country>
-        <title>リマ市及びカヤオ憲法特別市に対する治安対策のための非常事態宣言の延長</title>
-        <lead>○ペルー政府は、リマ市及びカヤオ憲法特別市に対し、1月20日から30日間、治安対策のための非常事態宣言を延長しました。
-○今回の宣言により、治安当局が犯罪捜査を目的として、検問等で令状無く所持品の検査や車両内の捜索を行う可能性があります。外出時は身分証を必ず携行するようにしてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161892</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161892A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161892.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161892L.xml</xmlLightUrl>
-        <koukanCd>412A</koukanCd>
     </mail>
 </opendata>
