@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/22 08:45:48" mailCount="14" odType="02">
+<opendata dataType="L" lastModified="2026/01/22 09:30:50" mailCount="15" odType="02">
+    <mail>
+        <keyCd>161926</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/22 09:05:43</leaveDate>
+        <title>寒波に伴う降雪等に関する注意喚起</title>
+        <lead>○オクラホマ州及びテキサス州北部では１月２３日（金）から、テキサス州のその他の地域では１月２４日（土）から、寒波に伴う降雪等の予報がでており、公共交通機関の運休、積雪・凍結による道路状況の悪化、電気・ガス・水道等のライフラインへの影響が懸念されています。
+○気象、公共交通機関、道路、ライフライン等の情報を収集するとともに、お住まいの地域の行政機関からのStay Home等の指示に従って、十分注意してください。
+○この寒波に伴う降雪等の影響により当館が臨時閉館する場合には、別途メールにてお知らせいたします（通常どおり開館する場合には、お知らせいたしません）。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161926</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161926A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161926.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161926L.xml</xmlLightUrl>
+        <koukanCd>301T</koukanCd>
+    </mail>
     <mail>
         <keyCd>161925</keyCd>
         <infoType>R10</infoType>
