@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/22 18:45:48" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/22 19:25:48" mailCount="16" odType="02">
+    <mail>
+        <keyCd>161932</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/22 19:10:44</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0061</cd>
+        </country>
+        <title>ニューサウスウェールズ州セントラルウェストでの銃撃事件に伴う注意喚起</title>
+        <lead>・２２日午後４時４０分頃、ニューサウスウェールズ州セントラルウェスト(カージェリゴ湖近郊)で銃撃事件が発生し、死傷者が出ている旨報じられています。
+・銃撃犯は現在も逃走中であり、警察は付近の住民に屋内に留まり、付近に近づかないよう呼びかけています。
+・在留邦人や在留邦人旅行者の方々におかれては、警察の指示に従い、二次被害を防ぐためにも現場周辺には近づかず、屋内に留まってください。
+・また、報道等において最新の情報を入手に努めてください。
+・万が一被害に遭った場合や邦人の被害を認知した場合は、警察（000番）に通報し、対応を依頼するとともに、当館までご一報ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161932</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161932A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161932.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161932L.xml</xmlLightUrl>
+        <koukanCd>614D</koukanCd>
+    </mail>
     <mail>
         <keyCd>161931</keyCd>
         <infoType>R10</infoType>
@@ -34,7 +56,7 @@
         </country>
         <title>バリ州、西ヌサトゥンガラ州、東ヌサトゥンガラ州における豪雨、強風、高波への注意</title>
         <lead>●インドネシア気象庁（BMKG）は、地域によって期間が多少ことなりますが１月２７日までの期間、バリ州において、西ヌサトゥンガラ州（NTB州）及び東ヌサトゥンガラ州（NTT州）で豪雨、強風、高波に注意を呼びかけています。
-●昨年１月２６日夜にはNTT州コモド国立公園内の海域で高波により観光船が沈没し4名の外国人乗客が行方不明となる事故が発生しています。また、バリにおいてもレンボガン島やヌサペニダ島等に向かうスピードボートの事故が頻繁に発生しています。
+●昨年１2月２６日夜にはNTT州コモド国立公園内の海域で高波により観光船が沈没し4名の外国人乗客が行方不明となる事故が発生しています。また、バリにおいてもレンボガン島やヌサペニダ島等に向かうスピードボートの事故が頻繁に発生しています。
 ●既に豪雨、強風、高波による低地への浸水により死者を含む被害が発生しています。洪水等の水害、倒木、土砂崩れ、海水浴やサーフィン、船舶でのクルーズ、シュノーケリング、ダイビング等の海での活動には十分な注意をしてください。
 ●今後も BMKG（https://www.bmkg.go.id/ ）等からの情報収集を行うと共に、安全対策に努めてください。
 ●被災時の緊急通報先（各州BPBD災害対策庁）は以下のとおりです。
@@ -349,23 +371,5 @@ https://emy.gr/announcements/862　（悪天候に関する発表）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161907.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161907L.xml</xmlLightUrl>
         <koukanCd>710A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161902</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/20 19:05:38</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0221</cd>
-        </country>
-        <title>【注意喚起】アフリカカップ優勝記念パレードについて</title>
-        <lead>本日、1月２０日(火)以下の行程で、ダカール市内でセネガル代表チームのアフリカカップ優勝を記念するパレードが行われます。大勢の人が集まるが予想されます。外出の際は十分御注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161902</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161902A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161902.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161902L.xml</xmlLightUrl>
-        <koukanCd>717A</koukanCd>
     </mail>
 </opendata>
