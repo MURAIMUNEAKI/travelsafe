@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/23 01:50:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/23 02:25:48" mailCount="16" odType="02">
     <mail>
         <keyCd>161936</keyCd>
         <infoType>R10</infoType>
@@ -365,52 +365,5 @@ https://emy.gr/announcements/862　（悪天候に関する発表）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161912.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161912L.xml</xmlLightUrl>
         <koukanCd>619D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161908</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/21 01:50:52</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0242</cd>
-        </country>
-        <title>コンゴ共和国大統領警護隊によるニンジャ民兵の掃討作戦実施とコンゴ民主共和国への避難民発生（注意喚起）</title>
-        <lead>１　報道によれば、１月１１日にコンゴ共和国の反政府武装勢力「ニンジャ（Ninja）」が、プール県ミンドゥリ近郊の国道１号線で大統領警護隊を攻撃したことに端を発し、大統領警護隊と同勢力との散発的な衝突が発生しているとのことです。なお、コンゴ共和国は、今年３月に実施される大統領選挙に向け、治安当局による反政府武装勢力や犯罪者集団への取締りを強化しているところです。
-
-２　現在、「ニンジャ」の活動エリアであるコンゴ共和国プール県南部及びブエンザ県東部には渡航中止勧告（レベル３）を発出しています。引き続き、これらの地域への渡航はどのような目的であっても止めてください。
-
-３　また、この衝突の発生によって、周辺住民約１，３００人がコンゴ民主共和国中央コンゴ州のルオジ方面に越境避難してきているとの報道もあります。避難民の流入によって、同地域における治安や衛生状態が悪化する可能性もありますので、テレビ、ラジオ、インターネット等を利用して、最新の情報収集に努めて下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161908</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161908A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161908.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161908L.xml</xmlLightUrl>
-        <koukanCd>710D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161907</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/21 01:50:52</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0242</cd>
-        </country>
-        <country areaCd="60">
-            <cd>0243</cd>
-        </country>
-        <title>コンゴ共和国大統領警護隊によるニンジャ民兵の掃討作戦実施とコンゴ民主共和国への避難民発生（注意喚起）</title>
-        <lead>１　報道によれば、１月１１日にコンゴ共和国の反政府武装勢力「ニンジャ（Ninja）」が、プール県ミンドゥリ近郊の国道１号線で大統領警護隊を攻撃したことに端を発し、大統領警護隊と同勢力との散発的な衝突が発生しているとのことです。なお、コンゴ共和国は、今年３月に実施される大統領選挙に向け、治安当局による反政府武装勢力や犯罪者集団への取締りを強化しているところです。
-
-２　現在、「ニンジャ」の活動エリアであるコンゴ共和国プール県南部及びブエンザ県東部には渡航中止勧告（レベル３）を発出しています。引き続き、これらの地域への渡航はどのような目的であっても止めてください。
-
-３　また、この衝突の発生によって、周辺住民約１，３００人がコンゴ民主共和国中央コンゴ州のルオジ方面に越境避難してきているとの報道もあります。避難民の流入によって、同地域における治安や衛生状態が悪化する可能性もありますので、テレビ、ラジオ、インターネット等を利用して、最新の情報収集に努めて下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161907</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161907A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161907.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161907L.xml</xmlLightUrl>
-        <koukanCd>710A</koukanCd>
     </mail>
 </opendata>
