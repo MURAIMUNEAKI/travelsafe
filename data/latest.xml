@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/22 16:40:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/01/22 17:30:51" mailCount="16" odType="02">
     <mail>
         <keyCd>161929</keyCd>
         <infoType>R10</infoType>
@@ -364,26 +364,5 @@ https://emy.gr/announcements/862　（悪天候に関する発表）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161901.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161901L.xml</xmlLightUrl>
         <koukanCd>701A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161900</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/20 17:15:41</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0020</cd>
-        </country>
-        <title>当館の開館日・閉館日の変更（お知らせ）</title>
-        <lead>エジプト政府が「1月25日革命記念日」に際する公休日を同月29日（木）に変更する旨を発表したことを受け、当初閉館日としていた1月25日（日）を開館日とし、1月29日（木）を閉館日とすることに変更いたしますので、お知らせいたします。
-
-（参照アドレス：2026年の当館閉館日）
-https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161900</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161900A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161900.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161900L.xml</xmlLightUrl>
-        <koukanCd>720A</koukanCd>
     </mail>
 </opendata>
