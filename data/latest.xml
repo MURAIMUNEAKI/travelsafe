@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/23 11:40:48" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/01/23 12:40:48" mailCount="20" odType="02">
     <mail>
         <keyCd>161946</keyCd>
         <infoType>R10</infoType>
@@ -436,25 +436,5 @@ https://emy.gr/announcements/862　（悪天候に関する発表）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161916.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161916L.xml</xmlLightUrl>
         <koukanCd>704W</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161912</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/21 12:20:47</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0086</cd>
-        </country>
-        <title>春節期間中の安全対策及び当館の連絡先について</title>
-        <lead>１　春節期間中の安全対策について
-
-　中国国内では、２月１５日（日）から２３日（月）まで、春節に伴う大型連休（当館も休館）となります（２月１４日（土）は当館も振替出勤日です。）。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161912</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161912A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161912.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161912L.xml</xmlLightUrl>
-        <koukanCd>619D</koukanCd>
     </mail>
 </opendata>
