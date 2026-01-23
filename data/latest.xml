@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/23 22:30:49" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/01/23 22:50:48" mailCount="23" odType="02">
+    <mail>
+        <keyCd>162106</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/23 22:45:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>第51回衆議院議員総選挙及び第27回最高裁判所裁判官国民審査に伴う在外投票の実施について（予定）</title>
+        <lead>第51回衆議院議員総選挙及び第27回最高裁判所裁判官国民審査に伴う在外投票の実施（予定）について、以下のとおりお知らせします。
+
+○ 公示日：1月27日（火）（予定）
+
+○ 当館における在外公館等投票
+　投票期間：1月28日（水）から2月1日（日）まで（予定）
+　　　　　＊週末も投票が可能です。
+　投票時間：09:30～17:00
+　投票場所：在チェンナイ日本国総領事館
+　投票に必要なもの：（１）在外選挙人証　（２）パスポート等の写真付き身分証明書（要原本）
+
+在外公館等投票を実施している公館であれば、お住まいの国でなくても投票できます。実施公館の投票期間・時間については、外務省ホームページ(
+https://www.mofa.go.jp/mofaj/ca/ov/page3_000718.html)をご確認ください。
+
+○ 日本国内の投票日：2月8日（日）（予定）
+
+在外選挙人証をお持ちの方は、「在外公館等投票」、「郵便等投票」、「日本国内における投票」のうちいずれかを選択して投票してください。
+
+詳しくは当当館ホームページ（　https://www.chennai.in.emb-japan.go.jp/itpr_ja/00_000019.html　）を御覧ください。
+
+○在外選挙人登録について
+在外投票を行うには、事前に在外選挙人登録を行い、在外選挙人証を受領いただく必要があります。詳細については、当館ホームページ（　https://www.chennai.in.emb-japan.go.jp/itpr_ja/00_000019.html　）を御参照ください。現在申請中の方、及び、今後申請される方については可能な限り速やかに対応するようにいたしますが、登録に必要な時間は個別の申請により異なりますので、必要な方については、お気軽に申請された在外公館まで御相談ください。なお、衆議院選挙の期日の公示日から選挙の期日（投票日）までの期間においては、市区町村の選挙管理委員会における在外選挙人登録は行わないこととなっておりますのでご注意ください。また、万が一、在外選挙人登録を申請してから２か月以上、申請された在外公館から連絡が無い場合は
+、お手数ですが、申請された在外公館までご連絡いただけますよう、お願いいたします。
+</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162106</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162106A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162106.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162106L.xml</xmlLightUrl>
+        <koukanCd>606T</koukanCd>
+    </mail>
     <mail>
         <keyCd>162100</keyCd>
         <infoType>R10</infoType>
