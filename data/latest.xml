@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/24 07:15:48" mailCount="28" odType="02">
+<opendata dataType="L" lastModified="2026/01/24 07:45:48" mailCount="27" odType="02">
     <mail>
         <keyCd>162179</keyCd>
         <infoType>R10</infoType>
@@ -600,24 +600,5 @@ https://www.th.emb-japan.go.jp/itprtop_ja/index.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161926.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161926L.xml</xmlLightUrl>
         <koukanCd>301T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161925</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/22 07:35:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0055</cd>
-        </country>
-        <title>治安情報：マナウス市北部Cidade de Deus地区自然博物館ムーザ（MUSA）で発生した強盗事件</title>
-        <lead>１　発生日時
-２０２６年１月１８日（日）夕刻（具体時刻未詳）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161925</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161925A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161925.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161925L.xml</xmlLightUrl>
-        <koukanCd>403T</koukanCd>
     </mail>
 </opendata>
