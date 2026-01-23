@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/24 02:15:49" mailCount="25" odType="02">
+<opendata dataType="L" lastModified="2026/01/24 02:40:49" mailCount="26" odType="02">
+    <mail>
+        <keyCd>162165</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/24 02:25:42</leaveDate>
+        <title>寒波に伴う降雪・凍結等に関する注意喚起</title>
+        <lead>●ケンタッキー州、テネシー州、ミシシッピ州、アーカンソー州、ルイジアナ州及び当館周辺州の各州知事は、今週末から予想される寒波に関し、非常事態宣言を発出しています。
+●特に、積雪・凍結による道路状況の悪化、電気・ガス・水道等のライフラインへの影響が懸念されております。
+●気象、公共交通機関、道路、ライフライン等の情報を収集するとともに、お住まいの地域の行政機関アドバイザリー等を参考に、十分な備えをお願いします。
+●この寒波に伴う降雪等の影響により当館が臨時閉館する場合には、別途お知らせいたします（通常どおり開館する場合には、お知らせしません）。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162165</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162165A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162165.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162165L.xml</xmlLightUrl>
+        <koukanCd>301X</koukanCd>
+    </mail>
     <mail>
         <keyCd>162148</keyCd>
         <infoType>R10</infoType>
