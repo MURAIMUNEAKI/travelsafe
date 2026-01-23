@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/23 22:00:48" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/01/23 22:30:49" mailCount="22" odType="02">
+    <mail>
+        <keyCd>162100</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/23 22:30:47</leaveDate>
+        <title>寒波に伴う降雪等に関する注意喚起</title>
+        <lead>●バージニア州知事は今週末から予想される寒波に関し、非常事態を宣言しました。また、メリーランド州知事は寒波への準備を宣言しました。
+●今後の気象情報に十分な注意をお願いいたします。
+●降雪等の影響により当館が臨時閉館する場合には、別途お知らせいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162100</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162100A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162100.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162100L.xml</xmlLightUrl>
+        <koukanCd>301A</koukanCd>
+    </mail>
     <mail>
         <keyCd>161977</keyCd>
         <infoType>R10</infoType>
@@ -428,36 +442,5 @@ https://www.th.emb-japan.go.jp/itprtop_ja/index.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161921.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161921L.xml</xmlLightUrl>
         <koukanCd>763A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161920</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/21 22:30:38</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0964</cd>
-        </country>
-        <title>【注意喚起】エルビル近郊に飛翔、飛来したドローン攻撃について</title>
-        <lead>１　報道によれば、１月21日（水）未明、エルビル近郊にあるクルディスタン自由党（PAK）の本部がドローン攻撃を受け、党員１名が死亡、別の２名が負傷した被害が発生した模様です。
-
-２　ドローンの飛翔、飛来を確認した場合は、以下の方法で身の安全を守ってください。
-・コンクリート等の頑丈な建物内待機。
-・窓から離れ、バスルーム等の二重の壁に守られた場所に待機する。
-・屋外の場合は、頑丈な遮蔽物に隠れる。
-・墜落場所には近づかない。
-
-３　以下の注意事項を参考に、御自身及び御家族の安全に十分配慮した行動を心掛けていただけますようお願いいたします。
-(１)　当地の各種報道等より最新の安全情報を入手するようにし、安全な行動を心掛ける。
-(２)　集会が行われている場所には近づかない。
-(３)　攻撃の標的となりやすい場所(政党関連施設、政府機関、軍・警察等治安当局施設(車両、検問所等を含む））には近づかないようにし、その他の場所(レストラン、マーケット、報道機関、バス停、大型商業施設等)への立寄も、短時間で効率的に行なうように心掛け、常に周囲の状況に注意を払い、不審な状況を察知した場合には速やかにその場から離れるようにする。
-
-４　ドローン攻撃についてはエルビル以外の地域でも発生する可能性はありますので、報道や警備会社などを通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161920</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161920A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161920.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161920L.xml</xmlLightUrl>
-        <koukanCd>704A</koukanCd>
     </mail>
 </opendata>
