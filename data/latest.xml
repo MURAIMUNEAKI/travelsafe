@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/24 03:45:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/01/24 04:20:48" mailCount="28" odType="02">
+    <mail>
+        <keyCd>162179</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/24 04:20:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0055</cd>
+        </country>
+        <title>令和７年度海外安全対策セミナー開催のお知らせ（動画配信）</title>
+        <lead>●外務省は、在サンパウロ日本国総領事館及び在マナウス日本国総領事館の管轄地域にお住まいの在留邦人の方を主な対象として、海外安全対策セミナーをオンデマンド形式（動画配信）で開催いたします。
+●視聴は令和８年１月２３日から３月１３日（金）２４：００【サンパウロ時間】まで可能です。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162179</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162179A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162179.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162179L.xml</xmlLightUrl>
+        <koukanCd>403T</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162173</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/24 03:55:55</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>1340</cd>
+        </country>
+        <country areaCd="33">
+            <cd>1787</cd>
+        </country>
+        <title>【注意喚起】暴風雪（Winter Storm）の接近及び寒波の襲来</title>
+        <lead>●1月23日現在、米国国立気象局（National Weather Service）は、米国北東部の一部地域に、暴風雪注意報（Winter Storm Watch）や低温注意報（Cold Weather Advisory）を発令しています。
+●今後、低気圧は勢力を強めながら東に進み、1月24日（土）夕方から26日（月）夜にかけて、米国北東部の広い範囲で、大雪を伴う広域的な悪天候となる見込みであり、暴風雪警報（Winter Storm Warning）や極寒警報（Extreme Cold Warning）等の対象範囲が拡大する可能性があります。
+●突風、積雪、路面の凍結等により、航空便や列車など公共交通機関の運休・遅延のほか、広範囲にわたり停電が発生する恐れがあります。
+●最新の気象情報や運航情報、関係当局の発表を確認するとともに、身の安全を第一に考え、不要不急の外出は控える、十分な備蓄品（食料、燃料、電池など）を用意する等、不測の事態に備えてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162173</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162173A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162173.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162173L.xml</xmlLightUrl>
+        <koukanCd>301H</koukanCd>
+    </mail>
     <mail>
         <keyCd>162165</keyCd>
         <infoType>R10</infoType>
