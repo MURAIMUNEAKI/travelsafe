@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/24 00:50:48" mailCount="25" odType="02">
+<opendata dataType="L" lastModified="2026/01/24 01:25:48" mailCount="25" odType="02">
+    <mail>
+        <keyCd>162148</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/24 01:20:38</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0352</cd>
+        </country>
+        <title>第５１回衆議院総選挙及び第２７回最高裁判所裁判官国民審査に伴う在外投票の実施（予定）</title>
+        <lead>第５１回衆議院総選挙及び第２７回最高裁判所裁判官国民審査に伴う在外投票の実施（予定）について、以下のとおりお知らせします。
+
+○公示日：１月２７日（火）（予定）
+
+○当館における在外公館投票
+　投票期間：１月２８日（水）から１月３１日（土）まで（予定）
+　投票時間：０９：３０～１７：００
+　投票場所：在ルクセンブルク日本国大使館　広報文化スペース
+　投票に必要なもの：（１）在外選挙認証　（２）パスポート等の写真付き身分証明書
+　在外公館等投票を実施している公館であれば、お住まいの国出なくても投票出来ます。実施公館の投票期間・時間については、外務省ホームページ　　をご確認下さい。（https://www.mofa.go.jp/mofaj/ca/ov/page3_000718.html）
+
+○日本国内の投票日：２月８日（日）（予定）
+
+在外選挙認証をお持ちの方は、「在外公館等投票」、「郵便等投票」、「日本国内における投票」のいずれかを選択して投票してください。
+詳しくは外務省ホームページをご確認ください。
+（https://www.mofa.go.jp/mofaj/ca/ov/page25_002033.html）
+
+○在外選挙人登録について
+在外投票を行うには、事前に在外選挙人登録を行い、在外選挙人証を受領いただく必要があります。詳細については、外務省ホームページをご参照ください。現在申請中の方、及び、今後申請される方については可能な限り速やかに対応するようにいたしますが、登録に必要な時間は個別の申請により異なりますので、必要な方については、お気軽に申請された在外公館までご相談ください。なお、衆議院選挙期日の公示日から選挙の期日（投票日）までの期間においては、市区町村の選挙管理委員会における在外選挙人登録は行わないこととなっておりますのでご注意ください。また、万が一、在外選挙人登録を申請してから２か月以上、申請された在外公館から連絡が無い場合は、お手数ですが、申請された在外公館までご連絡いただ
+きますよう、お願いいたします。
+（https://www.mofa.go.jp/mofaj/toko/senkyo/flow2.html）
+
+このメールは、在留届・たびレジにて届けられたメールアドレスに自動的に配信されております。
+</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162148</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162148A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162148.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162148L.xml</xmlLightUrl>
+        <koukanCd>526A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162113</keyCd>
         <infoType>R10</infoType>
@@ -520,25 +561,5 @@ https://www.th.emb-japan.go.jp/itprtop_ja/index.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161925.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161925L.xml</xmlLightUrl>
         <koukanCd>403T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161921</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/22 01:15:38</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0258</cd>
-        </country>
-        <title>大雨に伴う洪水の発生に関する注意喚起</title>
-        <lead>●モザンビーク政府は、南部・中部の大雨・洪水被害について「危機的状況」と発表しました。
-●国道1号線（EN1）の一部を含む主要道路が寸断されています。
-●現在の水位は今後２週間続く見込みです。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161921</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161921A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161921.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161921L.xml</xmlLightUrl>
-        <koukanCd>763A</koukanCd>
     </mail>
 </opendata>
