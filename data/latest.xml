@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/24 23:45:48" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/01/25 00:20:48" mailCount="21" odType="02">
     <mail>
         <keyCd>162208</keyCd>
         <infoType>R10</infoType>
@@ -465,59 +465,5 @@ https://x.com/BLRAirport/status/2013833211487625427/photo/1</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161936.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161936L.xml</xmlLightUrl>
         <koukanCd>718A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>2026T010</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢 テロ 戦争 一般情報</contentInfo>
-        <leaveDate>2026/01/23 00:00:00</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0967</cd>
-        </country>
-        <title>イエメンの危険情報【危険レベル継続】（内容更新）</title>
-        <lead>イエメン全土（ソコトラ島を含む）の危険情報について、レベル4（退避勧告）を継続しています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T010.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T010A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T010.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T010L.xml</xmlLightUrl>
-        <riskLevel4>1</riskLevel4>
-        <riskLevel3>0</riskLevel3>
-        <riskLevel2>0</riskLevel2>
-        <riskLevel1>0</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T010_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>2026T009</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢 テロ 一般情報</contentInfo>
-        <leaveDate>2026/01/23 00:00:00</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0212</cd>
-        </country>
-        <title>モロッコの危険情報【危険レベル継続】（内容の更新）</title>
-        <lead>モロッコの危険情報について、レベル１（十分注意してください）を継続しつつ、記載内容を更新しました。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T009.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T009A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T009.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T009L.xml</xmlLightUrl>
-        <riskLevel4>0</riskLevel4>
-        <riskLevel3>0</riskLevel3>
-        <riskLevel2>0</riskLevel2>
-        <riskLevel1>1</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T009_1_Detail.html</mapImageUrl>
     </mail>
 </opendata>
