@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/25 05:45:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/25 06:15:48" mailCount="18" odType="02">
     <mail>
         <keyCd>162213</keyCd>
         <infoType>R10</infoType>
@@ -411,20 +411,5 @@ https://x.com/BLRAirport/status/2013833211487625427/photo/1</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161942.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161942L.xml</xmlLightUrl>
         <koukanCd>410D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161941</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/23 06:00:43</leaveDate>
-        <title>寒波に伴う降雪・凍結等に関する注意喚起</title>
-        <lead>●ジョージア州、ノースカロライナ州及びサウスカロライナ州の各州知事は、今週末から予想される寒波に関し、非常事態を宣言しました。
-●公共交通機関等の運休、積雪・凍結による道路状況の悪化、電気・ガス・水道等のライフラインへの影響が懸念されております。
-●気象、公共交通機関、道路、ライフライン等の情報を収集するとともに、お住まいの地域の行政機関からの指示に従って、十分注意してください。
-●この寒波に伴う降雪等の影響により当館が臨時閉館する場合には、別途メールにてお知らせいたします（通常どおり開館する場合には、お知らせいたしません）。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161941</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161941A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161941.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161941L.xml</xmlLightUrl>
-        <koukanCd>301K</koukanCd>
     </mail>
 </opendata>
