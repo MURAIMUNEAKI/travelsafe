@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/24 21:55:48" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/01/24 22:25:48" mailCount="23" odType="02">
     <mail>
         <keyCd>162208</keyCd>
         <infoType>R10</infoType>
@@ -519,27 +519,5 @@ https://x.com/BLRAirport/status/2013833211487625427/photo/1</lead>
         <infectionLevel2>0</infectionLevel2>
         <infectionLevel1>0</infectionLevel1>
         <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T009_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>161935</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/22 22:10:38</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0256</cd>
-        </country>
-        <title>注意喚起：地方選挙について</title>
-        <lead>1月22日首長、議会選挙が実施されており、今後、支援者、治安部隊の衝突等により治安が乱れる可能性は否定できません。 
-報道等最新の治安情報を入手し自らの安全確保に十分ご注意をお願いいたします。 
-
-2026年大統領選挙、議会選挙及び地方選挙の投票日程のサイト 
-https://www.ec.or.ug/sites/default/files/press/Press%20Release%20Appointment%20of%20Polling%20Dates%20for%202026%20General%20Elections%20%28Revised.7.1.26%29.pdf</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161935</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161935A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161935.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161935L.xml</xmlLightUrl>
-        <koukanCd>764A</koukanCd>
     </mail>
 </opendata>
