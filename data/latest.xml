@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/24 10:15:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/01/24 11:05:48" mailCount="26" odType="02">
+    <mail>
+        <keyCd>162206</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/24 10:25:39</leaveDate>
+        <title>臨時休館のお知らせ（１月２６日（月））</title>
+        <lead>○１月２３日（金）、米国国立気象局がヒューストン市を含む地域に対し、１月２４日（土）午後６時から２５日（日）午後６時までの間、冬期暴風雪警報（Winter Storm Warning）を発令しました。
+○ホイットマイヤー・ヒューストン市長は、市内のエッセンシャル・ワーカー以外の市民に対し、外出を抑制するよう要請しました。また、１月２６日（月）、ヒューストン市内の一部の公共機関も臨時閉庁する予定です。
+○これを受け、１月２６日（月）、当館は臨時閉館しますのでお知らせします。
+○引き続き、気象、公共交通機関、道路、ライフライン等の情報を収集するとともに、お住まいの地域の行政機関からの「Stay Home」の指示に従う等、十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162206</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162206A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162206.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162206L.xml</xmlLightUrl>
+        <koukanCd>301T</koukanCd>
+    </mail>
     <mail>
         <keyCd>162179</keyCd>
         <infoType>R10</infoType>
@@ -566,25 +581,5 @@ https://www.th.emb-japan.go.jp/itprtop_ja/index.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161928.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161928L.xml</xmlLightUrl>
         <koukanCd>612A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161927</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/22 11:00:43</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>デモ情報（マカッサル市：１月２２日（木））</title>
-        <lead>●１月２２日（木）マカッサル市内で、大学生団体等による以下の抗議デモが行われる予定との情報があります。
-●デモの周辺箇所では交通規制が行われ、混乱や渋滞が生じる可能性があります。外出の際には十分にご注意ください。
-●同様のデモは、今後も継続する可能性があります。引き続き警戒をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161927</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161927A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161927.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161927L.xml</xmlLightUrl>
-        <koukanCd>607X</koukanCd>
     </mail>
 </opendata>
