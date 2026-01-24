@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/25 00:45:48" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/01/25 01:15:48" mailCount="20" odType="02">
     <mail>
         <keyCd>162208</keyCd>
         <infoType>R10</infoType>
@@ -446,24 +446,5 @@ https://x.com/BLRAirport/status/2013833211487625427/photo/1</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161938.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161938L.xml</xmlLightUrl>
         <koukanCd>403G</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161936</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/23 01:00:39</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0027</cd>
-        </country>
-        <title>盗難(スマッシュ＆グラブ)被害の発生（プレトリア・リンウッド地区）</title>
-        <lead>南アフリカにお住まいの皆様及び旅行者の皆様へ
-　１月２０日午後８時頃、邦人が車を運転中、プレトリア・リンウッド地区の交差点において赤信号で停車していたところ、助手席側窓ガラスを割られ車内から鞄を奪われる盗難被害に遭いました。車内の見えるところに物を置かないなどの対策を行い、被害防止に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161936</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161936A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161936.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161936L.xml</xmlLightUrl>
-        <koukanCd>718A</koukanCd>
     </mail>
 </opendata>
