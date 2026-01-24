@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/25 06:15:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/25 06:45:47" mailCount="17" odType="02">
     <mail>
         <keyCd>162213</keyCd>
         <infoType>R10</infoType>
@@ -391,25 +391,5 @@ https://x.com/BLRAirport/status/2013833211487625427/photo/1</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161946.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161946L.xml</xmlLightUrl>
         <koukanCd>607X</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161942</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/23 06:25:39</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0052</cd>
-        </country>
-        <title>【注意喚起】ミチョアカン州における即席爆弾（IED）を用いた爆破事案に関する注意喚起について</title>
-        <lead>●在メキシコ日本大使館より以下の領事メールが発出されております。ミチョアカン州方面へご出張、ご旅行を予定されている方はご注意下さい。
-
-●昨今、ミチョアカン州における即席爆弾（IED）を用いた爆破事案の発生が複数件確認されております。特にハリスコ州との州境付近においての発生が目立ち、主に治安部隊を標的としています。州境周辺地域の治安状況が不安定となっております。これまで以上に十分に注意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161942</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161942A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161942.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161942L.xml</xmlLightUrl>
-        <koukanCd>410D</koukanCd>
     </mail>
 </opendata>
