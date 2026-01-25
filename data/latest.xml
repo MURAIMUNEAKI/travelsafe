@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/25 22:45:48" mailCount="11" odType="02">
+<opendata dataType="L" lastModified="2026/01/25 23:15:48" mailCount="9" odType="02">
     <mail>
         <keyCd>162214</keyCd>
         <infoType>R10</infoType>
@@ -190,62 +190,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162148.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162148L.xml</xmlLightUrl>
         <koukanCd>526A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162113</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/23 23:00:56</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0032</cd>
-        </country>
-        <title>【注意喚起】ストライキに関する情報（１月２５日～３０日）</title>
-        <lead>　報道等によれば、１月２５日（日）午後10時から３０日（金）の終電までの間、国鉄SNCB-NMBSがストライキを予定しており、列車の運行本数が減少します。
-　国鉄は、今後のストライキや国際列車への影響について、ホームページを確認するよう推奨しているほか、２４日（土）に代替サービスについて発表するとのことです。
-
-●国鉄のストライキ等に関する情報　
-　https://www.b-europe.com/EN/Disruptions
-
-●国際列車に関する情報　
-　https://www.b-europe.com/FR/Perturbations</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162113</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162113A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162113.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162113L.xml</xmlLightUrl>
-        <koukanCd>521A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162112</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/23 23:00:56</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0355</cd>
-        </country>
-        <title>（注意喚起）ティラナ市における抗議デモについて</title>
-        <lead>アルバニアにお住まいの皆様及びたびレジ登録者の皆様
-
-　現地報道等によると１月２４日１７：００を目途に首都ティラナ市の内首相官邸前にて議会の野党勢力中心の抗議デモが行われる見込みです。
-　最新の情報の入手に努めるとともにデモが落ち着くまで抗議デモが行われている場所周辺に近づくことは避けるなど慎重な行動を心がけて下さい。
-
-　万が一、事件・事故等に巻き込まれた場合、警察当局に被害届を提出するとともに、その概要を在アルバニア日本国大使館に連絡して下さい。
-
-【問い合わせ先】
-在アルバニア日本国大使館
-電話： +355 4 454 7930
-メール： konsullore@av.mofa.go.jp
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-※「たびレジ」簡易登録をされた方で、メールの配信を変更・停止されたい場合は、以下の URL から停止手続きをお願いいたします。
-https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
-※災害や騒乱等が発生した際、ご家族、ご友人、同僚を守るため、一人でも多くの方に安全対策に関する情報が届くよう、在留届（3か月以上の滞在）の届出、又はたびレジ（3か月未満の滞在）の登録を、お知り合いの方や出張者・旅行者にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162112</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162112A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162112.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162112L.xml</xmlLightUrl>
-        <koukanCd>552A</koukanCd>
     </mail>
 </opendata>
