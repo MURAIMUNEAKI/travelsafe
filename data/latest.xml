@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/25 14:40:48" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/01/25 15:30:48" mailCount="14" odType="02">
     <mail>
         <keyCd>162214</keyCd>
         <infoType>R10</infoType>
@@ -322,26 +322,5 @@ https://www.mofa.go.jp/mofaj/ca/ov/page3_000718.html)をご確認ください。
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161977.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161977L.xml</xmlLightUrl>
         <koukanCd>607U</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>161953</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/23 15:10:39</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0061</cd>
-        </country>
-        <title>領事出張サービスのお知らせ（タウンズビル）３月２６日（木）</title>
-        <lead>●タウンズビルにおいて領事出張サービスを実施します。 
-●日時：２０２６年３月２６日（木）９時～１３時 
-●場所：「Rydges Southbank Townsville, Poolside Boardroom」
-　23 Palmer St Townsville, QLD 4810</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=161953</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161953A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161953.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/161953L.xml</xmlLightUrl>
-        <koukanCd>614V</koukanCd>
     </mail>
 </opendata>
