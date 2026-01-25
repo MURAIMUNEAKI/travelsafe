@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/26 07:40:48" mailCount="5" odType="02">
+<opendata dataType="L" lastModified="2026/01/26 08:20:48" mailCount="6" odType="02">
+    <mail>
+        <keyCd>162218</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/26 07:50:46</leaveDate>
+        <title>寒波・積雪による在ナッシュビル日本国総領事館の臨時閉館について（1月26日・27日）</title>
+        <lead>１　テネシー州政府は、寒波・積雪のため、26日（月）および27日（火）の州政府事務所の閉鎖を発表しました。 
+　これを受けて、当館も26日（月）および27日（火）は、領事窓口を含め臨時閉館いたします。個別の照会については、Ｅメール（consular@nv.mofa.go.jp）または、緊急の場合には本メール末尾に掲載されている電話番号まで御連絡ください（事件や事故の第一報は「911」へお掛けください）。
+　御不便をお掛けしますが、よろしくお願いいたします。
+　なお、停電により、当館代表番号の応答がない場合は、以下の番号に御連絡ください。
+※不要不急でない御用件は、開館時間帯に連絡いただきますようお願いいたします。
+※電話に応答できなかった場合は、留守番電話にメッセージを残すか、テキストメッセージを送ってください。可能な限り迅速に応答いたします。
+○連絡先
+（１）615-945-5382
+（２）615-973-4616
+
+２　米国国立気象局（NATIONAL WEATHER SERVICE）は、降雪が止んだ後もしばらくの間は凍結や停電等の危険が続くため、引き続き安全に過ごすよう呼びかけています。 
+　在留邦人の皆様におかれましては、最新の気象情報および行政機関発出の情報を参考に、安全確保に努めていただきますようお願いします。 
+
+※参考国立気象局 
+https://www.weather.gov/media/ohx/briefing/SitRep.pdf</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162218</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162218A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162218.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162218L.xml</xmlLightUrl>
+        <koukanCd>301X</koukanCd>
+    </mail>
     <mail>
         <keyCd>162214</keyCd>
         <infoType>R10</infoType>
