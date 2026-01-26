@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/26 22:25:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/01/26 22:45:48" mailCount="9" odType="02">
+    <mail>
+        <keyCd>162234</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/26 22:30:41</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0254</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0252</cd>
+        </country>
+        <title>ケニア空港労働組合によるストライキの実施及び抗議行動に関する注意喚起</title>
+        <lead>●先週２０日（火）、ケニア空港労働組合とケニア政府及びケニア民間航空局との間の賃上げ交渉が決裂したことを受け、ケニア空港労働組合は、７日以内に交渉に進展が見られない限り、ケニア国内のすべての空港においてストライキを実施する旨表明しました。
+
+●ストライキ等実施の有無、また実施日・期間等も含め詳細は不明ですが、万一実施された場合、空港建物の封鎖や発着するフライトに影響が生ずる可能性がありますので、空港を利用される方は、今後の報道等に御注意ください。
+
+●２０２４年９月に、ストライキが実施された際には、ジョモ・ケニヤッタ国際空港内において抗議行動が行われ、デモ隊と警察当局との衝突が発生しています。
+つきましては、在留邦人及び旅行者の皆様におかれましては、引き続き最新の関連情報の入手に努めるとともに、万一、空港においてデモ・集会等に遭遇した場合には、すぐにその場から退避するなど、自らの安全確保に努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162234</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162234A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162234.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162234L.xml</xmlLightUrl>
+        <koukanCd>713A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162226</keyCd>
         <infoType>R10</infoType>
