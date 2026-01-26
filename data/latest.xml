@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/26 11:00:50" mailCount="6" odType="02">
+<opendata dataType="L" lastModified="2026/01/26 12:00:49" mailCount="4" odType="02">
     <mail>
         <keyCd>162219</keyCd>
         <infoType>R10</infoType>
@@ -73,53 +73,5 @@ https://www.weather.gov/media/ohx/briefing/SitRep.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162213.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162213L.xml</xmlLightUrl>
         <koukanCd>301A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162208</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/24 11:05:59</leaveDate>
-        <title>（お知らせ）冬期暴風雪注意報に伴う臨時閉館について【１月２６日(月)】</title>
-        <lead>●本日１月２３日（金）、米国国立気象局（National Weather Service）がボストン市に対し、１月２５日（日）午前７時から２６日（月）午後８時までの間、冬期暴風雪注意報（Winter Storm Warning）を発令し、またウー・ボストン市長が寒冷警報（Cold Emergency）を発令したことを受け、１月２６日（月）、在ボストン日本国総領事館は臨時閉館いたします。電話対応についても自動応答のみとなります。
-●今後の情報につきましては、当館ＳＮＳ（Ｘ及びFacebook）をご確認ください。
-●低気圧は勢力を強めながら東に進み、1月24日（土）夕方から26日（月）夜にかけて、米国北東部の広い範囲で、大雪を伴う広域的な悪天候となる見込みであり、冬季暴風雪警報（Winter Storm Warning）等の対象範囲が拡大する可能性があります。
-●突風、積雪、路面の凍結等により、航空便や列車など公共交通機関の運休・遅延のほか、広範囲にわたり停電が発生する恐れがあります。
-●最新の気象情報や運航情報、関係当局の発表を確認するとともに、身の安全を第一に考え、不要不急の外出は控える、十分な備蓄品（食料、燃料、電池など）を用意する等、不測の事態に備えてください。
-
-【参考】     
-○米国国立気象局    
-　https://www.weather.gov/
-○ウェザーチャンネル    
-　https://weather.com/
-○自然災害対策について（在ボストン日本国総領事館）
-　https://www.boston.us.emb-japan.go.jp/files/100575609.pdf</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162208</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162208A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162208.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162208L.xml</xmlLightUrl>
-        <koukanCd>301V</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162207</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/24 11:05:58</leaveDate>
-        <title>（お知らせ）冬期暴風雪注意報に伴う臨時閉館について【１月２６日(月)】</title>
-        <lead>●本日１月２３日（金）、米国国立気象局（National Weather Service）がボストン市に対し、１月２５日（日）午前７時から２６日（月）午後８時までの間、冬期暴風雪注意報（Winter Storm Warning）を発令し、またウー・ボストン市長が寒冷警報（Cold Emergency）を発令したことを受け、１月２６日（月）、在ボストン日本国総領事館は臨時閉館いたします。電話対応についても自動応答のみとなります。
-●今後の情報につきましては、当館ＳＮＳ（Ｘ及びFacebook）をご確認ください。
-●低気圧は勢力を強めながら東に進み、1月24日（土）夕方から26日（月）夜にかけて、米国北東部の広い範囲で、大雪を伴う広域的な悪天候となる見込みであり、冬季暴風雪警報（Winter Storm Warning）等の対象範囲が拡大する可能性があります。
-●突風、積雪、路面の凍結等により、航空便や列車など公共交通機関の運休・遅延のほか、広範囲にわたり停電が発生する恐れがあります。
-●最新の気象情報や運航情報、関係当局の発表を確認するとともに、身の安全を第一に考え、不要不急の外出は控える、十分な備蓄品（食料、燃料、電池など）を用意する等、不測の事態に備えてください。
-
-【参考】     
-○米国国立気象局    
-　https://www.weather.gov/
-○ウェザーチャンネル    
-　https://weather.com/
-○自然災害対策について（在ボストン日本国総領事館）
-　https://www.boston.us.emb-japan.go.jp/files/100575609.pdf</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162207</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162207A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162207.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162207L.xml</xmlLightUrl>
-        <koukanCd>301V</koukanCd>
     </mail>
 </opendata>
