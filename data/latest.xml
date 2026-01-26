@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/27 03:50:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/01/27 04:15:48" mailCount="10" odType="02">
+    <mail>
+        <keyCd>162241</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/27 04:10:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <title>タクナ州一部地域に対する非常事態宣言の延長</title>
+        <lead>●ペルー政府は、タクナ州の一部地域（ペルーとチリの国境周辺地域）に対して不法外国人移民対策のため非常事態宣言の延長を官報に告示しました。
+●同宣言により、憲法で保障された権利の一部が制限されます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162241</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162241A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162241.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162241L.xml</xmlLightUrl>
+        <koukanCd>412A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162240</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/27 04:05:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <title>アヤクチョ州・ワンカベリカ州・クスコ州・フニン州の一部地域に対する非常事態宣言の延長</title>
+        <lead>●ペルー政府は、テロ・麻薬対策のため、アヤクチョ州、ワンカベリカ州、クスコ州、フニン州の一部地域に対する非常事態宣言の延長を官報に告示しました。
+●同地域では、センデロ・ルミノソ等のテロ組織が麻薬生産等の活動をしており、テロ事件等も発生しています。同地域には立ち入らないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162240</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162240A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162240.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162240L.xml</xmlLightUrl>
+        <koukanCd>412A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162234</keyCd>
         <infoType>R10</infoType>
