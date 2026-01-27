@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/27 16:25:48" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/01/27 16:45:49" mailCount="16" odType="02">
+    <mail>
+        <keyCd>162418</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/27 16:45:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射（第１報）</title>
+        <lead>　本27日、北朝鮮から弾道ミサイルの可能性のあるものが発射されました。
+引き続き、我が国政府等が発表する情報や報道、最新の情報に留意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162418</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162418A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162418.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162418L.xml</xmlLightUrl>
+        <koukanCd>616F</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162409</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/27 16:36:02</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射（第１報）</title>
+        <lead>本27日、北朝鮮から弾道ミサイルの可能性のあるものが発射されました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162409</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162409A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162409.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162409L.xml</xmlLightUrl>
+        <koukanCd>616A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162408</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/27 16:36:01</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射</title>
+        <lead>韓国当局によると、本２７日、北朝鮮が弾道ミサイルの可能性があるものを発射しました。
+引き続き最新の情報に留意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162408</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162408A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162408.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162408L.xml</xmlLightUrl>
+        <koukanCd>616D</koukanCd>
+    </mail>
     <mail>
         <keyCd>162390</keyCd>
         <infoType>R10</infoType>
