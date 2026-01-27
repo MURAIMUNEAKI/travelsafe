@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/27 08:40:48" mailCount="10" odType="02">
+<opendata dataType="L" lastModified="2026/01/27 09:30:48" mailCount="11" odType="02">
+    <mail>
+        <keyCd>162244</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/27 09:20:42</leaveDate>
+        <title>臨時閉館のお知らせ（１月27日）</title>
+        <lead>１．ワシントンDC地域における悪天候（降雪）の予報に伴い、米連邦政府人事管理局（OPM）は、明日1月27日（火）も連邦政府機関閉鎖を発表しました。当館はこれに準じ、27日も臨時閉館（含：領事窓口）を決定いたしました。
+
+２．当館は臨時閉館となりますが、緊急のご用件の場合は、当館代表番号までお電話ください（事件・事故の第一報は「911」へおかけください）。
+
+※この領事メールは、DC・MD州・VA州の在留邦人および「たびレジ」登録者の皆様へ配信しています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162244</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162244A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162244.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162244L.xml</xmlLightUrl>
+        <koukanCd>301A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162241</keyCd>
         <infoType>R10</infoType>
