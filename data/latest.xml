@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/27 17:45:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/01/27 18:30:49" mailCount="19" odType="02">
+    <mail>
+        <keyCd>162491</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/27 18:20:42</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0061</cd>
+        </country>
+        <title>【安全情報】爆弾未遂事件に関する注意喚起</title>
+        <lead>●1月26日（月）昼頃、パース市中心部フォレストプレイスで行われたInvasion Dayイベントに、爆発物（不発）が投げ込まれるという事件が発生しました。
+●豪州政府は、昨年８月に豪州国内でのテロ脅威レベルを５段階中の２（POSSIBLE）から３（PROBABLE）に一段階引き上げています。現時点で本事件の犯行の動機等は不明ですが、豪州政府はテロ警戒レベル引き上げの背景として、社会政治的な問題に影響を受けて行動する国内脅威者の増加や、中東やウクライナにおける紛争といったテロ行為の引き金となり得る国際情勢の存在などの複合的な要因があるとしています。
+●邦人の皆様におかれては、大規模なデモや政治集会には不用意に近づかない、見かけた場合はその場を離れる等、自らの安全確保に努めてください。
+●万が一被害に遭った場合や邦人が被害に遭ったとの情報に接した場合は、当地警察「000（トリプルゼロ）」に通報し対応を依頼するとともに、当館にご一報ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162491</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162491A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162491.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162491L.xml</xmlLightUrl>
+        <koukanCd>614F</koukanCd>
+    </mail>
     <mail>
         <keyCd>162441</keyCd>
         <infoType>R10</infoType>
