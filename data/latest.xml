@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/27 16:45:49" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/27 17:25:48" mailCount="18" odType="02">
+    <mail>
+        <keyCd>162441</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/27 17:15:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射（第２報）</title>
+        <lead>　本２７日の北朝鮮によるミサイル発射に関し、我が国政府の対応状況が首相官邸ホームページに掲載されました。
+引き続き、我が国政府や韓国当局が発表する情報や報道等、最新の情報に留意してください。
+
+【参考】首相官邸ホームページ
+https://www.kantei.go.jp/jp/104/discourse/20260127shiji.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162441</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162441A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162441.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162441L.xml</xmlLightUrl>
+        <koukanCd>616F</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162426</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/27 17:00:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射（第２報）</title>
+        <lead>本２７日の北朝鮮によるミサイル発射に関し、我が国政府の対応状況等が首相官邸ホームページに掲載されました。
+引き続き、最新の情報に留意して下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162426</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162426A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162426.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162426L.xml</xmlLightUrl>
+        <koukanCd>616D</koukanCd>
+    </mail>
     <mail>
         <keyCd>162418</keyCd>
         <infoType>R10</infoType>
