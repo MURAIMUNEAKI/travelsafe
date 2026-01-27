@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/27 15:30:49" mailCount="11" odType="02">
+<opendata dataType="L" lastModified="2026/01/27 15:50:49" mailCount="12" odType="02">
+    <mail>
+        <keyCd>162387</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/27 15:50:45</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0041</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0423</cd>
+        </country>
+        <title>第51回衆議院議員総選挙及び第27回最高裁判所裁判官国民審査に伴う在外投票の実施について（確定）</title>
+        <lead>※本領事メールは、1月27日に衆議院議員総選挙及び最高裁判所裁判官国民審査が公示されたことに伴い、1月27日に発出した領事メール「第51回衆議院議員総選挙及び第27回最高裁判所裁判官国民審査に伴う在外投票の実施について（予定）」の内容を「確定」版として再度お知らせするものです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162387</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162387A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162387.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162387L.xml</xmlLightUrl>
+        <koukanCd>516A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162324</keyCd>
         <infoType>R10</infoType>
