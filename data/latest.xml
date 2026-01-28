@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/29 01:50:48" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/29 02:25:48" mailCount="17" odType="02">
+    <mail>
+        <keyCd>162699</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/29 02:00:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0595</cd>
+        </country>
+        <title>在パラグアイ日本国大使館の電話不具合のお知らせ</title>
+        <lead>●在パラグアイ日本国大使館の電話回線に不具合が発生しています。
+●緊急のご用件の場合は、+595-981-507-807までご連絡をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162699</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162699A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162699.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162699L.xml</xmlLightUrl>
+        <koukanCd>411A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162693</keyCd>
         <infoType>R10</infoType>
