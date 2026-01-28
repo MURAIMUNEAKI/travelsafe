@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/28 14:45:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/28 15:25:48" mailCount="18" odType="02">
     <mail>
         <keyCd>162693</keyCd>
         <infoType>R10</infoType>
@@ -366,38 +366,5 @@ https://www.kantei.go.jp/jp/104/discourse/20260127shiji.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162225.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162225L.xml</xmlLightUrl>
         <koukanCd>516A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162223</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/26 15:25:38</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0670</cd>
-        </country>
-        <title>デング熱に関する一般的な注意喚起</title>
-        <lead>１　当地保健省によれば、今年１月第三週までの間、ディリ市において２２３件のデング熱の感染が報告されており、これは昨年１月の報告数６７件を大幅に上回って増加しているとのことです。
-　また、最近では、当地の在留邦人がデング熱に感染したとの情報も当館に寄せられております。
-
-２　デング熱は、蚊に刺されることによって感染する疾患です。４日～１０日程度の潜伏期間を経て、急激な発熱で発症し、発疹、頭痛、骨関節痛、嘔気・嘔吐などの症状が見られます。発疹は発症後３～４日後から胸部・体幹から出現して全身に拡がります。デング熱患者の一部は、まれに重症化してデング出血熱やデングショック症候群を発症することがあります。
-
-３　デング熱には特別な治療法がなく、対症療法が行われます。発症した場合は安静にし、十分な水分補給を行ってください。熱や痛みに対してアスピリン（バファリン）、イブプロフェン、ロキソプロフェンなどの非ステロイド性抗炎症薬（NSAIDs）を使用すると、血小板が低下して出血を起こしやすくなるので、これらの薬品の使用は控え、アセトアミノフェン（パラセタモール、カロナールなど）を使用してください。
-
-４　デング熱に対しては、蚊に刺されないようにすることが最も有効な予防法です。在留邦人の皆さまにおかれましては、蚊が多くいる場所で活動する場合は、できるだけ肌を露出せず、虫よけ剤を使用するなど、蚊に刺されないようご注意ください。
-
-【ご参考】
-○国立健康危機管理研究機構：感染症情報提供サイト
-https://id-info.jihs.go.jp/surveillance/iasr/pathogens/vol45/534/534r02.html 
-○海外安全ホームページ広域情報：デング熱に関する注意喚起
-https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2024C024.html  
-○厚生労働省検疫所FORTH
-https://www.forth.go.jp/moreinfo/topics/name33.html</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162223</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162223A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162223.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162223L.xml</xmlLightUrl>
-        <koukanCd>630A</koukanCd>
     </mail>
 </opendata>
