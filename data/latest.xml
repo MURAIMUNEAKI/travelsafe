@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/28 10:10:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/01/28 11:00:51" mailCount="18" odType="02">
     <mail>
         <keyCd>162566</keyCd>
         <infoType>R10</infoType>
@@ -379,24 +379,5 @@ https://www.forth.go.jp/moreinfo/topics/name33.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162221.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162221L.xml</xmlLightUrl>
         <koukanCd>607X</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162219</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/26 10:45:43</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>デモ情報（ジャカルタ：１月２６日）</title>
-        <lead>●　本２６日午後１時頃から、中央ジャカルタの独立記念塔（モナス）周辺において、労働団体によるデモが予定されております。
-●　デモの周辺道路では交通規制が行われ、交通状況に影響が生じる可能性があります。外出の際にはご注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162219</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162219A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162219.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162219L.xml</xmlLightUrl>
-        <koukanCd>607A</koukanCd>
     </mail>
 </opendata>
