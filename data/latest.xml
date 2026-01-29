@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/29 22:10:48" mailCount="14" odType="02">
+<opendata dataType="L" lastModified="2026/01/29 22:30:48" mailCount="15" odType="02">
+    <mail>
+        <keyCd>162717</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/29 22:30:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>領事窓口及び在外公館投票の再開（1月30日(金)以降）</title>
+        <lead>○先の領事メールでお知らせしたとおり本日午後1時30分から午後5時00分まで、当館の領事窓口及び在外公館投票をやむを得ぬ事情により休止させていただきましたが、明日（1月30日（金））からは、通常通り領事窓口を再開いたします。
+○衆議院議員総選挙等に伴う在外公館投票については、明日（1月30日(金)）から2月1日(日)の間、予定どおり実施いたします。在外選挙人証をお持ちの方は、在外選挙人証及びパスポート等の写真付き身分証明書ご持参の上、投票ください。
+○投票時間等、在外公館投票に関する詳細は下記当館HPをご確認願います。
+https://www.bengaluru.in.emb-japan.go.jp/files/100968099.pdf
+○今回の領事窓口及び在外公館投票の休止に際しては、在留邦人の皆様に多大なご迷惑をお掛けしてしまい、お詫び申し上げます。当館としては引き続き在留邦人の皆様にきめ細やかな領事サービスを提供できるよう努めていく所存ですので、御理解、御協力のほどお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162717</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162717A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162717.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162717L.xml</xmlLightUrl>
+        <koukanCd>606F</koukanCd>
+    </mail>
     <mail>
         <keyCd>162715</keyCd>
         <infoType>R10</infoType>
