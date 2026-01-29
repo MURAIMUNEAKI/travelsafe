@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/29 19:50:49" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/01/29 20:20:48" mailCount="14" odType="02">
+    <mail>
+        <keyCd>162714</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/29 20:15:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>西ベンガル州におけるニパウイルス感染例の発生</title>
+        <lead>●１月２７日、保健家族福祉省（Ministry of Health and Family Welfare）はニパウイルス感染症患者の発生についてプレスリリースを発表しましたので、概要を以下のとおりお知らせします。
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219219&amp;reg=3&amp;lang=1 
+●国立疾病管理センター（National Center for Disease Control(NCDC))からの報告によると昨年12月以降、西ベンガル州で確認されたニパウイルス感染症の症例は2件のみです。
+●確定症例の接触者計196名を特定し、追跡・検査を行いましたが、全員が無症状かつ陰性でした。同ウイルスに関する憶測的で不正確な数字が、一部のメディアで流布されていることを確認しています。
+●インド政府は西ベンガル州政府と連携し、迅速な封じ込めを実施、現時点で新たな感染者は確認されていません。
+●保健家族福祉省は、国民およびメディアに対し、公式発表以外の情報を信用しないよう、また未検証または憶測に基づく報道を広めることを控えるよう勧告します。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162714</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162714A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162714.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162714L.xml</xmlLightUrl>
+        <koukanCd>606A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162712</keyCd>
         <infoType>R10</infoType>
