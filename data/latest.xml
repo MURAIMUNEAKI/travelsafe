@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/29 13:40:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/01/29 14:00:49" mailCount="16" odType="02">
     <mail>
         <keyCd>162706</keyCd>
         <infoType>R10</infoType>
@@ -332,31 +332,5 @@ https://www.kantei.go.jp/jp/104/discourse/20260127shiji.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162387.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162387L.xml</xmlLightUrl>
         <koukanCd>516A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162324</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/27 13:45:39</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0091</cd>
-        </country>
-        <title>ニパウイルス感染症に関する注意喚起</title>
-        <lead>●　インド・西ベンガル州コルカタ市近郊において、ニパウイルス感染症の発生が報告されています。
-●　ニパウイルスは、主にオオコウモリが媒介する重篤なウイルス性の感染症です。感染した動物（豚など）や人からの接触感染、飛沫感染も確認されています。
-●　在留邦人及び渡航者の皆様におかれましては、以下の点に十分注意し、感染予防に努めていただくようお願いいたします。
-　１　手洗い・手指消毒の励行: 石鹸と水で頻繁に手を洗い、アルコール消毒液も活用してください。
-　２　動物との不用意な接触回避: 野生動物（特にコウモリ）や家畜には不用意に近づかないでください。
-　３　食品・飲料の注意:コウモリが食べた可能性のある生の果物（例: ナツメヤシの樹液）は摂取しないでください。また、生肉や不衛生な場所で調理された食品の摂取は避け、十分に加熱されたものを摂取してください。
-●　ニパウイルスの発生を受け、例えばタイでは主要空港において検疫体制を強化しているという情報もあります。今後も他国でも検疫強化の可能性がありますので、国外渡航を予定されている方におかれましては、事前に渡航先における情報収集も行うようにしてください。
-●　発熱、頭痛、吐き気、めまい、意識障害などの症状が現れた場合は、速やかに信頼できる医療機関を受診してください。万が一、ニパウイルス感染が確認された場合、可能であれば当館へご一報ください。
-●　引き続き、最新の関連情報の収集に努め、体調管理には十分ご注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162324</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162324A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162324.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162324L.xml</xmlLightUrl>
-        <koukanCd>606E</koukanCd>
     </mail>
 </opendata>
