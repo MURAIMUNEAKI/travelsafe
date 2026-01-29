@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/29 21:25:48" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/01/29 22:10:48" mailCount="14" odType="02">
     <mail>
         <keyCd>162715</keyCd>
         <infoType>R10</infoType>
@@ -299,23 +299,5 @@ https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219219&amp;reg=3&amp;lang=1
         <infectionLevel2>0</infectionLevel2>
         <infectionLevel1>0</infectionLevel1>
         <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T011_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>162566</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/27 21:45:44</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0221</cd>
-        </country>
-        <title>【注意喚起】大気汚染による健康被害について</title>
-        <lead>大気汚染による健康被害に御注意ください</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162566</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162566A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162566.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162566L.xml</xmlLightUrl>
-        <koukanCd>717A</koukanCd>
     </mail>
 </opendata>
