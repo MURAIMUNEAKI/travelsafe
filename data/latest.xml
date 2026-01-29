@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/29 12:00:48" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/29 13:00:49" mailCount="17" odType="02">
+    <mail>
+        <keyCd>162706</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/29 12:25:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>当館の代表電話番号不通に伴う閉館時間帯の緊急連絡先について</title>
+        <lead>現在、当館の代表電話は、電話システムの障害により不通となっております。
+現在当館で実施している在外公館投票についてのお問い合わせなど、緊急のご用件がある方は、大変お手数ではございますが、下記連絡先まで御連絡いただきますようお願いいたします。
+
+○電話番号：＋91-99161-40442
+
+　また、大変恐れ入りますが、電話が復旧するまでの各種お問合せにつきましては、下記のメールアドレスまで御連絡いただきますようお願いします。
+○代表：cgjapan-blr@ig.mofa.go.jp
+○パスポート、証明、届出、在外選挙、ビザ等：cgjblr@ig.mofa.go.jp
+
+  在留邦人の皆様には、ご迷惑をお掛けし大変申し訳ございませんが、ご理解とご協力のほど宜しくお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162706</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162706A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162706.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162706L.xml</xmlLightUrl>
+        <koukanCd>606F</koukanCd>
+    </mail>
     <mail>
         <keyCd>162705</keyCd>
         <infoType>R10</infoType>
