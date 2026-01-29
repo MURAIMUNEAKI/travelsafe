@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/29 20:20:48" mailCount="14" odType="02">
+<opendata dataType="L" lastModified="2026/01/29 20:45:48" mailCount="15" odType="02">
+    <mail>
+        <keyCd>162715</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/29 20:45:37</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>最近の中東情勢に関する注意喚起（その３）</title>
+        <lead>１　報道によると、米軍が中東地域に集結し軍事演習（Agile Spartan）の実施を発表する等、今後の動向に関しては、予断を許さない状況が続いています。
+
+２　現時点でイラクの空域に影響はありませんが、今後の推移に注視が必要です。
+
+３　つきましては、外務省では海外安全ホームページを通じ、クルディスタン地域にも渡航中止勧告（渡航は止めてください）等が発出されている地域があることにも十分にご留意の上、航空便の運航状況を含め、常に関連情報を収集する等、万全な安全対策を講じてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162715</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162715A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162715.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162715L.xml</xmlLightUrl>
+        <koukanCd>704W</koukanCd>
+    </mail>
     <mail>
         <keyCd>162714</keyCd>
         <infoType>R10</infoType>
