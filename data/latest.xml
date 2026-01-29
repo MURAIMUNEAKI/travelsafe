@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/29 15:30:48" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/01/29 16:00:51" mailCount="14" odType="02">
     <mail>
         <keyCd>162706</keyCd>
         <infoType>R10</infoType>
@@ -288,49 +288,5 @@ https://www.kantei.go.jp/jp/104/discourse/20260127shiji.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162408.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162408L.xml</xmlLightUrl>
         <koukanCd>616D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162390</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/27 15:55:45</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0041</cd>
-        </country>
-        <country areaCd="42">
-            <cd>0423</cd>
-        </country>
-        <title>【重要】在外公館等投票を行われる方は、衆議院小選挙区の区割り改定に御注意ください！</title>
-        <lead>　令和４年（２０２２年）１２月２８日施行の公職選挙法の一部改正により、衆議院小選挙区の区割りが大幅に改定されています。改定対象は、以下の２５都道府県（１４０選挙区）に及びます。
-
-北海道、宮城県、福島県、茨城県、栃木県、群馬県、埼玉県、千葉県、東京都、神奈川県、新潟県、岐阜県、静岡県、愛知県、滋賀県、大阪府、兵庫県、和歌山県、島根県、岡山県、広島県、山口県、愛媛県、福岡県、長崎県</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162390</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162390A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162390.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162390L.xml</xmlLightUrl>
-        <koukanCd>516A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162387</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/27 15:50:45</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0041</cd>
-        </country>
-        <country areaCd="42">
-            <cd>0423</cd>
-        </country>
-        <title>第51回衆議院議員総選挙及び第27回最高裁判所裁判官国民審査に伴う在外投票の実施について（確定）</title>
-        <lead>※本領事メールは、1月27日に衆議院議員総選挙及び最高裁判所裁判官国民審査が公示されたことに伴い、1月27日に発出した領事メール「第51回衆議院議員総選挙及び第27回最高裁判所裁判官国民審査に伴う在外投票の実施について（予定）」の内容を「確定」版として再度お知らせするものです。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162387</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162387A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162387.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162387L.xml</xmlLightUrl>
-        <koukanCd>516A</koukanCd>
     </mail>
 </opendata>
