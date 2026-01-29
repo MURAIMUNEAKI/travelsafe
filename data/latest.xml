@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/29 18:25:48" mailCount="11" odType="02">
+<opendata dataType="L" lastModified="2026/01/29 18:50:49" mailCount="13" odType="02">
+    <mail>
+        <keyCd>162712</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/29 18:45:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0227</cd>
+        </country>
+        <title>ニアメの空港エリアにおける銃撃及び爆発事案報道（１月29日）</title>
+        <lead>●１月29日ニジェールの首都ニアメのディオリ・アマニ国際空港のあるエリアで、銃撃及び爆発が確認されたと報じられています。
+●ニアメにお住まいの方や、空港を利用されるご予定の方におかれましては、最新の情報を収集すると共に、身の安全の確保に努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162712</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162712A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162712.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162712L.xml</xmlLightUrl>
+        <koukanCd>A73A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162711</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/29 18:40:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0225</cd>
+        </country>
+        <title>ニアメの空港エリアにおける銃撃及び爆発事案報道（１月29日）</title>
+        <lead>●１月29日ニジェールの首都ニアメのディオリ・アマニ国際空港のあるエリアで、銃撃及び爆発が確認されたと報じられています。
+●ニアメにお住まいの方や、空港を利用されるご予定の方におかれましては、最新の情報を収集すると共に、身の安全の確保に努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162711</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162711A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162711.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162711L.xml</xmlLightUrl>
+        <koukanCd>721A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162710</keyCd>
         <infoType>R10</infoType>
