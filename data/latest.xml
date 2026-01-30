@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/31 01:50:48" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/01/31 02:20:48" mailCount="30" odType="02">
+    <mail>
+        <keyCd>162737</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/31 02:15:56</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>1340</cd>
+        </country>
+        <country areaCd="33">
+            <cd>1787</cd>
+        </country>
+        <title>【注意喚起】抗議集会「National Shutdown」の実施（１月３０日）</title>
+        <lead>●各種報道等によれば、本日（１月３０日）、全米各地で抗議集会「National Shutdown」の実施が呼びかけられています。当館管轄地域においては、ニューヨーク（マンハッタン区Foley Square）やフィラデルフィア等、複数の地域で抗議活動が予定されています。
+●主催者ウェブサイト、治安当局の発表や報道等により、最新情報の入手に努めるとともに、抗議集会やデモ行進に興味本位で近づいたり、写真撮影をしたりせず、また、予期せず抗議集会やデモ行進に遭遇した場合には速やかにその場を離れるなど、ご自身の安全確保に十分注意を払ってください。
+●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162737</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162737A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162737.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162737L.xml</xmlLightUrl>
+        <koukanCd>301H</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162736</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/31 01:55:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0039</cd>
+        </country>
+        <title>ミラノ・コルティナ2026冬季オリンピック・パラリンピック開催に伴う注意喚起</title>
+        <lead>　2月6日（金）のオリンピック開会式に先立ち、2月4日（水）から一部競技が開始されます。競技開催期間中は大勢の人出が見込まれ、不特定多数の人が集まる場所や施設ではテロや犯罪の標的となるおそれがあるため、注意が必要です。下記をご参照のうえ、貴重品の管理を徹底するとともに身の安全確保に十分ご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162736</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162736A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162736.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162736L.xml</xmlLightUrl>
+        <koukanCd>509D</koukanCd>
+    </mail>
     <mail>
         <keyCd>162735</keyCd>
         <infoType>R10</infoType>
@@ -1262,24 +1303,5 @@ https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219219&amp;reg=3&amp;lang=1
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162702.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162702L.xml</xmlLightUrl>
         <koukanCd>403G</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162699</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/29 02:00:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0595</cd>
-        </country>
-        <title>在パラグアイ日本国大使館の電話不具合のお知らせ</title>
-        <lead>●在パラグアイ日本国大使館の電話回線に不具合が発生しています。
-●緊急のご用件の場合は、+595-981-507-807までご連絡をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162699</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162699A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162699.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162699L.xml</xmlLightUrl>
-        <koukanCd>411A</koukanCd>
     </mail>
 </opendata>
