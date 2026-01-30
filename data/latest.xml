@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/31 02:20:48" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/01/31 02:45:49" mailCount="31" odType="02">
+    <mail>
+        <keyCd>162739</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/31 02:45:42</leaveDate>
+        <title>【注意喚起】抗議集会「National Shutdown」の実施（１月３０日）</title>
+        <lead>●各種報道等によれば、本日（１月３０日）、全米各地で抗議集会「National Shutdown」の実施が呼びかけられています。当館管轄地域においては、ボストン（コプリースクエア）やケンブリッジ等、複数の地域で抗議活動が予定されています。
+●主催者ウェブサイト、治安当局の発表や報道等により、最新情報の入手に努めるとともに、抗議集会やデモ行進に興味本位で近づいたり、写真撮影をしたりせず、また、予期せず抗議集会やデモ行進に遭遇した場合には速やかにその場を離れるなど、ご自身の安全確保に十分注意を払ってください。
+●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。
+
+○抗議集会開催予定マップ（主催者ウェブサイト） 
+　https://nationalshutdown.org/actions</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162739</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162739A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162739.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162739L.xml</xmlLightUrl>
+        <koukanCd>301V</koukanCd>
+    </mail>
     <mail>
         <keyCd>162737</keyCd>
         <infoType>R10</infoType>
