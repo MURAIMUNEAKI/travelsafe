@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/31 00:30:48" mailCount="27" odType="02">
+<opendata dataType="L" lastModified="2026/01/31 00:50:48" mailCount="28" odType="02">
+    <mail>
+        <keyCd>162734</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/31 00:50:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】近距離公共交通機関のストライキの実施（２月２日～３日）</title>
+        <lead>　統一サービス産業労働組合（Verdi）は、２月２日（月）、ドイツの近距離交通機関における大規模なストライキ実施を呼びかけました。
+　ハンブルク州では、２月２日（月）午前３時から２月３日（火）午前３時まで、Ｕバーンとバスの運行が停止または制限される見込みです。
+　ブレーメン市では、２月２日（月）午前３時から２月３日（火）午前３時まで、ブレーメン公共交通会社（BSAG）の運行するバスと路面電車が運休となる見込みです。
+　シュレースヴィヒ・ホルシュタイン州では、ハンブルク・ホルシュタイン交通（VHH）が運行するバスに加え、キール、リューベック、ノイミュンスター、フレンスブルクのバスの運行が停止または制限される見込みです。 
+　ニーダーザクセン州の近距離交通機関では、ストライキは実施されない予定です。
+　また、Sバーン、地域鉄道、長距離列車は、ストライキの影響は受けないとされています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162734</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162734A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162734.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162734L.xml</xmlLightUrl>
+        <koukanCd>506E</koukanCd>
+    </mail>
     <mail>
         <keyCd>162733</keyCd>
         <infoType>R10</infoType>
