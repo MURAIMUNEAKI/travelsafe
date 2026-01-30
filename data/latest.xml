@@ -1,5 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/30 22:50:48" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/01/30 23:30:49" mailCount="26" odType="02">
+    <mail>
+        <keyCd>162732</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/30 23:10:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ドイツ全土での大規模な警告ストライキ実施に伴う交通への影響（２月２日（月））</title>
+        <lead>統一サービス産業労働組合（Verdi）は、地方自治体が運営する公共交通機関従業員に対し、２月２日（月）終日にわたる警告ストライキを呼びかけており、これが実施されれば、全国的に大きな影響が出る模様です。
+
+ストライキは、地下鉄（Ｕバーン）、トラム及び路線バス（民間会社運行のものは除く。）で行われ、近郊列車（Ｓバーン）、地方バスは対象外となる予定です。
+
+出張やご旅行等を計画されている方は、事前に運行情報を確認するとともに、時間に余裕をもって行動するようにしてください。
+
+最新の情報は、公共交通機関ホームページや報道等からご確認ください。
+
+【関連ＵＲＬ】
+○統一サービス産業労働組合（Verdi）ホームページ
+https://www.verdi.de/geld-tarif/tarifvertrag-nahverkehr-nur-gute-arbeit-kommt-gut 
+
+○ミュンヘン交通（MVG）
+https://www.mvg.de/news/streik.html# 
+
+○シュトゥットガルト交通（VVS）
+https://www.vvs.de/verbindungen-und-mobilitaet/aktuelle-meldungen</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162732</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162732A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162732.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162732L.xml</xmlLightUrl>
+        <koukanCd>506G</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162731</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/30 23:05:58</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0055</cd>
+        </country>
+        <title>カーニバルに関する注意喚起</title>
+        <lead>　当地では２月のカーニバル期間中、多くの人出が見込まれるため、窃盗・強盗等の犯罪被害に遭わないよう十分に注意してください。
+　なお、当館は、２月１６日（月）、１７日（火）、１８日（水）は休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162731</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162731A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162731.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162731L.xml</xmlLightUrl>
+        <koukanCd>403G</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162730</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/30 23:05:58</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ドイツ全土での大規模ストライキに伴う交通機関への影響（2月２日（月）～２月３日（火））</title>
+        <lead>〇統一サービス産業労働組合（Verdi）等は、ドイツ全土の近距離交通機関に対し、2月2日（月）に大規模な警告ストライキの実施を呼びかけており、これが実施されれば、全国的に大きな影響がでる模様です。
+〇ベルリン州では、2月２日（月）午前3時から２月３日（火）午前３時までの間、ベルリン市交通局（BVG）が運営するUバーン、トラムの運行が全て停止、バスも一部路線を除いて停止されるなど、大きな影響が出る模様です。なお、BVG以外が運営するSバーン、地域鉄道、長距離列車の運行については、当該ストライキの影響はないとされています。
+〇２月２日（月）は、その他の多くの州でもストライキの実施が見込まれるため、ドイツ国内で近距離交通機関（地下鉄、バス、トラム）の利用を予定されている方は、事前に運行情報を確認するとともに、時間に余裕をもって行動するようにしてください。
+〇最新の情報は、主催組合ホームページ、報道等からご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162730</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162730A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162730.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162730L.xml</xmlLightUrl>
+        <koukanCd>506A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162729</keyCd>
         <infoType>R10</infoType>
