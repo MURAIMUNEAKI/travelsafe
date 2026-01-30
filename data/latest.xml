@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/31 06:25:48" mailCount="33" odType="02">
+<opendata dataType="L" lastModified="2026/01/31 06:35:49" mailCount="32" odType="02">
     <mail>
         <keyCd>162743</keyCd>
         <infoType>R10</infoType>
@@ -1352,24 +1352,5 @@ https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219219&amp;reg=3&amp;lang=1
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162705.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162705L.xml</xmlLightUrl>
         <koukanCd>607X</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162702</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/29 06:30:45</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0055</cd>
-        </country>
-        <title>令和７年度在外安全対策セミナー（動画配信）のお知らせ</title>
-        <lead>●外務省は、在サンパウロ日本国総領事館及び在マナウス日本国総領事館の管轄地域にお住まいの在留邦人の方を主な対象として、在外安全対策セミナーをオンデマンド形式（動画配信）で開催いたします。
-●視聴はサンパウロ時間の本日から令和８年３月１３日（金）２４時まで可能です。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162702</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162702A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162702.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162702L.xml</xmlLightUrl>
-        <koukanCd>403G</koukanCd>
     </mail>
 </opendata>
