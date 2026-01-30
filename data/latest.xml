@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/30 23:30:49" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/01/30 23:50:49" mailCount="27" odType="02">
+    <mail>
+        <keyCd>162733</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/30 23:35:46</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0592</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0473</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0597</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0784</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0758</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0868</cd>
+        </country>
+        <title>カーニバル期間中における注意喚起</title>
+        <lead>〇トリニダード・トバゴ最大のイベントであるカーニバル・パレードが2月16日（月）及び17日（火）に実施される予定です。パレードを含むカーニバル期間中には各地で様々なイベントが実施され、多くの観光客及び見物客で賑わいます。
+〇期間中のイベント情報、交通規制情報等については、カーニバル委員会（ https://ncctt.org/　）及びトリニダード・トバゴ警察（ https://www.ttps.gov.tt/ ）のホームページをご覧ください。
+〇2023年のカーニバル期間中、ポート・オブ・スペイン市内の飲食店が並ぶAriapita Avenueにおいて発砲があり、英国人観光客がふくらはぎを撃たれたほか2名が死亡したと報道されています。
+Newsday紙
+https://newsday.co.tt/2023/02/18/2-men-killed-carnival-visitor-injured-in-ariapita-avenue-shooting/
+〇トリニダード・トバゴ警察は、渡航者に対し、カーニバル期間中の注意事項を呼びかけています。犯罪等に巻き込まれないために、ご滞在中は、以下を参考に十分にご注意願います。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162733</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162733A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162733.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162733L.xml</xmlLightUrl>
+        <koukanCd>424A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162732</keyCd>
         <infoType>R10</infoType>
