@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/31 05:10:48" mailCount="32" odType="02">
+<opendata dataType="L" lastModified="2026/01/31 05:50:48" mailCount="33" odType="02">
+    <mail>
+        <keyCd>162743</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/31 05:30:49</leaveDate>
+        <title>抗議集会「National Shutdown」（1月30日）の実施</title>
+        <lead>●1月30日（金）、ICE（移民関税執行局）の活動に対する抗議集会が全米規模で予定されており、北カリフォルニア及びネバダ州でも予定されています。
+●不測の事態に巻き込まれないよう、外出される前には報道等で最新情報の入手に努め、抗議活動が行われている場所には安易に近づかない等、十分注意してください。
+●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。また、車で外出される際には迂回ルートをあらかじめ想定しておいてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162743</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162743A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162743.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162743L.xml</xmlLightUrl>
+        <koukanCd>301I</koukanCd>
+    </mail>
     <mail>
         <keyCd>162740</keyCd>
         <infoType>R10</infoType>
