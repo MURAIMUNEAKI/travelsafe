@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/31 07:50:48" mailCount="32" odType="02">
+<opendata dataType="L" lastModified="2026/01/31 08:20:48" mailCount="33" odType="02">
+    <mail>
+        <keyCd>162744</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/31 08:10:41</leaveDate>
+        <title>当館電話回線の通信障害のお知らせ</title>
+        <lead>　現在（2026/1/30時点）、当館が利用している電話回線業者のシステム障害により、一部電話の送受信に不具合が発生しております。代表電話に繋がらない場合は、以下の電話番号におかけください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162744</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162744A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162744.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162744L.xml</xmlLightUrl>
+        <koukanCd>301S</koukanCd>
+    </mail>
     <mail>
         <keyCd>162743</keyCd>
         <infoType>R10</infoType>
