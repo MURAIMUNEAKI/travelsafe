@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/31 16:45:48" mailCount="34" odType="02">
+<opendata dataType="L" lastModified="2026/01/31 17:25:48" mailCount="33" odType="02">
     <mail>
         <keyCd>162747</keyCd>
         <infoType>R10</infoType>
@@ -1351,29 +1351,5 @@ https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219219&amp;reg=3&amp;lang=1
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162709.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162709L.xml</xmlLightUrl>
         <koukanCd>704A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162707</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/29 17:10:39</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0091</cd>
-        </country>
-        <title>領事窓口及び在外公館投票の休止（1月29日(木)午後1時30分～午後5時）</title>
-        <lead>○本日（1月29日(木)）午後1時30分より午後5時00分まで、やむを得ぬ事情により当館の領事窓口業務を休止することとしました。
-○これに伴い、実施中の衆議院議員総選挙等に伴う在外公館投票についても、本日（1月29日(木)）午後1時30分～午後5時00分の間の投票業務を休止させて頂きます。
-○在留邦人の皆様には、大変ご不便をお掛けいたしますが、御理解頂ければ幸いです。
-○休止期間中もパスポート、証明、届出、在外選挙、ビザ等のお問い合わせは対応しておりますので、お手数ですが、下記連絡先までお知らせください。
-・電話番号：＋91-99161-40442
-・代表メールアドレス：cgjapan-blr@ig.mofa.go.jp
-・パスポート、証明、届出、在外選挙、ビザ等の問い合わせ用メールアドレス：cgjblr@ig.mofa.go.jp</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162707</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162707A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162707.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162707L.xml</xmlLightUrl>
-        <koukanCd>606F</koukanCd>
     </mail>
 </opendata>
