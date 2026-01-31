@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/31 09:35:49" mailCount="33" odType="02">
+<opendata dataType="L" lastModified="2026/01/31 10:15:48" mailCount="34" odType="02">
+    <mail>
+        <keyCd>162745</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/31 10:10:39</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>【注意喚起】インドネシアにおける麻疹（はしか）の流行について</title>
+        <lead>●　インドネシア保健当局によると、2025年の麻疹（はしか）の疑い例は対前年比で約３倍となっており、2026年1週目も引き続き多く発生しています。また、アメリカ疾病予防管理センターによると、インドネシアは世界で最も麻疹（はしか）が発生している国とされています（2025年6月～11月）。
+
+●　地域別では現在、ジャカルタ首都特別州、西ジャワ州、バンテン州、西スマトラ州および南スラウェシ州が、発生数が多い地域となっています。これらの地区にお住まいの方、及び訪問の予定のある方は、特に御注意ください。
+
+●　麻疹（はしか）ウイルスは空気感染し、極めて感染力が強いため、ワクチン接種が唯一の感染予防手段となります。特に、麻疹（はしか）にかかったことがなく、ワクチン接種歴が2回ない方や不明な方は、速やかに接種することをお勧めします。近年はアフリカやアジア地域で流行しており、日本に持ち込まれる例も増えています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162745</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162745A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162745.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162745L.xml</xmlLightUrl>
+        <koukanCd>607X</koukanCd>
+    </mail>
     <mail>
         <keyCd>162744</keyCd>
         <infoType>R10</infoType>
