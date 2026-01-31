@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/01/31 15:25:49" mailCount="33" odType="02">
+<opendata dataType="L" lastModified="2026/01/31 15:55:49" mailCount="34" odType="02">
+    <mail>
+        <keyCd>162747</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/01/31 15:30:38</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0269</cd>
+        </country>
+        <title>【注意喚起】熱帯サイクロンＦＹＴＩＡについて</title>
+        <lead>熱帯サイクロンＦＹＴＩＡがマダガスカルに上陸しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162747</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162747A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162747.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162747L.xml</xmlLightUrl>
+        <koukanCd>B75A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162746</keyCd>
         <infoType>R10</infoType>
