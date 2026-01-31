@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/01 06:15:48" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/02/01 06:45:48" mailCount="22" odType="02">
     <mail>
         <keyCd>162749</keyCd>
         <infoType>R10</infoType>
@@ -488,23 +488,5 @@ https://www.vvs.de/verbindungen-und-mobilitaet/aktuelle-meldungen</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162722.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162722L.xml</xmlLightUrl>
         <koukanCd>406A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162721</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/30 06:45:39</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0595</cd>
-        </country>
-        <title>在パラグアイ日本国大使館の電話復旧のお知らせ</title>
-        <lead>在パラグアイ日本国大使館の電話回線に不具合が発生しておりましたが、復旧いたしました。大変ご迷惑をおかけいたしました。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162721</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162721A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162721.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162721L.xml</xmlLightUrl>
-        <koukanCd>411A</koukanCd>
     </mail>
 </opendata>
