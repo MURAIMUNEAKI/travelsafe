@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/01 18:45:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/02/01 19:20:48" mailCount="17" odType="02">
     <mail>
         <keyCd>162749</keyCd>
         <infoType>R10</infoType>
@@ -378,25 +378,5 @@ https://www.vvs.de/verbindungen-und-mobilitaet/aktuelle-meldungen</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162729.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162729L.xml</xmlLightUrl>
         <koukanCd>607T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162728</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/30 19:15:39</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0421</cd>
-        </country>
-        <title>ブラチスラバで予定される抗議集会に関する注意喚起（1月30日）</title>
-        <lead>● 当地治安当局等の情報によると、ブラチスラバ市旧市街のフラブネー広場（Hlavne Namestie）において、以下のとおり抗議集会の開催が予定されています。
-　1月30日（金）午後4時頃～同7時30分頃までの間
-● 一般的に、大規模なイベントでは、イベントの趣旨に反対する団体による活動、不測の事態や無用なトラブル等に巻き込まれる可能性もあります。邦人の皆様におかれましては、報道等で最新の情報を入手するとともに、周辺を通行する際は、十分注意を払うようお願いいたします。また、異常を感じた場合や、万が一、事件等に遭遇した場合には、興味本位で現場に近づくことなく、直ちにその場から離れるなど、ご自身の安全確保を最優先にした行動に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162728</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162728A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162728.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162728L.xml</xmlLightUrl>
-        <koukanCd>543A</koukanCd>
     </mail>
 </opendata>
