@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/02 03:50:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/02/02 04:20:47" mailCount="7" odType="02">
     <mail>
         <keyCd>162750</keyCd>
         <infoType>R10</infoType>
@@ -125,42 +125,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162743.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162743L.xml</xmlLightUrl>
         <koukanCd>301I</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162740</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/31 04:05:41</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0055</cd>
-        </country>
-        <title>【注意喚起】クリチバ市ボケイロン地区で銃撃戦と強盗事件が発生</title>
-        <lead>1月27日午前4時30分頃、クリチバ市ボケイロン地区（Boqueirao）のナウチコ公園（Parque Nautico）で銃撃戦が発生しました。警察官が同公園内で住宅侵入など連続窃盗事件の容疑者の男に職務質問を行ったところ、銃撃戦となり、容疑者の男は死亡しました。
-また、翌28日午後11時50分頃、同公園付近で強盗事件が発生しました。2人組の強盗が帰宅途中の28歳男性に近づき、強盗を働いたところ、男性が抵抗したため胸部に銃撃を受けました。男性は病院に搬送されました。2人組の強盗は現在も逃走中です。
-
-万一、発砲現場に遭遇した場合は以下のように行動し、安全の確保に努めてください。
-・発砲現場から直ちに離脱してなるべく距離をとり、決して近寄らない。
-・すぐ近くで事件が起きて退避が困難な場合は、両腕やカバン等で頭部を覆い、銃声のする方向に足を向けてうつぶせで伏せ、銃声が止んで退避可能と判断できるまでその場から動かない。
-・付近の建物や堅牢な柱等の物陰に隠れる。
-・退避する際は、極力姿勢を低くして物陰沿いに移動する。
-　また、銃器を所持した犯人と遭遇した場合は、
-・絶対に抵抗しない。
-・犯人を直視しない、追わない。
-等の行動を取り、生命身体の安全確保を第一としてください。
-・強盗に巻き込まれたり、鉢合わせした際は、抵抗することなく犯人の要求には従ってください。
-・夜間の長時間の外出または移動は、犯罪被害に遭う可能性が高くなります。できる限り、夜間の移動を避けるようにしてください。
-・万一の場合、被害が最小限に済むように、現金とカード類（その他貴重品）は分けて携行し、少額の現金だけを入れた財布を別で用意しておく等の対策を行ってください。
-
-（関連報道）
-https://www.bandab.com.br/seguranca/ladrao-assalto-homem-reage-baleado-parque-nautico/
-
-https://www.bandab.com.br/seguranca/homem-morre-em-confronto-no-parque-nautico-apos-furtos/</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162740</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162740A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162740.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162740L.xml</xmlLightUrl>
-        <koukanCd>403U</koukanCd>
     </mail>
 </opendata>
