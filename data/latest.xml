@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/01 10:55:49" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/02/01 12:15:48" mailCount="19" odType="02">
     <mail>
         <keyCd>162749</keyCd>
         <infoType>R10</infoType>
@@ -420,39 +420,5 @@ https://www.vvs.de/verbindungen-und-mobilitaet/aktuelle-meldungen</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162726.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162726L.xml</xmlLightUrl>
         <koukanCd>607A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162724</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/30 12:05:39</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>デモ情報（マカッサル市：１月３０日（金））</title>
-        <lead>●１月３０日（金）マカッサル市内で、デモ団体等による以下の抗議デモが行われる予定との情報があります。
-●デモの周辺箇所では交通規制が行われ、混乱や渋滞が生じる可能性があります。外出の際には十分にご注意ください。
-●同様のデモは、今後も継続する可能性があります。引き続き警戒をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162724</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162724A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162724.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162724L.xml</xmlLightUrl>
-        <koukanCd>607X</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162723</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/30 11:15:50</leaveDate>
-        <title>【注意喚起】抗議集会「National Shutdown」（1月30日）の実施について</title>
-        <lead>●1月30日（金）、ICE（移民関税執行局）の活動に対する抗議集会が全米規模で予定されており、南カリフォルニア及びアリゾナ州でも予定されています。
-●不測の事態に巻き込まれないよう、外出される前には報道等で最新情報の入手に努め、抗議活動が行われている場所には安易に近づかない等、十分注意を払ってください。
-●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。また、車で外出される際には迂回ルートをあらかじめ想定しておいてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162723</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162723A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162723.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162723L.xml</xmlLightUrl>
-        <koukanCd>301F</koukanCd>
     </mail>
 </opendata>
