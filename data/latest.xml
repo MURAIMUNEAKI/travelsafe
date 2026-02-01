@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/02 01:50:48" mailCount="11" odType="02">
+<opendata dataType="L" lastModified="2026/02/02 02:25:48" mailCount="9" odType="02">
     <mail>
         <keyCd>162750</keyCd>
         <infoType>R10</infoType>
@@ -179,46 +179,5 @@ https://www.bandab.com.br/seguranca/homem-morre-em-confronto-no-parque-nautico-a
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162739.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162739L.xml</xmlLightUrl>
         <koukanCd>301V</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162737</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/31 02:15:56</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>1340</cd>
-        </country>
-        <country areaCd="33">
-            <cd>1787</cd>
-        </country>
-        <title>【注意喚起】抗議集会「National Shutdown」の実施（１月３０日）</title>
-        <lead>●各種報道等によれば、本日（１月３０日）、全米各地で抗議集会「National Shutdown」の実施が呼びかけられています。当館管轄地域においては、ニューヨーク（マンハッタン区Foley Square）やフィラデルフィア等、複数の地域で抗議活動が予定されています。
-●主催者ウェブサイト、治安当局の発表や報道等により、最新情報の入手に努めるとともに、抗議集会やデモ行進に興味本位で近づいたり、写真撮影をしたりせず、また、予期せず抗議集会やデモ行進に遭遇した場合には速やかにその場を離れるなど、ご自身の安全確保に十分注意を払ってください。
-●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162737</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162737A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162737.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162737L.xml</xmlLightUrl>
-        <koukanCd>301H</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162736</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/01/31 01:55:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0039</cd>
-        </country>
-        <title>ミラノ・コルティナ2026冬季オリンピック・パラリンピック開催に伴う注意喚起</title>
-        <lead>　2月6日（金）のオリンピック開会式に先立ち、2月4日（水）から一部競技が開始されます。競技開催期間中は大勢の人出が見込まれ、不特定多数の人が集まる場所や施設ではテロや犯罪の標的となるおそれがあるため、注意が必要です。下記をご参照のうえ、貴重品の管理を徹底するとともに身の安全確保に十分ご留意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162736</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162736A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162736.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162736L.xml</xmlLightUrl>
-        <koukanCd>509D</koukanCd>
     </mail>
 </opendata>
