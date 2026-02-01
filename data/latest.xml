@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/01 20:40:48" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/02/01 21:30:48" mailCount="17" odType="02">
+    <mail>
+        <keyCd>162750</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/01 21:20:39</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0880</cd>
+        </country>
+        <title>バングラデシュ国内総選挙に向けた注意喚起</title>
+        <lead>１　２月１２日に予定されている選挙に向け、１月２２日に選挙キャンペーン期間が開始しました（注：キャンペーン期間終了は２月１０日を予定。）。これまでのところ大規模な混乱は生じていませんが、政党間の衝突で死傷者が出る等の事案が各地で発生しています。今後、投票日が近付くにつれ、混乱や衝突がエスカレートする可能性も排除されません。また、総選挙が実施された後も、選挙結果に不満を有する政治勢力の動向を含め、治安上のリスクを注視する必要があります。
+在留邦人の皆様におかれましては、報道等により最新情報を入手するとともに、不測の事態に巻き込まれないよう、投票日前後の不要不急の外出はできるだけ避け、投票所付近には近づかないようにしてください。万が一、デモや暴動等の異常事態に遭遇した場合、直ちにその場を離れ、自らの安全を確保した上で、大使館まで御一報ください。
+
+２　バングラデシュ政府は、選挙投票日の２月１２日及び前日の１１日を祝日とすることを決定しています。その上で、バングラデシュ選挙管理委員会は、（１）１２日午前０時から１３日午前０時までの２４時間は、タクシー、ピックアップトラック、マイクロバス、大型トラックを含む四輪車両（注：緊急車両や警察・軍・行政機関等の車両のほか、親族のために空港送迎を行う車両等を除く。）の通行を禁止すること、（２）自動二輪車については１０日午前０時から１３日午前０時までの７２時間の通行を禁止することを発表しています。在留邦人の皆様におかれましては、当該期間の不要不急の外出はできるだけ避けていただきつつ、移動を計画する必要が生じる場合には、これらの交通規制に留意願います。
+また、２月１１日及び１２日の両日には、バングラデシュ政府機関だけではなく、食料品店等の商業施設も休業する可能性があります。在留邦人の皆様には、万が一に備え、数日分の水や食料を予め保存されることをお勧めいたします。
+なお、当館は、２月１１日及び１２日ともに通常どおり開館する予定です。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162750</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162750A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162750.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162750L.xml</xmlLightUrl>
+        <koukanCd>610D</koukanCd>
+    </mail>
     <mail>
         <keyCd>162749</keyCd>
         <infoType>R10</infoType>
