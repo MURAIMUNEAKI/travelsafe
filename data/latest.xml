@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/03 01:25:48" mailCount="5" odType="02">
+<opendata dataType="L" lastModified="2026/02/03 01:55:48" mailCount="6" odType="02">
+    <mail>
+        <keyCd>162758</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/03 01:50:38</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>9007</cd>
+        </country>
+        <title>安否確認訓練の事前連絡（在ロシア日本国大使館）</title>
+        <lead>在留邦人の皆様へ
+
+皆様の居住地周辺において緊急事態が発生した場合に日本国政府は日本国籍者の安否確認を行いますが、昨年と同様に在ロシア日本国大使館はこの安否確認の訓練を２月４日（水）に次のとおり実施いたします。皆様のご参加をいただけますと幸いです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162758</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162758A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162758.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162758L.xml</xmlLightUrl>
+        <koukanCd>517A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162757</keyCd>
         <infoType>R10</infoType>
