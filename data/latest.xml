@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/03 02:25:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/02/03 02:45:48" mailCount="9" odType="02">
+    <mail>
+        <keyCd>162762</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/03 02:40:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0351</cd>
+        </country>
+        <title>非常事態宣言（Estado de Calamidade）の延長について</title>
+        <lead>●ポルトガル政府は、低気圧「クリスティン」に関して、２月８日まで災害事態宣言を延長することを発表しました。 
+●ポルトガル海洋大気研究所は、今後数日間、ポルトガル本土で天候の悪化が予想されると発表していることから、引き続き最新の気象情報、自治体の案内をこまめに確認してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162762</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162762A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162762.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162762L.xml</xmlLightUrl>
+        <koukanCd>513A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162761</keyCd>
         <infoType>R10</infoType>
