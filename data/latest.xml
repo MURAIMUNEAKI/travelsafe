@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/02 23:55:49" mailCount="4" odType="02">
+<opendata dataType="L" lastModified="2026/02/03 00:25:48" mailCount="5" odType="02">
+    <mail>
+        <keyCd>162757</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/03 00:10:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>アッティカ県における48時間タクシーストライキ（３日から）</title>
+        <lead>アッティカ県における48時間タクシーストライキ（3日から）
+
+報道によると、2月3日（火）から4日（水）までの間、アッティカ県タクシー労働組合（SATA）による48時間タクシーストライキが実施されるとのことです。
+このため、アテネ市を含むアッティカ県ではタクシーの運行に影響が出ることが予想されます。ご利用予定の方はご注意ください。
+※ストライキの開始及び終了時間については、現時点では不明です。
+※この情報は現時点で発表・報道されているもので、今後変更の可能性があります。外出の際は最新情報を確認してください。
+
+＜参照＞
+○アッティカ県タクシー労働組合（SATA）発表（ギリシャ語）
+https://satataxi.gr</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162757</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162757A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162757.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162757L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162756</keyCd>
         <infoType>R10</infoType>
