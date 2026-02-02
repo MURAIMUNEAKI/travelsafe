@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/02 23:30:50" mailCount="3" odType="02">
+<opendata dataType="L" lastModified="2026/02/02 23:55:49" mailCount="4" odType="02">
+    <mail>
+        <keyCd>162756</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/02 23:35:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0258</cd>
+        </country>
+        <title>邦人窃盗事案の発生</title>
+        <lead>１月２２日未明、邦人が窃盗被害に遭う事案が発生しましたので注意願います。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162756</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162756A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162756.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162756L.xml</xmlLightUrl>
+        <koukanCd>763A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162755</keyCd>
         <infoType>R10</infoType>
