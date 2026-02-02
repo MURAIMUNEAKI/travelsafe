@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/03 01:55:48" mailCount="6" odType="02">
+<opendata dataType="L" lastModified="2026/02/03 02:25:48" mailCount="8" odType="02">
+    <mail>
+        <keyCd>162761</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/03 02:25:38</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0251</cd>
+        </country>
+        <title>ティグライ州の情勢について</title>
+        <lead>【ポイント】
+●ティグライ州は従来より危険レベル３（渡航を止めてください：渡航中止勧告）に指定しておりますが、現在ティグライ州の情勢は安定した状態にはないと見られるため、渡航を差し控えるように改めてお願いします。
+●1月２９日以降２月２日現在まで、ティグライ州（メケレ、アクスム、シレ、フメラ）へのフライトは、運休しております。
+●州都メケレ市を含めティグライ州に滞在している方、訪問中の方は、関連の最新情報の収集に努めるとともに、安全な地域への移動を含め安全確保に最大限の注意を払ってください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162761</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162761A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162761.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162761L.xml</xmlLightUrl>
+        <koukanCd>711A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162759</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/03 02:10:41</leaveDate>
+        <title>【復旧】当館電話回線の通信障害のお知らせ</title>
+        <lead>　１月３０日にお知らせした当館電話回線の障害について、現在は復旧し正常に繋がる状態となっております。皆様にご不便、ご迷惑をおかけしましたことをお詫び申し上げます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162759</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162759A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162759.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162759L.xml</xmlLightUrl>
+        <koukanCd>301S</koukanCd>
+    </mail>
     <mail>
         <keyCd>162758</keyCd>
         <infoType>R10</infoType>
