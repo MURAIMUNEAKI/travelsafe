@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/03 13:45:48" mailCount="12" odType="02">
+<opendata dataType="L" lastModified="2026/02/03 14:25:48" mailCount="13" odType="02">
+    <mail>
+        <keyCd>162771</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/03 14:00:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>9007</cd>
+        </country>
+        <title>北方領土の日に伴う抗議デモにかかる注意喚起</title>
+        <lead>●２月７日は、「北方領土の日」に伴い、ロシア国内で抗議デモが実施される可能性があります。 
+●当日の行動には十分注意し、デモを認めた際には不用意に近づかないようにして下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162771</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162771A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162771.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162771L.xml</xmlLightUrl>
+        <koukanCd>517V</koukanCd>
+    </mail>
     <mail>
         <keyCd>162770</keyCd>
         <infoType>R10</infoType>
