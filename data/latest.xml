@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/05 06:25:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/02/05 06:45:49" mailCount="20" odType="02">
+    <mail>
+        <keyCd>162800</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/05 06:35:40</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>【お知らせ】戸籍情報連携関連システムの定期メンテナンスについて</title>
+        <lead>●法務省の戸籍情報連携関連システムの定期メンテナンスのため、２月６日(金)５：００～２月８日(日)１１：００及び２月２０日(金)５：００～２月２２日(日)１１：００の間、パスポートのオンライン申請が御利用いただけませんので御注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162800</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162800A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162800.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162800L.xml</xmlLightUrl>
+        <koukanCd>402A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162799</keyCd>
         <infoType>R10</infoType>
