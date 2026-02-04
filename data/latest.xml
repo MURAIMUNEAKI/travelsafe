@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/04 15:55:49" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/02/04 16:25:48" mailCount="17" odType="02">
+    <mail>
+        <keyCd>162784</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/04 16:25:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0041</cd>
+        </country>
+        <title>スイス全土におけるサイレン試験放送の実施（２月４日）</title>
+        <lead>●２月４日（水）１３時３０分から、スイス全土において年に一度のサイレン試験放送が実施されます。
+●スイスにおける最新の災害や緊急事態の情報については、スマートフォン用アプリ「Alertswiss」を通じて入手できます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162784</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162784A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162784.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162784L.xml</xmlLightUrl>
+        <koukanCd>516A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162783</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/04 16:05:40</leaveDate>
+        <title>クラゲへの注意喚起</title>
+        <lead>１．グアム政府農務省は、２月から５月頃まで、グアムの沿岸海域及び海岸線におけるボックスクラゲ（box jellyfish）の発生予想を公表し、海水浴客などに注意を呼びかけています。
+
+２．同省は、クラゲに刺されると激しい痛み、腫れ、呼吸困難などの症状が出る場合があり、水中のクラゲのみならず、陸上に打ち上げられたクラゲにも絶対に触れないよう注意喚起しています。
+
+３．クラゲに刺された場合には医療機関を受診してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162783</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162783A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162783.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162783L.xml</xmlLightUrl>
+        <koukanCd>301M</koukanCd>
+    </mail>
     <mail>
         <keyCd>162781</keyCd>
         <infoType>R10</infoType>
