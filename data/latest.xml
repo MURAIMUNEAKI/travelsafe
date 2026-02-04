@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/04 19:25:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/02/04 19:55:48" mailCount="17" odType="02">
     <mail>
         <keyCd>162785</keyCd>
         <infoType>R10</infoType>
@@ -972,24 +972,5 @@ https://satataxi.gr</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162755.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162755L.xml</xmlLightUrl>
         <koukanCd>713A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162753</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/02 19:30:38</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0261</cd>
-        </country>
-        <title>【注意喚起】マダガスカル北部Nosy-be（ノシベ）地域の治安情勢について</title>
-        <lead>・マダガスカル北部のNosy-be（ノシベ）地域において強盗殺人事件が発生しました。
-・他の地域でも強盗、誘拐事件等が発生しており注意が必要です。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162753</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162753A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162753.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162753L.xml</xmlLightUrl>
-        <koukanCd>730A</koukanCd>
     </mail>
 </opendata>
