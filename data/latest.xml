@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/05 00:55:49" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/02/05 01:30:49" mailCount="18" odType="02">
+    <mail>
+        <keyCd>162793</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/05 01:30:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0503</cd>
+        </country>
+        <title>【注意喚起】カードの不正利用による被害発生について</title>
+        <lead>・当地において、カード不正利用による被害が発生しています。
+・在留邦人及び渡航者の皆様におかれましては、情報漏洩やカード払い等のキャッシュレス決済時の危険性を十分に認識していただき、防犯に向けて細心の注意を払っていただきますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162793</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162793A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162793.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162793L.xml</xmlLightUrl>
+        <koukanCd>409A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162792</keyCd>
         <infoType>R10</infoType>
