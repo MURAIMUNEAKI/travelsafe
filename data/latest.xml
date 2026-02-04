@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/04 17:55:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/02/04 18:25:49" mailCount="18" odType="02">
+    <mail>
+        <keyCd>162785</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/04 18:20:47</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0086</cd>
+        </country>
+        <title>ACLサッカーアジアチャンピオンズリーグエリート・ＦＣ町田ゼルビア対上海申花戦の開催に伴う注意喚起（２月１０日）</title>
+        <lead>●２月１０日（火）、上海市内の競技場においてACLチャンピオンズリーグエリート・ＦＣ町田ゼルビア対上海申花戦の開催が予定されており、多くの観戦者の来訪が見込まれます。
+●試合を観戦される皆様、上海市内にお住まいの方におかれましては、一部の熱狂的なサポーター等によるトラブルに巻き込まれないよう、外出時や公共交通機関での移動の際には十分ご注意ください。
+●試合を観戦される方におかれては、下記の注意事項を熟読し、主催者及び保安要員の指示に従ってください。周囲で異常を認知した際には早急にその場を離れるなど、不測の事態に巻き込まれないように十分ご注意ください。
+●大規模イベントなど多くの人が集まる場所では、犯罪被害に遭うリスクがあります。不審者や車、バイクの接近など周囲の状況には十分注意し、安全を確保するように努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162785</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162785A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162785.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162785L.xml</xmlLightUrl>
+        <koukanCd>619D</koukanCd>
+    </mail>
     <mail>
         <keyCd>162784</keyCd>
         <infoType>R10</infoType>
