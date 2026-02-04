@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/05 03:20:48" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/02/05 03:45:49" mailCount="16" odType="02">
+    <mail>
+        <keyCd>162796</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/05 03:45:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0351</cd>
+        </country>
+        <title>ポルトガル環境庁による洪水警報</title>
+        <lead>●４日、ポルトガル環境庁（Agencia Portuguesa do Ambiente）は国内の河川周辺地域に洪水警報を発出しましたため、当該地域（下記参照）近辺にお住まいの方や、これら地域に外出の予定がある方など、最新の情報の入手に努め十分に注意してください。
+ なお最新情報については下記のポルトガル環境庁サイトもご確認ください。
+https://apambiente.pt/destaque2/reuniao-sobre-gestao-de-cheias-e-protecao-do-litoral</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162796</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162796A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162796.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162796L.xml</xmlLightUrl>
+        <koukanCd>513A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162794</keyCd>
         <infoType>R10</infoType>
