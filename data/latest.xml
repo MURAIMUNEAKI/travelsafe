@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/04 22:55:49" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/02/04 23:25:48" mailCount="18" odType="02">
     <mail>
         <keyCd>162789</keyCd>
         <infoType>R10</infoType>
@@ -991,30 +991,5 @@ https://satataxi.gr</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162756.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162756L.xml</xmlLightUrl>
         <koukanCd>763A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162755</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/02 23:25:41</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0254</cd>
-        </country>
-        <country areaCd="60">
-            <cd>0252</cd>
-        </country>
-        <title>公共交通機関関係者による抗議デモの実施に伴う注意喚起</title>
-        <lead>●本２日、ナイロビ市内CBD地区、ティカロード及びワイヤキウエイなどの主要道路において、政府の対応に抗議する一部の公共交通機関関係者（マタツ事業者）によるデモが行われ、道路封鎖など一時的に交通の混乱が生じる事態が発生しました。
-
-●一部のマタツ事業者は、政府が適正な対応を取らない限り、毎週月曜日に抗議デモを行う旨表明しており、今後、継続して同様の抗議デモが生ずる可能性は否めず、万一発生した場合、交通の混乱が生ずる可能性があります。また、デモ参加者と警察当局との衝突や、混乱に乗じた強盗などの便乗犯罪も発生する可能性もあり、注意が必要です。
-
-●つきましては、在留邦人及び旅行者の皆様におかれましては、引き続き最新の情報に注意し、デモ発生場所への来訪を避けると共に、不測の事態に巻き込まれないよう、デモ・集会等に遭遇した場合には、すぐにその場から退避するなど、自らの安全確保に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162755</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162755A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162755.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162755L.xml</xmlLightUrl>
-        <koukanCd>713A</koukanCd>
     </mail>
 </opendata>
