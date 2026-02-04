@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/04 19:55:48" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/02/04 20:25:48" mailCount="18" odType="02">
+    <mail>
+        <keyCd>162788</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/04 20:20:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0351</cd>
+        </country>
+        <title>低気圧「レオナルド」</title>
+        <lead>●ポルトガル海洋大気研究所（IPMA）は、本４日（水）～明５日（木）日にかけて、低気圧「レオナルド（Leonardo）」がポルトガル本土を通過し、木曜未明にかけて、降水量の累積値及び風の強さが最も高まる、と予報してます。
+●IPMAは、一部地域（下記（２）及び（３）参照）に対して黄色警報を発令しました。最新の気象情報を入手し、不要不急の外出を避ける等、注意するようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162788</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162788A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162788.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162788L.xml</xmlLightUrl>
+        <koukanCd>513A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162785</keyCd>
         <infoType>R10</infoType>
