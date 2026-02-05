@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/05 10:15:49" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/02/05 11:00:52" mailCount="19" odType="02">
     <mail>
         <keyCd>162800</keyCd>
         <infoType>R10</infoType>
@@ -397,33 +397,5 @@ https://via.ritzau.dk/pressemeddelelse/14780633/37-arig-mand-flygtet-fra-vestre-
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162770.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162770L.xml</xmlLightUrl>
         <koukanCd>607A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162768</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/03 10:45:44</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0061</cd>
-        </country>
-        <title>在シドニー日本国総領事館メールマガジン第255号（2026年2月号）</title>
-        <lead>このメールは、在留届にて届けられたメールアドレス及び「たびレジ」登録者に自動的に配信されております。
-
-【目次】
-１ 領事情報（領事出張サービスの実施、精神科医療専門家による無料相談窓口、DV被害者支援、電子化した証明書（e-証明書）の発給対象拡大、戸籍のフリガナの記載、在外選挙人名簿登録、旅券発給体制の変更、マイナ免許証、オンライン申請とオンライン決済、マイナンバーカード申請・交付、在留届と「たびレジ」）
-２ アジア・エネルギー安全保障セミナーのご案内
-３ 日本文化関連行事
-４ 日本語補習授業校の教員募集
-５ 総領事通信・総領事館公式SNS
-６ 休館日のお知らせ（2月及び3月）
-
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162768</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162768A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162768.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162768L.xml</xmlLightUrl>
-        <koukanCd>614D</koukanCd>
     </mail>
 </opendata>
