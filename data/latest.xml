@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/06 00:55:49" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/02/06 01:30:50" mailCount="21" odType="02">
     <mail>
         <keyCd>162811</keyCd>
         <infoType>R10</infoType>
@@ -445,24 +445,5 @@ https://via.ritzau.dk/pressemeddelelse/14780633/37-arig-mand-flygtet-fra-vestre-
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162781.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162781L.xml</xmlLightUrl>
         <koukanCd>406A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162777</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/04 01:05:39</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0057</cd>
-        </country>
-        <title>【注意喚起】デモ情報</title>
-        <lead>●報道等によると、本日３日、国内主要都市でペトロ大統領の米国訪問支持等を目的とするデモが実施予定です。
-●これらのデモ等により、大規模な交通渋滞のほか、興奮した群衆による暴動も予想されます。外出の際には、インターネット等でデモ情報を確認し、デモ隊に不用意に近づかないようご注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162777</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162777A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162777.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162777L.xml</xmlLightUrl>
-        <koukanCd>405A</koukanCd>
     </mail>
 </opendata>
