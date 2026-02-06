@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/07 00:55:48" mailCount="33" odType="02">
+<opendata dataType="L" lastModified="2026/02/07 01:30:48" mailCount="33" odType="02">
+    <mail>
+        <keyCd>162844</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/07 01:10:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0371</cd>
+        </country>
+        <title>ダウガワ川における氷上通行の禁止に関する注意喚起</title>
+        <lead>（ポイント）
+●リガ市議会は安全上の理由により、２月７日以降、ダウガワ川における氷上通行を禁止することを決定しました。
+●禁止された期間、場所において氷上に乗ることは、警察当局の取締りの対象となり、警告や最大１００ユーロの罰金を科される可能性があります。
+●その他、犯罪や事故等の不測の事態に巻き込まれないよう、引き続き、治安や安全対策に関する最新情報の入手に努め、身の回りの安全確保に十分注意を払ってください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162844</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162844A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162844.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162844L.xml</xmlLightUrl>
+        <koukanCd>528A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162843</keyCd>
         <infoType>R10</infoType>
@@ -719,24 +740,5 @@ https://apambiente.pt/destaque2/reuniao-sobre-gestao-de-cheias-e-protecao-do-lit
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162794.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162794L.xml</xmlLightUrl>
         <koukanCd>405A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162793</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/05 01:30:39</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0503</cd>
-        </country>
-        <title>【注意喚起】カードの不正利用による被害発生について</title>
-        <lead>・当地において、カード不正利用による被害が発生しています。
-・在留邦人及び渡航者の皆様におかれましては、情報漏洩やカード払い等のキャッシュレス決済時の危険性を十分に認識していただき、防犯に向けて細心の注意を払っていただきますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162793</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162793A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162793.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162793L.xml</xmlLightUrl>
-        <koukanCd>409A</koukanCd>
     </mail>
 </opendata>
