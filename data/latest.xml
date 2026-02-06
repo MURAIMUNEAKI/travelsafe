@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/06 21:25:48" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/02/06 22:05:49" mailCount="32" odType="02">
+    <mail>
+        <keyCd>162839</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/06 21:50:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>偽狂犬病ワクチンの流通</title>
+        <lead>●インドの製薬会社Indian Immunologicals Limitedは、2023年からインドで偽物の狂犬病ワクチン「品名：Abhayrabワクチン（バッチ番号 KA24014）」が流通していることを報告しました。ただし、現在は既に流通していないとのことです。
+●偽ワクチンは本来の効果があるかどうかは不明であるため、狂犬病から完全に保護されていない可能性があり、十分な保護を受けるためには追加接種が必要だと考えられます。 
+●在留邦人及び出張者・旅行者の皆様の中で、2023年11月1日以降にインド国内で狂犬病ワクチンを接種した方におかれましては、接種したワクチンが「Abhayrabワクチン（バッチ番号KA24014）」かどうかご確認ください。
+●万一、当該偽狂犬病ワクチンの「Abhayrabワクチン（バッチ番号KA24014）」を接種していた場合は、対応について医療機関に相談してください。
+
+【関連報道】
+https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/abhayrab-rabies-vaccine-iil-says-counterfeit-batch-no-longer-available/articleshow/126201186.cms?from=mdr</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162839</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162839A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162839.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162839L.xml</xmlLightUrl>
+        <koukanCd>606A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162838</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/06 21:45:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0243</cd>
+        </country>
+        <title>チョポ州キサンガニ・バンゴカ（Bangoka）空港における攻撃の発生（注意喚起）</title>
+        <lead>１　一部報道等によれば、１月３１日から２月１日にかけて、反政府武装勢力ＡＦＣ／Ｍ２３は、チョポ州キサンガニ・バンゴカ国際空港に位置するコンゴ（民）国軍のドローン司令部への攻撃を行いました。
+
+２　また、２月５日、当地米国大使館は、本件に関してセキュリティアラートを発出し、注意を呼びかけています。
+（Security Alert: Exercise Caution at Bangoka International Airport, Kisangani）
+https://cd.usembassy.gov/security-alert-exercise-caution-at-bangoka-international-airport-kisangani/
+
+３　コンゴ（民）政府は事態の収束を宣言していますが、空港内及び周辺の治安状況は依然として予測不能です。つきましては、キサンガニ空港を利用した移動は控えていただき、周辺地域ではより一層の警戒を徹底するようお願いいたします。
+また、キンシャサに滞在されている方におかれても、最新情報の入手に努めるなど、自らの安全確保に一層留意いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162838</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162838A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162838.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162838L.xml</xmlLightUrl>
+        <koukanCd>710A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162836</keyCd>
         <infoType>R10</infoType>
