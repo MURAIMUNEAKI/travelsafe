@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/06 22:05:49" mailCount="32" odType="02">
+<opendata dataType="L" lastModified="2026/02/06 22:35:48" mailCount="34" odType="02">
+    <mail>
+        <keyCd>162841</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/06 22:25:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0237</cd>
+        </country>
+        <title>海外安全対策セミナーのご案内【在カメルーン大使館】</title>
+        <lead>●外務省はカメルーンにお住まいの在留邦人の方を対象として、安全対策セミナー（オンデマンド方式）を実施いたします。セミナーでは、危機管理専門家が制作した、邦人を取りまくリスク環境や対応についての動画を御視聴いただけます。
+●受講（視聴）を希望される方は、以下のURLから必要事項を登録してお申し込みください。
+ＵＲＬ：https://forms.office.com/e/FuXYPhyA1u</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162841</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162841A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162841.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162841L.xml</xmlLightUrl>
+        <koukanCd>753A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162840</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/06 22:15:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0092</cd>
+        </country>
+        <title>イスラマバードにおける爆発事案に関する注意喚起</title>
+        <lead>●　当地報道によれば、２月６日午後２時ころ、イスラマバード市郊外「Imambargah Khadija Tul Kubra S.A Tarlai」（イスラム教シーア派モスク）において爆発事案が発生し、少なくとも３０名以上が死亡した旨、報じています。シンド州、バロチスタン州内においても、多数のシーア派施設があり、カラチ市内においても複数存在しますので、宗教施設には近寄らないでください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162840</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162840A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162840.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162840L.xml</xmlLightUrl>
+        <koukanCd>610E</koukanCd>
+    </mail>
     <mail>
         <keyCd>162839</keyCd>
         <infoType>R10</infoType>
