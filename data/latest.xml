@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/07 03:55:48" mailCount="32" odType="02">
+<opendata dataType="L" lastModified="2026/02/07 04:15:48" mailCount="33" odType="02">
+    <mail>
+        <keyCd>162847</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/07 04:00:41</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0057</cd>
+        </country>
+        <title>カウカ県、ナリニョ県の治安悪化について（注意喚起）</title>
+        <lead>●コロンビア南西部のカウカ県、ナリニョ県はレベル３（渡航中止勧告）又はレベル２（不要不急の渡航中止）です。
+●両県を通るパンアメリカンハイウェイなどの道路において、違法検問、誘拐、強盗事件が相次いで発生するなど治安の悪化が認められます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162847</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162847A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162847.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162847L.xml</xmlLightUrl>
+        <koukanCd>405A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162845</keyCd>
         <infoType>R10</infoType>
