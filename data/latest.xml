@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/07 05:45:48" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/02/07 06:25:49" mailCount="31" odType="02">
+    <mail>
+        <keyCd>162849</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/07 05:55:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>注意喚起：サンタクルス県におけるチクングニア熱の流行について</title>
+        <lead>● サンタクルス県におけるチクングニア熱の感染者数が、今年に入って急増しています。
+● １月の感染者数は約１,０５０名で、このうち新生児を含む６名が重症患者です。
+● チクングニア熱は、蚊に刺されることで感染するウイルス性疾患です。
+● 蚊に刺されてから２～１２日後に、高熱、強い関節痛、発疹が出現します。
+● 蚊除けスプレーの使用などの感染防止策に努めるとともに、旅行者におかれては、衛生状態に不安のあるホステル等の利用を避けてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162849</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162849A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162849.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162849L.xml</xmlLightUrl>
+        <koukanCd>002A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162847</keyCd>
         <infoType>R10</infoType>
