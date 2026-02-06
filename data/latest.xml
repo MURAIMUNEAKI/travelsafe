@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/06 14:25:48" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/02/06 14:55:48" mailCount="24" odType="02">
+    <mail>
+        <keyCd>162824</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/06 14:40:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0086</cd>
+        </country>
+        <title>春節期間中の休館日に関するお知らせ（在上海総領事館）</title>
+        <lead>１　春節期間中、当館は、２月１５日（日）から２月２３日（月）まで休館いたします。
+なお、２月１４日（土）は中国国務院の定める振替出勤日であり、開館いたします。
+また、２月２８日（土）は振替出勤日ですが、当館は休館いたします。
+２　休館中、万一、事件や事故に遭われた場合、また、パスポートをなくされ、緊急に帰国する必要がある場合などは、下記連絡先までご連絡ください。 
+○ TEL：０２１－５２５７－４７６６（２４時間受付） 
+※緊急の場合は、休館中も対応いたします。 
+３　なお、パスポートをなくされた場合、新たに発給を受けるには時間がかかります。また、新たなパスポートを取得した後、現地公安局（中国の出入境管理局）の開局時間内に同局に出向いて手続きを行う必要もあることから、出国まで通常よりも長い時間がかかります。パスポートの管理には十分お気をつけください。
+パスポートを紛失した場合の手続きは、次のURLよりご確認ください。 
+https://www.shanghai.cn.emb-japan.go.jp/itpr_ja/00_000726.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162824</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162824A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162824.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162824L.xml</xmlLightUrl>
+        <koukanCd>619D</koukanCd>
+    </mail>
     <mail>
         <keyCd>162821</keyCd>
         <infoType>R10</infoType>
