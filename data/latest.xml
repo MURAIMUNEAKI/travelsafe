@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/07 04:45:48" mailCount="33" odType="02">
+<opendata dataType="L" lastModified="2026/02/07 05:25:48" mailCount="32" odType="02">
     <mail>
         <keyCd>162847</keyCd>
         <infoType>R10</infoType>
@@ -734,24 +734,5 @@ https://www.shanghai.cn.emb-japan.go.jp/itpr_ja/00_000726.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162798.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162798L.xml</xmlLightUrl>
         <koukanCd>412A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162797</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/05 05:10:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0056</cd>
-        </country>
-        <title>（注意喚起）置き引き被害の発生について</title>
-        <lead>１月29日（木）午後７時30分頃、ラス・コンデス区パルケ・アラウコ内の飲食店において、在留邦人が会食中、足元に置いていたバッグを盗まれる窃盗事件が発生しました。本件では、バッグ内にあったパスポート、財布等が窃取されています。
-飲食店での会食時は注意が散漫になりやすく、その隙を狙って、客を装った置き引き犯が犯行に及ぶケースが確認されています。今回の事案においても、犯人は所持していた上着でバッグを隠しながら引き寄せるという、極めて手慣れた手口で犯行に及んでいたことが店舗の監視カメラ映像により確認されています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162797</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162797A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162797.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162797L.xml</xmlLightUrl>
-        <koukanCd>404A</koukanCd>
     </mail>
 </opendata>
