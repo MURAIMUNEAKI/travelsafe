@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/07 01:30:48" mailCount="33" odType="02">
+<opendata dataType="L" lastModified="2026/02/07 02:00:50" mailCount="33" odType="02">
+    <mail>
+        <keyCd>162845</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/07 01:35:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0039</cd>
+        </country>
+        <title>2月6日及び7日におけるデモ行進（ミラノ）等に関する注意喚起</title>
+        <lead>１　本2月6日（金）当地時間午後8時から、ミラノ市内のサン・シーロ・スタジアムにおいて、冬季オリンピック開会式が開催されます。これに伴い、本6日（金）及び明7日（土） 、ミラノ市内では大会開催に反対するデモ行進が予定されています。多数の参加者が見込まれており、混乱や衝突が発生する可能性があります。また、ミラノ市内ではICE（米国移民・関税執行局）に反対する集会も複数行われています。デモや群衆を見かけたら、周囲の状況に十分注意し、身の安全を最優先にした行動を心がけてください。
+
+●反五輪たいまつ行進　
+　日時：2月6日（金）午後6時から午後9時
+　場所：サン・シーロ地区、セジェスタ広場（Piazzale Segesta）からセリヌンテ広場（Piazzale Selinunte）
+　参加人数：不明
+
+●全国規模の呼びかけによるデモ行進
+　日時：2月7日（土）午後3時から午後6時
+　場所：メダリエ・ドーロ広場（Piazzale Medaglie D’Oro）からコルヴェット地区（Corvetto）
+　参加人数：約3,000人　
+
+　ルートについては、こちらのリンクを参照ください。
+　https://www.milano.it.emb-japan.go.jp/files/100975392.pdf
+
+２　イタリア当局は、重要施設や混雑地域を中心に、日常的な身分証確認を強化しています。警察による職務質問や会場入場に備え、外出時は有効なパスポートを携帯してください。また、旅券等の紛失・盗難が引き続き発生していますので、当館特設サイトを事前にご確認の上、貴重品の管理には十分ご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162845</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162845A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162845.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162845L.xml</xmlLightUrl>
+        <koukanCd>509D</koukanCd>
+    </mail>
     <mail>
         <keyCd>162844</keyCd>
         <infoType>R10</infoType>
@@ -721,24 +754,5 @@ https://apambiente.pt/destaque2/reuniao-sobre-gestao-de-cheias-e-protecao-do-lit
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162796.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162796L.xml</xmlLightUrl>
         <koukanCd>513A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162794</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/05 01:40:39</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0057</cd>
-        </country>
-        <title>ボゴタ市におけるノーカー・ノーバイクデイの実施</title>
-        <lead>●２月５日（木）午前５時から午後９時までの間、ボゴタ市内においてノーカー・ノーバイクデイが実施予定です。
-●一部の例外を除いて、車両の使用が制限されますのでご注意下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162794</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162794A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162794.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162794L.xml</xmlLightUrl>
-        <koukanCd>405A</koukanCd>
     </mail>
 </opendata>
