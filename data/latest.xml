@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/07 08:45:48" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/02/07 09:35:48" mailCount="32" odType="02">
+    <mail>
+        <keyCd>162851</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/07 08:50:39</leaveDate>
+        <title>注意喚起：商業施設駐車場における持凶器強盗事件の発生</title>
+        <lead>１　報道によりますと、２月６日(金)午後３時３０分頃、タムニング地区の大型商業施設グアム・プレミア・アウトレット（Guam Premier Outlets）駐車場において、旅行者グループが男３人に銃を突きつけられ金品を奪われる持凶器強盗事件が発生しました。被疑者は現在も逃走中です。
+
+２　被害者の中に邦人が含まれているとの情報はありませんが、同所は邦人旅行者、在留邦人も多いことから、同所を訪問する際は十分ご注意ください。
+
+３　強盗は銃を所持している可能性が高いことから、万一強盗に襲われた場合は絶対に抵抗せず、自分の身の安全を最優先にしてください。安全が確保されたら直ちに９１１（グアム警察・消防・沿岸警備隊共通の緊急通報ダイヤル）に通報してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162851</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162851A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162851.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162851L.xml</xmlLightUrl>
+        <koukanCd>301M</koukanCd>
+    </mail>
     <mail>
         <keyCd>162850</keyCd>
         <infoType>R10</infoType>
