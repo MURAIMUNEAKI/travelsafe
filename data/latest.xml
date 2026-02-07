@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/07 11:05:49" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/02/07 12:00:49" mailCount="28" odType="02">
     <mail>
         <keyCd>162851</keyCd>
         <infoType>R10</infoType>
@@ -651,66 +651,5 @@ https://www.shanghai.cn.emb-japan.go.jp/itpr_ja/00_000726.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162810.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162810L.xml</xmlLightUrl>
         <koukanCd>718A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162805</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/05 11:15:57</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0063</cd>
-        </country>
-        <title>【安全対策情報】台風２号「ペンニャ」の発生に伴う注意喚起</title>
-        <lead>●台風２号「ペンニャ」がフィリピン・ミンダナオ島の東の海上で発生し、本日から９日にかけてビサヤ諸島やミンダナオ島北部を通過すると予想されています。
-（注：日本とフィリピンでは台風の定義が異なっており、現在フィリピンでは熱帯低気圧「Basyang」と呼称されています。）
-フィリピン気象庁（ＰＡＧＡＳＡ）発表： https://www.pagasa.dost.gov.ph/
-●この台風の影響で、ビサヤ諸島やミンダナオ島北部では、強風や大雨が発生する可能性や洪水や土砂崩れのリスクが高まっています。また、航空便を含む公共交通機関が欠航・遅延する可能性があります。
-●最新の気象情報を入手し、被害が想定される地域に渡航・滞在を予定している方におかれましては、適切な安全対策を講じた上で十分に注意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162805</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162805A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162805.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162805L.xml</xmlLightUrl>
-        <koukanCd>611F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162804</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/05 11:15:56</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0063</cd>
-        </country>
-        <title>【総領事館からのお知らせ】電話回線復旧のお知らせ</title>
-        <lead>●当館において発生しておりました電話回線の不具合につきまして、現在は復旧し、通常どおりご利用いただける状況となりましたのでお知らせいたします。
-●不具合発生中は、皆様に多大なるご不便・ご迷惑をおかけしましたこと、心よりお詫び申し上げます。
-●現在は、当館代表電話番号にて通常どおりお電話が繋がります。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162804</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162804A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162804.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162804L.xml</xmlLightUrl>
-        <koukanCd>611F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162803</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/05 11:10:44</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>デモ情報（ジャカルタ：２月５日）</title>
-        <lead>●　本５日午前１１時頃から、ジャカルタ中心部の独立記念塔（モナス）周辺において、労働団体によるデモが予定されています。
-●　デモの周辺道路では交通規制が行われ、交通状況に影響が生じる可能性があります。外出の際にはご注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162803</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162803A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162803.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162803L.xml</xmlLightUrl>
-        <koukanCd>607A</koukanCd>
     </mail>
 </opendata>
