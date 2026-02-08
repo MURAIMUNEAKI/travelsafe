@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/09 00:45:48" mailCount="7" odType="02">
+<opendata dataType="L" lastModified="2026/02/09 01:20:48" mailCount="6" odType="02">
     <mail>
         <keyCd>162852</keyCd>
         <infoType>R10</infoType>
@@ -121,26 +121,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162845.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162845L.xml</xmlLightUrl>
         <koukanCd>509D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162844</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/07 01:10:39</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0371</cd>
-        </country>
-        <title>ダウガワ川における氷上通行の禁止に関する注意喚起</title>
-        <lead>（ポイント）
-●リガ市議会は安全上の理由により、２月７日以降、ダウガワ川における氷上通行を禁止することを決定しました。
-●禁止された期間、場所において氷上に乗ることは、警察当局の取締りの対象となり、警告や最大１００ユーロの罰金を科される可能性があります。
-●その他、犯罪や事故等の不測の事態に巻き込まれないよう、引き続き、治安や安全対策に関する最新情報の入手に努め、身の回りの安全確保に十分注意を払ってください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162844</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162844A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162844.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162844L.xml</xmlLightUrl>
-        <koukanCd>528A</koukanCd>
     </mail>
 </opendata>
