@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/08 18:50:48" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/02/08 19:15:48" mailCount="14" odType="02">
     <mail>
         <keyCd>162852</keyCd>
         <infoType>R10</infoType>
@@ -285,23 +285,5 @@ https://cd.usembassy.gov/security-alert-exercise-caution-at-bangoka-internationa
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162835.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162835L.xml</xmlLightUrl>
         <koukanCd>610A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162834</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/06 19:15:39</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0007</cd>
-        </country>
-        <title>カザフスタン渡航者に対する電子渡航認証（QazETA）の導入について</title>
-        <lead>　カザフスタンは、査証免除対象国（日本を含む）の国籍者に対する電子渡航認証（QazETA）等の試験運用を開始しています（現時点で試験運用中）。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162834</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162834A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162834.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162834L.xml</xmlLightUrl>
-        <koukanCd>534A</koukanCd>
     </mail>
 </opendata>
