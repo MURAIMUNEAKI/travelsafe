@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/08 19:45:49" mailCount="14" odType="02">
+<opendata dataType="L" lastModified="2026/02/08 20:15:49" mailCount="12" odType="02">
     <mail>
         <keyCd>162852</keyCd>
         <infoType>R10</infoType>
@@ -247,43 +247,5 @@ https://cd.usembassy.gov/security-alert-exercise-caution-at-bangoka-internationa
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162838.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162838L.xml</xmlLightUrl>
         <koukanCd>710A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162836</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/06 20:10:39</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0248</cd>
-        </country>
-        <title>セーシェルにおけるアルボウイルス（デング熱・チクングニア熱・ジカウイルス）の流行に関する注意喚起</title>
-        <lead>　本年に入り、領事メールでデング熱やチクングニア熱に関する注意喚起を行っていますが、２月４日、セーシェル保健当局から改めて注意喚起がありましたので、再度お知らせいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162836</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162836A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162836.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162836L.xml</xmlLightUrl>
-        <koukanCd>768A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162835</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/06 20:00:42</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0092</cd>
-        </country>
-        <title>～大使館からのお知らせ～（２月６日のイスラマバードにおける爆発事案に関する注意喚起）</title>
-        <lead>【ポイント】
-●報道によれば、２月６日午後14:00頃、イスラマバード市郊外「Imambargah Khadija Tul Kubra S.A Tarlai」において爆発事案が発生した旨、報じています。
-●また、17日から予定されているラマダン期間中及びその前後は、過去複数のテロ事件が発生しています。在留邦人の皆様や出張・旅行などで当地に一時滞在中の方におかれては、最新の関連情報を入手し、周囲の状況及び不審物に注意を払い、不審な状況を察知したら速やかにその場を離れるなど安全確保に十分注意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162835</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162835A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162835.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162835L.xml</xmlLightUrl>
-        <koukanCd>610A</koukanCd>
     </mail>
 </opendata>
