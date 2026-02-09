@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/09 12:40:48" mailCount="2" odType="02">
+<opendata dataType="L" lastModified="2026/02/09 13:20:48" mailCount="3" odType="02">
+    <mail>
+        <keyCd>162855</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/09 13:00:55</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0066</cd>
+        </country>
+        <title>【注意喚起】お金見せて詐欺について</title>
+        <lead>・バンコク都内では、以前から、ドバイから来たと称する男性（又は男女）から「お札を見せてほしい」などと声を掛けられ、やり取りをしている間に現金やクレジットカードを抜き取られる、いわゆる「お金見せて詐欺」被害の相談が後を絶たないところ、本年に入ってからも依然として被害相談が寄せられております。
+・在留邦人および旅行者の皆様におかれましては、見知らぬ相手から上記の様に話しかけられた際は、相手にすることなく、その場を速やかに立ち去る様に心掛けてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162855</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162855A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162855.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162855L.xml</xmlLightUrl>
+        <koukanCd>612A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162854</keyCd>
         <infoType>R10</infoType>
