@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/09 16:50:48" mailCount="6" odType="02">
+<opendata dataType="L" lastModified="2026/02/09 17:30:49" mailCount="8" odType="02">
+    <mail>
+        <keyCd>162860</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/09 17:15:53</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0269</cd>
+        </country>
+        <title>南インド洋のトロピカルストームGEZANIの実況と今後の見通しについて</title>
+        <lead>トロピカルストームGEZANIは現在、マダガスカル東海上にあり、今後さらに接近する見込みです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162860</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162860A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162860.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162860L.xml</xmlLightUrl>
+        <koukanCd>B75A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162859</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/09 17:15:53</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0261</cd>
+        </country>
+        <title>南インド洋のトロピカルストームGEZANIの実況と今後の見通しについて</title>
+        <lead>トロピカルストームGEZANIは現在、マダガスカル東海上にあり、今後さらに接近する見込みです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162859</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162859A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162859.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162859L.xml</xmlLightUrl>
+        <koukanCd>730A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162857</keyCd>
         <infoType>R10</infoType>
