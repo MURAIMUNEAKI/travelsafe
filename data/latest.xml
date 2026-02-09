@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/10 01:00:48" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/02/10 02:00:50" mailCount="14" odType="02">
+    <mail>
+        <keyCd>162867</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/10 01:55:51</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0033</cd>
+        </country>
+        <title>続報：当館電話回線の不通</title>
+        <lead>現在（２月９日時点）、引き続き当館の電話回線は通信障害により不通の状態となっており、復旧まで相当の時間を要する見込みです。
+
+つきましては、当面の間、領事業務に関するお問い合わせ・ご連絡等については、以下のとおりとしていただけますよう、よろしくお願いいたします。
+
+１　領事手続き
+　パスポート・各種証明書・在外選挙人名簿登録・マイナンバーカード等の申請、戸籍・国籍の届出等、当館領事窓口での手続き等に関するお問い合わせは、以下（１）の当館ウェブサイトをご参照いただくほか、以下（２）のメールアドレスにご連絡願います。
+（１）当館ウェブサイト
+https://www.fr.emb-japan.go.jp/itprtop_ja/index.html
+（２）領事用メールアドレス
+　consul@ps.mofa.go.jp
+
+２　緊急の連絡
+　日本人の事件・事故の被害等、緊急の連絡については、以下の電話番号にご連絡ください（夜間・休館日等の閉館時間帯を含む）。
+　０６－２３－１８－７９－３７</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162867</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162867A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162867.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162867L.xml</xmlLightUrl>
+        <koukanCd>505A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162866</keyCd>
         <infoType>R10</infoType>
