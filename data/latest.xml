@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/09 17:30:49" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/02/09 18:00:50" mailCount="9" odType="02">
+    <mail>
+        <keyCd>162861</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/09 17:45:43</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】警告ストライキ実施に伴う交通への影響（２月11日（水））</title>
+        <lead>統一サービス産業労働組合（Verdi）は、ミュンヘンとニュルンベルクが運営する公共交通機関従業員に対し、２月11日（水）終日にわたる警告ストライキを呼びかけており、これが実施されれば交通に大きな影響が出る模様です。
+
+ストライキは、地下鉄（Ｕバーン）、トラム及び路線バス（民間会社運行のものは除く。）で行われ、近郊列車（Ｓバーン）や地方バスは対象外となる予定です。
+
+出張やご旅行等を計画されている方は、事前に運行情報を確認するとともに、時間に余裕をもって行動するようにしてください。
+
+最新の情報は、公共交通機関ホームページや報道等からご確認ください。
+
+【関連ＵＲＬ】
+○統一サービス産業労働組合（Verdi）ホームページ
+https://www.verdi.de/geld-tarif/aktuelle-verdi-streiks 
+
+○ミュンヘン交通（MVG）
+https://www.mvg.de/news/streik.html
+
+○ニュルンベルク交通（VAG）
+https://www.vag.de/aktuelles/aktuelle-meldungen/detail/vag-wird-bestreikt-1</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162861</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162861A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162861.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162861L.xml</xmlLightUrl>
+        <koukanCd>506G</koukanCd>
+    </mail>
     <mail>
         <keyCd>162860</keyCd>
         <infoType>R10</infoType>
