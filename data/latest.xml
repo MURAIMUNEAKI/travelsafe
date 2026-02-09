@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/09 11:40:48" mailCount="3" odType="02">
+<opendata dataType="L" lastModified="2026/02/09 12:40:48" mailCount="2" odType="02">
     <mail>
         <keyCd>162854</keyCd>
         <infoType>R10</infoType>
@@ -32,19 +32,5 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162853.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162853L.xml</xmlLightUrl>
         <koukanCd>614D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162852</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/07 12:15:45</leaveDate>
-        <title>ハワイ州における悪天候に関する注意喚起（緊急事態宣言発出）</title>
-        <lead>●本日（６日）ハワイ州知事は、今週末に予想される激しい悪天候に備え、緊急事態宣言を発出しました。現時点では、この緊急事態宣言は２月１１日（水）まで有効とされていますが、状況に応じて延長される可能性もあります。
-●米国国立気象局の予報によると、大雨（最大約250mm）、鉄砲水、被害を伴う強風が、土曜日から月曜日にかけて発生するおそれがあります。
-●在留邦人および旅行者の皆様におかれましては、当局からの情報や最新の気象情報等をこまめに確認し、大雨や強風時の外出を控え、低地や河川周辺への立ち入りを避ける等十分な安全対策を講じてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162852</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162852A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162852.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162852L.xml</xmlLightUrl>
-        <koukanCd>301E</koukanCd>
     </mail>
 </opendata>
