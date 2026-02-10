@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/10 14:15:50" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/02/10 14:45:48" mailCount="20" odType="02">
+    <mail>
+        <keyCd>162874</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/10 14:30:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>イラン・イスラム革命記念日に伴う注意喚起</title>
+        <lead>２月１１日（水）、イラン国内各地でイラン・イスラム革命記念日に伴う行進及び集会の開催が予定されておりますので、十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162874</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162874A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162874.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162874L.xml</xmlLightUrl>
+        <koukanCd>703A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162873</keyCd>
         <infoType>R10</infoType>
