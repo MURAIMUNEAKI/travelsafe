@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/11 03:35:49" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/02/11 04:05:48" mailCount="31" odType="02">
+    <mail>
+        <keyCd>162894</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/11 03:40:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0055</cd>
+        </country>
+        <title>リオのカーニバルに関する注意喚起</title>
+        <lead>多くの人出が予想されるカーニバル開催期間中（２月１３日（金）～２月２１日（土））は、強盗事件等の街頭犯罪が増加し、例年セントロ地区を中心に多くの邦人被害（強盗など）が発生しています。犯罪に巻き込まれることのないよう慎重に行動し、万が一のために外出時の所持品は最低限に留めてください。
+なお、２月１６日（月）、１７日（火）及び１８日（水）は当館の休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162894</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162894A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162894.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162894L.xml</xmlLightUrl>
+        <koukanCd>403H</koukanCd>
+    </mail>
     <mail>
         <keyCd>162893</keyCd>
         <infoType>R10</infoType>
