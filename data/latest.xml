@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/10 16:10:48" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/02/10 16:30:50" mailCount="22" odType="02">
     <mail>
         <keyCd>162875</keyCd>
         <infoType>R10</infoType>
@@ -204,6 +204,35 @@ https://www.fr.emb-japan.go.jp/itprtop_ja/index.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162865.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162865L.xml</xmlLightUrl>
         <koukanCd>518A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026T013</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢 一般犯罪</contentInfo>
+        <leaveDate>2026/02/10 00:00:00</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0007</cd>
+        </country>
+        <title>カザフスタンの危険情報【危険レベル継続】（内容の更新）</title>
+        <lead>●カザフスタンの治安は概ね安定していますが、2022年1月の騒擾中に強奪された銃器の多くが未だ発見されておらず、治安上の大きな懸念となっています。
+●近年、国内でテロ事件は発生していませんが、準備・未遂段階での摘発は継続的に報告されています。アフガニスタン情勢を受けてテロリストがカザフスタンに流入する可能性も指摘されており注意が必要です。
+●一般犯罪の件数は近年減少傾向にありますが、大都市での窃盗は依然として多いほか、薬物犯罪も多発しており引き続き十分な注意が必要です。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T013.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T013A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T013.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T013L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>0</riskLevel3>
+        <riskLevel2>0</riskLevel2>
+        <riskLevel1>1</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T013_1_Detail.html</mapImageUrl>
     </mail>
     <mail>
         <keyCd>162863</keyCd>
