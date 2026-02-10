@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/10 15:20:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/02/10 16:10:48" mailCount="21" odType="02">
+    <mail>
+        <keyCd>162875</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/10 15:50:45</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0852</cd>
+        </country>
+        <title>「春節（旧正月）」期間中の安全対策及び当館の連絡先について</title>
+        <lead>●当館は、2月17日（火）から19日（木）までの「春節（旧正月）」期間中は休館となります（※中国本土が休日となる2月16日（月）、20日（金）及び23日（月）は通常開館）。
+●連休期間中は多くの人が移動し、特に観光地等は大勢の人が集まることが見込まれるため、外出の際には周囲の状況にくれぐれも留意し、特にお子様連れの場合には、可能な限りの安全対策に努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162875</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162875A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162875.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162875L.xml</xmlLightUrl>
+        <koukanCd>605D</koukanCd>
+    </mail>
     <mail>
         <keyCd>162874</keyCd>
         <infoType>R10</infoType>
