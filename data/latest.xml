@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/10 08:25:50" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/02/10 08:55:49" mailCount="18" odType="02">
+    <mail>
+        <keyCd>162871</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/10 08:25:56</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0057</cd>
+        </country>
+        <title>ATMでの出金直後の強盗事件発生について（注意喚起）</title>
+        <lead>●9日、ボゴタ市内北西部のショッピングセンターにおいてコロンビア人女性がATMでの出金直後、路上を歩いていたところバイクに乗った強盗犯人に現金を強取される事件が発生しました。
+●出金後は誰かに尾行されていないか、よく周囲を確認して下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162871</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162871A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162871.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162871L.xml</xmlLightUrl>
+        <koukanCd>405A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162870</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/10 08:25:56</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0057</cd>
+        </country>
+        <title>エル・ドラド国際空港内におけるストライキの発生について（注意喚起）</title>
+        <lead>●　現在、エル・ドラド国際空港内において、一部の移民庁職員による待遇改善を求めるストライキが実施されています。特に入国審査において通常以上に時間がかかる状態です。出国する際は、通常より早めに空港へ行かれることをお勧めします。
+●　ご利用予定の航空便がストライキの影響を受け運休になる可能性もありますので、最新の情報を報道又は航空会社のホームページ等でご確認下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162870</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162870A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162870.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162870L.xml</xmlLightUrl>
+        <koukanCd>405A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162869</keyCd>
         <infoType>R10</infoType>
