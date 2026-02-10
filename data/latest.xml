@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/10 16:30:50" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/02/10 16:50:48" mailCount="23" odType="02">
+    <mail>
+        <keyCd>162876</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/10 16:45:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0063</cd>
+        </country>
+        <title>【総領事館からのお知らせ】当館休館日（２０２６年２月１７日（火））のお知らせ</title>
+        <lead>●２月１７日（火）は当館休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162876</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162876A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162876.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162876L.xml</xmlLightUrl>
+        <koukanCd>611F</koukanCd>
+    </mail>
     <mail>
         <keyCd>162875</keyCd>
         <infoType>R10</infoType>
