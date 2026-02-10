@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/10 19:30:49" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/02/10 20:00:48" mailCount="26" odType="02">
+    <mail>
+        <keyCd>162884</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/10 19:55:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0243</cd>
+        </country>
+        <title>キンシャサ市リメテ区におけるデモ隊と警察部隊の衝突の発生（注意喚起）</title>
+        <lead>１　一部報道等によれば、本日（２月１０日）早朝から、キンシャサ市リメテ（Limete）区パカジュマ（Pakadjuma）地区において、当局による違法建築の取り壊しに反対する数百人のデモ隊の一部が商店などから略奪・店舗を破壊するなど暴徒化し、警察部隊との衝突に発展しています。
+
+２　数十人の暴徒が武装しているとの情報もあり、銃撃による死傷者が出ているという情報もあります。
+
+３　以下の点に十分留意いただき、自らの安全確保に努め、慎重な行動を取っていただくよう、また暴動等に巻き込まれないようご注意願います。
+・衝突が発生していると思われる日本大通り（Poids Lourds）の通行を控える
+・不要不急の外出を控える
+・集会、群衆、人だかり等に近づかない
+・テレビ、ラジオ、インターネット等を使用して、最新の治安情報の収集に努める</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162884</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162884A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162884.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162884L.xml</xmlLightUrl>
+        <koukanCd>710A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162882</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/10 19:35:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0224</cd>
+        </country>
+        <title>カルーム地区の中央刑務所付近での銃声について</title>
+        <lead>●本日、カルーム地区の中央刑務所付近で銃声が聞こえたという情報があります。
+●ギニアに滞在中の方は、不測の事態に巻き込まれることがないよう、慎重な行動を心がけるとともに、安全を確保するよう努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162882</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162882A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162882.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162882L.xml</xmlLightUrl>
+        <koukanCd>758A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162879</keyCd>
         <infoType>R10</infoType>
