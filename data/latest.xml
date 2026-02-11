@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/11 17:55:48" mailCount="28" odType="02">
+<opendata dataType="L" lastModified="2026/02/11 18:30:50" mailCount="29" odType="02">
+    <mail>
+        <keyCd>162901</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/11 18:10:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ドイツ全土での大規模な警告ストライキ実施に伴う航空便への影響（２月１２日（木））</title>
+        <lead>○パイロット組合（VC）と客室乗務員組合（Ufo）は、ルフトハンザ航空のパイロットと客室乗務員に対し、２月１２日（木）終日（午前０時１分から午後１１時５９分まで）にわたって警告ストライキを呼びかけており、これが実施されれば、全国的に大きな影響が出る模様です。
+○ストライキは、ベルリン・ブランデンブルク空港、フランクフルト・マイン空港、ハンブルク空港、ミュンヘン空港、シュトゥットガルト空港、ケルン・ボン空港、デュッセルドルフ空港、ハノーファー空港、ブレーメン空港において予定されており、航空便の欠航又は遅延の発生が予想されます。
+◯出張やご旅行等を計画されている方は、事前にフライト情報を確認するとともに、時間に余裕をもって行動するようにしてください。
+◯最新のフライト情報は、航空会社ホームページ、報道等からご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162901</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162901A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162901.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162901L.xml</xmlLightUrl>
+        <koukanCd>506A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162900</keyCd>
         <infoType>R10</infoType>
