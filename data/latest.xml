@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/12 01:00:49" mailCount="28" odType="02">
+<opendata dataType="L" lastModified="2026/02/12 01:35:48" mailCount="29" odType="02">
+    <mail>
+        <keyCd>162907</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/12 01:20:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0034</cd>
+        </country>
+        <title>悪天候（暴風）に関する注意喚起</title>
+        <lead>●カタルーニャ州政府は、明日１２日（木）0時～20時まで、時速108キロメートルを超える暴風により、教育施設は休校、緊急ではない医療施設、山間部での活動中止など、不要不急の外出を控えるよう発表しています。
+●また、カタルーニャ州気象庁(meteo cat)は、１２日（終日）、カタルーニャ州全域で、最大の危険レベルの警告を発出しており、この暴風により、カタルーニャの一部沿岸部では、２．５メートルを超える高波が発生する可能性があると予想されています。
+●スペインカタルーニャ州に滞在中の皆様におかれましては、最新の気象情報等の収集に努め、天候や交通状況等を十分に確認し、その是非を慎重に検討してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162907</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162907A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162907.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162907L.xml</xmlLightUrl>
+        <koukanCd>514E</koukanCd>
+    </mail>
     <mail>
         <keyCd>162906</keyCd>
         <infoType>R10</infoType>
