@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/12 04:05:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/02/12 04:30:48" mailCount="28" odType="02">
+    <mail>
+        <keyCd>162909</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/12 04:20:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <title>マドレ・デ・ディオス州一部地域に対する非常事態宣言の延長</title>
+        <lead>●ペルー政府は、治安対策のため、マドレ・デ・ディオス州の一部地域に対する非常事態宣言の延長を官報に告示しました。
+●同宣言により、憲法で保障された権利の一部が制限されます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162909</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162909A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162909.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162909L.xml</xmlLightUrl>
+        <koukanCd>412A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162908</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/12 04:15:40</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <title>アマソナス、カハマルカ、マドレ・デ・ディオス、ピウラ、プーノおよびウカヤリ州の一部地域に対する治安対策のための非常事態宣言の延長</title>
+        <lead>●ペルー政府は、治安対策および移民・国境管理を強化するため、アマソナス、カハマルカ、マドレ・デ・ディオス、ピウラ、プーノおよびウカヤリ州の一部地域に対する非常事態宣言の延長を官報に告示しました。
+●同宣言により、憲法で保障された権利の一部が制限されます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162908</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162908A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162908.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162908L.xml</xmlLightUrl>
+        <koukanCd>412A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162907</keyCd>
         <infoType>R10</infoType>
