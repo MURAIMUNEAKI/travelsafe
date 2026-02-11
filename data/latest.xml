@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/12 06:45:49" mailCount="28" odType="02">
+<opendata dataType="L" lastModified="2026/02/12 07:15:49" mailCount="30" odType="02">
+    <mail>
+        <keyCd>162911</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/12 07:15:43</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0061</cd>
+        </country>
+        <title>イスラエル大統領の当地訪問に伴うデモ等への注意喚起（２月１２日１７時）</title>
+        <lead>【ポイント】 
+●２月１２日(木)１７時００分頃から、メルボルン市内中心部のフリンダースストリート駅周辺でイスラエル大統領の当地訪問に抗議するデモが行われる見込みです。 
+●抗議活動中及びその前後は、公共交通機関の遅延・運休の他、トラブル等が発生し不測の事態に発展する可能性も排除できないため、細心の注意を払うとともに、開催場所にはできる限り近づかないようにするなど、自らの安全確保に努めて下さい。 
+●抗議デモは、メルボルン以外の地域でも広く呼びかけられていますので、十分ご注意下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162911</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162911A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162911.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162911L.xml</xmlLightUrl>
+        <koukanCd>614E</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162910</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/12 06:50:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0055</cd>
+        </country>
+        <title>【注意喚起】マナウスにおけるサンバ（ブロッコ等）イベント期間中の安全対策について</title>
+        <lead>●サンバ関連のブロッコ（路上イベント）は１月から既に市内各所で開始
+●今後の時期が最も開催数・人出が多くなる傾向
+●開催時期は概ね３月末頃まで継続
+●市内各所でブロッコ（路上サンバ）等が開催され、混雑や軽犯罪のリスクが高まる</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162910</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162910A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162910.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162910L.xml</xmlLightUrl>
+        <koukanCd>403T</koukanCd>
+    </mail>
     <mail>
         <keyCd>162909</keyCd>
         <infoType>R10</infoType>
