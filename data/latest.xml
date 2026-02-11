@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/11 17:25:49" mailCount="27" odType="02">
+<opendata dataType="L" lastModified="2026/02/11 17:55:48" mailCount="28" odType="02">
+    <mail>
+        <keyCd>162900</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/11 17:35:38</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0092</cd>
+        </country>
+        <title>～大使館からのお知らせ～（ラマダン期間中の注意喚起及び当館開館時間の変更について）</title>
+        <lead>【ポイント】
+○　パキスタン政府からは正式な発表がなされておりませんが、現時点では２月18日(水)頃から約１か月間、ラマダン(断食月)及びラマダン明けの祭り(イード・アル・フィトル)期間となる見込みです。
+○　この期間中及びその前後は、過去複数のテロ事件が発生しているため、特に宗教心が高まるとされているラマダン最終週を含め、普段以上にテロに対する警戒を行う必要があります。
+○　ラマダン期間中には、当館開館時間が変更となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162900</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162900A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162900.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162900L.xml</xmlLightUrl>
+        <koukanCd>610A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162899</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/11 17:30:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ストライキに伴う国内航空便への影響(2月12日(木))</title>
+        <lead>パイロット組合（ＶＣ）と客室乗務員組合（Ｕｆｏ）は、ルフトハンザ航空および貨物航空会社ルフトハンザ・カーゴに対して、2月12日（木）午前0時1分から午後11時59分までの間のストライキを呼びかけており、航空便の欠航や遅延などが発生することが予想されます。
+
+航空機を利用される予定のある方は、事前にフライト情報を確認し、時間に余裕をもって行動するようにしてください。
+
+最新のフライト情報は、航空会社ホームページ、報道等からご確認ください。
+
+【関連ＵＲＬ】
+○ルフトハンザ航空
+https://www.lufthansa.com/de/de/fluginformationen</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162899</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162899A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162899.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162899L.xml</xmlLightUrl>
+        <koukanCd>506I</koukanCd>
+    </mail>
     <mail>
         <keyCd>162898</keyCd>
         <infoType>R10</infoType>
@@ -554,39 +601,5 @@ https://www.anzen.mofa.go.jp/info/pcsafetymeasure_104.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162862.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162862L.xml</xmlLightUrl>
         <koukanCd>725A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162861</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/09 17:45:43</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【交通情報】警告ストライキ実施に伴う交通への影響（２月11日（水））</title>
-        <lead>統一サービス産業労働組合（Verdi）は、ミュンヘンとニュルンベルクが運営する公共交通機関従業員に対し、２月11日（水）終日にわたる警告ストライキを呼びかけており、これが実施されれば交通に大きな影響が出る模様です。
-
-ストライキは、地下鉄（Ｕバーン）、トラム及び路線バス（民間会社運行のものは除く。）で行われ、近郊列車（Ｓバーン）や地方バスは対象外となる予定です。
-
-出張やご旅行等を計画されている方は、事前に運行情報を確認するとともに、時間に余裕をもって行動するようにしてください。
-
-最新の情報は、公共交通機関ホームページや報道等からご確認ください。
-
-【関連ＵＲＬ】
-○統一サービス産業労働組合（Verdi）ホームページ
-https://www.verdi.de/geld-tarif/aktuelle-verdi-streiks 
-
-○ミュンヘン交通（MVG）
-https://www.mvg.de/news/streik.html
-
-○ニュルンベルク交通（VAG）
-https://www.vag.de/aktuelles/aktuelle-meldungen/detail/vag-wird-bestreikt-1</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162861</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162861A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162861.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162861L.xml</xmlLightUrl>
-        <koukanCd>506G</koukanCd>
     </mail>
 </opendata>
