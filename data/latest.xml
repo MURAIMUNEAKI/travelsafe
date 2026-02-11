@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/12 00:30:50" mailCount="28" odType="02">
+<opendata dataType="L" lastModified="2026/02/12 01:00:49" mailCount="28" odType="02">
+    <mail>
+        <keyCd>162906</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/12 00:55:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0351</cd>
+        </country>
+        <title>コモンデゴ川(コインブラ周辺)の水位上昇</title>
+        <lead>　１１日、国営Lusa通信他は、コモンデゴ川の水位は危険水位に達したと報じてます。コインブラ及びその周辺にお住まいの方は十分に注意してください。また、それ以外の地域でも洪水警報が出てる地域もあります。外出の際は、最新の情報の入手に努めるようにしてください。
+
+●コインブラ市街地バイシャ地区にあるサンタ・クララ橋において、水位計の測定値が４メートルを超える水準を記録している。サンタ・クララの水位観測所では、本１１日１３時時点で水位が４．０８メートルに達した模様です。この数値は、バイショ・モンデゴ地域で洪水被害が始まって以来、最も高い水位となっているとのことです。
+●Lusa通信によれば「Info Agua」（河川の水流ポータルサイト）のデータがサンタ・クララ橋における水位が危険レベル(赤色警戒)に達していることを示していることに加え、下流のポンテ・アスーデ地点における水流量も水曜日の１２時の時点で毎秒１９００立方メートルを超えており、さらに上昇を続けているとのことです。
+●最新情報についてお住まいの自治体からの情報や、緊急事態・市民保護局（ANEPC）やInfo Aguaサイトなどをご確認ください。
+○国家緊急事態市民保護局（ＡＮＥＰＣ）： 
+https://prociv-portal.geomai.mai.gov.pt/arcgis/apps/experiencebuilder/experience/?id=29e83f11f7a34339b35364e483e3846f
+○Info Aguaサイト：https://infoagua.apambiente.pt/pt/cheias</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162906</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162906A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162906.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162906L.xml</xmlLightUrl>
+        <koukanCd>513A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162905</keyCd>
         <infoType>R10</infoType>
@@ -582,26 +607,5 @@ https://www.fr.emb-japan.go.jp/itprtop_ja/index.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162867.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162867L.xml</xmlLightUrl>
         <koukanCd>505A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162866</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/10 00:35:39</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0258</cd>
-        </country>
-        <title>南西インド洋における熱帯低気圧の発生・接近に伴う注意喚起</title>
-        <lead>●モザンビーク気象局（INAM）によると、南西インド洋にて熱帯低気圧が発生しました。
-●当該低気圧はサイクロンに発達し、2月11日にはモザンビーク海峡（南部）に入る見込みです。
-●現時点で本土への深刻な影響は報告されていませんが、今後の進路や発達に注意が必要です。
-●在留邦人の皆様におかれましては、最新情報の入手に努めるとともに、食料・飲料水等の備蓄確認や、不要不急の外出を控えるなど、万が一に備えてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162866</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162866A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162866.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162866L.xml</xmlLightUrl>
-        <koukanCd>763A</koukanCd>
     </mail>
 </opendata>
