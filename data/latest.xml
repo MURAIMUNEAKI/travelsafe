@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/12 07:15:49" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/02/12 07:50:48" mailCount="31" odType="02">
+    <mail>
+        <keyCd>162912</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/12 07:25:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0057</cd>
+        </country>
+        <title>銃撃による殺人事件の発生について（注意喚起）</title>
+        <lead>●　本日１１日（水）午後３時過ぎ、ボゴタ市チャピネロ区の大通り沿いのトレーニングジム前において、何らかの銃器により、コロンビア人男性２名が銃撃され死亡しました。
+●　もし銃撃音を聞いた場合は素早く身をかがめるなど、流れ弾にもご注意願います。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162912</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162912A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162912.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162912L.xml</xmlLightUrl>
+        <koukanCd>405A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162911</keyCd>
         <infoType>R10</infoType>
