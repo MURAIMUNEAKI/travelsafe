@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/12 00:00:48" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/02/12 00:30:50" mailCount="28" odType="02">
     <mail>
         <keyCd>162905</keyCd>
         <infoType>R10</infoType>
@@ -603,25 +603,5 @@ https://www.fr.emb-japan.go.jp/itprtop_ja/index.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162866.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162866L.xml</xmlLightUrl>
         <koukanCd>763A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162865</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/10 00:00:51</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0044</cd>
-        </country>
-        <title>ETAの厳格化（英国時間2月25日から）</title>
-        <lead>●旅券の種類（外交・公用・一般）に関わらず、6ヶ月以下の旅行、親族訪問、商用、留学目的等にて滞在の場合や英国に入国した上で乗り継ぎをする場合など、日本のパスポートで英国に入国する際は、電子渡航認証（ETA: Electronic Travel Authorisation）を申請し旅券情報等を登録の上、事前に認証を受けることが義務づけられています（ETA制度やETA登録が必要な渡航者の詳細は、https://www.gov.uk/eta で確認してください。）。
-
-●英国政府は、本年2月25日（英国時間）からETAの取得を英国渡航の必須条件とし、航空会社はETAを取得していない旅行者を搭乗させない厳格な措置を講じる旨発表していますので、英国への渡航を予定する場合には十分にご注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162865</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162865A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162865.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162865L.xml</xmlLightUrl>
-        <koukanCd>518A</koukanCd>
     </mail>
 </opendata>
