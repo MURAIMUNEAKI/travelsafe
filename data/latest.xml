@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/11 14:40:50" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/02/11 15:15:48" mailCount="27" odType="02">
     <mail>
         <keyCd>162896</keyCd>
         <infoType>R10</infoType>
@@ -583,43 +583,5 @@ https://www.vag.de/aktuelles/aktuelle-meldungen/detail/vag-wird-bestreikt-1</lea
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162859.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162859L.xml</xmlLightUrl>
         <koukanCd>730A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162857</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/09 14:55:39</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0692</cd>
-        </country>
-        <title>在留邦人の暴行被害</title>
-        <lead>●在留邦人がＫ＆Ｋ近くの公道で暴行被害に遭いました。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162857</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162857A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162857.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162857L.xml</xmlLightUrl>
-        <koukanCd>629A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162856</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/09 14:50:42</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0061</cd>
-        </country>
-        <title>イスラエル大統領の訪問に反対する抗議デモの実施について（２月９日）</title>
-        <lead>【ポイント】 
-●２月９日(月)１７時３０分頃から、フリンダースストリート駅周辺でイスラエル大統領の豪州訪問に反対する抗議デモが行われる見込みです。 
-●抗議活動中及びその前後は、公共交通機関の遅延・運休の他、トラブル等が発生し不測の事態に発展する可能性も排除できないため、不用意に近付かないようにしてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162856</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162856A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162856.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162856L.xml</xmlLightUrl>
-        <koukanCd>614E</koukanCd>
     </mail>
 </opendata>
