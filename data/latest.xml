@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/11 18:30:50" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/02/11 19:00:49" mailCount="27" odType="02">
     <mail>
         <keyCd>162901</keyCd>
         <infoType>R10</infoType>
@@ -579,48 +579,5 @@ https://www.fr.emb-japan.go.jp/itprtop_ja/index.html
         <infectionLevel2>0</infectionLevel2>
         <infectionLevel1>0</infectionLevel1>
         <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T013_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>162863</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/09 18:40:51</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0033</cd>
-        </country>
-        <title>当館電話回線の不通</title>
-        <lead>現在（２月９日時点）、当館の電話回線が通信障害により不通の状態となっています。復旧次第お知らせしますが、それまでの間、緊急の連絡についても、以下のメールアドレスにご連絡ください。
-consul@ps.mofa.go.jp</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162863</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162863A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162863.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162863L.xml</xmlLightUrl>
-        <koukanCd>505A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162862</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/09 18:35:39</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0260</cd>
-        </country>
-        <title>【お知らせ】ザンビア安全対策基礎データの更新</title>
-        <lead>令和８年２月９日 
-在ザンビア日本国大使館
-
-　令和８年２月９日、ザンビア安全対策基礎データを更新しましたので、ＵＲＬをご案内します。
-https://www.anzen.mofa.go.jp/info/pcsafetymeasure_104.html
-
-　邦人の皆様におかれましては、当地への渡航又は当地での生活の資としてご活用ください。（ザンビアへの訪問を検討されている日本からのお知り合いの方がいらっしゃる場合、こちらをご一読いただくよう、ご案内ください。）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162862</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162862A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162862.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162862L.xml</xmlLightUrl>
-        <koukanCd>725A</koukanCd>
     </mail>
 </opendata>
