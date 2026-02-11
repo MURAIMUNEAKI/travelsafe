@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/11 10:25:49" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/02/11 11:40:49" mailCount="30" odType="02">
+    <mail>
+        <keyCd>162896</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/11 10:50:44</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>デモ情報（ジャカルタ：２月１１日）</title>
+        <lead>●　本１１日午前９時頃から、中央ジャカルタ・スナヤン地区の国会前において、労働団体による１５００人規模のデモが予定されています。
+●　デモの周辺道路では交通規制が行われ、交通状況に影響が生じる可能性があります。外出の際にはご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162896</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162896A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162896.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162896L.xml</xmlLightUrl>
+        <koukanCd>607A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162894</keyCd>
         <infoType>R10</infoType>
@@ -621,38 +640,5 @@ https://www.vag.de/aktuelles/aktuelle-meldungen/detail/vag-wird-bestreikt-1</lea
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162855.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162855L.xml</xmlLightUrl>
         <koukanCd>612A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162854</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/09 11:05:46</leaveDate>
-        <title>領事窓口臨時閉鎖のお知らせ（２月９日）</title>
-        <lead>●週明けまで予想されるハワイ州における悪天候に伴い、本日（８日）ハワイ州知事は、明日（９日）の学校休校及び緊急事態対応等に携わるエッセンシャルワーカー以外の勤務免除の通達を発出しました。
-●これを受けて、当館も明日（９日）は、領事窓口を閉鎖いたします。緊急のご用件の場合は、当館代表電話番号までご連絡ください（事件・事故の第一報は「９１１」へおかけください）。なお、今後の天候状況等により、変更がある場合には追ってお知らせいたします。
-●現在ハワイ州には緊急事態宣言（現時点では２月１１日まで有効、延長の可能性あり）が発出されています。在留邦人および旅行者の皆様におかれましては、当局からの情報や最新の気象情報等をこまめに確認し、大雨や強風時の外出を控え、低地や河川周辺への立ち入りを避ける等十分な安全対策を講じてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162854</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162854A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162854.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162854L.xml</xmlLightUrl>
-        <koukanCd>301E</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162853</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/09 11:00:45</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0061</cd>
-        </country>
-        <title>イスラエル大統領の訪豪に伴うデモ等への注意喚起 （２月９日(月))午後５時半～、シドニー市中心部タウンホール周辺）</title>
-        <lead>●２月９日（月）午後５時半から、シドニー市中心部のタウンホール周辺で親パレスチナを掲げる市民団体によるデモ抗議活動が予定されています。  
-●不測の事態を避けるために、デモ等が行われる前後の時間帯を含め、細心の注意を払うとともに、開催場所周辺等にはできる限り近づかないようにするなど、自らの安全確保に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162853</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162853A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162853.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162853L.xml</xmlLightUrl>
-        <koukanCd>614D</koukanCd>
     </mail>
 </opendata>
