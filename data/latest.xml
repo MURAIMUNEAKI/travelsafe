@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/12 20:50:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/02/12 21:30:48" mailCount="27" odType="02">
+    <mail>
+        <keyCd>162924</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/12 20:50:53</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0977</cd>
+        </country>
+        <title>トリブバン国際空港敷地内における集会禁止令の発令、行進などに対する注意喚起</title>
+        <lead>　ネパール在留邦人及び旅行者の皆様へ
+
+　警察によれば、本日（２月１２日）から１か月間、トリブバン国際空港敷地内（駐車場、道路を含む）における集会禁止令（５人以上の集会、抗議活動などの禁止）が発令されたとのことです。なお、空港利用客の通行に問題はないとのことです。
+
+　また、２月１３日午前１１時ころから、約１万人の親王政・ヒンドゥー主義者が、カトマンズ盆地外に滞在中のギャネンドラ元国王のカトマンズ到着を歓迎し、トリブバン国際空港付近から元国王の自宅（カトマンズ市Maharajgunj地内）までのリングロード沿道などで出迎えを行うほか、同路上において行進を行うとのことです。
+
+　在留邦人や旅行者の皆様におかれましては、この行進やデモ、集会などには極力近づかず、また、報道等で最新の情報を入手の上、安全確保に努め、不測の事態に巻き込まれることのないよう十分注意をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162924</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162924A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162924.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162924L.xml</xmlLightUrl>
+        <koukanCd>617A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162923</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/12 20:50:52</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0043</cd>
+        </country>
+        <title>【交通規制】ウィーン市内（２月１２日）</title>
+        <lead>●本日２月１２日（木）１９時から２４時頃まで、国立歌劇場舞踏会（Opernball）開催に伴う交通規制が予定されています。
+●リンク通り（Ringstrasse）はJohannesgasseからOperngasseまで、ケルントナー通り（Kaerntner Strasse）はKarlsplatzからOpernringまで通行止めになります。
+●周辺道路の渋滞、公共交通機関などに遅延や運航制限が予想されますので、利用される際にはご注意をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162923</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162923A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162923.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162923L.xml</xmlLightUrl>
+        <koukanCd>501A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162919</keyCd>
         <infoType>R10</infoType>
@@ -519,26 +563,5 @@ https://www.lufthansa.com/de/de/fluginformationen</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162888.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162888L.xml</xmlLightUrl>
         <koukanCd>739A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162885</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/10 21:15:40</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0880</cd>
-        </country>
-        <title>ラジシャヒ管区ナオガオン県におけるニパウイルス感染例の発生</title>
-        <lead>●　バングラデシュ北西部ラジシャヒ管区ナオガオン県において、ニパウイルス感染症の発生（１例）が報告されています。バングラデシュ国際保健規則国家連絡機関（International Health Regulations National Focal Point（IHR NFP））の発表によると、今回の確定症例の接触者計35名を特定し、追跡・検査を行いましたが、全員が無症状かつ陰性であったとのことです。
-●　WHOは、バングラデシュ保健家族福祉省が複数の公衆衛生対策を講じているとして、国内・地域・世界的レベルにおいてニパウイルスの公衆衛生上のリスクは低く、国際的な疾病拡散リスクも低いと見なしています。
-●　ニパウイルスは、主にオオコウモリが媒介する重篤なウイルス性の感染症で、感染した動物（豚など）や人からの接触感染、飛沫感染も確認されており、バングラデシュでは、ほぼ毎年感染例が報告されています（昨年は４例）。過去の症例のほぼ半数は、生のナツメヤシの樹液またはタリ（発酵ナツメヤシの樹液）の摂取歴が確認された一次感染例であり（保菌コウモリが食したナツメヤシの樹液を摂取したと思われる）、バングラデシュで検出された症例のほとんどはナツメヤシの樹液を採取・消費する12月から4月にかけて報告されています。
-●　在留邦人及び渡航者の皆様におかれましては、野生動物（特にコウモリ）や家畜には不用意に近づかず、生のナツメヤシの樹液は摂取しないようご注意ください。また、ニパウイルスの発生を受け、近隣国の主要空港において検疫体制を強化しているという情報もあります。今後、国外渡航を予定されている方におかれましては、事前に渡航先における検疫措置に関する情報収集を行うようにしてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162885</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162885A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162885.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162885L.xml</xmlLightUrl>
-        <koukanCd>610D</koukanCd>
     </mail>
 </opendata>
