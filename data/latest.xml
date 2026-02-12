@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/13 03:00:48" mailCount="25" odType="02">
+<opendata dataType="L" lastModified="2026/02/13 03:25:49" mailCount="24" odType="02">
     <mail>
         <keyCd>162927</keyCd>
         <infoType>R10</infoType>
@@ -500,25 +500,5 @@ https://www.lufthansa.com/de/de/fluginformationen</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162894.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162894L.xml</xmlLightUrl>
         <koukanCd>403H</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162893</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/11 03:10:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0054</cd>
-        </country>
-        <title>【注意喚起】２月１１日(水) 連邦議会議事堂周辺等におけるデモ活動の予定</title>
-        <lead>【ポイント】
-●２月１１日（水）午後、ブエノスアイレス市内連邦議会議事堂周辺及び地方州で、労働改革に反対する大規模なデモ活動が予定されています。
-●デモ活動が予定されている時間帯には、連邦議会議事堂及びその周辺には近づかないよう注意して下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162893</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162893A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162893.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162893L.xml</xmlLightUrl>
-        <koukanCd>401A</koukanCd>
     </mail>
 </opendata>
