@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/12 08:50:49" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/02/12 09:35:48" mailCount="30" odType="02">
+    <mail>
+        <keyCd>162913</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/12 09:00:44</leaveDate>
+        <title>麻しん（はしか）の流行に関する注意喚起</title>
+        <lead>●サウスカロライナ州で、麻しん（はしか）の流行が報告されています。また、ノースカロライナ州及びジョージア州でも、感染症例が確認されています。
+●麻しん（はしか）は感染力が非常に強く、今後さらに拡大する可能性がありますので、在留邦人の皆様、渡航予定の皆様は、十分ご注意ください。
+●麻しん（はしか）ウイルスは空気感染し、極めて感染力が強いため、２回のワクチン接種が最も有効な感染予防手段となります。特に、麻しん（はしか）にかかったことがなく、ワクチン接種歴がない方又は不明な方は、速やかに接種することをお勧めします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162913</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162913A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162913.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162913L.xml</xmlLightUrl>
+        <koukanCd>301K</koukanCd>
+    </mail>
     <mail>
         <keyCd>162912</keyCd>
         <infoType>R10</infoType>
