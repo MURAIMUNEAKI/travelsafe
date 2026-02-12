@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/13 01:20:49" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/02/13 02:05:49" mailCount="25" odType="02">
+    <mail>
+        <keyCd>162927</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/13 01:40:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0351</cd>
+        </country>
+        <title>ポルトガル国家緊急事態・市民保護庁による降雨、強風及び海象悪化に関する住民向け注意喚起の発出</title>
+        <lead>●本１２日、ポルトガル国家緊急事態・市民保護庁（Autoridade Nacional de Emergencia e Protecao Civil：ANEPC）が、「降雨、強風及び海象悪化に関する住民向け注意喚起（No. AVISO/8/DCS/2026）」を発出していますところ、要旨は以下のとおりです。
+　なお、ANEPCは記者会見でリスボン都市部でも排水処理が追いついていない地域もあり、特に地下駐車場等が浸水する恐れもあると注意を促してますため、お気を付けてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162927</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162927A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162927.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162927L.xml</xmlLightUrl>
+        <koukanCd>513A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162924</keyCd>
         <infoType>R10</infoType>
