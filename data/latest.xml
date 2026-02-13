@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/13 16:50:48" mailCount="32" odType="02">
+<opendata dataType="L" lastModified="2026/02/13 17:30:48" mailCount="31" odType="02">
+    <mail>
+        <keyCd>162941</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/13 17:15:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0086</cd>
+        </country>
+        <title>海外安全対策情報（２０２５年１０月～１２月分）</title>
+        <lead>○　はじめに
+当地に居住する在留邦人の皆様及び旅行や出張等で当地を訪れる短期滞在者の皆様が、当地で安全にお過ごしいただくため、ご注意頂きたい事件・事故情報などについて取りまとめ、当館ホームページ　
+https://www.qingdao.cn.emb-japan.go.jp/files/100978424.pdf
+に掲載いたしましたので、皆様の安全対策の参考にしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162941</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162941A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162941.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162941L.xml</xmlLightUrl>
+        <koukanCd>619I</koukanCd>
+    </mail>
     <mail>
         <keyCd>162940</keyCd>
         <infoType>R10</infoType>
@@ -623,52 +644,5 @@ https://www.flughafen-stuttgart.de/?cl=de</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162900.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162900L.xml</xmlLightUrl>
         <koukanCd>610A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162899</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/11 17:30:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【交通情報】ストライキに伴う国内航空便への影響(2月12日(木))</title>
-        <lead>パイロット組合（ＶＣ）と客室乗務員組合（Ｕｆｏ）は、ルフトハンザ航空および貨物航空会社ルフトハンザ・カーゴに対して、2月12日（木）午前0時1分から午後11時59分までの間のストライキを呼びかけており、航空便の欠航や遅延などが発生することが予想されます。
-
-航空機を利用される予定のある方は、事前にフライト情報を確認し、時間に余裕をもって行動するようにしてください。
-
-最新のフライト情報は、航空会社ホームページ、報道等からご確認ください。
-
-【関連ＵＲＬ】
-○ルフトハンザ航空
-https://www.lufthansa.com/de/de/fluginformationen</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162899</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162899A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162899.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162899L.xml</xmlLightUrl>
-        <koukanCd>506I</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162898</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/11 17:05:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【安全情報】カーニバルに伴う注意喚起</title>
-        <lead>●２月12日（木）から２月18日（水）までの間は、ノルトライン＝ヴェストファーレン（ＮＲＷ）州内各都市で「カーニバル」が最盛期を迎えます。
-●ＮＲＷ州は、カーニバルが盛んな地域として知られ、多くの都市でイベントが開催されるとともに、多くの人出が予想されます。
-●交通規制や「ビンの持ち込み禁止」などのルールに従うことはもちろん、事件・事故に巻き込まれることがないよう、以下の本文をご確認ください。
-●安全のため、知人、ご家族同士で声を掛け合っていただき、カーニバルをお楽しみください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162898</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162898A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162898.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162898L.xml</xmlLightUrl>
-        <koukanCd>506F</koukanCd>
     </mail>
 </opendata>
