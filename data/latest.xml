@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/14 03:25:48" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/02/14 04:00:49" mailCount="30" odType="02">
+    <mail>
+        <keyCd>162946</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/14 03:35:51</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0033</cd>
+        </country>
+        <title>続報：パリ・凱旋門付近での発砲音に関する注意喚起（その２）</title>
+        <lead>パリ・凱旋門付近での発砲音に関する注意喚起の続報です。
+
+●　２月１３日（金）午後６時ころ、パリ・凱旋門において、ナイフを持った男が憲兵隊に襲いかかり、憲兵隊がそれに対して発砲した、また、当該男以外に負傷者はいない旨報道されています。
+
+●　当局によれば、当該男は憲兵隊に制圧された模様です。
+
+●　共犯者の有無については現在のところ情報はないため、念のため凱旋門付近には近づかず、不要不急の外出は控えるようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162946</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162946A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162946.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162946L.xml</xmlLightUrl>
+        <koukanCd>505A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162945</keyCd>
         <infoType>R20</infoType>
