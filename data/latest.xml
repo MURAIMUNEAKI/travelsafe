@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/13 10:15:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/02/13 11:40:48" mailCount="25" odType="02">
     <mail>
         <keyCd>162931</keyCd>
         <infoType>R10</infoType>
@@ -524,24 +524,5 @@ https://www.lufthansa.com/de/de/fluginformationen</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162897.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162897L.xml</xmlLightUrl>
         <koukanCd>619G</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162896</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/11 10:50:44</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>デモ情報（ジャカルタ：２月１１日）</title>
-        <lead>●　本１１日午前９時頃から、中央ジャカルタ・スナヤン地区の国会前において、労働団体による１５００人規模のデモが予定されています。
-●　デモの周辺道路では交通規制が行われ、交通状況に影響が生じる可能性があります。外出の際にはご注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162896</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162896A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162896.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162896L.xml</xmlLightUrl>
-        <koukanCd>607A</koukanCd>
     </mail>
 </opendata>
