@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/13 18:25:48" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/02/13 18:55:48" mailCount="31" odType="02">
+    <mail>
+        <keyCd>162942</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/13 18:40:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0039</cd>
+        </country>
+        <title>軽犯罪（スリ、置き引き、ひったくり等）への注意喚起等</title>
+        <lead>イタリア国内での日本人の軽犯罪被害件数が増加しております。
+
+当館ホームページ内の海外安全対策情報（イタリア）にて当館に寄せられた日本人の被害例（被害を受けた手口）を掲載しております。犯罪者は想像以上に巧妙な手口で窃盗を行っていますので、渡航前に本ページをチェックしていただき、被害予防措置を講じた上で渡航してください。
+以下、海外安全対策情報のリンク先となりますので、是非ご参照ください。
+https://www.it.emb-japan.go.jp/itpr_ja/b_000120.html
+
+特に、パスポートを盗難に遭う・紛失すると、パスポートの代わりとなる「帰国のための渡航書」または「緊急旅券」の発行手続きが必要になります。同手続きや必要な書類等の取得のために相当の時間を要し、当初計画していた旅程を変更せざるを得なくなります。
+
+「帰国のための渡航書」または「緊急旅券」の取得のために必要なものの一つとして「戸籍謄本」、または、「戸籍電子証明書提供用識別符号」が必要となります。
+「戸籍電子証明書提供用識別符号（以下、「符号」）」とは、16桁で構成されるパスワードです。マイナポータルにて取得（無料）又は日本国内の市区町村窓口にて取得（有料）できます。
+取得方法は以下のマイナポータルサイトのリンク先をご確認ください。
+https://img.myna.go.jp/manual/03-10/0236.html
+
+渡航前に符号を取得しておくと、万が一パスポートを盗難・紛失された場合でも、符号を在外公館の窓口に提示いただくことで円滑な手続きが可能です。
+事前に取得しておられない場合、戸籍謄本等を日本のご家族等に取得していただく必要があり、イタリアと日本の時差の関係もあるため、スムーズに手続きが行えないケースが散見されます。
+
+以上の点を踏まえ、イタリアでは軽犯罪が多発しているということに十分留意した上で、ご旅行等をしていただくことを推奨いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162942</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162942A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162942.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162942L.xml</xmlLightUrl>
+        <koukanCd>509A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162941</keyCd>
         <infoType>R10</infoType>
@@ -247,6 +281,659 @@ https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2025C011.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162927.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162927L.xml</xmlLightUrl>
         <koukanCd>513A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026C012</keyCd>
+        <infoType>C50</infoType>
+        <contentInfo>テロ</contentInfo>
+        <leaveDate>2026/02/13 00:00:00</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <area>
+            <cd>20</cd>
+        </area>
+        <area>
+            <cd>30</cd>
+        </area>
+        <area>
+            <cd>33</cd>
+        </area>
+        <area>
+            <cd>42</cd>
+        </area>
+        <area>
+            <cd>50</cd>
+        </area>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0855</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0065</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0094</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0066</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0086</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0977</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0092</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0880</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0670</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0063</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0975</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0673</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0084</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0060</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0095</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0960</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0976</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0856</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0886</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0852</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0853</cd>
+        </country>
+        <country areaCd="10">
+            <cd>0850</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0061</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0686</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0682</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0685</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0677</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0688</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0676</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0674</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0064</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0678</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0675</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0680</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0679</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0692</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0691</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0683</cd>
+        </country>
+        <country areaCd="20">
+            <cd>1001</cd>
+        </country>
+        <country areaCd="20">
+            <cd>1002</cd>
+        </country>
+        <country areaCd="20">
+            <cd>1684</cd>
+        </country>
+        <country areaCd="20">
+            <cd>9689</cd>
+        </country>
+        <country areaCd="20">
+            <cd>0687</cd>
+        </country>
+        <country areaCd="30">
+            <cd>1000</cd>
+        </country>
+        <country areaCd="30">
+            <cd>1808</cd>
+        </country>
+        <country areaCd="30">
+            <cd>9001</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0054</cd>
+        </country>
+        <country areaCd="33">
+            <cd>1268</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0598</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0593</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0503</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0592</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0053</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0502</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0473</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0506</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0057</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0876</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0597</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0784</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0869</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0758</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0056</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0767</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0809</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0868</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0505</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0509</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0507</cd>
+        </country>
+        <country areaCd="33">
+            <cd>1242</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0595</cd>
+        </country>
+        <country areaCd="33">
+            <cd>1246</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0055</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0058</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0501</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0504</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0052</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0354</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0353</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0994</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0355</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0374</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0376</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0039</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0380</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0998</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0044</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0372</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0043</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0031</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0007</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0357</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0996</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0995</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0385</cd>
+        </country>
+        <country areaCd="42">
+            <cd>9381</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0378</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0041</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0046</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0034</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0421</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0386</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0381</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0992</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0420</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0045</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0993</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0047</cd>
+        </country>
+        <country areaCd="42">
+            <cd>9039</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0036</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0358</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0033</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0359</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0375</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0032</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0048</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0387</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0351</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0389</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0356</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0377</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0373</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0382</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0371</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0423</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0370</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0040</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0352</cd>
+        </country>
+        <country areaCd="42">
+            <cd>9007</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0093</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0967</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0963</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0090</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0962</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0961</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0213</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0244</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0256</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0020</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0251</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0291</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0233</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0238</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0241</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0237</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0220</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0224</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0245</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0254</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0225</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0269</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0242</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0243</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0239</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0260</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0232</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0253</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0263</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0249</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0268</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0248</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0240</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0221</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0252</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0255</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0235</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0236</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0216</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0228</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0234</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0264</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0227</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0226</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0257</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0229</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0267</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0261</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0265</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0223</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0027</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0211</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0258</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0230</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0222</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0212</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0218</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0231</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0250</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0266</cd>
+        </country>
+        <country areaCd="60">
+            <cd>9212</cd>
+        </country>
+        <title>テロ等に関する注意喚起</title>
+        <lead>●宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、テロの標的とされる可能性が高まります。
+●今年は、概ね２月18日（水）から３月21日（土）までのイスラム教のラマダン月及びラマダン明けの祭り（いわゆるイード）が予定されています。また、４月１日（水）から約１週間はユダヤ教の過越の祭り（ペサハ）、４月５日（日）のキリスト教の復活祭（イースター）が予定されています。
+●近年、上記のタイミングを狙って、警備や監視が手薄で一般市民が多く集まる場所を標的としたテロが発生しています。常に最新情報の入手に努め、安全確保に十分注意を払ってください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C012.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C012A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C012.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C012L.xml</xmlLightUrl>
     </mail>
     <mail>
         <keyCd>2026C011</keyCd>
