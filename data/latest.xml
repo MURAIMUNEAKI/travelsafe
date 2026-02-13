@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/13 16:30:48" mailCount="32" odType="02">
+<opendata dataType="L" lastModified="2026/02/13 16:50:48" mailCount="32" odType="02">
+    <mail>
+        <keyCd>162940</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/13 16:50:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0034</cd>
+        </country>
+        <title>【継続】臨時閉館のお知らせ（2月13日）</title>
+        <lead>2月12日（木）にカタルーニャ州バルセロナ県内で強風が発生した影響で、在バルセロナ総領事館の入居する建物に落下物がありガラスが破損するなどしたため、入構禁止となっております。そのため、在バルセロナ総領事館は、本2月13日（金）も臨時閉館となります。人命に係る緊急事態等の場合は、下記の連絡先にご連絡ください。
+
++34  618684200</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162940</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162940A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162940.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162940L.xml</xmlLightUrl>
+        <koukanCd>514E</koukanCd>
+    </mail>
     <mail>
         <keyCd>162937</keyCd>
         <infoType>R10</infoType>
@@ -650,25 +670,5 @@ https://www.lufthansa.com/de/de/fluginformationen</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162898.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162898L.xml</xmlLightUrl>
         <koukanCd>506F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162897</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/11 16:50:41</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0086</cd>
-        </country>
-        <title>外国人入国カードのオンライン申告について（第2報）</title>
-        <lead>● 2026年1月より、外国人入国カードが原則オンライン申告、紙の申告書は廃止の方向。
-● スムーズな入国のため、事前のオンライン申告（中国語／英語）を推奨。
-● オンライン申告の偽サイトが存在し、金銭を要求されるとの情報もあるため注意が必要（オンライン申告は無料）。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162897</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162897A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162897.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162897L.xml</xmlLightUrl>
-        <koukanCd>619G</koukanCd>
     </mail>
 </opendata>
