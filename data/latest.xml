@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/13 14:05:49" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/02/13 14:30:49" mailCount="30" odType="02">
+    <mail>
+        <keyCd>162936</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/13 14:30:44</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>化学物質による河川の汚染に関する注意喚起（バンテン州）</title>
+        <lead>在留邦人の皆様
+
+●　報道によれば、２月９日（月）早朝にバンテン州南タンゲラン市のＢＳＤセルポン地区で発生した火災により、近くを流れるチサダネ川と支流が化学物質で汚染され、魚の大量死や、刺激臭や油膜、泡の発生が報告されています。
+
+●　チサダネ川の周辺に滞在中の方は、釣りやレジャー等で、川の水や蒸気に触れることは避けてください。また、川の付近の井戸水についても注意してください。
+
+●　当該化学物質への曝露は、目や肌の炎症、呼吸器症状、目まい、嘔吐などの中毒症状や長期的な健康被害を引き起こす可能性があります。川の水に触れた後、上記の症状が出た場合には、速やかに医療機関を受診してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162936</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162936A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162936.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162936L.xml</xmlLightUrl>
+        <koukanCd>607A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162935</keyCd>
         <infoType>R10</infoType>
