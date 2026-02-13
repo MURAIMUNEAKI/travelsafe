@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/13 15:00:50" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/02/13 15:25:49" mailCount="31" odType="02">
+    <mail>
+        <keyCd>162937</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/13 15:05:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0258</cd>
+        </country>
+        <title>警察官による不当な金銭要求に関する注意喚起</title>
+        <lead>● 2月5日午後、テテ州からマニカ州にかけての国道を移動中の邦人が、警察官から身分証明書の提示を求められ、不当に金銭を要求される事案が発生しました。
+● 警察官が「査証（ビザ）の期限切れ」などを理由に罰金を要求してきても、自身の滞在資格が正当であれば、安易に支払いに応じないよう注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162937</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162937A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162937.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162937L.xml</xmlLightUrl>
+        <koukanCd>763A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162936</keyCd>
         <infoType>R10</infoType>
