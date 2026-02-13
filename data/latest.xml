@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/13 13:15:49" mailCount="27" odType="02">
+<opendata dataType="L" lastModified="2026/02/13 14:05:49" mailCount="29" odType="02">
+    <mail>
+        <keyCd>162935</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/13 13:35:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0084</cd>
+        </country>
+        <title>テト（旧正月）期間中の注意喚起について</title>
+        <lead>　人の移動が多くなるテト（旧正月）期間中は一般的に犯罪が増加する傾向にあります。恒常的に発生がある路上でのスリ、置き引き、ひったくりの被害に加え、近年はホーチミン市内にてタクシードライバーとの金銭トラブル、航空機内での窃盗被害、イカサマ賭博被害等の報告が多く寄せられています。これら犯罪被害や種々のトラブルに巻き込まれないようご注意下さい。
+　また、テト期間中、当館は閉館しますので、旅券等の貴重品の管理についても徹底して下さい。なお、ベトナムでは従来より外国人には旅券携行義務がありますので、ご留意下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162935</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162935A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162935.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162935L.xml</xmlLightUrl>
+        <koukanCd>620D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162934</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/13 13:20:54</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0066</cd>
+        </country>
+        <title>バンコクにおける集会情報（２月１４日（土））</title>
+        <lead>・インターネット上の情報によれば、以下のとおり、民衆党支持者らによる選挙不正疑惑に関する抗議集会が行われる見込みです。 
+・集会場所周辺では、交通渋滞や交通規制等も予想されます。不測の事態を避けるため周辺には近づかないでください。
+・集会の予定は、急遽変更や追加等の可能性もありますので御注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162934</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162934A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162934.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162934L.xml</xmlLightUrl>
+        <koukanCd>612A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162933</keyCd>
         <infoType>R10</infoType>
