@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/14 04:00:49" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/02/14 04:25:48" mailCount="29" odType="02">
+    <mail>
+        <keyCd>162947</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/14 04:10:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0212</cd>
+        </country>
+        <title>ラマダンに伴うモロッコの標準時の一時的な変更及びラマダン期間中の開館時間等について</title>
+        <lead>・モロッコ政府は、ラマダンを迎えるに当たり、標準時の一時的な変更を決定しました。
+・２月１５日（日）午前３時から３月２２日（日）午前２時までの間（モロッコ時間）、日本との時差はマイナス９時間となります。
+・２月１９日（木）頃からモロッコのラマダンが開始となる見込みです。正式発表があり次第、領事メールでお知らせします。
+・ラマダン期間中、当館の開館（事務受付）時間等が変更となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162947</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162947A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162947.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162947L.xml</xmlLightUrl>
+        <koukanCd>714A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162946</keyCd>
         <infoType>R10</infoType>
@@ -1240,43 +1261,5 @@ https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2025C011.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162910.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162910L.xml</xmlLightUrl>
         <koukanCd>403T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162909</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/12 04:20:39</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0051</cd>
-        </country>
-        <title>マドレ・デ・ディオス州一部地域に対する非常事態宣言の延長</title>
-        <lead>●ペルー政府は、治安対策のため、マドレ・デ・ディオス州の一部地域に対する非常事態宣言の延長を官報に告示しました。
-●同宣言により、憲法で保障された権利の一部が制限されます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162909</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162909A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162909.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162909L.xml</xmlLightUrl>
-        <koukanCd>412A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162908</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/12 04:15:40</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0051</cd>
-        </country>
-        <title>アマソナス、カハマルカ、マドレ・デ・ディオス、ピウラ、プーノおよびウカヤリ州の一部地域に対する治安対策のための非常事態宣言の延長</title>
-        <lead>●ペルー政府は、治安対策および移民・国境管理を強化するため、アマソナス、カハマルカ、マドレ・デ・ディオス、ピウラ、プーノおよびウカヤリ州の一部地域に対する非常事態宣言の延長を官報に告示しました。
-●同宣言により、憲法で保障された権利の一部が制限されます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162908</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162908A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162908.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162908L.xml</xmlLightUrl>
-        <koukanCd>412A</koukanCd>
     </mail>
 </opendata>
