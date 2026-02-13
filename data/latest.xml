@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/14 02:30:49" mailCount="28" odType="02">
+<opendata dataType="L" lastModified="2026/02/14 02:50:49" mailCount="29" odType="02">
+    <mail>
+        <keyCd>162945</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/02/14 02:45:53</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0033</cd>
+        </country>
+        <title>パリ・凱旋門付近での発砲事件に関する注意喚起</title>
+        <lead>●　２月１３日（金）午後６時ころ、パリの凱旋門付近で発砲音がしたとの情報が当館に寄せられています。
+●　事件の詳細や犯人の人数、逮捕の有無等については現在のところ不明ですので、現場周辺に滞在されている邦人の皆様は不要不急の外出は控え、現場には決して近づかないようにしてください。
+　　また現場で避難している邦人の皆様は、警察の指示に従って行動してください。
+●　当該事件に巻き込まれて負傷した、または負傷した邦人を知っているという方は、以下のアドレスまでご連絡ください。
+consul@ps.mofa.go.jp
+
+□■□■□■□■□■□■□■□■□■
+在フランス日本国大使館　領事部 
+電話：01-4888-6200 
+（海外からは+33-1-4888-6200）
+メール：consul@ps.mofa.go.jp
+□■□■□■□■□■□■□■□■□■
+【大使館からのメールの配信の停止・追加】  
+https://www.fr.emb-japan.go.jp/itpr_ja/09000.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162945</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162945A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162945.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162945L.xml</xmlLightUrl>
+        <koukanCd>505A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162944</keyCd>
         <infoType>R10</infoType>
