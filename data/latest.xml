@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/14 01:55:48" mailCount="27" odType="02">
+<opendata dataType="L" lastModified="2026/02/14 02:30:49" mailCount="28" odType="02">
+    <mail>
+        <keyCd>162944</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/14 02:20:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0033</cd>
+        </country>
+        <title>デモに関する情報（2月14日（土））（ストラスブール）</title>
+        <lead>報道等によると、2月14日（土）、ストラスブールにおいて、クルド労働者党（PKK）創設者アブドゥッラー・オジャラン氏の釈放を求める集会・デモが呼びかけられており、欧州各国から多くの人が市内に集まる見込みです。
+ 
+日時 : 2月14日(土)10：00頃～
+集合 : ストラスブール中央駅、リヨン通り（Boulevard de Lyon）
+デモコース：リヨン通りからエトワール公園（Parc de l’Etoile）
+ 
+ストラスブール市内交通（CTS）の運行にも影響が出る見込みですので、利用を予定されている方は、ウェブサイトにて最新の運行情報をご確認ください。
+https://www.cts-strasbourg.eu/fr/
+ 
+デモ周辺では各種規制が実施されますが、他国では同様のクルド人によるデモにおいて暴力事件が発生しており、思わぬ騒動に巻き込まれる可能性もあります。デモに遭遇した際には、速やかにその場から離れて安全を確保されますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162944</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162944A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162944.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162944L.xml</xmlLightUrl>
+        <koukanCd>505F</koukanCd>
+    </mail>
     <mail>
         <keyCd>162943</keyCd>
         <infoType>R10</infoType>
