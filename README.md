@@ -9,7 +9,7 @@ GitHub Actions による**自動データ更新**と、**GitHub Pages による�
 
 | 機能 | 説明 |
 |------|------|
-| 🔄 自動データ更新 | GitHub Actions が30分ごとに外務省XMLを取得・コミット |
+| 🔄 リアルタイム取得 | アクセスのたびに外務省APIから最新データを取得 |
 | 📋 カード型UI | 各安全情報を見やすいカード形式で一覧表示 |
 | 🔗 詳細リンク | 外務省の公式ページへワンクリックで遷移 |
 | 📱 レスポンシブ対応 | PC・タブレット・スマートフォンに最適化 |
@@ -24,26 +24,18 @@ GitHub Actions による**自動データ更新**と、**GitHub Pages による�
 │  外務省オープンデータ                              │
 │  ezairyu.mofa.go.jp/opendata/area/newarrivalL.xml│
 └──────────────┬──────────────────────────────────┘
-               │ 30分ごとに取得
+               │ アクセスごとにリアルタイム取得
                ▼
-┌──────────────────────────┐
-│  GitHub Actions          │
-│  (update_data.yml)       │
-│  cURL → data/latest.xml  │
-│  → git commit & push     │
-└──────────┬───────────────┘
-           │
-           ▼
 ┌──────────────────────────┐     ┌───────────────────┐
-│  GitHub Pages / 静的配信  │────▶│  ブラウザ (Client)  │
-│  index.html              │     │  app.js が XMLを    │
-│  data/latest.xml         │     │  パース & カード表示  │
+│  PHPプロキシ (proxy.php)  │────▶│  ブラウザ (Client)  │
+│  cURL → XML取得 → 返却    │     │  app.js が XMLを    │
+│  CORS回避 & キャッシュ無効  │     │  パース & カード表示  │
 └──────────────────────────┘     └───────────────────┘
 ```
 
-### 本番環境（GitHub Pages）
-- フロントエンドが `data/latest.xml` を直接 `fetch` で読み込み
-- サーバーサイドの処理は不要（完全静的配信）
+### 本番環境（PHPサーバー）
+- `proxy.php` が外務省APIからリアルタイムでXMLを取得・中継
+- アクセスのたびに常に最新データを表示
 
 ### ローカル開発環境
 - `server.js`（Express）が CORS プロキシとして外務省APIからリアルタイム取得
@@ -57,12 +49,13 @@ GitHub Actions による**自動データ更新**と、**GitHub Pages による�
 travelsafe/
 ├── .github/
 │   └── workflows/
-│       └── update_data.yml   # GitHub Actions: 30分ごとにXMLデータを自動取得
+│       └── update_data.yml   # GitHub Actions: バックアップ用の定期取得
 ├── data/
-│   └── latest.xml            # 外務省から取得した最新の安全情報XML
+│   └── latest.xml            # バックアップ用の安全情報XML
 ├── index.html                # メインHTML（SPA）
 ├── app.js                    # XMLパース・カードレンダリング・UI制御
 ├── style.css                 # ダークテーマ + Glassmorphism スタイル
+├── proxy.php                 # 本番用CORSプロキシ（外務省APIリアルタイム取得）
 ├── server.js                 # ローカル開発用Expressサーバー（CORSプロキシ）
 ├── package.json              # Node.js 依存関係定義
 ├── package-lock.json         # ロックファイル
@@ -145,14 +138,15 @@ npm start
 
 ---
 
-## ⚙️ GitHub Actions ワークフロー
+## ⚙️ データ取得の仕組み
 
-`update_data.yml` は以下の処理を自動実行します：
+### リアルタイム取得（メイン）
+- ユーザーがページにアクセスするたびに `proxy.php` 経由で外務省APIから最新データを取得
+- ローカル開発時は `server.js` の Express プロキシを使用
+- 常に最新情報を表示可能
 
-1. **スケジュール実行**: 30分ごと（`*/30 * * * *`）+ 手動トリガー対応
-2. **データ取得**: `curl` で外務省XMLをダウンロード → `data/latest.xml` に保存
-3. **差分コミット**: データに変更がある場合のみ `git commit` & `git push`
-4. **スキップ制御**: コミットメッセージに `[skip ci]` を含め、無限ループを防止
+### GitHub Actions バックアップ（サブ）
+`update_data.yml` は30分ごとに `data/latest.xml` を更新し、バックアップとして保持
 
 ---
 
