@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/14 18:20:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/02/14 18:50:48" mailCount="25" odType="02">
     <mail>
         <keyCd>162950</keyCd>
         <infoType>R10</infoType>
@@ -1187,25 +1187,5 @@ https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2025C011.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162923.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162923L.xml</xmlLightUrl>
         <koukanCd>501A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162919</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/12 18:50:40</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0084</cd>
-        </country>
-        <title>テト（旧正月）における注意喚起</title>
-        <lead>●テト（旧正月）の前後は、スリ、ひったくり等の犯罪が増える傾向があると言われています。貴重品の管理の徹底とともに、犯罪被害や様々なトラブルに巻き込まれないようにご注意ください。
-●パスポートの管理や残存期間には引き続きご注意ください。ベトナムでは従来より外国人には旅券携行義務がありますのでご留意ください。
-●「たびレジ」に登録することで、旅行・滞在先国や、情報を受取りたい国の安全情報を無料で受け取ることができます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162919</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162919A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162919.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162919L.xml</xmlLightUrl>
-        <koukanCd>620E</koukanCd>
     </mail>
 </opendata>
