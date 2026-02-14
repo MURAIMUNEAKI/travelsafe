@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/15 05:50:48" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/02/15 06:20:48" mailCount="20" odType="02">
     <mail>
         <keyCd>162951</keyCd>
         <infoType>R10</infoType>
@@ -449,25 +449,5 @@ https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2025C011.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162930.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162930L.xml</xmlLightUrl>
         <koukanCd>410A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162928</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/13 06:00:39</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0053</cd>
-        </country>
-        <title>【注意喚起】燃料不足と全国的かつ長時間の停電への備えについて</title>
-        <lead>1.キューバでは、燃料不足により、全国的かつ長時間の停電が発生しています。同状況は、交通機関、医療、通信等のサービスに大きく影響を及ぼしています。当局は、節約のため、公的機関の業務時間や各種サービスの提供についても縮小措置を取っています。また、航空機用の燃料不足により、一部航空会社では、経路の見直しや一部運休を実施しています。
-
-2.現在キューバに滞在中の方、今後キューバへの訪問を予定されている方は、不要不急の渡航は延期されるか、こうした点に注意して行動されることをお勧めします。燃料・水・電気等を節約するなどの予防策を講じ、停電の長期化に備えてください。また、ご利用の航空会社または旅行会社等と連絡を密にし、最新の現地情報の入手に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162928</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162928A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162928.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162928L.xml</xmlLightUrl>
-        <koukanCd>406A</koukanCd>
     </mail>
 </opendata>
