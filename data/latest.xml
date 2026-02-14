@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/14 09:35:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/02/14 10:15:48" mailCount="27" odType="02">
+    <mail>
+        <keyCd>162949</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/14 09:50:43</leaveDate>
+        <area>
+            <cd>30</cd>
+        </area>
+        <country areaCd="30">
+            <cd>9001</cd>
+        </country>
+        <title>生活安全情報（イラン現政権への抵抗のための団結を呼びかける行進の開催）</title>
+        <lead>明日、2月14日（土）、イラン現政権への抵抗のための団結を呼びかける行進の開催が予定されております。警察の発表によれば、この行進はSteeles Avenue南側のYonge Streetから開始し、南方向へ約3.8km行進し、Yonge StreetとNorth York Boulevardの交差点で終了する予定です。参加者は20万人を越える可能性があり、交通規制等による渋滞や公共交通機関の大幅な遅れが予想されるため、関連報道を確認して十分注意して下さい。
+（関連リンク）
+https://www.tps.ca/media-centre/news-releases/65227/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162949</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162949A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162949.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162949L.xml</xmlLightUrl>
+        <koukanCd>302T</koukanCd>
+    </mail>
     <mail>
         <keyCd>162948</keyCd>
         <infoType>R10</infoType>
