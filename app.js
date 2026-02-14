@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
             const apiUrl = isLocal
                 ? `/api/safety-info?t=${Date.now()}`
-                : `./proxy.php?t=${Date.now()}`;
+                : `./data/latest.xml?t=${Date.now()}`;
 
             const response = await fetch(apiUrl);
             if (!response.ok) {
