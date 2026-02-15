@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/15 18:25:48" mailCount="11" odType="02">
+<opendata dataType="L" lastModified="2026/02/15 18:45:48" mailCount="10" odType="02">
     <mail>
         <keyCd>162952</keyCd>
         <infoType>R10</infoType>
@@ -226,39 +226,5 @@ https://www.cts-strasbourg.eu/fr/
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162943.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162943L.xml</xmlLightUrl>
         <koukanCd>713A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162942</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/13 18:40:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0039</cd>
-        </country>
-        <title>軽犯罪（スリ、置き引き、ひったくり等）への注意喚起等</title>
-        <lead>イタリア国内での日本人の軽犯罪被害件数が増加しております。
-
-当館ホームページ内の海外安全対策情報（イタリア）にて当館に寄せられた日本人の被害例（被害を受けた手口）を掲載しております。犯罪者は想像以上に巧妙な手口で窃盗を行っていますので、渡航前に本ページをチェックしていただき、被害予防措置を講じた上で渡航してください。
-以下、海外安全対策情報のリンク先となりますので、是非ご参照ください。
-https://www.it.emb-japan.go.jp/itpr_ja/b_000120.html
-
-特に、パスポートを盗難に遭う・紛失すると、パスポートの代わりとなる「帰国のための渡航書」または「緊急旅券」の発行手続きが必要になります。同手続きや必要な書類等の取得のために相当の時間を要し、当初計画していた旅程を変更せざるを得なくなります。
-
-「帰国のための渡航書」または「緊急旅券」の取得のために必要なものの一つとして「戸籍謄本」、または、「戸籍電子証明書提供用識別符号」が必要となります。
-「戸籍電子証明書提供用識別符号（以下、「符号」）」とは、16桁で構成されるパスワードです。マイナポータルにて取得（無料）又は日本国内の市区町村窓口にて取得（有料）できます。
-取得方法は以下のマイナポータルサイトのリンク先をご確認ください。
-https://img.myna.go.jp/manual/03-10/0236.html
-
-渡航前に符号を取得しておくと、万が一パスポートを盗難・紛失された場合でも、符号を在外公館の窓口に提示いただくことで円滑な手続きが可能です。
-事前に取得しておられない場合、戸籍謄本等を日本のご家族等に取得していただく必要があり、イタリアと日本の時差の関係もあるため、スムーズに手続きが行えないケースが散見されます。
-
-以上の点を踏まえ、イタリアでは軽犯罪が多発しているということに十分留意した上で、ご旅行等をしていただくことを推奨いたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162942</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162942A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162942.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162942L.xml</xmlLightUrl>
-        <koukanCd>509A</koukanCd>
     </mail>
 </opendata>
