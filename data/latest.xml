@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/15 20:15:49" mailCount="11" odType="02">
+<opendata dataType="L" lastModified="2026/02/15 20:45:48" mailCount="12" odType="02">
+    <mail>
+        <keyCd>162954</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/15 20:30:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0962</cd>
+        </country>
+        <title>ラマダン期間中の注意喚起及び当館領事窓口時間の変更</title>
+        <lead>【ポイント】 　　
+●本年のラマダン月は、２月１８日（水）頃から３月２１日（土）頃までの予定です。ラマダン期間中は普段以上にイスラム教の慣習などに配慮し、注意して行動してください。
+●外務省は２月１３日、ラマダン期間を含む宗教に関連した祝祭日やイベントを迎えるにあたり、広域情報を発出し、テロ等に関する注意喚起を行っています。下記リンクの情報をよく御参照の上、安全確保に十分注意を払ってください。
+https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C012.html
+●ラマダン期間中の当館領事窓口受付時間は、以下のとおり短縮となりますので、ご来館の際は事前にご確認ください。
+
+領事窓口受付時間 ９時３０分～１３時、１４時～１４時３０分 
+※査証申請の受付時間は９時３０分～１１時まで、また、査証の交付時間は１２時３０分～１４時３０分となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162954</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162954A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162954.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162954L.xml</xmlLightUrl>
+        <koukanCd>757A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162953</keyCd>
         <infoType>R10</infoType>
