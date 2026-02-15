@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/15 08:50:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/02/15 09:45:50" mailCount="18" odType="02">
     <mail>
         <keyCd>162951</keyCd>
         <infoType>R10</infoType>
@@ -407,26 +407,5 @@ NTB州：０３７０－６４６９７２</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162932.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162932L.xml</xmlLightUrl>
         <koukanCd>607F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162931</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/13 09:45:40</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0052</cd>
-        </country>
-        <title>【注意喚起】ハリスコ州における麻疹（はしか）の流行について</title>
-        <lead>● ハリスコ州で麻しん（はしか）の流行が報告されています。麻しん（はしか）は感染力が非常に強く、今後さらに拡大する可能性があります。メキシコ保健当局によると、ハリスコ州はメキシコ国内で特に発生数が多い地域とされています。また、報道によれば、グアナファト州内においても麻しん（はしか）の発生が確認されています。同地域にお住まいの方や渡航予定の方は、十分ご注意ください。
-● 麻疹（はしか）ウイルスは空気感染し、極めて感染力が強いため、ワクチン接種が最も有効な予防法となります。特に、麻疹（はしか）にかかったことがなく、ワクチン接種歴が2回ない方や不明な方は、速やかに接種することを検討してください。
-●現在広域情報が発出されております。詳細については「海外安全ホームページ」をご参照ください。
-https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2025C011.html</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162931</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162931A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162931.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162931L.xml</xmlLightUrl>
-        <koukanCd>410D</koukanCd>
     </mail>
 </opendata>
