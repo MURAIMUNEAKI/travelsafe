@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/16 05:50:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/02/16 06:20:48" mailCount="7" odType="02">
     <mail>
         <keyCd>162957</keyCd>
         <infoType>R10</infoType>
@@ -134,26 +134,5 @@ https://www.tps.ca/media-centre/news-releases/65227/</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162949.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162949L.xml</xmlLightUrl>
         <koukanCd>302T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162948</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/14 06:05:41</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0591</cd>
-        </country>
-        <title>カーニバル（謝肉祭）期間中の行動に関する注意喚起（2月14日～17日）</title>
-        <lead>● 2月14日(土)から17日(火)はカーニバル期間（16・17日は祝日）であり、ボリビア各地で大規模なイベントが開催され、混雑や交通規制が予想されます。
-● 2月5日には、ラパス県の山間部で死者14名を出す重大なバス事故が発生しています。また、バス内での睡眠薬強盗も報告されています。
-● ラパス市内では「偽警察官」による邦人旅行者の窃盗被害が本年1月にも発生しており、観光客を狙った犯罪に極めて強い警戒が必要です。
-● 飲酒に伴うトラブルや交通事故、水かけ祭りによる健康被害にも十分注意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162948</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162948A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162948.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162948L.xml</xmlLightUrl>
-        <koukanCd>402A</koukanCd>
     </mail>
 </opendata>
