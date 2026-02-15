@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/16 03:50:48" mailCount="9" odType="02">
+<opendata dataType="L" lastModified="2026/02/16 04:20:48" mailCount="8" odType="02">
     <mail>
         <keyCd>162957</keyCd>
         <infoType>R10</infoType>
@@ -155,26 +155,5 @@ https://www.tps.ca/media-centre/news-releases/65227/</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162948.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162948L.xml</xmlLightUrl>
         <koukanCd>402A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162947</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/14 04:10:40</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0212</cd>
-        </country>
-        <title>ラマダンに伴うモロッコの標準時の一時的な変更及びラマダン期間中の開館時間等について</title>
-        <lead>・モロッコ政府は、ラマダンを迎えるに当たり、標準時の一時的な変更を決定しました。
-・２月１５日（日）午前３時から３月２２日（日）午前２時までの間（モロッコ時間）、日本との時差はマイナス９時間となります。
-・２月１９日（木）頃からモロッコのラマダンが開始となる見込みです。正式発表があり次第、領事メールでお知らせします。
-・ラマダン期間中、当館の開館（事務受付）時間等が変更となります。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162947</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162947A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162947.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162947L.xml</xmlLightUrl>
-        <koukanCd>714A</koukanCd>
     </mail>
 </opendata>
