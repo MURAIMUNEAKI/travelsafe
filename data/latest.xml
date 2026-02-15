@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/15 10:15:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/02/15 11:30:49" mailCount="19" odType="02">
+    <mail>
+        <keyCd>162952</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/15 11:10:52</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0066</cd>
+        </country>
+        <title>バンコクにおける集会情報（２月１５日（日））</title>
+        <lead>・インターネット上の情報によれば、昨日に引き続き本日（２月１５日）も以下のとおり選挙不正疑惑に関する抗議集会が行われる見込みです。 
+・集会場所周辺では、交通渋滞や交通規制等も予想されます。不測の事態を避けるため周辺には近づかないでください。
+・集会の予定は、急遽変更や追加等の可能性もありますので御注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162952</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162952A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162952.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162952L.xml</xmlLightUrl>
+        <koukanCd>612A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162951</keyCd>
         <infoType>R10</infoType>
