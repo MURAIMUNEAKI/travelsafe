@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/15 18:45:48" mailCount="10" odType="02">
+<opendata dataType="L" lastModified="2026/02/15 19:25:48" mailCount="11" odType="02">
+    <mail>
+        <keyCd>162953</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/15 19:05:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>【注意喚起】イラン国内における追悼集会の呼びかけについて</title>
+        <lead>　２月１７日（火）及び１８日（水）、一部ネット上でイラン国内各地のバザール等を中心に追悼集会の呼びかけがなされておりますので、十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162953</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162953A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162953.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162953L.xml</xmlLightUrl>
+        <koukanCd>703A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162952</keyCd>
         <infoType>R10</infoType>
