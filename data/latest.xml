@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/16 22:10:50" mailCount="12" odType="02">
+<opendata dataType="L" lastModified="2026/02/16 22:30:49" mailCount="13" odType="02">
+    <mail>
+        <keyCd>162967</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/16 22:20:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>ラマダン期間中の注意事項、当館領事窓口開館時間の変更等（２月１６日）</title>
+        <lead>１．ラマダン期間中の注意事項
+２．当館領事窓口開館時間の変更とラマダン明け小祭に伴う休館日</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162967</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162967A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162967.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162967L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162966</keyCd>
         <infoType>R10</infoType>
