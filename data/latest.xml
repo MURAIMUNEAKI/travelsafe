@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/16 10:15:49" mailCount="6" odType="02">
+<opendata dataType="L" lastModified="2026/02/16 11:05:49" mailCount="7" odType="02">
+    <mail>
+        <keyCd>162958</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/16 10:20:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>バリ州、西ヌサトゥンガラ州、東ヌサトゥンガラ州における豪雨、強風、高波等への注意（第２報）</title>
+        <lead>●インドネシア気象庁（BMKG）は、引き続きバリ州、西ヌサトゥンガラ州（NTB州）及び東ヌサトゥンガラ州（NTT州）を含むインドネシア各地で２１日まで、豪雨、強風、高波等に注意を呼びかけています。
+●現在雨期のピークを迎え、上記期間以外でも豪雨、強風、高波等の可能性があります。
+●２月１５日にはバリ州ウブドで倒木が発生し、付近の建物や車両に被害が発生しています。昨年１２月２６日夜にはNTT州コモド国立公園内の海域で高波により観光船が沈没し4名の外国人乗客が行方不明となる事故が発生しています。また、バリにおいてもレンボガン島やヌサペニダ島等に向かうスピードボートの事故が頻繁に発生しています。
+●既に豪雨、強風、高波による低地への浸水により死者を含む被害が発生しています。洪水等の水害、倒木、土砂崩れ、海水浴やサーフィン、船舶でのクルーズ、シュノーケリング、ダイビング等の海での活動には十分な注意をしてください。
+●今後も BMKG（https://www.bmkg.go.id ）等からの情報収集を行うと共に、安全対策に努めてください。
+●被災時の緊急通報先（各州BPBD災害対策庁）は以下のとおりです。
+バリ州：０３６１－２５１１７７／２４５３９７
+NTB州：０３７０－６４６９７２</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162958</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162958A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162958.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162958L.xml</xmlLightUrl>
+        <koukanCd>607F</koukanCd>
+    </mail>
     <mail>
         <keyCd>162957</keyCd>
         <infoType>R10</infoType>
