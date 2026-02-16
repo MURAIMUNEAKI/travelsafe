@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/16 12:15:49" mailCount="7" odType="02">
+<opendata dataType="L" lastModified="2026/02/16 13:00:49" mailCount="8" odType="02">
+    <mail>
+        <keyCd>162959</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/16 12:25:39</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0092</cd>
+        </country>
+        <title>ラマダン期間中の注意喚起について</title>
+        <lead>○　パキスタンでは現時点では正式に発表されていませんが、２月１８日（水）※ころから、イスラム教徒にとって重要な行事の一つであるラマダン（断食月）に入り、この期間は宗教心が高まり、テロの脅威が高まる傾向にあります。いつも以上にテロの発生に警戒する必要があります。また、金曜日の集団礼拝は、多くのイスラム教徒が礼拝所に集まり、テロの標的となりやすいため注意が必要です。
+○　各種報道等により最新情報の入手に努め、テロの標的となりやすい場所にはできるだけ近づかないようにするとともに、宗教行事や金曜礼拝には近づかないでください。
+○　同期間中は、交通事故が増加する傾向にあるため、車両を使用する際は、十分に安全運転（十分な車両距離の確保、交通事故の防止等）に努めるようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162959</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162959A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162959.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162959L.xml</xmlLightUrl>
+        <koukanCd>610E</koukanCd>
+    </mail>
     <mail>
         <keyCd>162958</keyCd>
         <infoType>R10</infoType>
