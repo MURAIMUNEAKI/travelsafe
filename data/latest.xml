@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/17 07:20:49" mailCount="14" odType="02">
+<opendata dataType="L" lastModified="2026/02/17 07:50:49" mailCount="16" odType="02">
+    <mail>
+        <keyCd>162972</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/17 07:45:40</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0053</cd>
+        </country>
+        <title>【注意喚起】セントロ・ハバナでの邦人女性被害の強盗事件発生</title>
+        <lead>１　２月１５日午後４時頃、セントロ・ハバナのサンラサロ通りとソレダ通りの交差点付近（アントニオ・マセオ公園付近）において、下記状況の邦人女性被害の強盗事件がありました。
+
+２　被害者の女性が連れの女性と２人で、人や車の往来が多いサンラサロ通りを旧市街地方向に向かって歩いていたところ、進行方向の歩道上壁際に、一見して現地人で２０代前半の白人系の男が一人で立っていた。被害者が同男の２メートル位手前まで近づき、車の往来の確認のため後方を見ると、同男が、「タクシー？」と訪ねる様に話しかけて来た。被害者が進行方向に顔を戻すと、男が突然、前方から被害者の両肩を掴んで被害者に覆い被さり、その勢いで被害者と男はその場に転倒し、その後、男は立ち上がりながら被害者の首元からネックレスを引きちぎって強取、更に、被害者の鞄の窃取を試みるも連れの女性の抵抗に遭い断念し、ソレダ通りの山側方向へ逃走したという被害状況です。
+
+３　また、本件被害者が同現場付近に居住する現地住人から聴取した結果、同所付近では、今年に入り、午前６時台に出勤時の送迎バス待ち中に若い現地人女性が所持品をひったくられる窃盗事件や、深夜２時台に若い現地人女性がひったくり被害に遭い、抵抗した結果刃物で切りつけられた強盗致傷事件等が発生しているとの情報も確認されました。
+
+４　キューバの現在の一般的な経済状況に鑑みれば、邦人を含めた外国人は以前から富裕層と見なされ、容易に犯罪行為の対象として狙われる可能性がありましたが、現在はその傾向がより強くなっている可能性があります。
+　危険情報が発出されている旧市街、ハバナの中心地には夜間近づかないことはもちろん、昼間であっても犯罪に巻き込まれることのないよう、外出時は以下の点を心がけてください。
+（１）華美な服装、装飾品等は目立たないところであっても着装を避け、目立た
+ない。
+（２）常に狙われている可能性があることを意識し、行動を予知させない。
+（３）外出時は用心を怠らない。
+（４）話しかけてくる現地人の誘いに乗らない。
+（５）目的もなく路上に佇んでいる現地人とは距離を置いて行動する。
+（６）集団でたむろしている現地人には決して近づかない。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162972</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162972A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162972.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162972L.xml</xmlLightUrl>
+        <koukanCd>406A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162971</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/17 07:35:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0501</cd>
+        </country>
+        <title>【注意喚起】当館周辺における銃撃事件及び、ベリーズ国内の治安状況について</title>
+        <lead>《ポイント》
+●ここ最近、首都ベルモパンにおいて、犯罪事件が増加傾向にある。先月初旬にも、カリビアンチキンの配送車を狙った強盗目的の銃撃殺人事件が発生している。
+●ベリーズ国内における犯罪事件については、ベリーズ市南部エリアのみならず、国内各地で犯罪が頻発している状況である。
+●防犯対策に関する留意事項について周知すると共に、国内治安状況について、今後も継続して周知を行っていくものである。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162971</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162971A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162971.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162971L.xml</xmlLightUrl>
+        <koukanCd>426A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162970</keyCd>
         <infoType>R10</infoType>
