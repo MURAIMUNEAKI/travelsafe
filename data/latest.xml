@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/16 21:30:49" mailCount="10" odType="02">
+<opendata dataType="L" lastModified="2026/02/16 22:10:50" mailCount="12" odType="02">
+    <mail>
+        <keyCd>162966</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/16 21:55:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0230</cd>
+        </country>
+        <title>レプトスピラ症に関する注意喚起</title>
+        <lead>【ポイント】
+●報道によると、年初よりレプトスピラ症への感染者が増加しています。 
+●ネズミ等のげっ歯類が保菌動物であり、これらの保菌動物の尿で汚染された水との接触を避けることを含む衛生関連の感染予防対策措置を講じてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162966</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162966A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162966.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162966L.xml</xmlLightUrl>
+        <koukanCd>739A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162965</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/16 21:35:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>タクシーストライキ（アッティカ県含むギリシャ全土、17日から）</title>
+        <lead>○報道によると、各地のタクシー労働組合によるタクシーストライキが次のとおり実施される予定です。アッティカ県を含むギリシャ全土でタクシーの運行に影響が出ることが予想されますので、ご利用予定の方はご注意ください。
+・2月17日（火）～19日（木）の3日間：アッティカ県における運休
+・2月17日（火）～18日（水）の2日間：ギリシャ全土における運休（※19日も全土で実施されるとの一部報道があります。）
+
+※この情報は現時点で発表・報道されているものであり、今後変更される可能性があります。ストライキの開始・終了時間については現時点では不明です。外出の際は最新情報をご確認ください。
+
+＜参照＞
+○アッティカ県タクシー労働組合（SATA）（ギリシャ語）
+https://satataxi.gr/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162965</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162965A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162965.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162965L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162964</keyCd>
         <infoType>R10</infoType>
