@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/16 13:55:49" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/02/16 14:40:49" mailCount="7" odType="02">
     <mail>
         <keyCd>162959</keyCd>
         <infoType>R10</infoType>
@@ -139,25 +139,5 @@ https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C012.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162951.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162951L.xml</xmlLightUrl>
         <koukanCd>403H</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162950</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/14 14:05:39</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0678</cd>
-        </country>
-        <title>サント島北西沖の地震発生に伴う注意喚起</title>
-        <lead>●バヌアツ気象局の発表によると、バヌアツ北西部　サント島北西沖でマグニチュード（Ｍ）６．１の地震が発生しました。 
-●バヌアツ気象局からは津波に関する警報等はだされていませんが、安全が十分確認できるまでは、海岸および河川付近には近づかないでください。 
-●インターネット上の報道・ラジオ・その他報道に十分に注意し、最新の情報を収集するよう心がけてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162950</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162950A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162950.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162950L.xml</xmlLightUrl>
-        <koukanCd>640A</koukanCd>
     </mail>
 </opendata>
