@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/16 19:00:49" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/02/16 19:30:49" mailCount="9" odType="02">
+    <mail>
+        <keyCd>162963</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/16 19:10:39</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>【注意喚起】アジア季節風の影響による大雨の可能性</title>
+        <lead>○　2月15日（日）、インドネシア気象庁（BMKG）は、スマトラ島を含むインドネシアの複数の地域で、雷や強風を伴う中程度から非常に強い降雨の可能性が高まっているとして、21日（土）まで注意するよう呼び掛けています。
+○　アチェ州、北スマトラ州及び西スマトラ州においては、昨年11月の豪雨災害の影響が残る地域があり、少しの雨でも河川の増水や道路の冠水、土砂災害などの危険性が高まる可能性があります。
+○　最新情報の収集に努め、洪水被害等に遭わないよう十分注意してください。
+○　防災用品や飲料水・食料の備蓄を準備するなど、事前の安全対策に努めてください。
+
+参考：インドネシア気象・気候・地球物理庁（BMKG）公式サイト
+https://www.bmkg.go.id/
+参考：（BMKG注意情報）アジア季節風がインドネシアの複数地域で激しい雨を降らせる可能性（インドネシア語）
+https://www.bmkg.go.id/siaran-pers/monsun-asia-menguat-waspada-potensi-hujan-lebat-di-sejumlah-wilayah-indonesia</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162963</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162963A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162963.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162963L.xml</xmlLightUrl>
+        <koukanCd>607T</koukanCd>
+    </mail>
     <mail>
         <keyCd>162961</keyCd>
         <infoType>R10</infoType>
