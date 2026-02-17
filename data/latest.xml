@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/17 16:50:49" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/02/17 17:30:49" mailCount="17" odType="02">
+    <mail>
+        <keyCd>162975</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/17 17:10:38</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>ラマダン月に関する注意喚起</title>
+        <lead>１　イラクにおいてもラマダン月が始まります。２月13日付で外務省から発出された海外安全情報（広域情報）「テロ等に関する注意喚起」を改めてご確認いただくとともに、安全確保のため十分な注意を払ってください。
+ https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C012.html
+
+２　イラクでのラマダン開始日は２月19日（木）と発表されており、その後、３月19日（木）頃（※）まで継続される見込みです。これまで、ラマダン月やその前後には世界中で多くのテロ事件が発生しております。また、金曜日はイスラム教徒の集団礼拝日であり、これまでのテロ事件もラマダン月の金曜日に多数発生していることから、特に注意する必要があります。
+　※ラマダン月の期間は、月齢観測に依拠するため、上記日程は直前に変更されることがあります。
+
+３　邦人の皆様におかれましては、外務省の海外安全ホームページを通じ、イラク国内の大部分に退避勧告（退避してください）または渡航中止勧告（渡航は止めてください）を発出していることにも十分にご留意の上、常に関連情報を収集する等、万全な安全対策を講じてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162975</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162975A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162975.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162975L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162973</keyCd>
         <infoType>R10</infoType>
