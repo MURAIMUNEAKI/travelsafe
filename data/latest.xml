@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/19 00:25:48" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/02/19 00:55:48" mailCount="20" odType="02">
     <mail>
         <keyCd>162997</keyCd>
         <infoType>R10</infoType>
@@ -443,36 +443,5 @@ https://www.dviajeros.mitrans.gob.cu/inicio</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162971.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162971L.xml</xmlLightUrl>
         <koukanCd>426A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162970</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/17 00:50:38</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【交通情報】ストライキ実施に伴う交通機関への影響（２月１６日）</title>
-        <lead>　２月１３日（金）、統一サービス産業労働組合（Verdi）は、ハンブルク・ホルシュタイン交通公社（VHH）及びハンブルク近距離交通（ホフバーン）にストライキ実施を呼びかけました。
-　これを受け、２月１７日（火）午前３時から同１９日（木）の間、バスやＵバーンなど各交通機関に係わる一部の従業員によるストライキが実施される見込みです。
-　但し、上述の期間にどの路線でストライキが行われるかは、直前に発表されるとのことです。
-　期間中に公共交通機関を利用される皆様におかれましては最新の情報を入手するようにして下さい。
-
-（参考）
-・統一サービス産業労働組合（Verdi）
-https://hamburg.verdi.de/presse/pressemitteilungen/++co++4dbd84d2-08bb-11f1-bc9a-3f780abd9e24
-
-・ハンブルク・ホルシュタイン交通公社（VHH）
-https://www.vhh.de/
-
-・ハンブルク交通連合(HVV)
-https://www.hvv.de/</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162970</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162970A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162970.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162970L.xml</xmlLightUrl>
-        <koukanCd>506E</koukanCd>
     </mail>
 </opendata>
