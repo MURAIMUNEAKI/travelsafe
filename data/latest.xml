@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/18 12:05:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/02/18 12:55:48" mailCount="21" odType="02">
+    <mail>
+        <keyCd>162990</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/18 12:25:43</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0061</cd>
+        </country>
+        <title>（注意喚起）ゴールドコースト市内における邦人男性への暴行事件の発生について</title>
+        <lead>　２月１５日（日）正午ごろ、邦人男性１名がオーストラリア・ゴールドコースト市内のサウスポート駅からサーファーズパラダイス方面へトラムで移動中、見知らぬ男から暴力を受ける事案が発生しました。邦人男性は、途中乗車してきた男性と一瞬目が合った後、突然、顔付近を中心に殴打される被害を受けたことが確認されました。邦人の皆様におかれましては、同様のトラブルに巻き込まれないよう、十分に御注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162990</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162990A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162990.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162990L.xml</xmlLightUrl>
+        <koukanCd>614T</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>162989</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/18 12:15:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0063</cd>
+        </country>
+        <title>【総領事館からのお知らせ】当館休館日（２０２６年２月２４日（火））のお知らせ</title>
+        <lead>●２月２４日（火）は当館休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162989</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162989A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162989.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162989L.xml</xmlLightUrl>
+        <koukanCd>611F</koukanCd>
+    </mail>
     <mail>
         <keyCd>162987</keyCd>
         <infoType>R10</infoType>
@@ -467,25 +503,5 @@ https://www.bmkg.go.id/siaran-pers/monsun-asia-menguat-waspada-potensi-hujan-leb
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162961.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162961L.xml</xmlLightUrl>
         <koukanCd>607A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162959</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/16 12:25:39</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0092</cd>
-        </country>
-        <title>ラマダン期間中の注意喚起について</title>
-        <lead>○　パキスタンでは現時点では正式に発表されていませんが、２月１８日（水）※ころから、イスラム教徒にとって重要な行事の一つであるラマダン（断食月）に入り、この期間は宗教心が高まり、テロの脅威が高まる傾向にあります。いつも以上にテロの発生に警戒する必要があります。また、金曜日の集団礼拝は、多くのイスラム教徒が礼拝所に集まり、テロの標的となりやすいため注意が必要です。
-○　各種報道等により最新情報の入手に努め、テロの標的となりやすい場所にはできるだけ近づかないようにするとともに、宗教行事や金曜礼拝には近づかないでください。
-○　同期間中は、交通事故が増加する傾向にあるため、車両を使用する際は、十分に安全運転（十分な車両距離の確保、交通事故の防止等）に努めるようにしてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162959</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162959A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162959.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162959L.xml</xmlLightUrl>
-        <koukanCd>610E</koukanCd>
     </mail>
 </opendata>
