@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/19 00:55:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/02/19 01:25:48" mailCount="21" odType="02">
+    <mail>
+        <keyCd>162998</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/19 01:00:42</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0020</cd>
+        </country>
+        <title>ラマダン期間中の領事窓口時間の変更</title>
+        <lead>１　2月19日（木）頃から3月20日（金）頃までのラマダン期間中（注：正確なラマダン開始日は通例、直前に判明します）は、領事窓口時間を以下のとおり変更させていただきますのでご了承ください。
+ 
+○パスポート、証明など：午前9時から午後2時まで
+○ビザ：午前9時から午後1時まで
+
+2　当館閉館日は以下の当館ホームページよりご確認ください。
+（参照アドレス：当館ホームページ（大使館案内））
+https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162998</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162998A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162998.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162998L.xml</xmlLightUrl>
+        <koukanCd>720A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162997</keyCd>
         <infoType>R10</infoType>
