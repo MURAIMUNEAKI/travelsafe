@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/18 08:25:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/02/18 08:45:50" mailCount="20" odType="02">
+    <mail>
+        <keyCd>162986</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/18 08:45:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0501</cd>
+        </country>
+        <title>【注意喚起】マラリア感染にご注意ください。</title>
+        <lead>《ポイント》
+●ベリーズ国内で昨年４月以降、約１０ヵ月ぶりにマラリアの症例を確認（２件）
+●トレド郡クリケ・サルコ村で２件の症例が確認されており、いずれも近隣国で感染したベリーズ人感染者が流入した。
+●感染予防のため、虫除けや服装を工夫し、蚊の生息域を避ける</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162986</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162986A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162986.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162986L.xml</xmlLightUrl>
+        <koukanCd>426A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162984</keyCd>
         <infoType>R10</infoType>
