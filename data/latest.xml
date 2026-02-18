@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/18 08:45:50" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/02/18 09:40:48" mailCount="21" odType="02">
+    <mail>
+        <keyCd>162987</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/18 09:05:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0502</cd>
+        </country>
+        <title>グアテマラ全土への予防的非常事態宣言の概要</title>
+        <lead>◆２月17日、グアテマラ政府は官報で予防的非常事態（Estado de　prevencion ）宣言に関する政府令を発表しました。
+◆グアテマラ全土で非常事態宣言に引き続き、治安維持のために警察及び軍が検問などを行います。外出する際には、当局に不審に思われることのないよう行動に注意するとともに、最新の関連報道等の情報収集に努めていただくようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162987</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162987A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162987.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162987L.xml</xmlLightUrl>
+        <koukanCd>418A</koukanCd>
+    </mail>
     <mail>
         <keyCd>162986</keyCd>
         <infoType>R10</infoType>
