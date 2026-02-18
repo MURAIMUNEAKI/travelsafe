@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/18 17:25:48" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/02/18 17:55:49" mailCount="23" odType="02">
+    <mail>
+        <keyCd>162992</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/18 17:30:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0066</cd>
+        </country>
+        <title>【注意喚起】狂犬病による死者の発生について</title>
+        <lead>・タイ保健省の発表によれば、１月２５日、ラヨーン県において狂犬病による死者が発生しました。
+・狂犬病は、未だにアジアやアフリカを中心として、世界中の多くの国で発生していますが、発症した場合には、有効な治療法がなく、ほぼ100％の患者が死に至ります。
+・海外においては、むやみに動物に近づかない等、感染を避けるために十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162992</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162992A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162992.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162992L.xml</xmlLightUrl>
+        <koukanCd>612E</koukanCd>
+    </mail>
     <mail>
         <keyCd>162991</keyCd>
         <infoType>R10</infoType>
