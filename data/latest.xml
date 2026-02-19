@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/20 00:20:49" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/02/20 00:55:48" mailCount="25" odType="02">
+    <mail>
+        <keyCd>163013</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/20 00:40:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0043</cd>
+        </country>
+        <title>【デモ情報】ウィーン市（２月２０日）</title>
+        <lead>●２月２０日（金）、アカデミカー舞踏会に反対するデモが予定されています。 
+●過去には、デモ参加者と警察が衝突する事態となり、負傷者・逮捕者が出ていることもありますので、デモ周辺においては、思わぬ騒動に巻き込まれることのないよう、ご注意ください。 
+●デモに伴い周辺地域の道路が封鎖されるとともに公共交通機関の運行制限も予想されます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163013</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163013A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163013.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163013L.xml</xmlLightUrl>
+        <koukanCd>501A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163011</keyCd>
         <infoType>R10</infoType>
