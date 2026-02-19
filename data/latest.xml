@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/19 20:00:50" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/02/19 20:30:49" mailCount="26" odType="02">
+    <mail>
+        <keyCd>163011</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/19 20:30:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>ニューデリー鉄道駅構内及び周辺における日本人を狙った詐欺への注意喚起</title>
+        <lead>（ポイント）
+●ニューデリー鉄道駅構内及び周辺で、あなたに声をかけてくる者は、多くの場合、詐欺師です。
+●しつこくつきまとわれる場合は、迷わず警察（112番）へ通報しましょう。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163011</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163011A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163011.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163011L.xml</xmlLightUrl>
+        <koukanCd>606A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163010</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/19 20:25:39</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0355</cd>
+        </country>
+        <title>（注意喚起）ティラナ市における抗議デモについて</title>
+        <lead>アルバニアにお住まいの皆様及びたびレジ登録者の皆様
+
+　現地報道等によると、２月２０日１８時を目途に首都ティラナ市内の内首相官邸前にて議会の野党勢力中心の抗議デモが行われる見込みです。
+
+　抗議デモが過激化し、警備当局との衝突が発生する可能性も十分にありますので、最新の情報の入手に努めるとともに、デモが落ち着くまで抗議デモが行われている場所周辺に近づくことは避けるなど慎重な行動を心がけて下さい。
+
+　万が一、事件・事故等に巻き込まれた場合、アルバニア警察当局に被害届を提出するとともに、その概要を在アルバニア日本国大使館に連絡して下さい。
+
+【問い合わせ先】
+在アルバニア日本国大使館
+電話　： +355 4 454 7930（領事窓口受付時間：09:00～12:00,13:30～16:00（祝休日除く））
+メール： konsullore@av.mofa.go.jp
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+※「たびレジ」簡易登録をされた方で、メールの配信を変更・停止されたい場合は、以下の URL から停止手続きをお願いいたします。
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
+※災害や騒乱等が発生した際、ご家族、ご友人、同僚を守るため、一人でも多くの方に安全対策に関する情報が届くよう、在留届（3か月以上の滞在）の届出、又はたびレジ（3か月未満の滞在）の登録を、お知り合いの方や出張者・旅行者にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163010</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163010A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163010.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163010L.xml</xmlLightUrl>
+        <koukanCd>552A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163009</keyCd>
         <infoType>R10</infoType>
