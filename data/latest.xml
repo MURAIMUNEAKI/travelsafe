@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/19 18:00:50" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/02/19 18:30:50" mailCount="22" odType="02">
     <mail>
         <keyCd>163007</keyCd>
         <infoType>R10</infoType>
@@ -454,61 +454,5 @@ https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162981.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162981L.xml</xmlLightUrl>
         <koukanCd>704W</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162978</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/17 18:10:39</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0241</cd>
-        </country>
-        <title>【注意喚起】邦人被害の窃盗（ひったくり）事件の発生</title>
-        <lead>　2月14日（土）午後2時頃、リーブルビル市バッテリー4区の路上において、邦人が被害に遭う窃盗（ひったくり）事件が発生しました。
-邦人が単独で歩行中、肩から掛けていたバッグを接近してきた犯人にひったくられ、犯人はそのまま乗車してきた車両で逃走しました。その後、犯人は逃走途中にバッグから現金を抜き取り、バッグを車外に投棄したものです。幸い、怪我などの身体的被害は確認されておりません。
-　リーブルビル市内では窃盗事件が日常的に発生しており、当地に在留する外国人も被害の対象となり得ます。ひったくりの特徴として、複数犯による車両を利用した犯行が多く、発生は昼夜を問いません。特に徒歩移動の際は常に周囲への警戒を怠らず、人通りの少ない休日や時間帯に外出される場合には、通常以上に注意を払うよう心がけてください。
-　また、財布や携帯電話等の貴重品にはチェーンやストラップを装着し、身体や衣服に固定するなど、外部から容易に視認されない形で携行するよう努めてください。
-　万が一、刃物等の凶器を示されるなど生命・身体に危険が及ぶ状況に至った場合には、無理に抵抗することなく、生命の安全を最優先としてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162978</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162978A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162978.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162978L.xml</xmlLightUrl>
-        <koukanCd>752A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162977</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/17 18:05:38</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>【大使館からのお知らせ】ラマダン期間中における当館開館時間等について</title>
-        <lead>１　当館のラマダン期間中における開館時間、領事窓口時間は以下のとおりとなります。
-（１）開館時間　9：00～14：00
-（２）領事窓口時間　9：00～13：30（査証申請受付、査証交付を含む）
-２　ラマダン（断食）月は、２月１８日頃から３月１９日頃までとなる予定ですが、正確な開始日はサウジ当局が直前に発表することが通例となっています。
-３　緊急の方は以下までお電話ください。オペレーターが２４時間対応いたします。
-　＋９６６（０）１１－４８８－１１００
-
-　このメールは、在留届にて届けられたメールアドレス及び「たびレジ」に登録されたメールアドレスに自動的に配信されております。
-
-（問い合わせ先） 
-在サウジアラビア日本国大使館領事班 
-TEL：011-488-1100 
-FAX：011-488-0189 
-E-mail：consular-sec@rd.mofa.go.jp 
-ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html
-　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。
-https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162977</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162977A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162977.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162977L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
     </mail>
 </opendata>
