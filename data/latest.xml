@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/19 15:50:49" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/02/19 16:30:50" mailCount="24" odType="02">
+    <mail>
+        <keyCd>163006</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/19 16:30:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0234</cd>
+        </country>
+        <title>ナイジェリア連邦首都地区（ＦＣＴ）における地方議会選挙に伴う注意喚起</title>
+        <lead>○２月２１日（土）にナイジェリアの連邦首都地区（ＦＣＴ）において地方議会選挙が実施される予定です。
+○選挙当日、午前６時から午後６時までＦＣＴ全域で移動制限措置が実施される模様です。
+○選挙に伴い、混雑、交通規制、突発的な衝突等が発生する可能性がありますので、在留邦人の皆様は投票所や関連施設周辺には決して近付かないようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163006</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163006A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163006.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163006L.xml</xmlLightUrl>
+        <koukanCd>715A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163005</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/19 16:10:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0241</cd>
+        </country>
+        <title>ガボンにおけるSNS停止措置に関する報道について</title>
+        <lead>　報道によれば、通信高等評議会（La Haute Autorite de la Communication (HAC)）は、ガボン国内におけるソーシャルメディアの即時利用停止措置を発表しました。本措置は「追って通知があるまで」継続されるとされています。
+　同評議会は、国家の安定や安全を損なうおそれのある不適切なコンテンツの拡散を理由として本措置を講じた旨説明しています。
+
+　現時点で、邦人の皆様の安全に直接影響を及ぼす具体的事案は確認されておりませんが、今後、SNSや一部通信アプリを含む通信環境に不安定な状況が生じる可能性があります。
+　邦人の皆様におかれましては、情報収集に当たり、ガボン当局からの公式発表や信頼性が担保された報道機関など、確度の高い情報源をご確認いただくとともに、真偽不明の情報やデマの拡散には十分ご注意ください。
+　また、通信環境が不安定となる可能性を念頭に、代替連絡手段（電話、SMS等）のご確認をお願いいたします。
+
+　今後、治安情勢や通信状況に大きな変化が生じた場合には、改めてお知らせいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163005</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163005A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163005.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163005L.xml</xmlLightUrl>
+        <koukanCd>752A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163003</keyCd>
         <infoType>R10</infoType>
