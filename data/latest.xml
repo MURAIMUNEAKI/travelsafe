@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/20 16:25:49" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/02/20 16:55:49" mailCount="24" odType="02">
+    <mail>
+        <keyCd>163016</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/20 16:30:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>計画停電に伴う代表電話の不通について（2月20日夜から24日早朝まで）</title>
+        <lead>【ポイント】
+●当館入居ビルの計画停電の影響で、２月２０日（金）２２時頃から２４日（火）７時頃まで、代表電話が繋がりません。
+●緊急の場合には「050 557 7136」までご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163016</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163016A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163016.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163016L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163015</keyCd>
         <infoType>R10</infoType>
@@ -508,25 +528,5 @@ https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162992.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162992L.xml</xmlLightUrl>
         <koukanCd>612E</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162991</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/18 16:40:52</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0066</cd>
-        </country>
-        <title>【注意喚起】狂犬病による死者の発生について</title>
-        <lead>・タイ保健省の発表によれば、１月２５日、ラヨーン県において狂犬病による死者が発生しました。
-・狂犬病は、未だにアジアやアフリカを中心として、世界中の多くの国で発生していますが、発症した場合には、有効な治療法がなく、ほぼ100％の患者が死に至ります。
-・海外においては、むやみに動物に近づかない等、感染を避けるために十分注意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162991</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162991A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162991.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162991L.xml</xmlLightUrl>
-        <koukanCd>612A</koukanCd>
     </mail>
 </opendata>
