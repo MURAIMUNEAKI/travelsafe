@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/20 12:00:48" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/02/20 13:00:49" mailCount="22" odType="02">
     <mail>
         <keyCd>163014</keyCd>
         <infoType>R10</infoType>
@@ -314,6 +314,33 @@ https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
         <koukanCd>720A</koukanCd>
     </mail>
     <mail>
+        <keyCd>2026T014</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢</contentInfo>
+        <leaveDate>2026/02/19 00:00:00</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0220</cd>
+        </country>
+        <title>ガンビアの危険情報【危険レベル継続】《内容の更新》</title>
+        <lead>●ガンビア全土の危険情報について、レベル1（十分注意）を継続しています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T014.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T014A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T014.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T014L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>0</riskLevel3>
+        <riskLevel2>0</riskLevel2>
+        <riskLevel1>1</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T014_1_Detail.html</mapImageUrl>
+    </mail>
+    <mail>
         <keyCd>162997</keyCd>
         <infoType>R10</infoType>
         <leaveDate>2026/02/18 20:40:40</leaveDate>
@@ -453,41 +480,5 @@ https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162991.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162991L.xml</xmlLightUrl>
         <koukanCd>612A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162990</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/18 12:25:43</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0061</cd>
-        </country>
-        <title>（注意喚起）ゴールドコースト市内における邦人男性への暴行事件の発生について</title>
-        <lead>　２月１５日（日）正午ごろ、邦人男性１名がオーストラリア・ゴールドコースト市内のサウスポート駅からサーファーズパラダイス方面へトラムで移動中、見知らぬ男から暴力を受ける事案が発生しました。邦人男性は、途中乗車してきた男性と一瞬目が合った後、突然、顔付近を中心に殴打される被害を受けたことが確認されました。邦人の皆様におかれましては、同様のトラブルに巻き込まれないよう、十分に御注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162990</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162990A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162990.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162990L.xml</xmlLightUrl>
-        <koukanCd>614T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162989</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/18 12:15:41</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0063</cd>
-        </country>
-        <title>【総領事館からのお知らせ】当館休館日（２０２６年２月２４日（火））のお知らせ</title>
-        <lead>●２月２４日（火）は当館休館日となります。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162989</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162989A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162989.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162989L.xml</xmlLightUrl>
-        <koukanCd>611F</koukanCd>
     </mail>
 </opendata>
