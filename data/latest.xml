@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/21 01:45:49" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/02/21 02:25:50" mailCount="25" odType="02">
+    <mail>
+        <keyCd>163027</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/21 02:00:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0221</cd>
+        </country>
+        <title>【注意喚起】ダカール市内におけるデモについて</title>
+        <lead>２月２１日（土）、ダカール市内でデモが予定されているとの情報に接しています。実施されない可能性も排除されませんが、念のため外出される際は御注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163027</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163027A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163027.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163027L.xml</xmlLightUrl>
+        <koukanCd>717A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163026</keyCd>
         <infoType>R10</infoType>
