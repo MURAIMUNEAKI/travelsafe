@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/21 04:25:48" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/02/21 04:45:49" mailCount="24" odType="02">
+    <mail>
+        <keyCd>163029</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/21 04:35:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0868</cd>
+        </country>
+        <title>当館管轄６カ国の治安情勢（２０２６年１月）</title>
+        <lead>　当館では毎月、ホームページに管轄６カ国の治安情勢を掲載しています。 
+今般、１月分の情報を掲載しましたので、皆様の安全対策にお役立てください。 
+
+６カ国の治安情勢（２０２６年１月） 
+https://www.tt.emb-japan.go.jp/itpr_ja/11_000001_04755.html
+
+　 このメールは在留届を提出した方と「たびレジ」に登録した方に、配信しています。 
+
+※「たびレジ」に簡易登録した方でメールの受け取りを希望しない方は、以下のＵＲＬから変更・停止の手続きをしてください。 
+（変更）https://www.ezairyu.mofa.go.jp/tabireg/simple/auth 
+（停止）https://www.ezairyu.mofa.go.jp/tabireg/simple/delete 
+
+※「在留届」を提出した方で帰国、移転した方は、以下のＵＲＬで帰国又は転出届を提出してください。 
+https://www.ezairyu.mofa.go.jp/RRnet/residencereport/login 
+
+在トリニダード・トバゴ日本国大使館 
+電話：（国番号1-868）628-5991 
+住所：5 Hayes Street、 St. Clair、 Port of Spain、 Trinidad and Tobago 
+ホームページ：http://www.tt.emb-japan.go.jp/houjin-page.htm 
+E-mail：ryouji@po.mofa.go.jp</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163029</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163029A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163029.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163029L.xml</xmlLightUrl>
+        <koukanCd>424A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163027</keyCd>
         <infoType>R10</infoType>
