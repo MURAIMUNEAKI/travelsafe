@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/20 18:55:49" mailCount="27" odType="02">
+<opendata dataType="L" lastModified="2026/02/20 19:30:50" mailCount="26" odType="02">
     <mail>
         <keyCd>163020</keyCd>
         <infoType>R10</infoType>
@@ -749,25 +749,5 @@ https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162996.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162996L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162995</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/18 19:05:38</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>断食月（ラマダン）における注意喚起</title>
-        <lead>●インドネシア政府は、イスラム教の断食月（ラマダン）の開始日を2月19日（木）と発表しました。3月20日（金）頃までが断食月となり、その後、断食明け大祭（レバラン）及びレバラン関連休暇が3月24日（火）頃まで続く見込みです。
-●ラマダン及びレバラン期間中も引き続きテロや各種犯罪への警戒を怠らないようにしてください。
-●例年、レバラン期間中は帰省に伴う交通渋滞が発生しますので、外出先の交通状況等に注意し、最新情報の入手に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162995</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162995A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162995.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162995L.xml</xmlLightUrl>
-        <koukanCd>607F</koukanCd>
     </mail>
 </opendata>
