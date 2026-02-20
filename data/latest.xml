@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/20 23:45:49" mailCount="25" odType="02">
+<opendata dataType="L" lastModified="2026/02/21 00:30:49" mailCount="25" odType="02">
+    <mail>
+        <keyCd>163026</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/20 23:55:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0032</cd>
+        </country>
+        <title>【注意喚起】ストライキ・デモに関する情報（3月12日）</title>
+        <lead>　報道等によれば、3月12日（木）、労働組合が全国規模のストライキを呼び掛けており、ブリュッセル空港の全ての出発便がキャンセルされる可能性があるほか、ブリュッセル・サウス・シャルルロワ空港にも影響が出ることが予想されます。
+　さらに、鉄道・バス等の交通機関や公共サービスにも大きな影響が出ることが予想されます。
+　また、労働組合は、全国デモも呼び掛けています。デモの周辺では各種規制が実施されるほか、思わぬ騒動に巻き込まれる可能性もあります。過激な行動等に遭遇した際には速やかにその場から離れて安全を確保されますようお願いします。
+　最新情報は、報道や以下のホームページ及びSNSを確認してください。
+
+●ベルギー国鉄（SNCB）
+・ホームページ
+https://www.belgiantrain.be/fr/travel-info/train-network-travel-info/strike
+・Facebook
+https://www.facebook.com/SNCB/
+
+●ブリュッセル（MIVB/STIB）
+・ホームページ
+https://www.stib-mivb.be/home
+・Facebook
+https://www.facebook.com/lastib
+・インスタグラム
+https://www.instagram.com/stibmivb/
+
+●ワロン（TEC）
+・ホームページ
+https://www.letec.be/Traffic/Detail/d08bd2d5-fff6-40cf-3c2a-08dd0aff052b
+・Facebook
+https://www.facebook.com/leTECofficiel/
+
+●フランダース（DeLijn）
+・ホームページ
+https://www.delijn.be/fr/content/storingen-omleidingen/staking-vakbondsactie/
+・Facebook
+https://www.facebook.com/delijn/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163026</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163026A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163026.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163026L.xml</xmlLightUrl>
+        <koukanCd>521A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163023</keyCd>
         <infoType>R10</infoType>
@@ -701,32 +748,5 @@ https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162998.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162998L.xml</xmlLightUrl>
         <koukanCd>720A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>2026T014</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢</contentInfo>
-        <leaveDate>2026/02/19 00:00:00</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0220</cd>
-        </country>
-        <title>ガンビアの危険情報【危険レベル継続】《内容の更新》</title>
-        <lead>●ガンビア全土の危険情報について、レベル1（十分注意）を継続しています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T014.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T014A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T014.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T014L.xml</xmlLightUrl>
-        <riskLevel4>0</riskLevel4>
-        <riskLevel3>0</riskLevel3>
-        <riskLevel2>0</riskLevel2>
-        <riskLevel1>1</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T014_1_Detail.html</mapImageUrl>
     </mail>
 </opendata>
