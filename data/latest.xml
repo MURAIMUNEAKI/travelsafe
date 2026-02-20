@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/20 17:25:49" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/02/20 17:55:49" mailCount="25" odType="02">
+    <mail>
+        <keyCd>163018</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/20 17:50:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0261</cd>
+        </country>
+        <title>マダガスカル入国ビザ手数料の改訂</title>
+        <lead>マダガスカル当局によりますと、2026年2月16日より、マダガスカル入国時のビザ手数料が滞在期間に応じて改定されましたのでお知らせいたします。
+
+eVisa pour Madagascar ホームページ:
+https://evisamada-mg.com/fr/home</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163018</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163018A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163018.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163018L.xml</xmlLightUrl>
+        <koukanCd>730A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163017</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/20 17:35:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0033</cd>
+        </country>
+        <title>デモにご注意ください（２月２１日）</title>
+        <lead>　報道によれば、２月２１日（土）、リヨン市内において、先週リヨン市内で殺害されたクエンティン氏追悼行進を複数の極右団体等が呼びかけられており、２０００人から３０００人の参加が見込まれるとともに、多くの極右活動家が参加する予定です。デモや集会が行われる付近では、デモ参加者と治安当局の衝突、投石、放火、破壊行為などが発生し思わぬ騒動に巻き込まれる可能性もありますので、報道等により最新の情報を入手するとともに、群衆等を見かけた場合には、近づくことなくその場を離れるなど、身の回りの安全に十分注意してください。 
+
+日時：２月２１日（土）１５時
+場所：Place Jean-JauresからRue Victo-Lagrange付近（リヨン市7区）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163017</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163017A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163017.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163017L.xml</xmlLightUrl>
+        <koukanCd>505H</koukanCd>
+    </mail>
     <mail>
         <keyCd>163016</keyCd>
         <infoType>R10</infoType>
@@ -508,25 +550,5 @@ https://www.eg.emb-japan.go.jp/itpr_ja/about_us.html#holidays</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162993.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162993L.xml</xmlLightUrl>
         <koukanCd>607A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>162992</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/18 17:30:41</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0066</cd>
-        </country>
-        <title>【注意喚起】狂犬病による死者の発生について</title>
-        <lead>・タイ保健省の発表によれば、１月２５日、ラヨーン県において狂犬病による死者が発生しました。
-・狂犬病は、未だにアジアやアフリカを中心として、世界中の多くの国で発生していますが、発症した場合には、有効な治療法がなく、ほぼ100％の患者が死に至ります。
-・海外においては、むやみに動物に近づかない等、感染を避けるために十分注意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=162992</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162992A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162992.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/162992L.xml</xmlLightUrl>
-        <koukanCd>612E</koukanCd>
     </mail>
 </opendata>
