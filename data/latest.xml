@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/21 19:40:49" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/02/21 20:15:49" mailCount="19" odType="02">
+    <mail>
+        <keyCd>163032</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/21 20:00:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>テロ組織による爆破計画に関する報道についての注意喚起</title>
+        <lead>●報道によると、2月21日、インドの情報機関は、テロ組織によるデリーの歴史的建造物レッドフォートや、その付近のチャンドニ・チョーク（Chandni Chowk）地域にある寺院を含む国内の主要宗教施設への爆破計画の可能性を警告したとのことです。
+●昨年11月にはレッドフォート付近で車両が爆発するテロ事案が発生しています。在留邦人及び出張者・旅行者の皆様におかれましては、不測の事態に巻き込まれないために、テロ攻撃の対象とされている施設や地域へむやみに近づくことのないようにするとともに、報道等から最新の情報の入手に努めてください。また、外出先では周囲の状況及び不審物に注意を払い、不審な状況を察知したら速やかにその場を離れるなど安全確保に十分注意してください。
+
+【関連報道】
+●NDTV
+https://www.ndtv.com/india-news/paks-lashkar-planning-blast-near-delhis-red-fort-other-cities-sources-11116487 
+●ANI
+https://aninews.in/news/national/general-news/intel-alert-warns-of-threat-to-key-religious-places-in-delhi-red-fort-area-on-target-list-of-lashkar-e-taiba20260221100940/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163032</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163032A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163032.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163032L.xml</xmlLightUrl>
+        <koukanCd>606A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163031</keyCd>
         <infoType>R10</infoType>
