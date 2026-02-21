@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/21 19:20:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/02/21 19:40:49" mailCount="18" odType="02">
     <mail>
         <keyCd>163031</keyCd>
         <infoType>R10</infoType>
@@ -602,24 +602,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163010.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163010L.xml</xmlLightUrl>
         <koukanCd>552A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163009</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/19 19:40:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0030</cd>
-        </country>
-        <title>アテネ市内における日本人被害の強盗の発生</title>
-        <lead>・アテネ市内の観光地リカヴィトスの丘で、邦人被害の強盗事件が発生しました。
-・万が一被害に遭った場合は、抵抗したり盗まれたものを取り返そうとしたりせず、すぐに周囲の人や警察に助けを求めて下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163009</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163009A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163009.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163009L.xml</xmlLightUrl>
-        <koukanCd>507A</koukanCd>
     </mail>
 </opendata>
