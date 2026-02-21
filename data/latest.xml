@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/21 08:45:49" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/02/21 09:30:49" mailCount="23" odType="02">
+    <mail>
+        <keyCd>163031</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/21 08:55:38</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0501</cd>
+        </country>
+        <title>犯罪発生状況（令和７年２月から１２月分）</title>
+        <lead>報道等により、殺人や強盗事件などの重大犯罪について、令和７年２月から１２月に報じられた国内の治安情勢についての概要をお知らせします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163031</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163031A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163031.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163031L.xml</xmlLightUrl>
+        <koukanCd>426A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163029</keyCd>
         <infoType>R10</infoType>
@@ -698,25 +716,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163005.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163005L.xml</xmlLightUrl>
         <koukanCd>752A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163003</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/19 09:20:39</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>断食月（ラマダン）における注意喚起</title>
-        <lead>●インドネシア政府は、イスラム教の断食月（ラマダン）の開始日を２月１９日（木）と発表しました。３月２０日（金）頃までが断食月となり、その後、断食明け大祭（レバラン）及びレバラン関連休暇が３月２４日（火）頃まで続く見込みです。
-●ラマダン及びレバラン期間中も引き続きテロや各種犯罪への警戒を怠らないようにしてください。
-●例年、レバラン期間中は帰省に伴う交通渋滞が発生しますので、外出先の交通状況等に注意し、最新情報の入手に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163003</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163003A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163003.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163003L.xml</xmlLightUrl>
-        <koukanCd>607X</koukanCd>
     </mail>
 </opendata>
