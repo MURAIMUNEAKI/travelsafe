@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/22 02:50:48" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/02/22 03:20:50" mailCount="14" odType="02">
+    <mail>
+        <keyCd>163033</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/22 03:05:56</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>1340</cd>
+        </country>
+        <country areaCd="33">
+            <cd>1787</cd>
+        </country>
+        <title>【注意喚起】暴風雪警報（Winter Storm Warning）等の発令（2月22日～23日）</title>
+        <lead>●米国国立気象局（National Weather Service）は、2月22日（日）午前から23日（月）午後にかけて、ニューヨークやフィラデルフィアを含む米国北東部の一部地域に、暴風雪警報（Winter Storm WarningやBlizard Warning）等を発令しています。
+●突風、積雪、路面の凍結等により、航空便や列車など公共交通機関の運休・遅延のほか、広範囲にわたり停電が発生するおそれがあります。
+●最新の気象情報や運航情報、関係当局の発表を確認するとともに、身の安全を第一に考え、不要不急の外出は控える、十分な備蓄品（食料、燃料、電池など）を用意する等、不測の事態に備えてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163033</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163033A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163033.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163033L.xml</xmlLightUrl>
+        <koukanCd>301H</koukanCd>
+    </mail>
     <mail>
         <keyCd>163032</keyCd>
         <infoType>R10</infoType>
