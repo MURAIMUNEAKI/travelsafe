@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/21 16:50:49" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/02/21 17:30:48" mailCount="20" odType="02">
     <mail>
         <keyCd>163031</keyCd>
         <infoType>R10</infoType>
@@ -652,24 +652,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163008.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163008L.xml</xmlLightUrl>
         <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163007</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/19 17:30:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0036</cd>
-        </country>
-        <title>ブダペスト市１２区内公園で爆発物発見（注意喚起）</title>
-        <lead>　ブダペスト市１２区によると、１８日、チョルス公園（Csorsz park）で土木工事中に第二次世界大戦時の爆発物が発見されました。警察による周辺地域の安全は確保されていますが、現場周辺に近づかない等身の安全の確保と最新情報の入手に努めてください。
-　なお、爆発物は２月２０日（金）午前中に解除される予定です。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163007</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163007A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163007.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163007L.xml</xmlLightUrl>
-        <koukanCd>508A</koukanCd>
     </mail>
 </opendata>
