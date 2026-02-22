@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/22 08:20:48" mailCount="14" odType="02">
+<opendata dataType="L" lastModified="2026/02/22 08:45:48" mailCount="13" odType="02">
     <mail>
         <keyCd>163033</keyCd>
         <infoType>R10</infoType>
@@ -321,26 +321,5 @@ https://kci.id/　（PT.Kereta Commuter Indonesia（通称、KAIコミュータ�
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163015.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163015L.xml</xmlLightUrl>
         <koukanCd>607A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163014</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/20 08:40:41</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0501</cd>
-        </country>
-        <title>【注意喚起】結核とアナプラズマ症（ダニ熱）の感染にご注意ください</title>
-        <lead>《ポイント》
-●２月１８日付けの政府発表にて、ベリーズ国内で結核感染者及び、（一般的に「ダニ熱」として知られている）アナプラズマ症を発症した家畜の発生を確認しました。
-●結核、ダニ熱に感染した場合の症状については風邪の諸症状に似ており、また、発症した場合は直ちに医療機関を受診してください。
-●現在、ベリーズ国内において、これら症状の本格的な流行は確認されておりませんが、感染に注意する必要があります。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163014</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163014A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163014.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163014L.xml</xmlLightUrl>
-        <koukanCd>426A</koukanCd>
     </mail>
 </opendata>
