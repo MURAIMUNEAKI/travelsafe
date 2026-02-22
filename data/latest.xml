@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/23 04:40:48" mailCount="5" odType="02">
+<opendata dataType="L" lastModified="2026/02/23 05:20:49" mailCount="7" odType="02">
+    <mail>
+        <keyCd>163037</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/23 05:20:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0052</cd>
+        </country>
+        <title>犯罪組織に対する掃討作戦実施に伴う治安悪化</title>
+        <lead>○メキシコ治安当局による犯罪組織に対する大規模な掃討作戦が行われた結果、広範な地域で、道路の封鎖や放火等の事案が発生しています。最新の情報入手に努め、これまで以上に注意して行動してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163037</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163037A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163037.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163037L.xml</xmlLightUrl>
+        <koukanCd>410D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163036</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/23 04:45:43</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0052</cd>
+        </country>
+        <title>犯罪組織に対する治安作戦実施に伴う治安悪化</title>
+        <lead>○メキシコ治安当局による犯罪組織に対する大規模な治安作戦が行われた結果、広範な地域で、道路封鎖や放火等の事案が発生しています。最新の情報入手に努め、これまで以上に注意して行動してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163036</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163036A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163036.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163036L.xml</xmlLightUrl>
+        <koukanCd>410A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163035</keyCd>
         <infoType>R10</infoType>
