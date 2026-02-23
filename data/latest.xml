@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/23 15:05:48" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/02/23 15:25:50" mailCount="9" odType="02">
     <mail>
         <keyCd>163039</keyCd>
         <infoType>R10</infoType>
@@ -82,6 +82,26 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163036.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163036L.xml</xmlLightUrl>
         <koukanCd>410A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026C015</keyCd>
+        <infoType>C30</infoType>
+        <contentInfo>治安情勢 一般犯罪 暴動</contentInfo>
+        <leaveDate>2026/02/23 00:00:00</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0052</cd>
+        </country>
+        <title>犯罪組織に対する治安作戦実施に伴うハリスコ州等の治安悪化に対する注意喚起</title>
+        <lead>●2月22日、メキシコ国防省は、国軍を含むメキシコ関係機関がハリスコ州で犯罪組織への大規模な掃討作戦を実施したと発表しました。
+●報道によると、ハリスコ州だけでなく周辺のグアナファト州やアグアスカリエンテス州を含む広範な地域で、国軍を含むメキシコ関係機関と犯罪組織間の衝突、高速道路を含む道路の封鎖、公共交通機関の停止・遅延、市街地での放火及び器物損壊等の事案が多発している模様です。
+●ハリスコ州及びその近隣州に在留・滞在中の方は、不要不急の外出や会合を避ける等必要な対策を取るなど十分に注意してください。その他の州に在留・滞在中の方も、最新の治安情報を入手する等注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C015.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C015A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C015.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C015L.xml</xmlLightUrl>
     </mail>
     <mail>
         <keyCd>163035</keyCd>
