@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/23 22:50:49" mailCount="11" odType="02">
+<opendata dataType="L" lastModified="2026/02/23 23:25:50" mailCount="12" odType="02">
+    <mail>
+        <keyCd>163045</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/23 23:20:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>中東情勢の緊張を受けた注意喚起について（２月２３日）</title>
+        <lead>○　２月２０日付けで外務省から発出された広域情報「中東情勢の急激な変化の可能性に関する注意喚起」のとおり、イランの核開発等をめぐる米国・イラン間協議が行われている一方、中東における米国の軍事力の増強が進んでいると報道されています。
+○　緊急事態に備え、バーレーン政府はスマートフォン等を通した緊急警報システムを構築・試験運用中ですが、内務省の発表によると、iOSユーザーはバージョン26.2以降にアップデートをする必要がある（Androidユーザー等は不要）とのことですので、該当される方はアップデートのご検討をお願いします。
+○　また、いずれのスマートフォンにおいても、受信するための設定（「通知」や「緊急警報」等の項目）が必要とのことですので、内務省の案内（下リンク参照）の確認・設定をお願いします。
+　　https://www.facebook.com/photo?fbid=1269494358334336&amp;set=pcb.1269494381667667
+○　仮に情勢が悪化した場合には、在留届の登録内容を基に、大使館から必要な連絡をさせていただくことがありますので、この機会に御自身の在留届（下リンクからログイン）の登録内容を確認し、変更事項がある場合には、最新の内容に修正をお願いします。
+　　https://www.ezairyu.mofa.go.jp/RRnet/index.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163045</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163045A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163045.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163045L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163044</keyCd>
         <infoType>R10</infoType>
