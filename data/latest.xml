@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/23 08:45:48" mailCount="9" odType="02">
+<opendata dataType="L" lastModified="2026/02/23 09:35:48" mailCount="8" odType="02">
     <mail>
         <keyCd>163039</keyCd>
         <infoType>R10</infoType>
@@ -176,23 +176,5 @@ https://aninews.in/news/national/general-news/intel-alert-warns-of-threat-to-key
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163032.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163032L.xml</xmlLightUrl>
         <koukanCd>606A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163031</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/21 08:55:38</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0501</cd>
-        </country>
-        <title>犯罪発生状況（令和７年２月から１２月分）</title>
-        <lead>報道等により、殺人や強盗事件などの重大犯罪について、令和７年２月から１２月に報じられた国内の治安情勢についての概要をお知らせします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163031</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163031A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163031.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163031L.xml</xmlLightUrl>
-        <koukanCd>426A</koukanCd>
     </mail>
 </opendata>
