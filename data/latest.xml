@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/23 20:30:49" mailCount="10" odType="02">
+<opendata dataType="L" lastModified="2026/02/23 20:45:49" mailCount="11" odType="02">
+    <mail>
+        <keyCd>163044</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/23 20:45:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>ストライキに伴う公共交通機関への影響（2月24日）</title>
+        <lead>○2月24日（火）、フランクフルト、ヴィースバーデン、ギーセン、マールブルク、カッセルにおいて警告ストライキが行われます。
+○フランクフルト市内においては地下鉄と路面電車が全面運休となる見込みです。地域鉄道やSバーン、バスは運行の見込みです。
+○2月24日に各種交通機関等の利用を計画されている方は、大きな混乱が発生するおそれがありますので、事前に以下のリンク等から最新情報をご確認下さい。
+
+○関連ホームページ等
+1) VGF（フランクフルト市交通公社）ホームページ
+　https://www.vgf-ffm.de/de/
+2) VGF「X」
+　https://twitter.com/vgf_ffm</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163044</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163044A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163044.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163044L.xml</xmlLightUrl>
+        <koukanCd>506I</koukanCd>
+    </mail>
     <mail>
         <keyCd>163042</keyCd>
         <infoType>R10</infoType>
