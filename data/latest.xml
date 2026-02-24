@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/24 20:00:50" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/02/24 20:30:48" mailCount="16" odType="02">
+    <mail>
+        <keyCd>163056</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/24 20:05:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ドイツ全土での大規模ストライキに伴う交通機関への影響（２月２７日（金）～３月１日（日））</title>
+        <lead>〇統一サービス産業労働組合（Verdi）等は、ドイツ全土の近距離交通機関に対し、2月２７日（金）及び２８日（土）に大規模な警告ストライキの実施を呼びかけており、これが実施されれば、全国的に大きな影響がでる模様です。
+〇ベルリン州では、2月２７日（金）午前3時から３月１日（日）早朝※までの間、ベルリン市交通局（BVG）が運営するUバーン、トラムの運行が全て停止、バスも一部路線を除いて停止されるなど、大きな影響が出る模様です。なお、BVG以外が運営するSバーン、地域鉄道、長距離列車の運行については、当該ストライキの影響はないとされています。
+※ストライキは４８時間とされているものの、正確な終了時間について現時点発表されていません。以下のベルリン州交通情報や報道等から御確認ください。
+〇２月２７日（金）及び２８日（土）は、その他の多くの州でもストライキの実施が見込まれるため、ドイツ国内で近距離交通機関（地下鉄、バス、トラム）の利用を予定されている方は、事前に運行情報を確認するとともに、時間に余裕をもって行動するようにしてください。
+〇最新の情報は、主催組合ホームページ、報道等からご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163056</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163056A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163056.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163056L.xml</xmlLightUrl>
+        <koukanCd>506A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163055</keyCd>
         <infoType>R10</infoType>
