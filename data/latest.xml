@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/25 05:30:49" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/02/25 05:50:48" mailCount="15" odType="02">
     <mail>
         <keyCd>163063</keyCd>
         <infoType>R10</infoType>
@@ -325,32 +325,5 @@ https://www.vgn.de/</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163039.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163039L.xml</xmlLightUrl>
         <koukanCd>505W</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163038</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/23 05:35:43</leaveDate>
-        <title>（お知らせ）暴風雪警報に伴う臨時閉館について【２月２３日（月曜日）】</title>
-        <lead>【本文】
-●米国国立気象局（National Weather Service）は、２月２２日（日）午後４時から２月２４日（火）午前７時（米国東部時間）まで、マサチューセッツ州東部・北東部・南東部およびロードアイランド州の一部に対し、暴風雪警報（Blizzard Warning）、沿岸洪水注意報（Coastal Flood Advisory）を発令しています。また、ボストン市は降雪非常事態宣言（Snow Emergency）を発令しております。
-●これらの状況を踏まえ、２月２３日（月曜日）、在ボストン日本国総領事館は臨時閉館いたします。
-なお、電話対応につきましては自動応答のみとさせていただきます。
-ご不便をおかけいたしますが、皆様のご理解を賜りますようお願い申し上げます。
-●今後の最新情報につきましては、当館SNS（X・Facebook）をご確認ください。
-●突風、積雪、路面の凍結等により、航空便や列車など公共交通機関の運休・遅延のほか、広範囲にわたり停電が発生する恐れがあります。また、沿岸道路では、冠水のため一部閉鎖の可能性があります。
-●最新の気象情報や運航情報、関係当局の発表を確認するとともに、身の安全を第一に考え、不要不急の外出は控える、十分な備蓄品（食料、燃料、電池など）を用意する等、不測の事態に備えてください。
-
-【参考】     
-○米国国立気象局    
-　https://www.weather.gov/
-○ウェザーチャンネル    
-　https://weather.com/
-○自然災害対策について（在ボストン日本国総領事館）
-　https://www.boston.us.emb-japan.go.jp/files/100575609.pdf</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163038</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163038A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163038.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163038L.xml</xmlLightUrl>
-        <koukanCd>301V</koukanCd>
     </mail>
 </opendata>
