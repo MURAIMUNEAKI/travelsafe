@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/24 11:05:48" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/02/24 12:10:49" mailCount="14" odType="02">
+    <mail>
+        <keyCd>163051</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/24 11:15:40</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0678</cd>
+        </country>
+        <title>アンバエ島ヴォイ湖周辺の火山活動に伴う注意喚起</title>
+        <lead>バヌアツ気象局の発表によれば、アンバエ島ヴォイ湖周辺の火山警戒レベルが２から３に引き上げられました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163051</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163051A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163051.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163051L.xml</xmlLightUrl>
+        <koukanCd>640A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163049</keyCd>
         <infoType>R10</infoType>
