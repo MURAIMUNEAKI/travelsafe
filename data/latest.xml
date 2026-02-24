@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/24 20:30:48" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/02/24 20:50:48" mailCount="15" odType="02">
     <mail>
         <keyCd>163056</keyCd>
         <infoType>R10</infoType>
@@ -322,28 +322,5 @@
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C015A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C015.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C015L.xml</xmlLightUrl>
-    </mail>
-    <mail>
-        <keyCd>163035</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/22 20:45:38</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0964</cd>
-        </country>
-        <title>最近の中東情勢に関する注意喚起（その４）</title>
-        <lead>１　中東において米国の軍事力の増強が進んでいると報道されており、今後の動向に関しては、予断を許さない状況が続いています。
-
-２　現時点でイラクの空域に影響はありませんが、２月20日付で外務省から発出された注意喚起にも記載のとおり、情勢が緊迫化した場合、空域や空港の閉鎖により、当国においてもフライトのキャンセルや遅延が発生する可能性がありますので、今後の推移に注視が必要です。
-https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C014.html
-
-３　つきましては、外務省では海外安全ホームページを通じ、クルディスタン地域にも渡航中止勧告（渡航は止めてください）等が発出されている地域があることにも十分にご留意の上、航空便の運航状況を含め、常に関連情報を収集する等、万全な安全対策を講じてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163035</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163035A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163035.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163035L.xml</xmlLightUrl>
-        <koukanCd>704W</koukanCd>
     </mail>
 </opendata>
