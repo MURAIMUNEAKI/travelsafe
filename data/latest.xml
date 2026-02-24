@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/25 00:00:49" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/02/25 00:30:49" mailCount="17" odType="02">
+    <mail>
+        <keyCd>163061</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/25 00:20:43</leaveDate>
+        <title>【訂正】（お知らせ）降雪による交通状況の悪化に伴う領事窓口臨時閉鎖について（本日2月24日（火曜日）午前9時～午後1時15分）</title>
+        <lead>（本文）
+先ほどお送りした領事メール本文の日付に誤りがありました。
+本日2月24日（火曜日）午前9時から午後1時15分まで、在ボストン日本国総領事館の領事窓口及びサービスを臨時閉鎖し、午後1時15分から再開いたします。
+なお、電話対応につきましては自動応答のみとさせていただきます。
+ご不便をおかけいたしますが、皆様のご理解を賜りますようお願い申し上げます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163061</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163061A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163061.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163061L.xml</xmlLightUrl>
+        <koukanCd>301V</koukanCd>
+    </mail>
     <mail>
         <keyCd>163058</keyCd>
         <infoType>R10</infoType>
