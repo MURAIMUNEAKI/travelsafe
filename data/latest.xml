@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/26 00:30:49" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/02/26 01:05:48" mailCount="18" odType="02">
+    <mail>
+        <keyCd>163080</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/26 00:35:40</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0054</cd>
+        </country>
+        <title>【注意喚起】アルゼンチン国内における航空関連ストライキの予定について</title>
+        <lead>１　概要と対策 
+（１）アルゼンチンの航空管制官等の組合（ATEPSA）は、２月26日(木)から３月２日（月）の５日間の一部の時間帯において、アルゼンチン国内の空港を離陸する航空便に対するストライキを計画しています。 
+（２）本ストライキの実施予定時間、対象範囲に関する情報は下記リンクをご確認ください。 
+
+https://www.infobae.com/sociedad/2026/02/21/controladores-aereos-realizaran-paros-la-proxima-semana-el-cronograma-con-los-vuelos-afectados-en-todo-el-pais/ 
+
+（３）本ストライキが実施された場合、当日の航空便に遅延や欠航などの影響が生じる可能性が想定されます。この時期、航空機又は空港をご利用の方は、各航空会社のＨＰ等で最新の情報を確認し、必要な対策をとることを推奨いたします。 
+２　外務省海外安全ホームページのご案内 
+　外務省海外安全ホームページ（リンク下）では、アルゼンチン特有の犯罪様態に対応した防犯対策情報など掲載しておりますので、是非ともご確認ください。  
+
+https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_241.html#ad-image-0  
+
+　また、邦人が被害に遭ったとの情報に接した場合は、大使館にご一報ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163080</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163080A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163080.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163080L.xml</xmlLightUrl>
+        <koukanCd>401A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163078</keyCd>
         <infoType>R10</infoType>
