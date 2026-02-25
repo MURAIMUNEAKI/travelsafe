@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/26 01:30:48" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/02/26 02:00:52" mailCount="17" odType="02">
     <mail>
         <keyCd>163080</keyCd>
         <infoType>R10</infoType>
@@ -373,25 +373,5 @@ https://www.vgn.de/</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163051.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163051L.xml</xmlLightUrl>
         <koukanCd>640A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163049</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/24 01:55:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0961</cd>
-        </country>
-        <title>最近の中東情勢を踏まえたレバノンの安全に関する注意喚起</title>
-        <lead>●当地情勢が急激に変化する可能性があります。
-●複数の情報源から、当地への影響等の可能性やフライト情報を含む最新情報を収集し、今後不測の事態が生じた際は、速やかに安全な地域・場所に退避する等、自らの安全確保に努めてください。
-●どのような目的であれ、「レベル３：渡航中止勧告」以上の地域への渡航は止めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163049</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163049A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163049.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163049L.xml</xmlLightUrl>
-        <koukanCd>707A</koukanCd>
     </mail>
 </opendata>
