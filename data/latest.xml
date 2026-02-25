@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/26 04:00:49" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/02/26 04:25:48" mailCount="18" odType="02">
+    <mail>
+        <keyCd>163083</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/26 04:00:50</leaveDate>
+        <title>【注意喚起】日本大使館、総領事館などを名乗る詐欺電話</title>
+        <lead>【ポイント】
+●在ロサンゼルス日本国総領事館の職員を名乗る人物からの詐欺電話が、引き続き多数発生しています。
+●総領事館を含め、日本の公的機関が、正式な手続によらず税金、罰金等の名目で金銭を要求することや銀行口座番号・クレジットカード番号等の個人情報を電話で聴取することは絶対にありません。
+●電話の相手は、「キノシタ」、「ヤマザキ」、「スズキ」、「フルカワ」、「ホウジョウ」、「ササキ」などの偽名を名乗り、「機密書類があるので今日中に総領事館に取りに来てほしい」、などと言って、当館への来館を求めてきます。
+●電話の相手に対して、総領事館に行くことはできない旨を伝えると、「電話でも手続ができる」などと言った上、犯罪への関与をほのめかして「逮捕」、「強制送還」などの言葉で不安をあおり、別途インストールさせた通信アプリから警察官になりすました人物につなぐ等して個人情報、クレジットカード情報や金銭を要求するなどの事例が複数報告されています。
+●身に覚えのない内容で金銭や個人情報を要求された場合は、詐欺の可能性が極めて高いと考えてください。
+●身に覚えのない疑わしい電話を受けた場合は、一旦電話を切り、ためらわずに周囲の人に相談してください。
+●なお、電話をかけてきた相手が総領事の名前に言及する事例も発生していますので注意してください。総領事の名前は公開情報で誰でも知りうる情報ですので安易に信用しないでください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163083</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163083A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163083.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163083L.xml</xmlLightUrl>
+        <koukanCd>301F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163080</keyCd>
         <infoType>R10</infoType>
