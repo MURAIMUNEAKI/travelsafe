@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/25 15:25:48" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/02/25 16:05:48" mailCount="15" odType="02">
+    <mail>
+        <keyCd>163069</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/25 15:40:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0995</cd>
+        </country>
+        <title>ジョージアにおける就労等に関する注意喚起～「就労権」取得の義務付け</title>
+        <lead>【ポイント】 
+・令和８年（２０２６年）３月１日から、ジョージアおいて永住許可を持たない外国人が、就労したり、起業活動等を行うためには、「就労権」を取得することが義務付けられます。 
+・「就労権」を得ることなく、自営業を含む就労や起業活動等を行った場合、罰金等の罰則が科せられるおそれがありますので注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163069</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163069A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163069.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163069L.xml</xmlLightUrl>
+        <koukanCd>540A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163064</keyCd>
         <infoType>R10</infoType>
@@ -298,30 +318,5 @@ https://www.vgn.de/</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163042.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163042L.xml</xmlLightUrl>
         <koukanCd>612A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163041</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/23 15:35:40</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0977</cd>
-        </country>
-        <title>パルサ郡ビルガンジにおける外出禁止令の発令</title>
-        <lead>　警察などによれば、イスラム教徒とヒンドゥー教徒の対立により、本日（2月23日）午前9時45分から、ネパール南部パルサ郡ビルガンジ市内中心部の以下の地域内において、外出禁止令が発令されているとのことです。
-
-東側: Bypass Road
-西側: Sirsiya River
-北側: Gandak Chowk
-南側: Sankharacharya Gate
-
-　在留邦人や旅行者の皆様におかれましては、デモ、集会、その他抗議活動などには極力近づかず、また、報道等で最新の情報を入手の上、安全確保に努め、不測の事態に巻き込まれることのないよう十分注意をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163041</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163041A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163041.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163041L.xml</xmlLightUrl>
-        <koukanCd>617A</koukanCd>
     </mail>
 </opendata>
