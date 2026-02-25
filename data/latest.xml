@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/25 18:55:50" mailCount="14" odType="02">
+<opendata dataType="L" lastModified="2026/02/25 19:55:49" mailCount="16" odType="02">
+    <mail>
+        <keyCd>163074</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/25 19:40:38</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ドイツ全土における近距離公共交通機関のストライキ実施</title>
+        <lead>　統一サービス産業労働組合（Verdi）は、ドイツ全土での近距離交通機関における大規模なストライキ実施を呼びかけました。
+　ハンブルク州では、２月２７日（金）午前３時から３月１日（日）午前３時までの４８時間、ハンブルク・ホフバーン（Hochbahn）が運営するUバーンとバスが運休となる見込みです。ハンブルク・ホルシュタイン交通（VHH）が運営するバスの運行情報は、現時点では発表されていませんので、以下の公式ホームページ等からご確認ください。
+　ブレーメン市では、２月２７日（金）午前３時から３月２日（月）午前３時までの７２時間、ブレーメン公共交通会社（BSAG）が運営するバスと路面電車が運休となる見込みです。
+　シュレースヴィヒ・ホルシュタイン州では、２月２７日（金）、キール、リューベック、ノイミュンスター、フレンスブルクのバスの運行が停止または制限される見込みです。 
+　ニーダーザクセン州の近距離交通機関では、ストライキは実施されない予定です。
+　また、ドイツ鉄道が運行するSバーン、地域鉄道、長距離列車については、ストライキの影響は受けません。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163074</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163074A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163074.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163074L.xml</xmlLightUrl>
+        <koukanCd>506E</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163073</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/25 19:15:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0027</cd>
+        </country>
+        <title>犯罪統計（2025年度第３四半期）</title>
+        <lead>南アフリカにお住まいの皆様及び旅行者の皆様へ</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163073</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163073A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163073.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163073L.xml</xmlLightUrl>
+        <koukanCd>718A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163069</keyCd>
         <infoType>R10</infoType>
