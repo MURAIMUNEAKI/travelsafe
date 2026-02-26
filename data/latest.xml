@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/26 18:25:49" mailCount="21" odType="02">
+<opendata dataType="L" lastModified="2026/02/26 19:00:49" mailCount="21" odType="02">
+    <mail>
+        <keyCd>163092</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/26 18:40:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0359</cd>
+        </country>
+        <title>デモ情報（最高司法評議会前周辺におけるデモ：２／２６）</title>
+        <lead>●２月２６日（木）午前９時から、最高司法評議会前周辺において、市民団体「すべての人に正義を」により、ボリスラフ・サラフォフ検事総長代行の解任を求め、大規模な抗議デモが行われるとの報道があります。 
+●デモの実施場所周辺には多数の人が集まる可能性があり、相当の混乱が予想されます。周辺を移動する予定のある方は、当局による規制に従い、必要に応じて予定の調整や迂回も検討してください。また、デモの実施場所にはできるだけ近付かないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163092</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163092A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163092.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163092L.xml</xmlLightUrl>
+        <koukanCd>524A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163091</keyCd>
         <infoType>R10</infoType>
@@ -434,32 +453,5 @@ https://www.vgn.de/</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163056.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163056L.xml</xmlLightUrl>
         <koukanCd>506A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163055</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/24 18:40:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0036</cd>
-        </country>
-        <title>詐欺被害に関する注意喚起</title>
-        <lead>　昨今、フィッシング詐欺やSNS詐欺等のインターネットを介した詐欺事案が多く発生していますが、対面での詐欺被害にもご注意ください。
-　もし、詐欺被害に遭われた場合は、最寄りの警察に届け出を提出するようにお願いいたします。
-〈最近あった事例〉
-・両替
-ブダペスト市中心部ファッションストリート（Vaci utcaやDeak Ferenc ter周辺）等の路上で両替するのは違法です。
-「ユーロ、ユーロ」などと声をかけられることがあっても応じず、空港やホテル等にある両替所をご利用ください。
-・住居の契約
-契約内容をよく確認し、疑問点を解消してから契約書に署名してください。
-口頭の説明と契約書の記載内容が異なる場合トラブルになる可能性があります。
-例え日本語の契約書等であっても安心せず、外国語の契約書と齟齬がないことを確認してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163055</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163055A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163055.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163055L.xml</xmlLightUrl>
-        <koukanCd>508A</koukanCd>
     </mail>
 </opendata>
