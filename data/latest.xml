@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/26 12:05:49" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/02/26 12:55:49" mailCount="19" odType="02">
+    <mail>
+        <keyCd>163088</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/26 12:15:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>【注意喚起】大規模デモ情報（メダン：2月26日）</title>
+        <lead>●本2月26日午前10時頃から、メダン市内で豚肉販売業者等が大規模デモを行う予定です。
+●デモが行われている場所やその周辺には近づかないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163088</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163088A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163088.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163088L.xml</xmlLightUrl>
+        <koukanCd>607T</koukanCd>
+    </mail>
     <mail>
         <keyCd>163087</keyCd>
         <infoType>R10</infoType>
