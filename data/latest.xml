@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/26 20:25:48" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/02/26 20:55:49" mailCount="23" odType="02">
+    <mail>
+        <keyCd>163095</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/26 20:40:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>列車事故追悼日に伴う集会・ストライキ（2月28日）</title>
+        <lead>・2月28日（土）は、2023年に発生したテンピ列車衝突事故の追悼日にあたり、アテネのシンタグマ広場では正午に、またギリシャ各地で集会、デモ行進、ストライキが予定されており、大規模なものになると見込まれます。
+・昨年の追悼日には、アテネでの抗議参加者が18万人にのぼったとされ、一部が暴徒化し、警察に火炎瓶を投げつけ、警察が催涙ガスを使うなどの衝突が発生し、負傷者や拘束者が出ました。集会やデモ行進では暴徒化や警察隊との衝突、群衆事故の発生も懸念されます。不用意に近づかず、不測の事態に巻き込まれないよう十分注意してください。
+・警察による主要道路やメトロ駅の閉鎖といった交通規制に加え、公務・民間部門労働組合、工商協会等によるストライキも予定されており、アテネなど主要都市の交通機関や公共サービスに影響が出る見込みです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163095</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163095A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163095.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163095L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163094</keyCd>
         <infoType>R10</infoType>
