@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/26 12:55:49" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/02/26 13:40:50" mailCount="20" odType="02">
+    <mail>
+        <keyCd>163089</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/26 13:40:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>モディ首相訪問に伴うチェンナイ市内の警戒強化について</title>
+        <lead>１．報道等によりますと、本年３月１日、モディ首相がプドゥチェリー連邦直轄地及びタミル・ナド州マドゥライを訪問することに伴い、２月28日から３月１日までの間、チェンナイ市内の警備が強化されます。
+
+２．チェンナイ市内においては、チェンナイ国際空港及びギンディ付近において大規模な警備体制が敷かれます。付近を通行予定の方や空港ご利用予定の方におかれましては時間に十分余裕を持って行動してください。
+
+３．今後も州内への頻繁な要人訪問及び同様の警備体制が予想されておりますので、ニュース・新聞等の報道にご留意いただくようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163089</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163089A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163089.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163089L.xml</xmlLightUrl>
+        <koukanCd>606T</koukanCd>
+    </mail>
     <mail>
         <keyCd>163088</keyCd>
         <infoType>R10</infoType>
