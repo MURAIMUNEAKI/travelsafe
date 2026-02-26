@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/26 23:00:50" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/02/26 23:25:49" mailCount="23" odType="02">
+    <mail>
+        <keyCd>163099</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/26 23:25:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>中東情勢の緊張を受けた注意喚起について（２月２６日）</title>
+        <lead>○　イランの核開発等をめぐる米国・イラン間協議、更には中東における米国の軍事力増強が進んでおり、本日２６日もスイスにおいて同協議が行われています。その協議の行方によっては地域情勢が緊張する可能性も否定できません。
+○　当館は、日頃からバーレーン関係当局と緊密な連携を取り、皆様の安全確保に万全を尽くしているところですが、当局によれば、緊急事態が発生した際には、緊急警報システムによる非常事態の告知、該当地域住民への避難勧告、避難場所の案内等の対応を想定しているとのことです。最新の状況などについては、内務省・警察のウェブサイト等（下リンク参照）を逐次確認して下さい。
+○　また、昨年６月の武力衝突の際には、イランからカタールのアル・ウデイド空軍基地（米空軍司令部が所在）に向けてミサイルが発射されました。仮にバーレーンにおいて緊急警報が発令された場合には、政府の指示に従い安全確保をお願いします。
+　　なお、日本政府の国民保護ポータルサイト（下リンク参照）では、弾道ミサイル飛来時の避難方法について、
+　　　　屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+　　　　屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+との行動を推奨していますので参考にして下さい。
+
+
+サイト等のリンクについては、下の詳細をご確認お願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163099</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163099A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163099.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163099L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163098</keyCd>
         <infoType>R10</infoType>
