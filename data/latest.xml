@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/27 13:40:49" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/02/27 14:15:50" mailCount="24" odType="02">
+    <mail>
+        <keyCd>163106</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/27 14:05:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0092</cd>
+        </country>
+        <title>～パキスタン・アフガニスタン間の攻撃の応酬に関する注意喚起～</title>
+        <lead>○　当地時間２月27日未明、パキスタンとアフガニスタンの間で攻撃の応酬が発生し、現在も交戦状態にあるとの情報があります。両国間の国境地帯では、不測の事態が発生する可能性が排除できないことから、十分注意してください。
+○　両国間の国境地帯に対しては、かねてよりレベル４の危険情報を発出していることから、どのような理由であれ渡航は止めていただくとともに、既に滞在されている方がいらっしゃる場合は直ちに退避してください。
+○　なお、上記注意点以外にも、当地で安全に滞在するための参考となる情報が以下のウェブサイトに掲載されておりますので、そちらもあわせてご確認下さい。
+○　当館ウェブサイト：
+https://www.pk.emb-japan.go.jp/itprtop_ja/index.html
+○　外務省海外安全情報ウェブサイト(パキスタン)：
+https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_011.html#ad-image-0
+○　在留届及び「たびレジ」への登録のお願い
+　　海外渡航前には、万一に備え、家族や友人、職場等に日程や渡航先での連絡先を伝えておくようにしてください。３か月以上滞在する方は、緊急事態に備え、必ず在留届を提出してください。
+https://www.mofa.go.jp/mofaj/toko/todoke/zairyu/index.html
+　　また、３か月未満の旅行や出張などの際には、海外滞在中も安全に関する情報を随時受けとれるよう、外務省海外旅行登録「たびレジ」に登録してください。
+https://www.ezairyu.mofa.go.jp/tabireg/index.html
+○　緊急時の連絡先：051-9072500(在パキスタン日本国大使館代表）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163106</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163106A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163106.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163106L.xml</xmlLightUrl>
+        <koukanCd>610A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163105</keyCd>
         <infoType>R10</infoType>
