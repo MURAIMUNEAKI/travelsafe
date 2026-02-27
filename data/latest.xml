@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/28 07:50:49" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/02/28 08:20:49" mailCount="23" odType="02">
+    <mail>
+        <keyCd>163116</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 08:10:39</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0501</cd>
+        </country>
+        <title>犯罪発生状況【令和８年１月分】</title>
+        <lead>報道等により、殺人や強盗事件などの重大犯罪について、本年１月に報じられたベリーズ国内の治安情勢についての概要をお知らせします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163116</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163116A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163116.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163116L.xml</xmlLightUrl>
+        <koukanCd>426A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163114</keyCd>
         <infoType>R10</infoType>
