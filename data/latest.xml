@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/27 23:50:48" mailCount="19" odType="02">
+<opendata dataType="L" lastModified="2026/02/28 00:25:50" mailCount="21" odType="02">
+    <mail>
+        <keyCd>163111</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 00:15:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0221</cd>
+        </country>
+        <title>【注意喚起】セネガル人サポーターの解放を求めるデモについて</title>
+        <lead>２月２８日（土）、アフリカカップの際に拘束されたセネガル人サポーターの解放を求めるデモが、ダカール市内で予定されておりますため、外出される際は御注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163111</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163111A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163111.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163111L.xml</xmlLightUrl>
+        <koukanCd>717A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163110</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/27 23:55:42</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>【お知らせ】戸籍情報連携関連システムの定期メンテナンスについて</title>
+        <lead>●法務省の戸籍情報連携関連システムの定期メンテナンスのため、３月６日(金)５：００～３月８日(日)１１：００及び３月２０日(金)１５：００～３月２２日(日)１１：００の間、パスポートのオンライン申請が御利用いただけませんので御注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163110</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163110A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163110.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163110L.xml</xmlLightUrl>
+        <koukanCd>402A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163109</keyCd>
         <infoType>R10</infoType>
