@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/27 16:50:49" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/02/27 17:25:50" mailCount="24" odType="02">
+    <mail>
+        <keyCd>163107</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/27 17:05:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0034</cd>
+        </country>
+        <title>バルセロナにおける窃盗被害の注意喚起</title>
+        <lead>●３月２日（月）～５日（木）、バルセロナにおいて、約１０万人が来場する世界最大級のモバイル関連展示会（Mobile World Congress）が開催されます。
+●当地は多くの観光客が訪れる地であり、観光客を狙った盗難被害が多く、邦人の被害も後を絶ちません。主に、空港、電車内、観光場所周辺の路上、ホテル、レストラン等における盗難被害（スリ・置き引き）が多発しています。
+●出張等で展示会場を訪れた際にも、ブースや会場内は安全と油断せず、被害予防措置を講じた上で渡航することを推奨します。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163107</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163107A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163107.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163107L.xml</xmlLightUrl>
+        <koukanCd>514E</koukanCd>
+    </mail>
     <mail>
         <keyCd>163106</keyCd>
         <infoType>R10</infoType>
