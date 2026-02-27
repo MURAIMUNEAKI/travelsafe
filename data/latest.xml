@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/27 15:30:49" mailCount="24" odType="02">
+<opendata dataType="L" lastModified="2026/02/27 15:55:49" mailCount="23" odType="02">
     <mail>
         <keyCd>163106</keyCd>
         <infoType>R10</infoType>
@@ -503,25 +503,5 @@ https://www.verdi.de/</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163073.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163073L.xml</xmlLightUrl>
         <koukanCd>718A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163069</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/25 15:40:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0995</cd>
-        </country>
-        <title>ジョージアにおける就労等に関する注意喚起～「就労権」取得の義務付け</title>
-        <lead>【ポイント】 
-・令和８年（２０２６年）３月１日から、ジョージアおいて永住許可を持たない外国人が、就労したり、起業活動等を行うためには、「就労権」を取得することが義務付けられます。 
-・「就労権」を得ることなく、自営業を含む就労や起業活動等を行った場合、罰金等の罰則が科せられるおそれがありますので注意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163069</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163069A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163069.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163069L.xml</xmlLightUrl>
-        <koukanCd>540A</koukanCd>
     </mail>
 </opendata>
