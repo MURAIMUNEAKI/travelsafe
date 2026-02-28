@@ -1,5 +1,118 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/28 17:45:49" mailCount="35" odType="02">
+<opendata dataType="L" lastModified="2026/02/28 18:20:49" mailCount="40" odType="02">
+    <mail>
+        <keyCd>163136</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 18:20:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0090</cd>
+        </country>
+        <title>中東情勢に関する注意喚起</title>
+        <lead>本文
+１　報道等によれば、２月２８日（現地時間）、米軍、イスラエル軍がイランに対し攻撃を実施しました。
+２　今回の米軍及びイスラエル軍の攻撃を受け、イラン側が報復措置として、反撃を実施することにより、中東地域の緊張が更に高まる可能性も排除されません。既にイスラエル及びイランは上空を封鎖したとの報道があり、今後の情勢次第で、その他地域の空域の閉鎖、航空便の欠航・遅延等が予告なく発生する可能性にも注意してください。
+３　不測の事態に備え、複数の情報源から最新情報を確認し、自らの安全確保に努めてください。お困りの場合には、最寄りの在外公館又は外務省領事局にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163136</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163136A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163136.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163136L.xml</xmlLightUrl>
+        <koukanCd>709T</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163135</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 18:10:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>地域情勢の緊迫化について</title>
+        <lead>２月2８日、米国及びイスラエルがイランに対し先制攻撃を実施しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163135</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163135A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163135.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163135L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163134</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 18:06:08</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>中東情勢に関する注意喚起及び情報収集について</title>
+        <lead>○2月28日（現地時間）、イスラエル国防相及びトランプ米大統領はイランを攻撃した旨表明しました。
+
+○同日（2月28日）、当地米国大使館は、屋内退避を呼びかける在留米国人向けセキュリティ・アラートを発出しました。
+https://kw.usembassy.gov/kuwait-security-alert-shelter-in-place-february-28-2026/
+
+○米軍施設をめぐる状況を含めた最新情報を信頼できる情報源から収集するなどして、引き続き自らの安全確保に努めてください。
+
+○　情報収集に有用なサイトを以下のとおりお知らせします。
+・　クウェート国営通信（Kuwait News Agency, KUNA）
+https://www.kuna.net.kw/Default.aspx?language=en　
+※クウェート政府各省からの発表は随時こちらに転載されます。
+
+・　クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163134</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163134A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163134.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163134L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163133</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 18:06:08</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0020</cd>
+        </country>
+        <title>中東地域情勢に関する注意喚起</title>
+        <lead>●２月２８日（現地時間）、イスラエル国防相はイランを攻撃した旨発表しました。また、米国大統領はイランに対して軍事攻撃を開始した旨発表しました。イラン各地に攻撃があったと報道されています。
+ ●今回のイスラエル軍の攻撃を受け、イラン側が報復措置として、反撃を実施することにより、中東地域の緊張が更に高まる可能性も排除されません。
+●エジプト滞在中は、周囲の状況に十分注意し、最新の情報を入手するよう努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163133</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163133A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163133.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163133L.xml</xmlLightUrl>
+        <koukanCd>720A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163132</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/02/28 18:06:08</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>中東情勢の緊張を受けた注意喚起について（２月２８日）</title>
+        <lead>○　先ほど、詳細不明ですがマナマ市内で爆発音のようなものが確認されました。
+○　繰り返しになりますが、くれぐれも同基地を含む米国・イスラエル関係施設には近づかないようほか、
+　　　　屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+　　　　屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+の徹底をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163132</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163132A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163132.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163132L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163131</keyCd>
         <infoType>R10</infoType>
