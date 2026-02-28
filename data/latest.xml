@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/28 20:40:48" mailCount="48" odType="02">
+<opendata dataType="L" lastModified="2026/02/28 21:25:49" mailCount="50" odType="02">
+    <mail>
+        <keyCd>163150</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 21:15:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>中東情勢に関する注意喚起（第４報）</title>
+        <lead>○クウェート外務省は、イランによる当地を標的とした攻撃を受けたことを発表しました。
+
+○第３報及び以下のような複数の信頼できる情報源から最新情報を確認するとともに、クウェート政府関連当局から指示に従い、ご自身の安全確保に努めてください。
+・　クウェート情報省
+https://x.com/MOInformation?s=20
+・　クウェート内務省
+https://x.com/Moi_kuw?s=20
+
+○本件における各種被害を認知した場合には、大使館までご連絡ください。
+
+○在留届、たびレジ登録時の電話番号及び住所が最新の情報と整合しているか、再度、ご確認をお願いします。
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163150</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163150A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163150.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163150L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163149</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 20:50:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>イスラエル情勢の緊迫化に伴う注意喚起、安全対策 2/28（その３）（安否確認）</title>
+        <lead>イランからのミサイルによる報復攻撃が継続しています。
+在留邦人・渡航者の方で、負傷等の被害に遭われた方や被害の情報に接した方がいらっしゃいましたら、下記のとおり当館連絡先まで速やかにご連絡をお願いします。
+
+繰り返しの注意喚起となりますが、不測の事態に備え、ロケット弾の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
+
+引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）を含む当局の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163149</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163149A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163149.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163149L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163148</keyCd>
         <infoType>R20</infoType>
