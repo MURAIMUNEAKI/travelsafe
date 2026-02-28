@@ -1,5 +1,176 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/28 18:40:50" mailCount="40" odType="02">
+<opendata dataType="L" lastModified="2026/02/28 19:25:49" mailCount="47" odType="02">
+    <mail>
+        <keyCd>163145</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/02/28 19:10:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>訂正再送：イランからの中東地域への攻撃に伴う注意喚起</title>
+        <lead>　先ほどの注意喚起冒頭で「米軍がイスラエルとともにイラク攻撃を行い・・・」とお伝えしましたが、イランへの攻撃となっておりますので、以下のとおり訂正し再送いたします。
+
+１　報道によれば、米軍はイスラエルとともにイラン攻撃を行い、その後、イランがバーレーン、UAE、カタールの米軍基地に攻撃を行った模様です。また、イラク南部の民兵組織を標的とした攻撃も行われたと報じられています。
+
+２　現下の情勢を踏まえると、今後、イラク国内の米国権益に対する攻撃が発生し、治安が悪化することが懸念されます。
+
+３　今後、こうした攻撃により、万が一被害にあった場合には、まずはご自身の安全を確保いただき、その後、当館にもご一報をお願いいたします。
+
+４　やむを得ない事情により現在イラクに滞在中の方におかれましては、不要不急の外出を控えてください。また、現在イラク発着の航空便は運航を停止している模様ですので、今後の航空便の運航状況を含め、報道や警備会社を通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163145</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163145A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163145.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163145L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163143</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/02/28 18:56:20</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>地域情勢の緊迫化について</title>
+        <lead>先ほど、ドーハ上空で爆発音のようなものがしました。
+ 
+○在留邦人の皆様については、米軍基地等には近づかないほか、屋外にいる場合は、近くの建物や地下へ避難、物陰に身を隠して下さい。
+○屋内にいる場合は窓から離れる、窓のない部屋に移動する等の措置の徹底し、ご自身の安全確保に努めて下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163143</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163143A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163143.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163143L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163142</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/02/28 18:56:20</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>イランからの中東地域への攻撃に伴う注意喚起</title>
+        <lead>１　報道によれば、米軍はイスラエルとともにイラク攻撃を行い、その後、イランがバーレーン、UAE、カタールの米軍基地に攻撃を行った模様です。また、イラク南部の民兵組織を標的とした攻撃も行われたと報じられています。
+
+２　現下の情勢を踏まえると、今後、イラク国内の米国権益に対する攻撃が発生し、治安が悪化することが懸念されます。
+
+３　今後、こうした攻撃により、万が一被害にあった場合には、まずはご自身の安全を確保いただき、その後、当館にもご一報をお願いいたします。
+
+４　やむを得ない事情により現在イラクに滞在中の方におかれましては、不要不急の外出を控えてください。また、現在イラク発着の航空便は運航を停止している模様ですので、今後の航空便の運航状況を含め、報道や警備会社を通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163142</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163142A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163142.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163142L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163141</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 18:56:19</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>アブダビ市内における爆発</title>
+        <lead>●アブダビ市内でも複数の爆発音が確認されています。
+不要不急の外出は避けるとともに、くれぐれも軍施設を含む米国・イスラエル関係施設には近づかないようにしてください。爆発音が聞こえた場合には、
+屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+といった行動の徹底をお願いいたします。
+●在留届、たびレジ登録時の電話番号及び住所が最新の情報と整合しているか、再度ご確認をお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163141</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163141A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163141.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163141L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163140</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/02/28 18:56:19</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>地域情勢の緊迫化について</title>
+        <lead>先ほど、ドーハ上空で爆発音のようなものがしました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163140</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163140A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163140.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163140L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163139</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 18:40:53</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>中東情勢に関する注意喚起（第３報）</title>
+        <lead>○先ほど、当地において爆発音のようなものが確認されました。また、サイレンも複数回鳴っています。
+
+○不要不急の外出を避ける、屋外にいる場合は屋内に退避する等、自らの安全確保を徹底してください。
+
+○クウェート航空総局がクウェート領空の一時閉鎖を発表しました。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163139</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163139A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163139.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163139L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163138</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/02/28 18:40:53</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>アブダビ市内における爆発音の確認（２月２８日）</title>
+        <lead>●アブダビ市内でも複数の爆発音が確認されております。
+くれぐれも軍施設を含む米国・イスラエル関係施設には近づかないようほか、
+屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+といった行動の徹底をお願いいたします。
+●在留届、たびレジ登録時の電話番号及び住所が最新の情報と整合しているか、再度ご確認をお願いいたします。
+●今後、大使館から直接電話で連絡する場合がありますので、ご協力の程よろしくお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163138</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163138A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163138.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163138L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163137</keyCd>
         <infoType>R10</infoType>
