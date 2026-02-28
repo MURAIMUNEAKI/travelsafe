@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/28 23:35:49" mailCount="63" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 00:20:48" mailCount="64" odType="02">
+    <mail>
+        <keyCd>163159</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 23:40:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>アテネ等各地における抗議デモ</title>
+        <lead>28日16時現在、テンピ列車事故追悼日に伴う大規模なデモがアテネのシンタグマ広場（Syntagma Sq.）周辺で行われており、一部が過激化し、警察との衝突が発生しています。
+
+報道によると多数の逮捕者や拘留者が出ています。警察はシンタグマ広場で催涙弾や閃光発音筒を使用。エルムー通り（Ermou st.）では火炎瓶や空気弾が発見されました。
+
+テサロニキにおいても衝突があり、他各地でもデモが継続中です。
+
+報道等から最新の情報を入手するとともに、デモが落ち着くまで周辺には近づかず、安全に十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163159</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163159A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163159.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163159L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163158</keyCd>
         <infoType>R10</infoType>
