@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/28 22:20:48" mailCount="58" odType="02">
+<opendata dataType="L" lastModified="2026/02/28 22:40:49" mailCount="62" odType="02">
+    <mail>
+        <keyCd>163158</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 22:35:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>米・イスラエルによるイラン攻撃に関する注意喚起（第２報）</title>
+        <lead>１　現下の情勢を受け、当地米国大使館は、在留米国人向けに以下のとおりセキュリティ・アラートを発出しています。
+https://sa.usembassy.gov/exercise-increased-caution-in-saudi-arabia-february-28-2026/
+－地域での敵対的行為を踏まえ、在サウジアラビア米国大使館は職員に対して、より慎重かつ地域内の軍事施設への不必要な移動を制限するよう呼びかけており、当地米国民にも同様の措置を推奨しています。
+－また、ジッダとダハランに対して外出自粛通知を発出し、職員に対してバーレーンへの渡航を控えるよう呼びかけています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163158</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163158A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163158.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163158L.xml</xmlLightUrl>
+        <koukanCd>708D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163157</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 22:30:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0962</cd>
+        </country>
+        <title>イランへの攻撃に伴う注意喚起・その２</title>
+        <lead>●２月２８日のイスラエル等によるイラン攻撃を受けて、イランはイスラエルのほか、ヨルダンを含めた中東地域諸国の米軍基地が所在する国々に対して攻撃したことが確認されています。ヨルダン軍はミサイル迎撃に成功したとしていますが、ヨルダン国内では、ミサイルの残骸が落下し、物的被害が生じたことが報じられています。
+●不要不急の外出は避け、緊急サイレンが吹鳴した際には、ヨルダン政府が示す緊急ガイドライン（本文６）に沿って行動し、身の安全を確保するようにしてください。
+●また、引き続き本日午前に発出した当館発メール「イランへの攻撃に伴う注意喚起」の諸点に留意願います。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163157</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163157A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163157.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163157L.xml</xmlLightUrl>
+        <koukanCd>757A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163156</keyCd>
         <infoType>R10</infoType>
@@ -1012,6 +1053,68 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163111.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163111L.xml</xmlLightUrl>
         <koukanCd>717A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026T021</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>一般犯罪 誘拐 戦争</contentInfo>
+        <leaveDate>2026/02/28 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>バーレーンの危険情報（引上げ）</title>
+        <lead>●２月２８日（現地時間）、イスラエル、米国によるイランへの攻撃がありました。
+●同日、イラン革命ガードは、バーレーン内の米軍基地を標的とする攻撃を行った旨発表しました。
+●こうした状況を受け、バーレーン全土の危険レベルをレベル２（不要不急の渡航は止めてください）に引き上げます。
+●既に滞在中の方は、最新情報を入手し特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。航空便キャンセル、遅延が発生していますので留意してください。
+●お困りの方は、在バーレーン日本国大使館又は外務省領事局にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T021.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T021A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T021.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T021L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>0</riskLevel3>
+        <riskLevel2>1</riskLevel2>
+        <riskLevel1>0</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T021_1_Detail.html</mapImageUrl>
+    </mail>
+    <mail>
+        <keyCd>2026T020</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢 一般犯罪 誘拐 戦争 災害</contentInfo>
+        <leaveDate>2026/02/28 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>サウジアラビアの危険情報（一部地域のレベル引上げ）</title>
+        <lead>●２月２８日（現地時間）、イスラエル、米国によるイランへの攻撃がありました。
+●同日、イラン革命ガードは、サウジアラビア内の米軍基地を標的とする攻撃を行った旨発表しました。
+●こうした状況を受け、サウジアラビア・リヤド州の危険レベルをレベル２（不要不急の渡航は止めてください）に引き上げます。
+●既に滞在中の方は、最新情報を入手し特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。航空便キャンセル、遅延が発生していますので留意してください。
+●お困りの方は、在サウジアラビア日本国大使館、在ジッダ日本国総領事館又は外務省領事局にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T020.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T020A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T020.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T020L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>1</riskLevel3>
+        <riskLevel2>1</riskLevel2>
+        <riskLevel1>1</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T020_1_Detail.html</mapImageUrl>
     </mail>
     <mail>
         <keyCd>2026T019</keyCd>
