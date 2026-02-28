@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 00:40:49" mailCount="64" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 01:25:49" mailCount="66" odType="02">
+    <mail>
+        <keyCd>163163</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 01:15:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（２月２８日 ２０時１５分）</title>
+        <lead>現在もドバイ市内では、爆発音が確認されたとの情報が複数寄せられているほか、攻撃によるとみられる火災も発生している模様です。
+引き続き、不要不急の外出は避けるとともに、くれぐれも軍施設を含む米国・イスラエル関係施設には近づかないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163163</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163163A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163163.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163163L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163162</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 00:45:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <title>イスラエル及び米国によるイランへの攻撃に関する注意喚起（一部航空便の欠航等）</title>
+        <lead>1 現下の情勢を受け、オマーン航空は、ドバイ、バーレーン、ドーハ、クウェート、ダンマーム発着便の一時運航停止、並びにモスクワ、アンマン、ハサブ（オマーン）発着便の欠航を発表し、乗客に対し、空港に向かう前に最新の運航情報を確認するよう呼びかけています。また、サラームエアもマシーラ島を含む国際線全便の今後24時間の欠航を発表しました。マスカット国際空港でも上記2航空会社を含め、複数の便の欠航、遅延が確認されています。
+
+2 航空便での移動を予定されている邦人の皆様は、搭乗予定の航空会社から、最新の情報及び欠航等の場合の対応について確認するようにしてください。
+
+3 在留邦人の皆様におかれましては引き続き、不測の事態に備え、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163162</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163162A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163162.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163162L.xml</xmlLightUrl>
+        <koukanCd>761A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163159</keyCd>
         <infoType>R10</infoType>
