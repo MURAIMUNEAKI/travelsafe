@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 01:40:48" mailCount="66" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 02:15:49" mailCount="67" odType="02">
+    <mail>
+        <keyCd>163164</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 02:10:38</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>【重要】イスラエルからの陸路退避（ヨルダンへの出国）</title>
+        <lead>●日本政府は、退避を希望する邦人の方をバスでヨルダンの首都アンマンまで運行することを、早ければ３月２日（月）朝にも実施する予定です。
+●在イスラエル日本国大使館からヨルダン川（シェイク・フセイン橋）国境検問所又はアレンビー橋（キング・フセイン橋）国境検問所を経て、アンマン市内まで貸し切りバスでの運行を予定しています。バス料金は無料（政府負担）です。
+●両国内の移動に関しては、在イスラエル日本国大使館、在ヨルダン日本国大使館それぞれの職員が随行・サポートします。
+●下記参加条件を全て確認の上、後述の方法で回答してください。
+
+　実施予定日時：３月２日(月)10:00発予定
+　（集合時間等は退避を希望された方に対し、随時ご連絡します）　　　　　　　　
+　集合場所:在イスラエル日本国大使館
+　目的地：アンマン市（空港、ホテル等）
+　</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163164</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163164A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163164.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163164L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163163</keyCd>
         <infoType>R10</infoType>
