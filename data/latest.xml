@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/28 18:20:49" mailCount="40" odType="02">
+<opendata dataType="L" lastModified="2026/02/28 18:40:50" mailCount="40" odType="02">
+    <mail>
+        <keyCd>163137</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 18:30:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>イスラエル情勢の緊迫化に伴う注意喚起、安全対策 2/28（その２）</title>
+        <lead>２月２８日、ホームフロントコマンド（https://www.oref.org.il/eng ）の指針が更新されました。本指針は２月２８日８時から３月２日２０時まで有効です。概要は以下のとおりです。
+
+●国内全体が「通常活動」から「必須活動」に切り替わり、必須の経済活動を除き、教育活動、集会、職業活動が禁止されます。
+
+不測の事態に備え、ロケット弾の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
+
+引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）を含む当局の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163137</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163137A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163137.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163137L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163136</keyCd>
         <infoType>R10</infoType>
@@ -1027,24 +1054,5 @@ https://www.fr.emb-japan.go.jp/files/100984771.pdf
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163093.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163093L.xml</xmlLightUrl>
         <koukanCd>723A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163092</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/26 18:40:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0359</cd>
-        </country>
-        <title>デモ情報（最高司法評議会前周辺におけるデモ：２／２６）</title>
-        <lead>●２月２６日（木）午前９時から、最高司法評議会前周辺において、市民団体「すべての人に正義を」により、ボリスラフ・サラフォフ検事総長代行の解任を求め、大規模な抗議デモが行われるとの報道があります。 
-●デモの実施場所周辺には多数の人が集まる可能性があり、相当の混乱が予想されます。周辺を移動する予定のある方は、当局による規制に従い、必要に応じて予定の調整や迂回も検討してください。また、デモの実施場所にはできるだけ近付かないようにしてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163092</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163092A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163092.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163092L.xml</xmlLightUrl>
-        <koukanCd>524A</koukanCd>
     </mail>
 </opendata>
