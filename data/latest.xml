@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 04:40:50" mailCount="68" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 05:20:48" mailCount="69" odType="02">
+    <mail>
+        <keyCd>163167</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 05:20:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>中東情勢の緊張を受けた注意喚起について（２月２８日）</title>
+        <lead>○　本日の米軍基地への攻撃等を受け、内務省（警察）はJuffair地区の住民を対象として避難を呼びかけており、状況を鑑みると、今後の同基地への更なる攻撃の可能性も排除し切れません。つきましては、当該地域にお住まいの方におかれましては、御自身の状況に照らし、避難されることをおすすめします。
+○　なお、Juffair地区住民に向けて、バーレーン政府が用意した現時点での避難所は次のとおりです。
+【避難所：首都県（マナマ）】
+・Khawla School（https://share.google/T624p5g8wu5PaFVle）
+・ALtaeawunSchool（https://share.google/sp5YYgldtLc6wE0b4）
+・Al-Jabriya School（https://share.google/6Td1Vf2nPHuDB3Dh0）
+・Ahmed Al-Omran School（https://share.google/JUg5syis7qxHbJkoD）
+【避難所：Muharraq県】
+・Al Busaiteen Intermediate Girls School
+（https://share.google/HpywerAc7eeJfHjxW）
+・Galali Primary Boys School（https://share.google/yuurGoN26bP8X19ad）
+・HIDD INTERMEDIATE GIRLS SCHOOL（https://share.google/HJHKj1SP968K3ZB42）
+・Al-Khawarizmi School（https://share.google/0phiJ9J2kf2ve5Yg6）
+○　引き続き、信頼できる情報源から情報入手するなどして、引き続き自らの安全確保に努めて下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163167</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163167A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163167.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163167L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163166</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 05:10:41</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>【注意喚起】エル・アルト空港付近における空軍機衝突事故の被害状況及び一部紙幣の使用停止について</title>
+        <lead>●　2月27日夕刻、エル・アルト空港付近で空軍輸送機（C-130）が車列に衝突する事故が発生しました。
+●　現在までに22名の死亡が確認されていますが、邦人の被害は確認されておりません。
+●　当該機が輸送していた紙幣（10、20、50ボリビアーノス札）のうち、シリアルナンバー末尾が「B」のものは市中で使用できません。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163166</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163166A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163166.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163166L.xml</xmlLightUrl>
+        <koukanCd>402A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163165</keyCd>
         <infoType>R20</infoType>
@@ -22,36 +73,6 @@
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163165.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163165L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163164</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/01 02:10:38</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>【重要】イスラエルからの陸路退避（ヨルダンへの出国）</title>
-        <lead>●日本政府は、退避を希望する邦人の方をバスでヨルダンの首都アンマンまで運行することを、早ければ３月２日（月）朝にも実施する予定です。
-●在イスラエル日本国大使館からヨルダン川（シェイク・フセイン橋）国境検問所又はアレンビー橋（キング・フセイン橋）国境検問所を経て、アンマン市内まで貸し切りバスでの運行を予定しています。バス料金は無料（政府負担）です。
-●両国内の移動に関しては、在イスラエル日本国大使館、在ヨルダン日本国大使館それぞれの職員が随行・サポートします。
-●下記参加条件を全て確認の上、後述の方法で回答してください。
-
-　実施予定日時：３月２日(月)10:00発予定
-　（集合時間等は退避を希望された方に対し、随時ご連絡します）　　　　　　　　
-　集合場所:在イスラエル日本国大使館
-　目的地：アンマン市（空港、ホテル等）
-　</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163164</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163164A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163164.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163164L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
     <mail>
         <keyCd>163163</keyCd>
