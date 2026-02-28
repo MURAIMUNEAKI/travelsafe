@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/28 13:55:48" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/02/28 14:25:48" mailCount="18" odType="02">
     <mail>
         <keyCd>163116</keyCd>
         <infoType>R10</infoType>
@@ -386,52 +386,5 @@ https://www.fr.emb-japan.go.jp/files/100984771.pdf
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163092.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163092L.xml</xmlLightUrl>
         <koukanCd>524A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163091</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/26 14:25:43</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0060</cd>
-        </country>
-        <title>詐欺（「お金見せて詐欺」）および盗難（スリ）に関する注意喚起</title>
-        <lead>● クアラルンプール市内において、中東系男女や白人男性から「日本円を見せて欲しい」などと声をかけられ、財布内から現金を抜き取ろうとする、いわゆる「お金見せて詐欺」の被害や相談が、昨年から引き続き当館に寄せられています。
-　在留邦人及び旅行者の皆さまにおかれましては、見知らぬ相手から上記の様に話しかけられた際は、相手にすることなく、その場を速やかに立ち去るように心がけてください。
-
-● また、最近当館には、在留邦人及び当地への旅行者から、スリ被害の相談や報告が多く寄せられています。クアラルンプールでスリ被害が多いのは、ブキビンタン周辺、KLセントラル駅、またKLセントラル駅直結のモール内、クアラルンプール国際空港内のモノレール、バトゥ洞窟、ムルデカ広場周辺、チャイナタウンなどです。
-　観光中やエスカレーター利用時などでは貴重品を入れたリュックなどのカバンは、必ず身体の正面に抱えるようにし、盗難や紛失防止に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163091</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163091A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163091.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163091L.xml</xmlLightUrl>
-        <koukanCd>609A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163090</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/26 14:20:44</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0060</cd>
-        </country>
-        <title>海外における女性の性的被害に関する注意喚起</title>
-        <lead>● 最近、クアラルンプール市内において、日本人女性が性的暴行の被害に遭う事例が確認されています。
-● ブキビンタンやジャランアローなどの繁華街には、観光客向けの足裏マッサージ店がたくさんあります。もちろん腕が確かな店も多いですが、なかには女性客が男性マッサージ師にセクハラまがいの施術を受けたとの声も聞かれています。男性マッサージ師がご心配な場合は、最初に女性のマッサージ師の希望をお伝えすることも必要です。
-● 次の点についても留意し、自らの安全確保に努めてください。
-・ 街中で、知らない人（又は初対面に近い者）に勧められた飲食物には、睡眠薬等が入っている可能性もあるため、絶対に口にしない。
-・ 観光地で親しげに声をかけてくる人に対しては、安易に信用せず、警戒心を忘れずに、少しでも不審に思ったときははっきり断る。
-・ 観光案内や道案内を持ちかけられても、絶対についていかない。日本語で話しかけ、日本での滞在経験などに言及し、旅行者を安心させてだますような手口もあり、注意が必要です。
-・ 過度な肌の露出は避ける。
-・ 過度な飲酒は控える。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163090</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163090A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163090.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163090L.xml</xmlLightUrl>
-        <koukanCd>609A</koukanCd>
     </mail>
 </opendata>
