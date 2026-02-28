@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/28 22:00:51" mailCount="55" odType="02">
+<opendata dataType="L" lastModified="2026/02/28 22:20:48" mailCount="58" odType="02">
+    <mail>
+        <keyCd>163156</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 22:20:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>【大使館からのお知らせ】米・イスラエルによるイラン攻撃に関する注意喚起（第２報）</title>
+        <lead>１　現下の情勢を受け、当地米国大使館は、在留米国人向けに以下のとおりセキュリティ・アラートを発出しています。
+https://sa.usembassy.gov/exercise-increased-caution-in-saudi-arabia-february-28-2026/
+－地域での敵対的行為を踏まえ、在サウジアラビア米国大使館は職員に対して、より慎重かつ地域内の軍事施設への不必要な移動を制限するよう呼びかけており、当地米国民にも同様の措置を推奨しています。
+－また、ジッダとダハランに対して外出自粛通知を発出し、職員に対してバーレーンへの渡航を控えるよう呼びかけています。 
+
+２　サウジアラビア航空の発表によれば、地域情勢の悪化に伴い、アンマン、クウェート、ドバイ、アブダビ、ドーハ、バーレーン、モスクワ、ペシャワール発着便が欠航となった旨であり、乗客に対して空港に向かう前にフライト状況を確認するよう呼びかけています。
+https://x.com/SaudiaGroup/status/2027687570021228878
+
+３　在留邦人の皆様におかれましては引き続き、不測の事態に備え、複数の情報源から最新情報を確認し、ご自身の安全確保に努めてください。万が一、被害に遭われた場合や被害情報に接した場合には、大使館までお知らせください。
+
+４　仮に爆発音等が聞こえた場合は、
+屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+といった行動の徹底をお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163156</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163156A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163156.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163156L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163155</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 22:05:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>アブダビ・ザーイド国際空港の空港封鎖（２月２８日）</title>
+        <lead>アブダビ首長国内にあるザーイド国際空港は、２月２８日午後４時現在、周辺の空域封鎖によりザーイド国際空港からの離発着が制限されております。邦人の皆様におかれては、関連情報の入手に努めるようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163155</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163155A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163155.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163155L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163154</keyCd>
         <infoType>R10</infoType>
@@ -963,6 +1012,37 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163111.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163111L.xml</xmlLightUrl>
         <koukanCd>717A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026T019</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢</contentInfo>
+        <leaveDate>2026/02/28 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェートの危険情報【危険レベル引上げ】</title>
+        <lead>●２月２８日（現地時間）、イスラエル、米国によるイランへの攻撃がありました。
+●同日、イラン革命ガードは、米軍基地を標的とする攻撃を行った旨発表しました。
+●こうした状況を受け、クウェート全土の危険レベルをレベル２（不要不急の渡航は止めてください）に引き上げます。
+●既に滞在中の方は、最新の情報を入手するなど特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。航空便のキャンセルや遅延が発生していますので留意してください。
+●お困りの方は、在クウェート日本国大使館又は外務省領事局にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T019.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T019A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T019.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T019L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>0</riskLevel3>
+        <riskLevel2>1</riskLevel2>
+        <riskLevel1>0</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T019_1_Detail.html</mapImageUrl>
     </mail>
     <mail>
         <keyCd>2026T018</keyCd>
