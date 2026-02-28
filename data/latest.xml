@@ -1,5 +1,88 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/02/28 16:25:49" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/02/28 16:40:49" mailCount="26" odType="02">
+    <mail>
+        <keyCd>163124</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 16:40:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>地域情勢の緊迫化（2月28日）</title>
+        <lead>１　報道によれば、２月２８日（現地時間）、イスラエル軍がイランに対し攻撃を実施しました。
+２　今回のイスラエル軍の攻撃を受け、イラン側が報復措置として、反撃を実施することにより、中東地域の緊張が更に高まる可能性も排除されません。今後の情勢次第で、空域の閉鎖、航空便の欠航・遅延等が予告なく発生する可能性にも注意してください。
+３　在留邦人の皆様におかれましては、不測の事態に備え、複数の情報源から最新情報を確認し、自らの安全確保に努めてください。お困りの場合には、最寄りの在外公館又は外務省領事局にご連絡ください。
+ 
+４　特に、軍関係施設には近づかないようご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163124</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163124A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163124.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163124L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163123</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 16:35:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <title>イスラエル及び米国によるイラン攻撃に関する注意喚起</title>
+        <lead>1 報道によれば、2月28日（現地時間）、イスラエル及び米国がイランに対し共同攻撃を開始しました。
+
+2 今回の攻撃を受け、イランが報復措置として反撃を開始することにより、中東地域の緊張が更に高まる可能性も排除されません。今後の情勢次第で、特に近隣の中東地域向けの便等について、航空便の欠航・遅延等が発生する可能性にも注意してください。
+
+3 在留邦人の皆様におかれましては、不測の事態に備え、複数の情報源から最新情報を確認し、自らの安全確保に努めてください。お困りの場合には、最寄りの在外公館又は外務省領事局にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163123</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163123A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163123.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163123L.xml</xmlLightUrl>
+        <koukanCd>761A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163122</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/02/28 16:25:52</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>中東情勢の緊張を受けた注意喚起について（２月28日）</title>
+        <lead>○ 報道によると、本日（２月28日）、イラン国内に対するイスラエル及び米国による攻撃が行われたとのことです。
+○ 以前より、イラン政府高官が「米国がイランを攻撃した場合には中東に所在する米軍拠点への報復攻撃を行う。」旨の警告を行っており、バーレーンにおいても米海軍第五艦隊司令部（Juffair地区）が所在していることから、今後イランからの報復攻撃の可能性が否定できません。
+○ 　つきましては、くれぐれも同基地を含む米国・イスラエル関係施設には近づかないようにお願いします。
+○　本件にかかる緊急事態発生に際し、大使館の支援を必要とする場合には、以下の連絡先（夜間・休日は+973-3945-5427又は+973-3838-9721）までご連絡いただくほか、大使館による安全確認業務に必要なため、長期出張、避難等でバーレーンを出国した際には、本件メールに返信する形で、お名前、出国日、フライト情報等をお知らせいただけますと幸いです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163122</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163122A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163122.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163122L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163121</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/02/28 16:25:52</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>【重要】地域情勢の緊迫化について</title>
+        <lead>報道によれば、2月28日午前9時過ぎ、イスラエルがイランに対し先制攻撃を実施しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163121</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163121A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163121.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163121L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163120</keyCd>
         <infoType>R10</infoType>
