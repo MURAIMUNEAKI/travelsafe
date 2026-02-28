@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 02:15:49" mailCount="67" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 02:45:49" mailCount="68" odType="02">
+    <mail>
+        <keyCd>163165</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/03/01 02:35:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>中東情勢の緊張を受けた注意喚起について（２月２８日）</title>
+        <lead>○　本日昼間から行われている米軍基地への攻撃のほか、夜になりSeef地区の高層マンション等にも何らかの飛行物体が接触する等の被害が発生しているとの情報があります。
+○　ミサイル・ドローン等の音がするなど被害の可能性がある場合には、
+　　　　屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+　　　　屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+を徹底し、身の安全を第一としてください。　
+　　特に高層マンション等に被害が発生した場合、頭上からの落下物の危険性がありますので、一層の注意をお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163165</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163165A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163165.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163165L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163164</keyCd>
         <infoType>R10</infoType>
