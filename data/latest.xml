@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/02 00:20:49" mailCount="75" odType="02">
+<opendata dataType="L" lastModified="2026/03/02 00:40:49" mailCount="76" odType="02">
+    <mail>
+        <keyCd>163193</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 00:30:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>イスラエル観光省によるイスラエルからの出国を希望する短期渡航者向けの支援について（情報提供）</title>
+        <lead>イスラエル観光省から情報提供がありましたのでお知らせいたします。
+ 
+イスラエル観光省は、イスラエルからの出国を希望する短期渡航者向けの支援のため、現在イスラエルに滞在している者の出国支援を実施する取組を始めました。
+ 
+利用登録は次のリンク（英語）から可能です。
+https://govforms.gov.il/mw/forms/TouristEvacuationFromIsrael@tourism.gov.il?displang=en
+
+イスラエル観光省は、関係省庁と連携しつつ、渡航者の出国を円滑に実施するとしています。
+ 
+本サイトはイスラエル政府が運営しているものであり、運用状況等について当館からお答えすることはできませんので、あらかじめご了承ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163193</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163193A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163193.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163193L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163192</keyCd>
         <infoType>R10</infoType>
