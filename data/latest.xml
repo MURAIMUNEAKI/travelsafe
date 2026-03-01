@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 11:45:50" mailCount="67" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 12:40:49" mailCount="66" odType="02">
     <mail>
         <keyCd>163167</keyCd>
         <infoType>R10</infoType>
@@ -1742,28 +1742,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/index.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163106.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163106L.xml</xmlLightUrl>
         <koukanCd>610A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163105</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/27 12:00:39</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0679</cd>
-        </country>
-        <title>熱帯低気圧の接近に伴う大雨への注意</title>
-        <lead>○フィジー気象局は、ヴィティレブ島南側に熱帯低気圧が接近していることに伴い、大雨注意報を発表しました。この熱帯低気圧は勢力を増し、熱帯性サイクロンに発達する可能性があります。
-
-○フィジー気象局は、ヴィティレブ島西部、ヤサワ諸島、ママヌザ諸島、カンダブ島およびその周辺の島々に対し、大雨注意報（２月２７日（金）午前１０時３０分現在）を発出しています。２月２８日（土）の後半から激しい雨が予想されており、河川の急な増水や低地の浸水に十分ご注意ください。
-
-○フィジー気象局が発出する警報・注意報等の最新情報は以下のリンクからご確認いただけます。こまめな情報収集に努め、安全確保にお役立てください。
-フィジー気象局HP：https://www.met.gov.fj/alerts/</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163105</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163105A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163105.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163105L.xml</xmlLightUrl>
-        <koukanCd>623A</koukanCd>
     </mail>
 </opendata>
