@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 22:50:49" mailCount="81" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 23:20:49" mailCount="82" odType="02">
+    <mail>
+        <keyCd>163186</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 23:05:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>ザーイド国際空港情報（３月１日午後６時）</title>
+        <lead>アブダビ首長国内にあるザーイド国際空港は、３月１日午後６時現在、周辺の空域封鎖によりザーイド国際空港からの離発着が制限されております。 
+なお、ザーイド国際空港は現時点で３月２日午前２時まで空港封鎖とアナウンスしております。                           
+邦人の皆様におかれては、関連情報の入手に努めるようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163186</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163186A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163186.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163186L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163185</keyCd>
         <infoType>R10</infoType>
