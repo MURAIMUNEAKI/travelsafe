@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 22:30:49" mailCount="79" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 22:50:49" mailCount="81" odType="02">
+    <mail>
+        <keyCd>163185</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 22:45:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>【注意喚起】イランにおける空路及び海路の状況について</title>
+        <lead>１　3月1日17:00現在、イランの空域が封鎖されているため、イラン国内における全ての航空便の運航が停止されています。
+２　また、正式な発表は確認されておりませんが、イラン当局がホルムズ海峡を通る船舶に対し、航行を禁止する旨船舶無線で通告したと報じられております。
+３　航空便での移動を予定している邦人の皆様およびホルムズ海峡を渡航予定の船舶関係者の皆様におかれましては、最新情報の入手に努めるとともに、安全の確保に細心の注意を払うようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163185</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163185A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163185.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163185L.xml</xmlLightUrl>
+        <koukanCd>703A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163184</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 22:35:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>中東情勢に伴う空域閉鎖とフライトへの影響について（ご案内）</title>
+        <lead>現在もカタールの空域が閉鎖されている状況が継続しており、欠航便の影響によりご搭乗いただけなかったお客様につきまして、各航空会社が以下のとおり対応しているとの情報を得ておりますので共有いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163184</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163184A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163184.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163184L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163183</keyCd>
         <infoType>R10</infoType>
