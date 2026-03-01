@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 23:20:49" mailCount="82" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 23:40:49" mailCount="83" odType="02">
+    <mail>
+        <keyCd>163188</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 23:40:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>イラン国内における攻撃事案の発生について（その２）</title>
+        <lead>● ２月２８日以降、米国及びイスラエルによるイラン国内への軍事攻撃が発生し、現在も継続しています。
+● イラン政府が、ハメネイ最高指導者が死亡した旨発表しており、国内情勢は極めて緊迫しています。
+● テヘランのイマーム・ホメイニ国際空港を含む主要空港は閉鎖され、国際線の商業運航は停止しています。
+●当館では、陸路によるイラン国外への退避手段の検討を進めています。
+● 不要不急の外出を控え、安全確保を最優先に行動してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163188</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163188A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163188.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163188L.xml</xmlLightUrl>
+        <koukanCd>703A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163187</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 23:25:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月１日 １８時００分）</title>
+        <lead>○３月１日１８時００分現在も、ドバイ国際空港及びアル・マクトゥーム国際空港ではフライトの離発着が行われていない状況です。なお、エミレーツ航空は、現時点、３月２日午後３時までドバイからの離発着は行わない旨アナウンスしています。
+今後、当地の空港から離発着される予定がある方におかれましては、当館からのメール配信及び当局、空港等からの最新の発表をご確認いただきますよう、お願いいたします。
+https://dubaiairports.ae/　（ドバイ国際空港HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163187</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163187A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163187.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163187L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163186</keyCd>
         <infoType>R10</infoType>
@@ -2076,38 +2118,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163110.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163110L.xml</xmlLightUrl>
         <koukanCd>402A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163109</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/27 23:25:39</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0355</cd>
-        </country>
-        <title>（注意喚起）ティラナ市における抗議デモについて</title>
-        <lead>アルバニアにお住まいの皆様及びたびレジ登録者の皆様
-
-　現地報道等によると、今週末に首都ティラナ市内にて議会の野党勢力中心の抗議デモが複数回行われる見込みです。
-
-　抗議デモが過激化し、警備当局との衝突が発生する可能性も十分にありますので、最新の情報の入手に努めるとともに、デモが落ち着くまで抗議デモが行われている場所周辺に近づくことは避けるなど慎重な行動を心がけて下さい。
-
-　万が一、事件・事故等に巻き込まれた場合、アルバニア警察当局に被害届を提出するとともに、その概要を在アルバニア日本国大使館に連絡して下さい。
-
-【問い合わせ先】
-在アルバニア日本国大使館
-電話　： +355 4 454 7930（領事窓口受付時間：09:00～12:00,13:30～16:00（祝休日除く））
-メール： konsullore@av.mofa.go.jp
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-※「たびレジ」簡易登録をされた方で、メールの配信を変更・停止されたい場合は、以下の URL から停止手続きをお願いいたします。
-https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
-※災害や騒乱等が発生した際、ご家族、ご友人、同僚を守るため、一人でも多くの方に安全対策に関する情報が届くよう、在留届（3か月以上の滞在）の届出、又はたびレジ（3か月未満の滞在）の登録を、お知り合いの方や出張者・旅行者にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163109</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163109A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163109.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163109L.xml</xmlLightUrl>
-        <koukanCd>552A</koukanCd>
     </mail>
 </opendata>
