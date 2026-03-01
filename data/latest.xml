@@ -1,5 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 16:40:50" mailCount="67" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 17:30:50" mailCount="70" odType="02">
+    <mail>
+        <keyCd>163174</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 17:30:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0993</cd>
+        </country>
+        <title>【件名】イランへの攻撃に伴う注意喚起</title>
+        <lead>【ポイント】
+１　報道等によれば、２月２８日（現地時間）、米軍、イスラエル軍がイランに対し攻撃を実施しました。
+２　今回の米軍及びイスラエル軍の攻撃を受け、イラン側が報復措置として、反撃を実施することにより、中東地域の緊張が更に高まる可能性も排除されません。既にイスラエル及びイランは上空を封鎖したとの報道があり、今後の情勢次第で、その他地域の空域の閉鎖、航空便の欠航・遅延等が予告なく発生する可能性にも注意してください。
+３　不測の事態に備え、複数の情報源から最新情報を確認し、自らの安全確保に努めてください。お困りの場合には、在トルクメニスタン日本国大使館又は外務省領事局にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163174</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163174A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163174.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163174L.xml</xmlLightUrl>
+        <koukanCd>537A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163173</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 17:25:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>イラク国内の状況及び注意喚起</title>
+        <lead>１　２月２８日午前の米国、イスラエルのイラン攻撃以降、イラク国内のバグダッド、エルビル、バスラの主要都市を含めた複数箇所においても、米国権益等への攻撃が発生しています。
+
+２　こうした攻撃により、万が一被害にあった場合には、まずはご自身の安全を確保いただき、その後、当館にもご一報をお願いいたします。
+
+３　今回のイラクを含む中東地域での攻撃発生に伴い、３月１日現在、イラク発着の航空便についてはすべて運休となっております。
+
+４　つきましては、やむを得ない事情により現在イラクに滞在中の方におかれましては、不要不急の外出を控えてください。また、今後、治安が急速に悪化することもあり得ます。航空便の運航状況を含め、報道や警備会社を通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163173</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163173A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163173.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163173L.xml</xmlLightUrl>
+        <koukanCd>704W</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163172</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 17:10:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>【訂正】イランからの攻撃に伴う注意喚起（３月１日 １２時００分）</title>
+        <lead>先ほど配信したメールに誤りがありましたので再送いたします。
+
+３月１日１２時００現在も、ドバイ国際空港及びアル・マクトゥーム国際空港ではフライトの離発着が行われていない状況です。
+今後、当地の空港から離発着される予定がある方におかれましては、当館からのメール配信及び当局、空港等からの最新の発表をご確認いただきますよう、よろしくお願いします。
+https://dubaiairports.ae/　（ドバイ国際空港HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163172</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163172A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163172.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163172L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163171</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 17:05:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>ザーイド国際空港情報（３月１日正午１２時時点）</title>
+        <lead>アブダビ首長国内にあるザーイド国際空港は、３月１日正午１２時現在、周辺の空域封鎖によりザーイド国際空港からの離発着が制限されております。
+邦人の皆様におかれては、関連情報の入手に努めるようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163171</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163171A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163171.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163171L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163169</keyCd>
         <infoType>R10</infoType>
@@ -1742,25 +1828,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163109.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163109L.xml</xmlLightUrl>
         <koukanCd>552A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163107</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/27 17:05:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0034</cd>
-        </country>
-        <title>バルセロナにおける窃盗被害の注意喚起</title>
-        <lead>●３月２日（月）～５日（木）、バルセロナにおいて、約１０万人が来場する世界最大級のモバイル関連展示会（Mobile World Congress）が開催されます。
-●当地は多くの観光客が訪れる地であり、観光客を狙った盗難被害が多く、邦人の被害も後を絶ちません。主に、空港、電車内、観光場所周辺の路上、ホテル、レストラン等における盗難被害（スリ・置き引き）が多発しています。
-●出張等で展示会場を訪れた際にも、ブースや会場内は安全と油断せず、被害予防措置を講じた上で渡航することを推奨します。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163107</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163107A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163107.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163107L.xml</xmlLightUrl>
-        <koukanCd>514E</koukanCd>
     </mail>
 </opendata>
