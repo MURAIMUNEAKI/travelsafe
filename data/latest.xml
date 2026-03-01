@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/02 02:35:48" mailCount="79" odType="02">
+<opendata dataType="L" lastModified="2026/03/02 03:25:49" mailCount="80" odType="02">
+    <mail>
+        <keyCd>163198</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 02:45:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0251</cd>
+        </country>
+        <title>アドワ戦勝記念日に伴う交通規制について</title>
+        <lead>・２日（月）、アドワ戦勝記念日（Adwa Victory Day）に伴い、午前４時から式典終了までの間、市内各所で交通規制が行われる予定です。
+・群衆には近付かないでください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163198</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163198A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163198.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163198L.xml</xmlLightUrl>
+        <koukanCd>711A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163197</keyCd>
         <infoType>R10</infoType>
