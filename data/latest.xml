@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 17:50:48" mailCount="71" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 18:20:48" mailCount="73" odType="02">
+    <mail>
+        <keyCd>163177</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 18:20:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月１日午後０時時点）</title>
+        <lead>３月１日午後０時現在、ハマド国際空港は、カタールの空域が封鎖されていることを受けて、全ての航空便の運航が停止されています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163177</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163177A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163177.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163177L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163176</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 18:00:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <title>ドゥクム港への攻撃（イランからの攻撃に伴う注意喚起）</title>
+        <lead>1.　報道によれば、オマーン南東部のウスタ州ドゥクムにあるドゥクム商業港が、2機のドローン攻撃の標的となり、外国人労働者1名が負傷した模様です。
+ 
+2.　これを受け、当地米国大使館は、在留米国人向けに以下のとおりセキュリティ・アラートを発出し、屋内退避を呼びかけ、オマーンに居住するすべての米国人も追って通知があるまで同様の措置を取ることを推奨しています。
+https://om.usembassy.gov/security-alert-u-s-embassy-muscat-oman-march-1-2026/ 
+ 
+3.　ドゥクム近辺に在留する邦人の皆様は、決して港付近には近づかず、身の安全を確保してください。また、それ以外の地域に在留する邦人の皆様におかれましても、引き続き、不測の事態に備え、米国関連施設には近づかない他、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めてください。万が一、被害に遭われた場合や被害情報に接した場合には、大使館までお知らせください。
+ 
+4.　仮に爆発音等が聞こえた場合は、
+屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+といった行動の徹底をお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163176</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163176A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163176.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163176L.xml</xmlLightUrl>
+        <koukanCd>761A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163175</keyCd>
         <infoType>R10</infoType>
