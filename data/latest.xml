@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/02 06:20:48" mailCount="79" odType="02">
+<opendata dataType="L" lastModified="2026/03/02 06:40:48" mailCount="80" odType="02">
+    <mail>
+        <keyCd>163200</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 06:25:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報(3月2日午前0時時点)</title>
+        <lead>3月2日午前0時現在、ハマド国際空港は全ての航空便の運行が停止されています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163200</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163200A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163200.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163200L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163199</keyCd>
         <infoType>R10</infoType>
