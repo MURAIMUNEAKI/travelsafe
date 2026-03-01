@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/02 05:20:48" mailCount="78" odType="02">
+<opendata dataType="L" lastModified="2026/03/02 05:40:49" mailCount="79" odType="02">
+    <mail>
+        <keyCd>163199</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 05:40:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（3月2日0時00分）</title>
+        <lead>（前回からの内容に変更はありません）
+○３月２日０時００分現在も、ドバイ国際空港及びアル・マクトゥーム国際空港ではフライトの離発着が行われていない状況です。なお、エミレーツ航空は、現時点では、３月２日１５時００分までドバイからの離発着は行わない旨発表しています。
+　今後、当地の空港から離発着の予定がある方におかれましては、当館からのメール配信及び当局、空港等からの最新の発表をご確認いただきますよう、お願いいたします。
+https://dubaiairports.ae/
+　（ドバイ国際空港HP）
+ 
+○「【緊急：ご協力をお願いします】皆様の所在と安全の確認」
+３月１日正午前、当館から標記のメールを配信しております。
+未回答の方におかれましては、ご回答にご協力をお願いいたします。
+https://www.ezairyu.mofa.go.jp/enq/dcbb4659517937d45d16a8a418140120877efcabe523ae31dbe82c6f31b26073.html
+
+○３月１日もドバイ市内では、爆発音や煙が確認されたとの情報が複数寄せられております。
+引き続き、不要不急の外出は避けるとともに、爆発音が聞こえた場合には、
+屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+といった行動の徹底をお願いいたします。
+ 
+○当総領事館では、民間航空便の予約の確認、座席の確保、チケットの払い戻し、便の振り替えなどの個別の手配・調整は行っておりません。これらは航空会社とお客様との契約に基づく手続きのため、最新の運行状況の確認や代替便の手配については、必ずご自身でご利用の航空会社または旅行代理店に直接お問い合わせください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163199</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163199A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163199.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163199L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163198</keyCd>
         <infoType>R10</infoType>
