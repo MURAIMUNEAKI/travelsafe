@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 15:30:48" mailCount="66" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 15:55:48" mailCount="67" odType="02">
+    <mail>
+        <keyCd>163169</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 15:50:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>イラク国内の状況及び注意喚起</title>
+        <lead>１　２月２８日午前の米国、イスラエルのイラン攻撃以降、イラク国内のバグダッド、エルビル、バスラの主要都市を含めた複数箇所においても、米国権益等への攻撃が発生しています。
+
+２　こうした攻撃により、万が一被害にあった場合には、まずはご自身の安全を確保いただき、その後、当館にもご一報をお願いいたします。
+
+３　今回のイラクを含む中東地域での攻撃発生に伴い、３月１日現在、イラク発着の航空便についてはすべて運休となっております。
+
+４　更に、今回の米国等のイラン攻撃に伴い、イラク国内で米国等への抗議活動が活発になりつつあり、特にバグダッド中心部では複数の抗議活動が既に確認され、交通封鎖が複数箇所で実施されています。
+
+５　つきましては、やむを得ない事情により現在イラクに滞在中の方におかれましては、不要不急の外出を控えてください。また、今後、治安が急速に悪化することもあり得ます。航空便の運航状況を含め、報道や警備会社を通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163169</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163169A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163169.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163169L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163168</keyCd>
         <infoType>R20</infoType>
