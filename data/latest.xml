@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 10:20:48" mailCount="68" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 11:45:50" mailCount="67" odType="02">
     <mail>
         <keyCd>163167</keyCd>
         <infoType>R10</infoType>
@@ -1765,24 +1765,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/index.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163105.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163105L.xml</xmlLightUrl>
         <koukanCd>623A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163104</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/27 11:35:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0093</cd>
-        </country>
-        <title>カブール等における爆発事案の発生(現地時間27日未明)</title>
-        <lead>○現地時間2月27日未明、首都カブール市を含む、国内の複数の都市において、爆発等の事案が発生しました。現時点で事案の詳細は明らかではありませんが、本件事案はパキスタンによる攻撃によるものとの情報もあります。
-○アフガニスタン全土に危険レベル４の退避勧告が発出されています。どのような目的であれアフガニスタンの渡航は止めていただくよう従来お願いしているところですが、以上の状況のように、情勢は極めて不安定であり、アフガニスタン滞在に伴う危険は、更に大きくなっています。繰り返しになりますが、アフガニスタンへの渡航は、どのような目的であれ止めてください。既に滞在されている方は直ちに退避してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163104</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163104A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163104.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163104L.xml</xmlLightUrl>
-        <koukanCd>701A</koukanCd>
     </mail>
 </opendata>
