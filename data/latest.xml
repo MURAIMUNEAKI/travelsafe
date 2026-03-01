@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 20:15:48" mailCount="78" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 20:45:50" mailCount="79" odType="02">
+    <mail>
+        <keyCd>163183</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 20:25:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>イラン関連情報（第３報）</title>
+        <lead>現時点判明している主要航空会社の運行状況をお知らせします。その後、更新が予想されますところ、航空会社ＨＰなどから適宜ご確認をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163183</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163183A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163183.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163183L.xml</xmlLightUrl>
+        <koukanCd>708D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163182</keyCd>
         <infoType>R10</infoType>
