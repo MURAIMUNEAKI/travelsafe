@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 18:20:48" mailCount="73" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 18:45:50" mailCount="74" odType="02">
+    <mail>
+        <keyCd>163178</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 18:35:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0961</cd>
+        </country>
+        <title>中東情勢の急激な変化の可能性に関する注意喚起</title>
+        <lead>●昨日２月２８日、米国及びイスラエルは、イランに対する攻撃を実施したと発表しました。当地でも、中東情勢を受けて不測の事態が発生する可能性が排除されません。最新情報を収集し、周囲の状況に普段以上に注意してください。
+●爆発音等が聞こえた場合は安全な場所に留まり、落下物等の可能性があるため現場には決して近づかないでください。
+●複数の情報源から、当地への影響等の可能性やフライト情報を含む最新情報を収集し、今後不測の事態が生じた際は、速やかに安全な地域・場所に退避する等、自らの安全確保に努めてください。
+●どのような目的であれ、「レベル３：渡航中止勧告」以上の地域への渡航は止めてください。
+●お困りのことや、ご支援が必要なことがあれば、最寄りの在外公館又は外務省領事局海外邦人緊急事態課にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163178</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163178A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163178.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163178L.xml</xmlLightUrl>
+        <koukanCd>707A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163177</keyCd>
         <infoType>R10</infoType>
