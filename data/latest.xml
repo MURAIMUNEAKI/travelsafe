@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/02 01:50:48" mailCount="78" odType="02">
+<opendata dataType="L" lastModified="2026/03/02 02:15:48" mailCount="79" odType="02">
+    <mail>
+        <keyCd>163197</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 01:55:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>（参考情報）バーレーン国際空港及びキング・ファハド・コーズウェイの状況（３月１日　１８：００現在）</title>
+        <lead>　バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況についてお知らせします。
+
+○　バーレーン国際空港
+　３月１日１８時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。
+主要航空会社の航空券払い戻し等の案内について、下記を参考に最新の情報を直接当該航空会社のウェブサイト等で確認して下さい。
+【主要航空会社の状況】
+・ガルフ航空（https://www.gulfair.com/）
+　一時的にバーレーン発着便が欠航。欠航や運行停止の影響がある利用客には予約時の電話番号等に連絡がいく。一般窓口（+973-1715-4555）又は予約変更窓口（+973-1737-3737）へ連絡可能。
+・エミレーツ航空（https://statics.teams.cdn.office.net/evergreen-assets/safelinks/2/atp-safelinks.html）
+　一時的に全てのドバイ発着便が欠航。３月５日までに搭乗予定の利用客については、３月２０日までの同目的地への振り替えが可能な他、払い戻し可能。
+・エティハド航空（https://statics.teams.cdn.office.net/evergreen-assets/safelinks/2/atp-safelinks.html）
+　一時的に全てのアブダビ発着便が欠航。３月３日までに旅行（２月２８日までに発券）の利用客は、３月１５日までのエティハド航空便に無料で再予約可能。また、３月３日までの全てのエティハド便の利用客は、全額払い戻し申請可能。
+・カタール航空（https://www.qatarairways.com/en/travel-alerts.html）
+　一時的に全てのドーハ到着便が欠航。３月７日頃まで、払い戻し及び利用便変更が可能。
+○　キング・ファハド・コーズウェイ
+　３月１日１８時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。同道路を利用する際には、ウェブサイト（https://kfca.sa/en/）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163197</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163197A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163197.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163197L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163196</keyCd>
         <infoType>R10</infoType>
