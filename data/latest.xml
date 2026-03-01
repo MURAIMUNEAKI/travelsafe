@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/01 18:45:50" mailCount="74" odType="02">
+<opendata dataType="L" lastModified="2026/03/01 19:25:49" mailCount="75" odType="02">
+    <mail>
+        <keyCd>163179</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/01 18:50:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>中東情勢の緊張を受けた注意喚起について（３月１日　１２：００現在）</title>
+        <lead>○　３月１日１２時現在も、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着が行われていない模様です。
+○　また本日未明の報道で、同空港に対する攻撃が行われ、空港施設が損害を受けたと報じられています。
+○　引き続き、ミサイル・ドローン等の音がするなど被害の可能性がある場合には、
+　　　　屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+　　　　屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+を徹底し、身の安全を第一とするほか、信頼できる情報源からの情報入手をお願いいたします。
+
+【サイト等一覧】
+１．	内務省Instagram（moi_bahrain）
+https://www.instagram.com/moi_bahrain
+
+２．	警察広報センター（Police Media Center）：
+https://www.policemc.gov.bh/en/news/
+
+３．	警察署など緊急時の連絡先一覧（Ministry of Interior）
+https://www.interior.gov.bh/en/emergency-numbers
+
+４．	国民ポータルサイト
+https://www.kokuminhogo.go.jp/kokuminaction/action_case.html
+
+５．	バーレーン政府公式ニュース（Government of Bahrain）：
+https://www.bahrain.bh/wps/portal/en/BNP/RssFeedReader/RssFeedDetails?feedID=2
+
+６．バーレーン国際空港出発便：https://www.bahrainairport.bh/flight-departures
+
+７．バーレーン国際空港到着便：https://www.bahrainairport.bh/flight-arrivals</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163179</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163179A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163179.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163179L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163178</keyCd>
         <infoType>R10</infoType>
