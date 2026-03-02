@@ -1,5 +1,124 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/02 16:50:49" mailCount="77" odType="02">
+<opendata dataType="L" lastModified="2026/03/02 17:25:50" mailCount="78" odType="02">
+    <mail>
+        <keyCd>163216</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 17:15:58</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>ザーイド国際空港情報（３月２日午後０時）</title>
+        <lead>アブダビ首長国内にあるザーイド国際空港は、３月２日午後０時現在、周辺の空域封鎖によりザーイド国際空港からの離発着が制限されております。 
+前回のメールから変更なく、ザーイド国際空港は現時点で３月２日午後２時まで空港封鎖とアナウンスしております。                         
+邦人の皆様におかれては、関連情報の入手に努めるようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163216</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163216A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163216.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163216L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163215</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 17:15:57</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月２日 １２時００分）</title>
+        <lead>○３月２日１２時現在、ドバイ国際空港（DXB）及びアル・マクトゥーム国際空港（DWC）ではフライトの発着が行われていない状況であり、本日予定されていたフライトは全て欠航となる模様です。なお、エミレーツ航空は、現時点、３月３日午後３時までドバイ発着便の運航を停止する旨発表しております。
+今後、当地の空港から発着される予定がある方におかれましては、当館からのメール配信及び当局、空港等からの最新の発表をご確認いただきますよう、お願いいたします。
+https://dubaiairports.ae/　（ドバイ国際空港HP）
+https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163215</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163215A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163215.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163215L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163214</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 17:05:58</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0994</cd>
+        </country>
+        <title>領事窓口閉鎖のお知らせ（３月２日、３日）</title>
+        <lead>中東情勢の緊迫化を受け、来館者の皆様及び職員の生命・身体の安全確保のため、在アゼルバイジャン日本国大使館は、本日と明日（３月２日、３月３日）領事窓口を閉鎖いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163214</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163214A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163214.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163214L.xml</xmlLightUrl>
+        <koukanCd>530A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163213</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 17:05:58</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月2日10:00時点）</title>
+        <lead>３月２日１０時現在（現地時間）、テルアビブ（ベン・グリオン）空港は閉鎖されております。現時点においては、３月４日まで閉鎖とされています。今後の空港稼働状況等については、以下のホームページ又はご利用予定の航空会社にご確認ください。
+ 
+（テルアビブ（ベン・グリオン）空港発の定期商用便の運航状況）
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
+
+陸路国境通行所の詳細は、以下のホームページで確認いただけますが、現在の情勢を踏まえ、通行可能時間が予告なく変更となる可能性がありますのでご留意ください。
+（参照：Israel Airport Authorityホームページ内の「Land Borders」）
+https://www.iaa.gov.il/en/
+
+繰り返しのお知らせとなりますが、不測の事態に備え、ロケット弾の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
+
+引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）を含む当局の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163213</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163213A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163213.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163213L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163212</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 16:55:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>イラク国内の状況及び注意喚起（３月２日）</title>
+        <lead>１　米国、イスラエルのイラン攻撃以降、イラク国内のバグダッド、エルビル、バスラの主要都市を含めた複数箇所において、米国権益等への攻撃とともに、イラク国内の武装勢力への米等からと見られる攻撃が発生しています。
+
+２　特に、エルビルでは、同地に所在する米軍基地への攻撃が頻発しており、また、エルビル市内の欧米系ホテルへ攻撃の可能性があるとの情報もあります。
+
+３　更に、今回の米国等のイラン攻撃に伴い、イラク国内で米国等への抗議活動が活発になりつつあり、特にバグダッド中心部では複数の抗議活動が活発化しており、交通封鎖が複数箇所で実施されています。
+
+４　こうした攻撃や抗議活動により、万が一被害にあった場合には、まずはご自身の安全を確保いただき、その後、当館にもご一報をお願いいたします。
+
+５　今回のイラクを含む中東地域での攻撃発生に伴い、３月２日現在、イラク発着の航空便についてはすべて運休となっております。
+
+６　つきましては、やむを得ない事情により現在イラクに滞在中の方におかれましては、不要不急の外出を控えてください。また、今後、治安が急速に悪化することもあり得ます。航空便の運航状況を含め、報道や警備会社を通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163212</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163212A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163212.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163212L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163210</keyCd>
         <infoType>R10</infoType>
@@ -1759,102 +1878,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163132.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163132L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163131</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/28 17:20:39</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0962</cd>
-        </country>
-        <title>イランへの攻撃に伴う注意喚起</title>
-        <lead>●２月２８日午前、イスラエルが、イランに対する攻撃を実施したと発表しました。
-●情勢の展開次第では、イランが米軍その他の軍関連施設や米国施設等へ報復する可能性も指摘されています。また、２月４日、アル・カイダは声明で、米軍基地や艦艇などイスラム教国にある米国やイスラエルの権益を標的にするようイスラム教徒に促したと報じられています。ヨルダン国内でも、軍の基地・関連施設等には近付かないで下さい。
-　また、これに呼応してテロが発生する可能性も否定できませんので、広域情報「テロ等に関する注意喚起」も改めてご参照願います。
-●昨年６月のイラン・イスラエル戦争時と同様に、撃墜されたミサイル等の残骸がヨルダン領域内に落下する可能性も排除されません。警報サイレンが吹鳴した場合の予防措置を含め、適切な対応を確認しておくなど、自らの安全を確保して下さい。
-●今後、予告無くヨルダン領空が閉鎖され、フライトがキャンセルになる可能性もあります。フライト情報も含め、最新の情報を収集し、自らの安全確保に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163131</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163131A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163131.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163131L.xml</xmlLightUrl>
-        <koukanCd>757A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163130</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/28 17:10:53</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0374</cd>
-        </country>
-        <title>イランへの攻撃に伴う注意喚起</title>
-        <lead>１　報道によれば、２月２８日（現地時間）、イスラエル軍がイランに対し攻撃を実施しました。
-２　今回のイスラエル軍の攻撃を受け、イラン側が報復措置として、反撃を実施することにより、中東地域の緊張が更に高まる可能性も排除されません。今後の情勢次第で、空域の閉鎖、航空便の欠航・遅延等が予告なく発生する可能性にも注意してください。
-３　在留邦人の皆様におかれましては、不測の事態に備え、複数の情報源から最新情報を確認し、自らの安全確保に努めてください。お困りの場合には、最寄りの在外公館又は外務省領事局にご連絡ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163130</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163130A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163130.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163130L.xml</xmlLightUrl>
-        <koukanCd>531A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163129</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/28 17:10:53</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0090</cd>
-        </country>
-        <title>中東情勢に関する注意喚起</title>
-        <lead>１　報道等によれば、２月２８日（現地時間）、米軍、イスラエル軍がイランに対し攻撃を実施しました。
-２　今回の米軍及びイスラエル軍の攻撃を受け、イラン側が報復措置として、反撃を実施することにより、中東地域の緊張が更に高まる可能性も排除されません。既にイスラエル及びイランは上空を封鎖したとの報道があり、今後の情勢次第で、その他地域の空域の閉鎖、航空便の欠航・遅延等が予告なく発生する可能性にも注意してください。
-３　不測の事態に備え、複数の情報源から最新情報を確認し、自らの安全確保に努めてください。お困りの場合には、最寄りの在外公館又は外務省領事局にご連絡ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163129</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163129A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163129.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163129L.xml</xmlLightUrl>
-        <koukanCd>709A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163128</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/02/28 16:55:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0098</cd>
-        </country>
-        <title>イラン国内における攻撃事案の発生について（注意喚起）</title>
-        <lead>在留邦人の皆様
-
-在イラン日本国大使館です。
-１　本日、イラン国内において複数箇所を対象とする攻撃事案が発生したとの情報があります。現在、詳細について関係当局の発表及び各種情報をもとに確認中ですが、一部地域において爆発音及び治安部隊の活動強化が報告されています。
-
-２　今後、報復行為、追加攻撃、突発的なデモ・集会の発生、治安当局による交通規制や検問強化等が行われる可能性があります。情勢は流動的であり、急速に変化するおそれがあります。
-
-３　在留邦人の皆様におかれては、以下の点に十分ご留意ください。
-（１）外出は真に必要な場合を除き控え、自宅・滞在先等安全な場所に留まること。
-（２）軍・治安機関施設、政府関連施設、空港、宗教施設、大規模商業施設等には近づかないこと。
-（３）デモや群衆の集まりには絶対に近づかないこと。
-（４）現地報道、大使館からのメール、たびレジ等により最新情報の入手に努めること。
-（５）旅券、現金、携帯電話、充電器等をすぐ持ち出せるよう準備しておくこと。
-４　空港の運航状況、陸路の通行状況等については、今後変更が生じる可能性があります。出国を検討される場合には、最新の運航情報を各航空会社に直接確認してください。
-
-５　緊急事態に備え、家族間・企業内での連絡手段を改めて確認するとともに、居住地・連絡先に変更がある場合は速やかに当館までご連絡ください。
-
-６　事件・事故に巻き込まれた場合や、邦人の安否に関する情報をお持ちの場合には、下記連絡先までご一報ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163128</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163128A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163128.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163128L.xml</xmlLightUrl>
-        <koukanCd>703A</koukanCd>
     </mail>
 </opendata>
