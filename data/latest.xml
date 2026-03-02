@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/03 00:20:49" mailCount="70" odType="02">
+<opendata dataType="L" lastModified="2026/03/03 00:55:49" mailCount="71" odType="02">
+    <mail>
+        <keyCd>163242</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 00:55:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>【再送】【重要】イランからトルクメニスタン及びトルコへの陸路退避に関する注意事項（事前連絡必須）</title>
+        <lead>● トルクメニスタン又はトルコへ陸路退避を予定される方は、必ず事前に在イラン日本国大使館へ連絡してください。
+● 両国とも、在イラン日本国大使館を通じ、各国所在の我が方在外公館より、各国政府への事前通知・口上書発出が必要です。
+● 事前手続がなされていない場合、国境通過が認められない可能性があります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163242</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163242A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163242.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163242L.xml</xmlLightUrl>
+        <koukanCd>703A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163241</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 00:50:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月２日午後６時時点）</title>
+        <lead>３月２日午後６時現在、ハマド国際空港は依然として全ての航空便の運航が停止されています。
+
+カタール航空は、３月３日午前９時に運航状況の見直し等を更新予定とのことです。
+
+航空便で移動を予定している邦人の皆様においては、搭乗予定の航空会社から最新の運航状況を確認をするようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163241</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163241A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163241.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163241L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163240</keyCd>
         <infoType>R10</infoType>
@@ -1712,27 +1754,5 @@ https://www.bmkg.go.id
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163163.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163163L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163162</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/01 00:45:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0968</cd>
-        </country>
-        <title>イスラエル及び米国によるイランへの攻撃に関する注意喚起（一部航空便の欠航等）</title>
-        <lead>1 現下の情勢を受け、オマーン航空は、ドバイ、バーレーン、ドーハ、クウェート、ダンマーム発着便の一時運航停止、並びにモスクワ、アンマン、ハサブ（オマーン）発着便の欠航を発表し、乗客に対し、空港に向かう前に最新の運航情報を確認するよう呼びかけています。また、サラームエアもマシーラ島を含む国際線全便の今後24時間の欠航を発表しました。マスカット国際空港でも上記2航空会社を含め、複数の便の欠航、遅延が確認されています。
-
-2 航空便での移動を予定されている邦人の皆様は、搭乗予定の航空会社から、最新の情報及び欠航等の場合の対応について確認するようにしてください。
-
-3 在留邦人の皆様におかれましては引き続き、不測の事態に備え、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163162</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163162A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163162.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163162L.xml</xmlLightUrl>
-        <koukanCd>761A</koukanCd>
     </mail>
 </opendata>
