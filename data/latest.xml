@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/03 04:30:48" mailCount="74" odType="02">
+<opendata dataType="L" lastModified="2026/03/03 04:40:49" mailCount="75" odType="02">
+    <mail>
+        <keyCd>163248</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/03/03 04:35:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>Hamala地区に対する脅威情報について</title>
+        <lead>◯  在バーレーン米国大使館は、先ほど、バーレーン西部Hamala地区に対して、イランからの攻撃の脅威が迫ってるとして、同地域への立ち入りを控えるようにアラートを発出しました。
+◯ 在留法人の皆様におかれましても、念のため同地区への立ち入りを控えるようにお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163248</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163248A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163248.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163248L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163247</keyCd>
         <infoType>R10</infoType>
