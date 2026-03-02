@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/03 01:55:49" mailCount="72" odType="02">
+<opendata dataType="L" lastModified="2026/03/03 02:25:49" mailCount="74" odType="02">
+    <mail>
+        <keyCd>163246</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 02:25:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0962</cd>
+        </country>
+        <title>イランへの攻撃に伴う注意喚起・その４</title>
+        <lead>【ポイント】
+●２月２８日のイスラエル等によるイランに対する攻撃を受けて、イスラエル以外にも、ヨルダンを含めＵＡＥ、バーレーン、カタール等米軍基地が所在する国々に対するイランからの攻撃が確認されています。
+●不要不急の外出を避け、緊急サイレンが吹鳴した際には、ヨルダン政府が示す緊急ガイドライン（本文８）に沿って行動し、身の安全を確保するようにしてください。
+●３月２日、国営ペトラ通信は、航空民間局が、ヨルダン領空全ての発着便に対して、２日夜から追って通知があるまで、毎日午後６時から翌午前９時まで、空域を閉鎖すると発表したと報じました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163246</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163246A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163246.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163246L.xml</xmlLightUrl>
+        <koukanCd>757A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163245</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 02:20:40</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0593</cd>
+        </country>
+        <title>非常事態宣言の延長</title>
+        <lead>●ノボア大統領は、大統領令第311号にて、ピチンチャ県、グアヤス県、マナビ県、サンタエレナ県、ロス・リオス県、エル・オロ県、エスメラルダス県、サントドミンゴ県、スクンビオス県、コトパクシ県のマナ市、ボリバル県のラス・ナベス市およびエチェアンディア市を対象とした、非常事態宣言の発令期間を30日間延長(3月30日までの予定)することを発表しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163245</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163245A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163245.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163245L.xml</xmlLightUrl>
+        <koukanCd>408A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163244</keyCd>
         <infoType>R10</infoType>
