@@ -1,5 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/02 12:00:51" mailCount="82" odType="02">
+<opendata dataType="L" lastModified="2026/03/02 12:50:49" mailCount="85" odType="02">
+    <mail>
+        <keyCd>163207</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 12:30:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月２日午前６時時点）</title>
+        <lead>３月２日午前６時現在、ハマド国際空港は依然として全ての航空便の運航が停止されています。
+
+航空便で移動を予定している邦人の皆様においては、搭乗予定の航空会社から最新の運航状況を確認をするようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163207</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163207A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163207.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163207L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163206</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 12:20:56</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>｛参考情報）バーレーン国際空港及びキング・ファハド・コーズウェイの状況（３月２日　６：００現在）</title>
+        <lead>バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況についてお知らせします。
+
+○   バーレーン国際空港
+　３月２日６時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。
+○   キング・ファハド・コーズウェイ
+　３月２日６時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。
+　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（https://kfca.sa/en/）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。
+○  引き続き、サイレンが鳴る、ミサイル・ドローン等の音がするなど被害の可能性がある場合には、
+　　　屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+　　　屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+を徹底し、身の安全を第一とするほか、信頼できる情報源からの情報入手をお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163206</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163206A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163206.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163206L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163205</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 12:20:55</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>イランにおける空路及び海路の状況について（3月2日午前6時）</title>
+        <lead>１　3月2日午前6時現在、引き続きイランの空域が封鎖されているため、イラン国内における全ての航空便の運航が停止されています。
+２　また、正式な発表は確認されておりませんが、イラン当局がホルムズ海峡を通る船舶に対し、航行を禁止する旨船舶無線で通告したと報じられております。
+３　航空便での移動を予定している邦人の皆様およびホルムズ海峡を渡航予定の船舶関係者の皆様におかれましては、最新情報の入手に努めるとともに、安全の確保に細心の注意を払うようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163205</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163205A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163205.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163205L.xml</xmlLightUrl>
+        <koukanCd>703A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163204</keyCd>
         <infoType>R10</infoType>
