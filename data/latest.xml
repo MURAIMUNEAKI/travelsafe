@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/03 02:55:48" mailCount="73" odType="02">
+<opendata dataType="L" lastModified="2026/03/03 03:30:48" mailCount="74" odType="02">
+    <mail>
+        <keyCd>163247</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 03:25:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（3月2日 22時00分）</title>
+        <lead>３月２日２２時現在、ドバイ国際空港（DXB）では一部フライトが再開され、アル・マクトゥーム国際空港（DWC）でも再開される模様です。エミレーツ航空は、３月２日１８時、ドバイ発着便の限定便数の運航を再開する旨発表しております。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163247</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163247A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163247.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163247L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163246</keyCd>
         <infoType>R10</infoType>
