@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/02 11:05:50" mailCount="80" odType="02">
+<opendata dataType="L" lastModified="2026/03/02 12:00:51" mailCount="82" odType="02">
+    <mail>
+        <keyCd>163204</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 11:40:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0961</cd>
+        </country>
+        <title>イスラエル国防軍によるレバノン国内複数地域への攻撃</title>
+        <lead>●３月２日午前３時頃（現地時間）、イスラエル国防軍がヒズボッラー関連施設を標的としたとみられる攻撃が、ベイルート南部郊外ダーヒエ地区、レバノン南部及びベカー地方を含む国内の複数地域で発生しており、レバノン国内では多数の被害が生じている模様です。
+●爆発音等が聞こえた場合は安全な場所に留まり、現場には決して近づかないでください。
+●複数の情報源から、当地への影響等の可能性やフライト情報を含む最新情報を収集し、今後不測の事態が生じた際は、速やかに安全な地域・場所に退避する等、自らの安全確保に努めてください。
+●どのような目的であれ、「レベル３：渡航中止勧告」以上の地域への渡航は止めてください。
+●邦人が被害に遭ったとの情報を把握された際には、大使館までご一報くださいますようご協力をお願いします。
+●お困りのことや、ご支援が必要なことがあれば、最寄りの在外公館又は外務省領事局海外邦人緊急事態課にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163204</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163204A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163204.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163204L.xml</xmlLightUrl>
+        <koukanCd>707A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163203</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 11:10:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（3月2日6時00分）</title>
+        <lead>○３月２日６時００分現在も、ドバイ国際空港及びアル・マクトゥーム国際空港ではフライトの離発着が行われていない状況です。なお、エミレーツ航空は、現時点では、３月２日１５時００分までドバイからの離発着は行わない旨発表していますが、その後一部フライトの再開が予定されています。
+　今後、当地の空港から離発着の予定がある方におかれましては、当館からのメール配信及び当局、空港等からの最新の発表をご確認いただきますよう、お願いいたします。
+https://dubaiairports.ae/
+　（ドバイ国際空港HP）
+ 
+○「【緊急：ご協力をお願いします】皆様の所在と安全の確認」
+３月１日正午前、当館から標記のメールを配信しております。
+未回答の方におかれましては、ご回答にご協力をお願いいたします。
+https://www.ezairyu.mofa.go.jp/enq/dcbb4659517937d45d16a8a418140120877efcabe523ae31dbe82c6f31b26073.html
+
+○３月１日もドバイ市内では、爆発音や煙が確認されたとの情報が複数寄せられております。
+引き続き、不要不急の外出は避けるとともに、爆発音が聞こえた場合には、
+屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+といった行動の徹底をお願いいたします。
+ 
+○当総領事館では、民間航空便の予約の確認、座席の確保、チケットの払い戻し、便の振り替えなどの個別の手配・調整は行っておりません。これらは航空会社とお客様との契約に基づく手続きのため、最新の運行状況の確認や代替便の手配については、必ずご自身でご利用の航空会社または旅行代理店に直接お問い合わせください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163203</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163203A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163203.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163203L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163202</keyCd>
         <infoType>R10</infoType>
