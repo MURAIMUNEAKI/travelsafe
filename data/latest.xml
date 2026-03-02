@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/02 19:00:51" mailCount="70" odType="02">
+<opendata dataType="L" lastModified="2026/03/02 19:30:50" mailCount="70" odType="02">
+    <mail>
+        <keyCd>163223</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/02 19:30:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>中東情勢の緊張を受けた注意喚起について（３月２日　１２：００現在）</title>
+        <lead>○　バーレーン国内への断続的な攻撃が続き、政府も緊急警報システムでの周知や迎撃などを行っているところですが、米軍基地以外のホテルやマンション等にも被害が及ぶなどしていることから、皆様におかれましては安全確保を最優先とした行動をお願いします。
+○　また、SNSの投稿等によると、昨夜、国内の複数の地区において行われた親イラン派によると思われるデモにおいて、一部参加者による火炎瓶の投擲等の過激な動向及び治安当局との衝突が確認されております。これらのほとんどは、シーア派地区の居住街内で行われているものと推測できますが、くれぐれも当該地区には立ち入らないようにし、仮にデモ等に遭遇した場合は早急に現場を離れるようお願いいたします。
+　【シーア派地区の特徴】
+　修繕されていない古い建物が多い、落書きが消されていない、黒い旗が掲げられている等の特徴があり、国内各地に点在しています（下リンク参照）。
+http://www.bh.emb-japan.go.jp/japan/MAP_%20Demonstration%20Notices.pdf
+○　なお、バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況については下のとおりです。 
+【バーレーン国際空港】 
+　３月２日１２時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。 
+【キング・ファハド・コーズウェイ】 
+　３月２日１２時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。 
+　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（https://kfca.sa/en/）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163223</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163223A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163223.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163223L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163221</keyCd>
         <infoType>R10</infoType>
@@ -1662,31 +1690,5 @@ https://x.com/Moi_kuw?s=20
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163146.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163146L.xml</xmlLightUrl>
         <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163145</keyCd>
-        <infoType>R20</infoType>
-        <leaveDate>2026/02/28 19:10:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0964</cd>
-        </country>
-        <title>訂正再送：イランからの中東地域への攻撃に伴う注意喚起</title>
-        <lead>　先ほどの注意喚起冒頭で「米軍がイスラエルとともにイラク攻撃を行い・・・」とお伝えしましたが、イランへの攻撃となっておりますので、以下のとおり訂正し再送いたします。
-
-１　報道によれば、米軍はイスラエルとともにイラン攻撃を行い、その後、イランがバーレーン、UAE、カタールの米軍基地に攻撃を行った模様です。また、イラク南部の民兵組織を標的とした攻撃も行われたと報じられています。
-
-２　現下の情勢を踏まえると、今後、イラク国内の米国権益に対する攻撃が発生し、治安が悪化することが懸念されます。
-
-３　今後、こうした攻撃により、万が一被害にあった場合には、まずはご自身の安全を確保いただき、その後、当館にもご一報をお願いいたします。
-
-４　やむを得ない事情により現在イラクに滞在中の方におかれましては、不要不急の外出を控えてください。また、現在イラク発着の航空便は運航を停止している模様ですので、今後の航空便の運航状況を含め、報道や警備会社を通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163145</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163145A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163145.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163145L.xml</xmlLightUrl>
-        <koukanCd>704A</koukanCd>
     </mail>
 </opendata>
