@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/02 23:55:49" mailCount="69" odType="02">
+<opendata dataType="L" lastModified="2026/03/03 00:20:49" mailCount="70" odType="02">
+    <mail>
+        <keyCd>163240</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 00:05:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>イランにおける空路及び海路の状況について（3月2日18時）</title>
+        <lead>１　3月2日18時現在、引き続きイランの空域が封鎖されているため、イラン国内における全ての航空便の運航が停止されています。
+２　また、正式な発表は確認されておりませんが、イラン当局がホルムズ海峡を通る船舶に対し、航行を禁止する旨船舶無線で通告したと報じられております。
+３　航空便での移動を予定している邦人の皆様およびホルムズ海峡を渡航予定の船舶関係者の皆様におかれましては、最新情報の入手に努めるとともに、安全の確保に細心の注意を払うようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163240</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163240A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163240.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163240L.xml</xmlLightUrl>
+        <koukanCd>703A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163239</keyCd>
         <infoType>R10</infoType>
