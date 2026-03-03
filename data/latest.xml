@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/04 01:25:49" mailCount="78" odType="02">
+<opendata dataType="L" lastModified="2026/03/04 01:50:48" mailCount="78" odType="02">
+    <mail>
+        <keyCd>163287</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/04 01:50:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェート国際空港の状況（3月3日19:00時点）について</title>
+        <lead>○3月3日19:00時点（現地時間）、クウェート国際空港は閉鎖されています。
+邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
+
+○同空港のサイトを以下のとおりお知らせします。
+クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163287</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163287A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163287.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163287L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163286</keyCd>
         <infoType>R10</infoType>
@@ -1924,40 +1961,5 @@ https://www.ezairyu.mofa.go.jp/enq/dcbb4659517937d45d16a8a418140120877efcabe523a
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163197.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163197L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163196</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/02 01:35:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0993</cd>
-        </country>
-        <title>【注意喚起】トルクメニスタン航空の一部路線運行停止について</title>
-        <lead>１　３月１日、イランの空域が封鎖されたことを受け、同日、トルクメニスタン航空（Turkmenistan Airlines）は、３月２日（月）から３月４日（水）までの間、アシガバット－ドバイ間及びアシガバット－ジッダ間の路線の運航停止を正式に発表しました。
-【トルクメニスタン航空HP】
-https://turkmenistanairlines.tm/en/news/show/uvedomlenie-ob-otmene-reysov
-
-２　今後の情勢次第で、その他地域の空域の閉鎖、航空便の欠航・遅延等が予告なく発生する可能性にも注意してください。邦人の皆様におかれましては、最新情報の入手に努めるとともに、安全の確保に細心の注意を払うようにしてください。
-
-３　お困りのことや、ご支援が必要なことがあれば、在トルクメニスタン日本国大使館又は外務省領事局にご連絡ください。
-
-【問い合わせ先】
-連絡先：在トルクメニスタン日本国大使館
-電話：＋（９９３）１２－４７７０８１、４７７０８２ （代表）
-メール：　jp-embassy@ah.mofa.go.jp
-大使館HP： https://www.tm.emb-japan.go.jp/itpr_ja/annai.html
-外務省海外安全HP： https://www.anzen.mofa.go.jp/
-
-※　このメールは、在留届にて届けられたメールアドレス及び「たびレジ」に登録されたメールアドレスに自動的に配信されております。
-※　「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のＵＲＬから停止手続きをお願いいたします。
-https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163196</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163196A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163196.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163196L.xml</xmlLightUrl>
-        <koukanCd>537A</koukanCd>
     </mail>
 </opendata>
