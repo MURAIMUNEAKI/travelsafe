@@ -1,5 +1,88 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/03 22:55:48" mailCount="83" odType="02">
+<opendata dataType="L" lastModified="2026/03/03 23:25:48" mailCount="83" odType="02">
+    <mail>
+        <keyCd>163282</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 23:25:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月3日16:00時点）</title>
+        <lead>【重要】出国希望者向け情報
+イスラエル観光省が、イスラエルから出国できない外国人を対象とした相談窓口を設けました。次のサイトのフォームに登録することにより、相談可能となります。
+https://govforms.gov.il/mw/forms/TouristEvacuationFromIsrael@tourism.gov.il?displang=en&amp;gbxid=0
+
+３月３日１６時現在（現地時間）、テルアビブ（ベン・グリオン）空港は閉鎖されております。現時点においては、３月４日まで閉鎖とされています。
+【航空当局の公式発表】
+・安全保障状況が許すまで全面運休・空域閉鎖であり、期限や再開日時は発表されていません。
+・再開の際には、２４時間前までにIsrael Airports Authorityから公式発表が行われるとされています。
+【観光省からの情報提供】
+・現時点では、閉鎖は3月4日までとされています。
+【一部報道】
+・今後空域が再開されたとしても、当面、海外に取り残されたイスラエル国民の救援フライトが中心。
+・エルアル航空は、空域が再開次第、欠航便の顧客の振替え便を速やかに手配できるよう、3月21日までの新規航空券の予約を停止。これに関して、アルキア航空とイズレール航空は、それぞれ3月15日と3月18日まで新規航空券の予約を停止。
+・2日、イスラエル公共放送KANは、ベン・グリオン空港は金曜日（６日）まで閉鎖。
+
+今後の空港稼働状況等については、以下のホームページ又はご利用予定の航空会社にご確認ください。
+（テルアビブ（ベン・グリオン）空港発の定期商用便の運航状況）
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
+陸路国境通行所の詳細は、以下のホームページで確認いただけますが、現在の情勢を踏まえ、通行可能時間が予告なく変更となる可能性がありますのでご留意ください。
+（参照：Israel Airport Authorityホームページ内の「Land Borders」）
+https://www.iaa.gov.il/en/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163282</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163282A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163282.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163282L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163281</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 23:15:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>【必ずお読みください】たびレジの登録及び大使館からの情報発信（３月３日午後６時）</title>
+        <lead>アブダビ首長国内在留邦人及び現在アブダビ首長国内に滞在されている皆様へ
+
+大使館から重要な情報を発信をしております。
+もし、在留届（アブダビ首長国内に在住している日本国籍者対象）及びアブダビ首長国内に短期渡航及び滞在されている日本国籍者でたびレジ登録【渡航予定がある方】をお済みではない方がいらっしゃいましたら、必ず実施して頂くようお願いいたします。
+特に、現在の情勢でアブダビ首長国内に滞在を余儀なくされている日本国籍者におかれましては、下記たびレジHP内の【渡航予定がない方】からの登録ではなく、必ず【渡航予定がある方】からの登録になっているか、今一度ご確認ください。
+●在留届（アブダビ首長国内に在住している日本国籍者対象）
+https://www.ezairyu.mofa.go.jp/RRnet/index.html
+●たびレジ（現在、アブダビ首長国内に短期渡航中及び滞在されている日本国籍者対象）
+https://www.ezairyu.mofa.go.jp/tabireg/index.html
+ 
+また、アブダビ首長国内にあるザーイド国際空港は、３月３日午後６時現在、周辺の空域封鎖によりザーイド国際空港からの離発着が制限されております。 
+ザーイド国際空港は現時点で３月５日午後２時まで空港封鎖とアナウンスしております。                         
+邦人の皆様におかれては、関連情報を公式情報等から入手するようお願いします。
+ 
+●Emirates News Agency-WAM
+https://www.wam.ae/en/home/main
+●Khaleej Times
+https://www.khaleejtimes.com/
+●エティハド航空チケットHP
+https://www.etihad.com/en-jo/
+（今後の情勢によってはキャンセルされる可能性がございます。）
+●ザーイド国際空港（リンク先）
+https://www.zayedinternationalairport.ae/ 
+●ザーイド国際空港（空港封鎖情報・３月３日午後０時時点）
+https://www.etihad.com/en-jo/manage/flight-status</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163281</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163281A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163281.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163281L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163278</keyCd>
         <infoType>R10</infoType>
@@ -2025,45 +2108,5 @@ https://dubaiairports.ae/　（ドバイ国際空港HP）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163188.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163188L.xml</xmlLightUrl>
         <koukanCd>703A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163187</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/01 23:25:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月１日 １８時００分）</title>
-        <lead>○３月１日１８時００分現在も、ドバイ国際空港及びアル・マクトゥーム国際空港ではフライトの離発着が行われていない状況です。なお、エミレーツ航空は、現時点、３月２日午後３時までドバイからの離発着は行わない旨アナウンスしています。
-今後、当地の空港から離発着される予定がある方におかれましては、当館からのメール配信及び当局、空港等からの最新の発表をご確認いただきますよう、お願いいたします。
-https://dubaiairports.ae/　（ドバイ国際空港HP）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163187</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163187A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163187.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163187L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163186</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/01 23:05:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>ザーイド国際空港情報（３月１日午後６時）</title>
-        <lead>アブダビ首長国内にあるザーイド国際空港は、３月１日午後６時現在、周辺の空域封鎖によりザーイド国際空港からの離発着が制限されております。 
-なお、ザーイド国際空港は現時点で３月２日午前２時まで空港封鎖とアナウンスしております。                           
-邦人の皆様におかれては、関連情報の入手に努めるようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163186</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163186A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163186.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163186L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
     </mail>
 </opendata>
