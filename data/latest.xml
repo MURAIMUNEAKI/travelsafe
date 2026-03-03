@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/03 13:40:50" mailCount="83" odType="02">
+<opendata dataType="L" lastModified="2026/03/03 14:15:50" mailCount="84" odType="02">
+    <mail>
+        <keyCd>163260</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 13:45:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>【大使館からのお知らせ】イラン関連情報（第６報：領事窓口閉鎖のお知らせ）</title>
+        <lead>１　現在の中東情勢の緊張を受け、来館者の皆様及び職員の生命・身体の安全確保のため、在サウジアラビア日本国大使館は、本３日（火）、領事窓口を臨時閉鎖します。明日以降の扱いは、改めて領事メール等でお知らせいたします。
+
+２　なお、邦人保護やパスポート更新等の業務については対応しておりますので、必要な方は、本メール末尾に記載の大使館代表電話又は、メールアドレスへ事前の連絡をお願いいたします。
+
+３　また、ミサイル・ドローン等による攻撃が継続しています。在留邦人・渡航者の方で、万が一負傷等の被害に遭われた方や被害の情報に接した方がいらっしゃいましたら、当館連絡先まで速やかにご連絡をお願いいたします。
+
+４　引き続き、ミサイル・ドローン等の音がするなど被害の可能性がある場合には、
+　　　屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+　　　屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+を徹底し、身の安全を第一とするほか、信頼できる情報源からの情報入手をお願いいたします。
+
+（問い合わせ先） 
+在サウジアラビア日本国大使館領事班 
+TEL：011-488-1100 
+FAX：011-488-0189 
+E-mail：consular-sec@rd.mofa.go.jp 
+ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html 
+　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。 
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163260</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163260A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163260.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163260L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163259</keyCd>
         <infoType>R10</infoType>
