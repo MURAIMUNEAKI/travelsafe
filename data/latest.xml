@@ -1,5 +1,94 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/03 12:05:49" mailCount="78" odType="02">
+<opendata dataType="L" lastModified="2026/03/03 13:00:50" mailCount="82" odType="02">
+    <mail>
+        <keyCd>163257</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 13:00:50</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0060</cd>
+        </country>
+        <title>中東情勢を踏まえた注意喚起</title>
+        <lead>目下の中東情勢を踏まえ、当地に滞在中の日本人の皆様におかれては、以下についてご注意ください。
+
+１　現在、中東またはその周辺地域を発着する航空便の欠航、空港の一時閉鎖等の状況が生じています。航空便のご利用予定がある方は、ご自身がご利用する航空便の確認・変更等、必要に応じお早めにご対応ください。
+
+２．外務省では、中東地域の危険レベルの引き上げを行っております。
+
+３　当地においても、従来から中東情勢の緊張を背景とするデモが、在マレーシア・アメリカ大使館前で行われていることを確認しています。
+　報道等により最新の情勢を把握するよう努めるとともに、不測の事態に巻き込まれることのないようご注意ください。関連する集会やイベントが行われている現場には近づかないよう、また、万一そのような現場に遭遇した場合には、速やかにその場を離れる等、安全の確保を優先するよう心がけてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163257</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163257A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163257.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163257L.xml</xmlLightUrl>
+        <koukanCd>609A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163256</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 12:50:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月３日 7時30分）</title>
+        <lead>○３月３日７時３０分現在、ドバイ国際空港（DXB）及びアル・マクトゥーム国際空港（DWC）では、一部のフライトが発着しております。しかしながら、依然として地域情勢は流動的であり、DXBは航空会社から直接確定した出発時刻の通知を受けていない限り空港へ向かわないよう注意を呼びかけています。 今後、当地の空港をご利用予定の方におかれましては、当館からのメール配信及び当局、空港、各航空会社等の最新の発表をご確認いただきますよう、お願いいたします。 
+
+https://dubaiairports.ae/　（ドバイ国際空港HP） 
+
+https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163256</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163256A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163256.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163256L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163255</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 12:40:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0098</cd>
+        </country>
+        <title>【重要】イランからアゼルバイジャンへの陸路退避に関する注意事項（事前連絡必須）</title>
+        <lead>● イランからアゼルバイジャンへの陸路退避を予定される方は、必ず事前に在イラン日本国大使館へご連絡ください。
+● アゼルバイジャンへ陸路入国する場合、E-VISA又はアゼルバイジャン政府への口上書による事前のビザ申請（オンアライバルビザ）の取得が必要です。
+● いずれの場合も「入国許可コード」が必要であり、当館を通じ、在アゼルバイジャン日本国大使館より、アゼルバイジャン政府への事前通報・口上書発出が必要です。
+● 事前通報を行い、入国許可コードを取得していない場合、アゼルバイジャンへの入国は認められません。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163255</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163255A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163255.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163255L.xml</xmlLightUrl>
+        <koukanCd>703A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163254</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 12:35:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月３日午前６時時点）</title>
+        <lead>３月３日午前６時現在、ハマド国際空港は依然として全ての航空便の運航が停止されています。
+
+
+航空便で移動を予定している邦人の皆様においては、搭乗予定の航空会社から最新の運航状況を確認し、現時点で空港に向かうのは控えるようにして下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163254</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163254A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163254.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163254L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163253</keyCd>
         <infoType>R10</infoType>
