@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/03 13:00:50" mailCount="82" odType="02">
+<opendata dataType="L" lastModified="2026/03/03 13:40:50" mailCount="83" odType="02">
+    <mail>
+        <keyCd>163259</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 13:25:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0094</cd>
+        </country>
+        <title>中東情勢を踏まえた注意喚起</title>
+        <lead>○バンダラナイケ国際空港においては中東方面のフライトがキャンセルとなっております。 
+○スリランカ政府は、フライトの欠航により足止めされている旅行者のため、現在スリランカに滞在している観光客に対して、ビザの有効期限を14日間無料で延長しております。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163259</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163259A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163259.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163259L.xml</xmlLightUrl>
+        <koukanCd>603A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163258</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/03 13:10:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェート国際空港の状況（3月3日7:00時点）について</title>
+        <lead>○3月3日7:00時点（現地時間）、クウェート国際空港は閉鎖されています。
+邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
+
+○同空港のサイトを以下のとおりお知らせします。
+クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163258</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163258A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163258.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163258L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163257</keyCd>
         <infoType>R10</infoType>
@@ -1969,29 +2025,5 @@ https://dubaiairports.ae/　（ドバイ国際空港HP）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163169.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163169L.xml</xmlLightUrl>
         <koukanCd>704A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163168</keyCd>
-        <infoType>R20</infoType>
-        <leaveDate>2026/03/01 13:30:40</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>バリ島南東沖における地震の発生</title>
-        <lead>●本 3月1日 11:52（中部インドネシア時間）頃、バリ島南東沖約75km の海上においてマグニチュード 4.8の地震が発生しました。なお、この地
-震による津波警報は現在のところ発出されておりません。
-●今後も地震の情報に注意し身の安全確保に努めてください。
-インドネシア気象庁（BMKG）ホームページ:
-https://www.bmkg.go.id
-●万一、被害にあった方または被害にあった方を認知した場合には、総領事館ま
-でご連絡願います。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163168</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163168A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163168.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163168L.xml</xmlLightUrl>
-        <koukanCd>607F</koukanCd>
     </mail>
 </opendata>
