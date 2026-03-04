@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/04 23:25:50" mailCount="72" odType="02">
+<opendata dataType="L" lastModified="2026/03/04 23:50:49" mailCount="72" odType="02">
+    <mail>
+        <keyCd>163320</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/04 23:40:42</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>【注意喚起】空軍機衝突事故に伴う一部紙幣の流通混乱について（続報：有効・無効の確認方法）</title>
+        <lead>● 市中（飲食店、商店、タクシー等）では、シリアルナンバーの末尾「B」の紙幣（Bシリーズ紙幣）の受け取りを拒否される事例が多発しています。
+● 両替所での換金時や商店、飲食店等でのおつりとして、無効なBシリーズ紙幣を渡される可能性があるため、受け取りの際は必ず確認してください。
+● ボリビア中央銀行（BCB）は、正規の有効な紙幣と無効な紙幣を判別するためのオンラインサイト及びアプリを公開しています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163320</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163320A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163320.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163320L.xml</xmlLightUrl>
+        <koukanCd>402A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163319</keyCd>
         <infoType>R10</infoType>
@@ -1832,29 +1852,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163240.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163240L.xml</xmlLightUrl>
         <koukanCd>703A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163239</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/02 23:50:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月２日 １８時３０分）</title>
-        <lead>○３月２日１８時３０分現在、ドバイ国際空港（DXB）及びアル・マクトゥーム国際空港（DWC）におけるフライトの発着停止は解除され、一部フライトが再開される模様です。先ほどエミレーツ航空は、３月２日夜、ドバイ発着便の運航を一部再開する旨発表しております。 
-
-今後、当地の空港をご利用予定の方におかれましては、当館からのメール配信及び当局、空港、各航空会社等の最新の発表をご確認いただきますよう、お願いいたします。 
-
-https://dubaiairports.ae/　（ドバイ国際空港HP） 
-
-https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163239</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163239A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163239.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163239L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
