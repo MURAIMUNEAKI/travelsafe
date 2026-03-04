@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/04 22:25:48" mailCount="72" odType="02">
+<opendata dataType="L" lastModified="2026/03/04 22:45:51" mailCount="73" odType="02">
+    <mail>
+        <keyCd>163318</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/04 22:40:55</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0876</cd>
+        </country>
+        <title>（治安情報）キングストン市内における邦人に対する強盗事件の発生</title>
+        <lead>○ 2月下旬、21時頃に徒歩で移動していた邦人旅行者2名が、キングストン市内ハーフ・ウェイツリー付近の路上において、覆面をした男から刃物を向けられ、パソコンとカメラを奪われる強盗事件が発生しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163318</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163318A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163318.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163318L.xml</xmlLightUrl>
+        <koukanCd>420A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163317</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/04 22:40:55</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>9007</cd>
+        </country>
+        <title>中東各国にある日本大使館、総領事館の領事メール受信方法</title>
+        <lead>●目下の中東情勢を踏まえ、モスクワから日本への主要なフライト乗り継ぎ地である中東各国に所在する日本大使館などは、各地の空港やフライト運航状況などについて領事メールを通じて頻繁に発信しています。これらのメールは「たびレジ」に登録すれば配信を受けられます。
+
+現在、中東各国にある日本大使館、総領事館では、空港や乗り入れ航空会社の運航状況などを在留邦人に周知するために領事メールを通じて頻繁に発信しています。これらの領事メールは外務省が運営する海外安全情報の無料配信サービス「たびレジ」に登録すれば配信を受けられます。登録サイトは次の通りです。
+https://www.ezairyu.mofa.go.jp/tabireg/index.html　
+
+上記のサイトでは「渡航予定がある方」と「渡航予定がない方」によって登録方法が異なります。休暇などの一時帰国で実際にアブダビ、ドバイ、カタール、イスタンブールなどでの乗り継ぎを予定している場合には「渡航予定がある方」から、そうでない場合には「渡航予定がない方」から、情報が必要な国とご自身のメールアドレスを登録してください。
+
+また、海外安全ホームページの各国別の頁の下段に「現地大使館・総領事館からの安全情報」の欄があり、ここでも各公館が発信した領事メールを閲覧することができます。以下は、日本への乗り継ぎ地の情報が掲載されているサイトです。
+・アラブ首長国連邦（UAE、アブダビ、ドバイ）
+https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_042.html#ad-image-0　　
+・カタール（ドーハ）
+https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_048.html#ad-image-0　
+・トルコ（イスタンブール）
+https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_052.html#ad-image-0</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163317</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163317A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163317.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163317L.xml</xmlLightUrl>
+        <koukanCd>517F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163316</keyCd>
         <infoType>R10</infoType>
@@ -1842,28 +1891,5 @@ https://www.iaa.gov.il/en/
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163237.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163237L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163235</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/02 22:35:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0033</cd>
-        </country>
-        <title>中東情勢を踏まえた注意喚起</title>
-        <lead>　目下の中東情勢を踏まえ、当地に滞在中の日本人の皆様におかれては、以下についてご注意ください。
-
-１　現在、中東またはその周辺地域を発着する航空便の欠航、空港の一時閉鎖等の状況が生じています。航空便のご利用予定がある方は、ご自身がご利用する航空便の確認・変更等、必要に応じお早めに対応ください。
-
-２　当地においても、従来から中東情勢の緊張を背景とするデモ・集会が頻繁に行われています。不測の事態が発生する可能性を踏まえ、注意が必要です。
-　　報道等により最新の情勢を把握するよう努めるとともに、不測の事態に巻き込まれることのないようご注意ください。関連する集会やイベントが行われている現場には近づかないよう、また、万一そのような現場に遭遇した場合には、速やかにその場を離れる等、安全の確保を優先するよう心がけてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163235</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163235A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163235.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163235L.xml</xmlLightUrl>
-        <koukanCd>505F</koukanCd>
     </mail>
 </opendata>
