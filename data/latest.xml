@@ -1,5 +1,149 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/04 23:50:49" mailCount="72" odType="02">
+<opendata dataType="L" lastModified="2026/03/05 00:30:49" mailCount="76" odType="02">
+    <mail>
+        <keyCd>163325</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 00:25:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月４日午後６時時点）</title>
+        <lead>３月４日午後６時現在、ハマド国際空港は依然として全ての航空便の運航が停止されています。
+
+カタール航空は、３月６日午前９時に運航状況の見直し等を更新予定とのことです。
+
+航空便で移動を予定している邦人の皆様においては、搭乗予定の航空会社から最新の運行状況を確認をするようお願いいたします。
+
+【カタール航空ご利用の方の荷物の受け取りについて】
+預入荷物の受取については、滞在先ホテルのフロントデスクに +974 4010 5586 に電話するようご依頼下さい。その際、パスポート、ホテルバウチャー、荷物タグを用意し、それらをホテル側に共有してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163325</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163325A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163325.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163325L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163324</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 00:10:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月４日 １９時００分）</title>
+        <lead>○３月４日１９時現在、ドバイ国際空港（DXB）及びアル・マクトゥーム国際空港（DWC）では、一部のフライトが運航しています。安全確保及び今後の運航状況の不確実性や航空券の入手状況を踏まえ、当地からの退避をお考えの方は、乗り継ぎ便を含む運航中のフライトの利用も選択肢としてご検討ください。 
+なお、DXB及びエミレーツ航空は、航空会社から直接確定した出発時刻の通知を受けていない限り空港へ向かわないよう注意を呼びかけています。 
+空港ご利用予定に際しては、引き続き当館からのメール配信及び当局、空港、各航空会社等の最新の発表をご確認いただきますよう、お願いいたします。  
+https://dubaiairports.ae/　（ドバイ国際空港HP）  
+https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163324</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163324A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163324.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163324L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163323</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 00:06:04</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ケルン、ボンおよびモンハイムでの近距離公共交通機関におけるストライキの影響（３月６日(金)）</title>
+        <lead>○Ver.di（統一サービス業労働組合）等は、新たな警告ストライキを呼びかけています。
+○３月６日（金）午前３時から翌７日（土）午前３時頃まで、ケルン、ボンおよびモンハイムの近距離公共交通機関（バスや路面電車等）の運休が予定されています。また、KVBとSWBが共同運行する路面電車16系統及び18系統に加え、夜行バス路線も影響をうける模様です。
+○S-BahnやRE（地域列車）等はストライキの影響を受けないとのことです。
+○通勤、通学、旅行等に当たっては、事前にご利用予定の公共交通機関の運行情報等をよくご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163323</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163323A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163323.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163323L.xml</xmlLightUrl>
+        <koukanCd>506F</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163322</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 00:06:03</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0592</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0473</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0597</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0784</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0758</cd>
+        </country>
+        <country areaCd="33">
+            <cd>0868</cd>
+        </country>
+        <title>トリニダード・トバゴにおける緊急事態宣言の発令</title>
+        <lead>　3月3日、カンガルー大統領は、緊急事態宣言を発令しました。同日付パサード＝ビセッサ－首相声明によると、前回の緊急事態宣言が1月31日に終了した後、ギャングによる暴力的犯罪行為が全国的に増加し、放置すればギャング間の報復の銃撃が公共の安全を脅かし、また、警察官、刑務所職員等を標的とする攻撃に関する情報があることなどが宣言発令の理由とされています。現時点では、外出禁止令は発令されていません。
+
+○ご参考
+2026年2月4日付け領事メール
+トリニダード・トバゴにおける緊急事態宣言の終了
+https://www.tt.emb-japan.go.jp/itpr_ja/11_000001_04754.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163322</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163322A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163322.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163322L.xml</xmlLightUrl>
+        <koukanCd>424A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163321</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 00:00:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月4日17:00時点）</title>
+        <lead>3月4日17時現在（現地時間）、テルアビブ（ベン・グリオン）空港からの出発便は運航されていません。
+
+■■■■新着情報■■■■
+ヨルダン クイーン・アリア国際空港の航空各社の運航状況
+・エミレーツ航空：12日(木)までキャンセル
+・カタール航空：カタールの空域が再開次第再開（カタール時間6日(金)9時までに情報が更新される）
+・ロイヤルヨルダン航空：空域が閉鎖されていない限り運航（シリア、イラク、UAE、バーレーン、クウェート、カタールは空域閉鎖に伴い運休）※下部に残席情報あり
+・エティハド航空：UAE時間5日(木)14時までキャンセル
+・トルコ航空：公式ウェブサイトでは6日(金)までアンマン便はキャンセル
+・フライドバイ：限定的再開
+・エチオピア航空：運休
+
+※【ロイヤルヨルダン航空の残席情報4日(水)14時現在、3月5日、6日分】
+Amman to Athens: no flight on 05MAR. 06MAR has 2 seats available in business, and 9 seats in economy class
+Amman to Cairo: around 10 seats available both in economy and business class
+Amman to Istanbul: only 9 seats available in economy class on 6MAR. 05MAR currently fully booked.
+Amman to Jeddah: 05MAR, 20 seats available. 06MAR 10 seats available
+Amman to Riyadh: Widley open both on 05 and 06MAR.</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163321</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163321A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163321.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163321L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163320</keyCd>
         <infoType>R10</infoType>
@@ -1832,25 +1976,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163241.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163241L.xml</xmlLightUrl>
         <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163240</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 00:05:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0098</cd>
-        </country>
-        <title>イランにおける空路及び海路の状況について（3月2日18時）</title>
-        <lead>１　3月2日18時現在、引き続きイランの空域が封鎖されているため、イラン国内における全ての航空便の運航が停止されています。
-２　また、正式な発表は確認されておりませんが、イラン当局がホルムズ海峡を通る船舶に対し、航行を禁止する旨船舶無線で通告したと報じられております。
-３　航空便での移動を予定している邦人の皆様およびホルムズ海峡を渡航予定の船舶関係者の皆様におかれましては、最新情報の入手に努めるとともに、安全の確保に細心の注意を払うようにしてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163240</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163240A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163240.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163240L.xml</xmlLightUrl>
-        <koukanCd>703A</koukanCd>
     </mail>
 </opendata>
