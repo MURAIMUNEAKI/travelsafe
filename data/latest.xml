@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/04 18:50:49" mailCount="74" odType="02">
+<opendata dataType="L" lastModified="2026/03/04 19:30:49" mailCount="74" odType="02">
+    <mail>
+        <keyCd>163308</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/04 19:25:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>イラン関連情報第10報：ラス・タヌラ製油所に対する攻撃</title>
+        <lead>１　報道によれば、３月４日（現地時間）、サウジ・アラムコのラス・タヌラ製油所がドローン攻撃を受けたが、被害は発生しなかった模様です。
+　　同日、サウジアラビア国防省報道官も「ラス・タヌラ製油所を標的としたドローン攻撃未遂があったが、被害は発生しなかった」と発表しています。
+https://x.com/alekhbariyabrk/status/2029133052635693109?s=48
+https://x.com/spa_eng/status/2029133014823739821?s=48
+
+２　在留邦人の皆様におかれましては、引き続き不測の事態に備え、米国関連施設だけでなく、石油関連施設にも近づかないほか、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めてください。
+　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。
+
+３　ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、
+屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
+屋内にいる場合：　窓から離れる、窓のない部屋に移動する
+といった、ご自身の身を守る行動を最優先に行うようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163308</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163308A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163308.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163308L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163306</keyCd>
         <infoType>R10</infoType>
@@ -1884,33 +1913,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163225.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163225L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163223</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/02 19:30:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>中東情勢の緊張を受けた注意喚起について（３月２日　１２：００現在）</title>
-        <lead>○　バーレーン国内への断続的な攻撃が続き、政府も緊急警報システムでの周知や迎撃などを行っているところですが、米軍基地以外のホテルやマンション等にも被害が及ぶなどしていることから、皆様におかれましては安全確保を最優先とした行動をお願いします。
-○　また、SNSの投稿等によると、昨夜、国内の複数の地区において行われた親イラン派によると思われるデモにおいて、一部参加者による火炎瓶の投擲等の過激な動向及び治安当局との衝突が確認されております。これらのほとんどは、シーア派地区の居住街内で行われているものと推測できますが、くれぐれも当該地区には立ち入らないようにし、仮にデモ等に遭遇した場合は早急に現場を離れるようお願いいたします。
-　【シーア派地区の特徴】
-　修繕されていない古い建物が多い、落書きが消されていない、黒い旗が掲げられている等の特徴があり、国内各地に点在しています（下リンク参照）。
-http://www.bh.emb-japan.go.jp/japan/MAP_%20Demonstration%20Notices.pdf
-○　なお、バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況については下のとおりです。 
-【バーレーン国際空港】 
-　３月２日１２時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。 
-【キング・ファハド・コーズウェイ】 
-　３月２日１２時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。 
-　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（https://kfca.sa/en/）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163223</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163223A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163223.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163223L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
     </mail>
 </opendata>
