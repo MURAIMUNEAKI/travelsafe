@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/05 00:30:49" mailCount="76" odType="02">
+<opendata dataType="L" lastModified="2026/03/05 00:50:50" mailCount="76" odType="02">
+    <mail>
+        <keyCd>163326</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 00:50:43</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【お知らせ】ヘッセン州、RP州における緊急警報試験（3月12日（木））</title>
+        <lead>○3月12日（木）、ヘッセン州、ラインラント=プファルツ州において緊急警報の試験が行われます。サイレンや携帯電話のアラームが鳴動しますが、警報試験となります。
+○緊急事態発生時の対処方法や連絡体制等について、この機会に今一度ご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163326</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163326A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163326.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163326L.xml</xmlLightUrl>
+        <koukanCd>506I</koukanCd>
+    </mail>
     <mail>
         <keyCd>163325</keyCd>
         <infoType>R10</infoType>
@@ -1954,27 +1973,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163242.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163242L.xml</xmlLightUrl>
         <koukanCd>703A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163241</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 00:50:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>ハマド国際空港情報（３月２日午後６時時点）</title>
-        <lead>３月２日午後６時現在、ハマド国際空港は依然として全ての航空便の運航が停止されています。
-
-カタール航空は、３月３日午前９時に運航状況の見直し等を更新予定とのことです。
-
-航空便で移動を予定している邦人の皆様においては、搭乗予定の航空会社から最新の運航状況を確認をするようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163241</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163241A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163241.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163241L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
     </mail>
 </opendata>
