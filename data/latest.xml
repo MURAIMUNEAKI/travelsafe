@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/04 20:20:48" mailCount="72" odType="02">
+<opendata dataType="L" lastModified="2026/03/04 20:45:49" mailCount="72" odType="02">
+    <mail>
+        <keyCd>163309</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/04 20:40:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>大使館からの情報発信（３月４日午後３時）</title>
+        <lead>●アブダビ首長国内在留邦人及び現在アブダビ首長国内に滞在されている皆様へ
+現在大使館から重要な情報を発信をしております。
+もし、ご家族や友人・知人に在留届（アブダビ首長国内にお住まいの日本国籍者対象）及びアブダビ首長国内に短期渡航及び滞在されている日本国籍者でたびレジ登録をお済みでない方がいらっしゃいましたら、必ず実施して頂くようご案内をお願いいたします。
+特に、現在の情勢でアブダビ首長国内に滞在を余儀なくされている日本国籍者におかれましては、下記たびレジHP内の【渡航予定がない方】からの登録ではなく、必ず【渡航予定がある方】からの登録になっているか、今一度ご確認の上、登録内容を更新お願いします。
+ 
+●在留届（アブダビ首長国内にお住まいの日本国籍者対象）
+https://www.ezairyu.mofa.go.jp/RRnet/index.html
+●たびレジ（現在、アブダビ首長国内に短期渡航中及び余儀なく滞在されている日本国籍者対象）
+https://www.ezairyu.mofa.go.jp/tabireg/index.html
+ 
+また、アブダビ首長国内にあるザーイド国際空港は、３月４日午後３時現在、周辺の空域封鎖によりザーイド国際空港からの離発着が制限されております。 
+ザーイド国際空港は現時点で３月５日午後２時まで空港封鎖とアナウンスしておりますが、午後３時時点で更新が確認されておりません。                         
+邦人の皆様におかれては、関連情報を公式情報等から入手するようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163309</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163309A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163309.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163309L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163308</keyCd>
         <infoType>R10</infoType>
@@ -1819,35 +1849,5 @@ https://www.etihad.com/en-jo/</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163228.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163228L.xml</xmlLightUrl>
         <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163227</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/02 20:30:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>【大使館からのお知らせ】イラン関連情報（第４報）</title>
-        <lead>１　報道によれば、３月２日（現地時間）、サウジ・アラムコのラス・タヌラ製油所がドローン攻撃を受け、迎撃による破片の落下により限定的な火災が発生した模様です（報道では負傷者なし）。
-https://x.com/AlArabiya_Brk/status/2028382768116252762?s=20
-https://x.com/alarabiya_eng/status/2028384762121838795?s=48
-　　同日、サウジアラビア国防省報道官も「本日早朝、ラス・タヌラ製油所に対する２機のドローン攻撃を阻止し、破壊した」と発表しています。
-https://x.com/sparegions/status/2028383743438737645?s=48
-
-２　在留邦人の皆様におかれましては、引き続き不測の事態に備え、米国関連施設には近づかない他、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めてください。
-　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館までお知らせください。
-
-３　爆発音等が聞こえた場合は、決して近づかず
-屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
-屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
-といった行動の徹底をお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163227</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163227A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163227.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163227L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
     </mail>
 </opendata>
