@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/05 22:05:49" mailCount="77" odType="02">
+<opendata dataType="L" lastModified="2026/03/05 22:30:50" mailCount="76" odType="02">
     <mail>
         <keyCd>163361</keyCd>
         <infoType>R10</infoType>
@@ -2057,38 +2057,5 @@ https://www.etihad.com/en-jo/manage/flight-status</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163277.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163277L.xml</xmlLightUrl>
         <koukanCd>707A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163276</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 22:20:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>イラン関連情報第８報：ダハラン米国総領事館のセキュリティ・アラート発出</title>
-        <lead>１　３月３日午後３時51分（現地時間）、東部州ダハランに所在する米国総領事館が、下記のとおりセキュリティ・アラートを発出しています。
-－ダハラン上空でミサイル・無人機による攻撃が差し迫っている恐れがあります。米国総領事館に近づかないでください。
-－自宅の最下階に避難し、窓から離れてください。外出はしないでください。ダハラン米国総領事館は、ダハラン在住の米国市民の皆様に対し、屋内に留まり、今後の攻撃に備えて警戒を怠らないよう強く求めます。
-https://x.com/USAinKSA/status/2028815589397979238
-
-２　これまでお伝えしているとおり、不測の事態に備え、米国関連施設には近づかない他、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めてください。万が一、被害に遭われた場合や被害情報に接した場合には、大使館までお知らせください。
-
-
-（問い合わせ先） 
-在サウジアラビア日本国大使館領事班 
-TEL：011-488-1100 
-FAX：011-488-0189 
-E-mail：consular-sec@rd.mofa.go.jp 
-ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html 
-　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。 
-https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163276</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163276A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163276.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163276L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
     </mail>
 </opendata>
