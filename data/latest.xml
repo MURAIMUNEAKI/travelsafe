@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/05 23:30:51" mailCount="75" odType="02">
+<opendata dataType="L" lastModified="2026/03/05 23:55:49" mailCount="76" odType="02">
+    <mail>
+        <keyCd>163367</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 23:55:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月５日 １８時３０分）</title>
+        <lead>○３月５日、外務省は、中東地域の情勢が悪化していることを踏まえ、アラブ首長国連邦を含む６カ国（サウジアラビアは東部のみ）の危険情報をレベル３（渡航中止勧告）に引き上げました。 
+https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T028.html#ad-image-0 
+
+○３月５日当地１６時ごろ、在留届または「たびレジ」に登録されている方々に以下のご案内を差し上げています。ご利用ご希望の方は※本日３月５日２０時までにご回答をお願いいたします。
+ 
+【緊急】（在ドバイ日本総領事館）マスカットへの日本政府手配バスの運行のご案内 
+https://www.ezairyu.mofa.go.jp/enq/3096c09ee62b30685aa2a31a6d4bbfe5bdf55467e2b408f99be1cb83b33725ce.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163367</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163367A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163367.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163367L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163366</keyCd>
         <infoType>R10</infoType>
