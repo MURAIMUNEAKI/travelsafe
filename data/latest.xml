@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/06 05:50:48" mailCount="73" odType="02">
+<opendata dataType="L" lastModified="2026/03/06 06:25:49" mailCount="72" odType="02">
     <mail>
         <keyCd>163372</keyCd>
         <infoType>R10</infoType>
@@ -1948,29 +1948,5 @@ https://www.etihad.com/en-jo/manage/flight-status</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163292.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163292L.xml</xmlLightUrl>
         <koukanCd>301K</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163291</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/04 06:05:40</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0595</cd>
-        </country>
-        <title>旅券オンライン申請及び在外公館窓口における戸籍電子証明書提供用識別符号の一時利用停止について</title>
-        <lead>　以下の期間（時間は現地時間）、システムの定期メンテナンスが行われるため、旅券のオンライン申請が一時的に利用できない状態となりますので、ご留意頂きますようお願いします。
-・　3月6日（金）午前6時から 3月8日（日）正午まで
-・　3月20日（金）午後 4時から 3月22日（日）正午まで
-
-　また、上記メンテナンスに伴い、戸籍電子証明書提供用識別符号（以下「符号」）の提示があった場合でも、当館窓口において、戸籍電子証明書の確認を行うことができません。
-
-　このため、旅券又は戸籍謄本を提出する必要がある証明に関する申請をお急ぎでされる場合には、紙の戸籍謄本を提出いただく必要がありますので、併せご留意をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163291</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163291A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163291.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163291L.xml</xmlLightUrl>
-        <koukanCd>411A</koukanCd>
     </mail>
 </opendata>
