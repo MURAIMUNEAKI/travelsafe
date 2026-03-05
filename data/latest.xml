@@ -1,5 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/05 12:55:49" mailCount="73" odType="02">
+<opendata dataType="L" lastModified="2026/03/05 13:35:49" mailCount="75" odType="02">
+    <mail>
+        <keyCd>163340</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 13:20:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0095</cd>
+        </country>
+        <title>（続報）中東情勢を踏まえた車両使用規制の追加発表について（在ミャンマー日本国大使館より）</title>
+        <lead>１　３月４日、国防治安評議会（NDSC）広報チームは、車両使用規制につき追加発表を行いました。発表内容は末尾のとおりです。
+
+２　今回の追加発表では、日常的に使用可能な車両に、(1)職員用送迎車両、(2)物品配送用車両、(3)ビジネス上の業務運営に使用される車両、(4)学校送迎車両が追加され、搭乗者及び車両は、所属部署からの有効な証明書または推薦状を携行しなければならないとされています。
+
+３　今回の車両使用規制の発表内容及び現在使用している車両の番号などを確認しつつ、本発表に記載があるとおり、所属部署からの有効な証明書または推薦状等を携行するなど対応を検討の上、車両での移動の際には引き続き十分注意して下さい。また、ガソリン残量に余裕を持った給油等にも心掛けると共に、今後の報道や発表には引き続きご留意下さい。
+
+（参考）
+国防治安評議会(NDSC)広報チーム３月４日付追加発表「車両使用規制」の内容
+
+１　燃油を節約して消費するために、２０２６年３月３日に国民向けの周知を発表しました。国民が円滑に移動できるようにし、経済活動が機能不全に陥らないようにするため、上記発表の２（２）（注：日々の公共交通用車両、タクシー、ガソリン運搬用タンクローリー、建機、物流用車両、救急車、霊柩車、ゴミ収集車は使用することができるとの記載。）の日常的に使用可能な車両について、以下の追加規程を設けます。
+（１）工場、作業場及び職場への職員用送迎車両
+（２）物品配送に使用される車両
+（３）工場、作業場及び職場の業務運営に使用される車両
+（４）学校送迎車両
+ 
+２　日常的に使用する車両の回数及び台数を最小限に抑えるため、制限を設ける必要がある。さらに、搭乗者及び車両は、上記の目的に沿って適切に車両を使用していること証明するため、所属部署からの有効な証明書または推薦状を携行しなければならない。
+
+
+■問い合わせ先：在ミャンマー日本国大使館領事班
+　電話：９５ー１ー５４９６４４～８
+　メール：ryoji@yn.mofa.go.jp</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163340</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163340A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163340.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163340L.xml</xmlLightUrl>
+        <koukanCd>601A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163339</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 13:15:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェート国際空港の状況（3月5日7:00時点）について</title>
+        <lead>○3月5日7:00時点（現地時間）、クウェート国際空港は閉鎖されています。
+邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
+
+○同空港のサイトを以下のとおりお知らせします。
+クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163339</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163339A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163339.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163339L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163338</keyCd>
         <infoType>R10</infoType>
@@ -444,6 +519,35 @@ Amman to Riyadh: Widley open both on 05 and 06MAR.</lead>
         <koukanCd>705A</koukanCd>
     </mail>
     <mail>
+        <keyCd>2026T030</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢 戦争</contentInfo>
+        <leaveDate>2026/03/05 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェートの危険情報（引上げ）</title>
+        <lead>●２月２８日、イスラエル及び米国はイランに対して攻撃を行い、同日、イラン革命ガードは、クウェート内の米軍基地を標的とする攻撃を行った旨発表しました。その後も攻撃が続いており、民間施設等にも被害が発生しています。
+●こうした状況を受け、クウェートを危険レベル３（渡航は止めてください（渡航中止勧告））に引き上げます。
+●既に滞在中の方は、複数の情報源から最新の情報を入手するなど特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T030.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T030A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T030.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T030L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>1</riskLevel3>
+        <riskLevel2>0</riskLevel2>
+        <riskLevel1>0</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T030_1_Detail.html</mapImageUrl>
+    </mail>
+    <mail>
         <keyCd>2026T029</keyCd>
         <infoType>T40</infoType>
         <contentInfo>治安情勢 戦争</contentInfo>
@@ -500,6 +604,66 @@ Amman to Riyadh: Widley open both on 05 and 06MAR.</lead>
         <infectionLevel2>0</infectionLevel2>
         <infectionLevel1>0</infectionLevel1>
         <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T028_1_Detail.html</mapImageUrl>
+    </mail>
+    <mail>
+        <keyCd>2026T027</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢 戦争</contentInfo>
+        <leaveDate>2026/03/05 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <title>オマーンの危険情報（引上げ）</title>
+        <lead>●２月２８日（現地時間）、イスラエル、米国によるイランへの攻撃がありました。
+●同日、オマーンを除く湾岸諸国等に攻撃があり、イラン革命ガードは、各国国内の米軍基地等を標的とする攻撃を行った旨発表しました。その後、オマーンに対しても攻撃がありました。
+●こうした状況を受け、オマーン全土を危険レベル３（渡航は止めてください（渡航中止勧告））に引き上げます。
+●既に滞在中の方は、複数の情報源から最新の情報を入手するなど特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。
+●お困りの方は、在オマーン日本国大使館又は外務省領事局にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T027.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T027A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T027.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T027L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>1</riskLevel3>
+        <riskLevel2>0</riskLevel2>
+        <riskLevel1>0</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T027_1_Detail.html</mapImageUrl>
+    </mail>
+    <mail>
+        <keyCd>2026T026</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢</contentInfo>
+        <leaveDate>2026/03/05 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>サウジアラビアの危険情報（一部引上げ）</title>
+        <lead>●２月２８日、イスラエル及び米国はイランに対して攻撃を行い、同日、イラン革命ガードは、サウジアラビア内の米軍基地を標的とする攻撃を行った旨発表しました。その後も攻撃が続いており、民間施設等にも被害が発生しています。
+●こうした状況を受け、攻撃が発生しているリヤド州・東部州を危険レベル３（渡航は止めてください（渡航中止勧告））に引き上げます。
+●既に滞在中の方は、複数の情報源から最新の情報を入手するなど特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T026.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T026A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T026.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T026L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>1</riskLevel3>
+        <riskLevel2>1</riskLevel2>
+        <riskLevel1>1</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T026_1_Detail.html</mapImageUrl>
     </mail>
     <mail>
         <keyCd>163320</keyCd>
@@ -1903,86 +2067,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163260.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163260L.xml</xmlLightUrl>
         <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163259</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 13:25:40</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0094</cd>
-        </country>
-        <title>中東情勢を踏まえた注意喚起</title>
-        <lead>○バンダラナイケ国際空港においては中東方面のフライトがキャンセルとなっております。 
-○スリランカ政府は、フライトの欠航により足止めされている旅行者のため、現在スリランカに滞在している観光客に対して、ビザの有効期限を14日間無料で延長しております。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163259</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163259A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163259.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163259L.xml</xmlLightUrl>
-        <koukanCd>603A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163258</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 13:10:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>クウェート国際空港の状況（3月3日7:00時点）について</title>
-        <lead>○3月3日7:00時点（現地時間）、クウェート国際空港は閉鎖されています。
-邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
-
-○同空港のサイトを以下のとおりお知らせします。
-クウェート国際空港（Kuwait International Airport）
-https://www.kuwaitairport.gov.kw/en/　
-※	クウェート発着便の運行状況について確認できます。
-
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163258</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163258A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163258.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163258L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163257</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 13:00:50</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0060</cd>
-        </country>
-        <title>中東情勢を踏まえた注意喚起</title>
-        <lead>目下の中東情勢を踏まえ、当地に滞在中の日本人の皆様におかれては、以下についてご注意ください。
-
-１　現在、中東またはその周辺地域を発着する航空便の欠航、空港の一時閉鎖等の状況が生じています。航空便のご利用予定がある方は、ご自身がご利用する航空便の確認・変更等、必要に応じお早めにご対応ください。
-
-２．外務省では、中東地域の危険レベルの引き上げを行っております。
-
-３　当地においても、従来から中東情勢の緊張を背景とするデモが、在マレーシア・アメリカ大使館前で行われていることを確認しています。
-　報道等により最新の情勢を把握するよう努めるとともに、不測の事態に巻き込まれることのないようご注意ください。関連する集会やイベントが行われている現場には近づかないよう、また、万一そのような現場に遭遇した場合には、速やかにその場を離れる等、安全の確保を優先するよう心がけてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163257</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163257A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163257.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163257L.xml</xmlLightUrl>
-        <koukanCd>609A</koukanCd>
     </mail>
 </opendata>
