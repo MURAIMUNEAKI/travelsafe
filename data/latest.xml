@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/05 20:25:48" mailCount="76" odType="02">
+<opendata dataType="L" lastModified="2026/03/05 20:45:48" mailCount="75" odType="02">
     <mail>
         <keyCd>163356</keyCd>
         <infoType>R10</infoType>
@@ -2050,24 +2050,6 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163276A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163276.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163276L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163274</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 20:45:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>イラン関連情報第７報：空港及び主要航空会社の運航状況</title>
-        <lead>現時点判明している空港及び主要航空会社の運航状況をお知らせします。その後、随時更新が予想されますところ、空港及び航空会社HPなどから適宜ご確認をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163274</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163274A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163274.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163274L.xml</xmlLightUrl>
         <koukanCd>708A</koukanCd>
     </mail>
 </opendata>
