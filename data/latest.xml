@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/05 14:20:49" mailCount="75" odType="02">
+<opendata dataType="L" lastModified="2026/03/05 14:50:49" mailCount="73" odType="02">
+    <mail>
+        <keyCd>163342</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 14:30:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>【重要】注意喚起</title>
+        <lead>３月５日、カタール内務省は、在カタール米国大使館周辺に住む住民を一時的な予防措置として避難させたと発表しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163342</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163342A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163342.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163342L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163341</keyCd>
         <infoType>R10</infoType>
@@ -1983,71 +2001,5 @@ https://www.iaa.gov.il/en/
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163265.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163265L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163263</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 14:46:00</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>アチェ州シムル島シナバン沖震源の地震の発生</title>
-        <lead>● 3月3日午前11時56分頃、アチェ州シムル島シナバン南東沖を震源とするマグニチュード6.4の地震が発生しました。 
-● 津波の恐れは無いとされていますが、余震などに十分ご注意ください。
-
-インドネシア気象気候地球物理庁(BMKG)によれば、3月3日インドネシア西部時間午前11時56分頃、アチェ州シムル島シナバン南東沖(震源の深さ13km)を震源とするマグニチュード6.4の地震が発生しました。 
-BMKGによれば、津波の恐れは無いとされていますが、引き続き余震に警戒いただき、最新の情報の入手に努めてください。
-また、万が一被害に遭われたり、被害に遭われた邦人の情報に接した際には、総領事館にご連絡下さい。
-
-参考：インドネシア気象気候地球物理庁(BMKG)公式サイト
-https://www.bmkg.go.id/</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163263</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163263A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163263.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163263L.xml</xmlLightUrl>
-        <koukanCd>607T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163262</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 14:45:59</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>米・イスラエルによるイラン攻撃に関する注意喚起（第４報）</title>
-        <lead>１　現下の情勢を受け、当地米国大使館は、在留米国人向けに以下のとおり3月3日付セキュリティ・アラートを発出しています。
-https://sa.usembassy.gov/security-alert-security-alert-consular-appointments-cancelled-u-s-mission-to-the-kingdom-of-saudi-arabia-mar-3-2026/
-
-－地域での敵対的行為を踏まえ、在サウジアラビア米国大使館は職員に対して、より慎重かつ地域内の軍事施設への不必要な移動を制限するよう呼びかけており、当地米国民にも同様の措置を推奨しています。
-－また、リヤド及びダハランに加え、ジッダに対して改めて外出自粛通知を発出しています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163262</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163262A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163262.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163262L.xml</xmlLightUrl>
-        <koukanCd>708D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163261</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 14:35:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（3月3日8時30分）</title>
-        <lead>中東地域の情勢緊迫化に伴い、カタールにおいてもイランからの攻撃事案が複数発生しております。報道などで承知しているこれまでの状況は以下のとおりです。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163261</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163261A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163261.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163261L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
     </mail>
 </opendata>
