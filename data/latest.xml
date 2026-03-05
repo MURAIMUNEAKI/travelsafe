@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/05 17:15:49" mailCount="74" odType="02">
+<opendata dataType="L" lastModified="2026/03/05 17:45:49" mailCount="75" odType="02">
+    <mail>
+        <keyCd>163349</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 17:35:59</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>船舶ストライキ（3月5日）</title>
+        <lead>報道等によれば、本日3月5日（木）午前0時から6日（金）午前0時にかけて、船舶労働者協会による24時間ストライキが実施されています。このため、ギリシャ全土の船舶運航に欠航等の影響の可能性がありますので、フェリー等船舶をご利用の方は、最新状況を各船会社等に確認してください。
+
+※この情報は現時点で発表・報道されているものとなり、今後変更となる可能性があります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163349</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163349A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163349.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163349L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163348</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 17:35:58</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>【件名】大使館からの情報発信（３月５日午後０時）</title>
+        <lead>【重要なお知らせ】
+本日アラブ首長国全域は危険情報レベル３（渡航中止勧告）に引き上げられております。
+https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03431.html
+ 
+上記案内で、アラブ首長国連邦に滞在する邦人で希望される方々を空港が稼働している近隣国へ陸路で輸送する予定があります。
+案内については在留届又はたびレジに登録済みの方に送らさせて頂きます。
+在留届又はたびレジ登録をお済みでない方がいらっしゃいましたら、必ず実施して頂くようお願いいたします。
+●在留届（アブダビ首長国内にお住まいの日本国籍者対象）
+https://www.ezairyu.mofa.go.jp/RRnet/index.html
+●たびレジ（短期渡航中及び滞在されている日本国籍者対象）
+https://www.ezairyu.mofa.go.jp/tabireg/index.html
+ 
+また、情勢の急激な変化により、いつでも避難できるよう手元にパスポート、現金等をご準備頂きますようお願いいたします。
+外務省から下記の海外安全対策マニュアルを発信しておりますので、ご参照ください。
+「ゴルゴ１３の中堅・中小企業向け海外安全対策マニュアル」
+https://www.anzen.mofa.go.jp/anzen_info/golgo13xgaimusho.html
+【退避への備え】
+https://www.anzen.mofa.go.jp/anzen_info/pdf/another_story1.pdf</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163348</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163348A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163348.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163348L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163347</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/05 17:30:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>当地危険レベルの引き上げ及び出国支援について（３月５日）</title>
+        <lead>○　本日の外務省海外安全ホームページからのメールのとおり、中東情勢の緊張を受け、バーレーンについても危険レベル３（渡航中止勧告）に引き上げとなりました。
+○　併せて発出された報道発表によると、国際空港の閉鎖や近隣国空港のフライトチケット入手が困難な状況が続いていることから、日本政府は、バーレーンに滞在する邦人で希望される方々を対象に、空港が稼働しているサウジアラビア・リヤドへの陸路輸送、更にチャーター機による東京までの輸送を準備しています。
+【外務省報道発表】
+https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03431.html
+○　また、同発表によると、当該出国支援に関する詳細は、今後在留届及びたびレジ登録者の登録メールアドレス宛に送付されますが、サウジアラビアへの入国は、３月３日付け当館からの領事メールのとおりVISAの取得が必要となります。
+　よって、同計画によりサウジアラビアへの移動を希望される予定の方は、早急にサウジアラビア政府のサイトからeVISAを取得するようお願いいたします。
+【サウジアラビアeVISA取得サイト】
+　当館で把握している、eVISA取得サイトは下の２つとなります。これまでに把握している情報では、いずれか一方のサイトで申請が不可であった場合でも、もう一方のサイトで申請できる場合があるとのことです。
+・https://ksavisa.sa/
+・https://visa.visitsaudi.com/
+【３月３日付け当館から領事メール】
+https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163347</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163347A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163347.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163347L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163345</keyCd>
         <infoType>R10</infoType>
@@ -1957,89 +2041,5 @@ https://www.emirates.com/ae/english/ （エミレーツ航空 HP）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163270.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163270L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163269</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 17:45:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>中東情勢に関する注意喚起及び情報収集について</title>
-        <lead>○2月28日以降、クウェートにおいてイランからの攻撃が継続しており、クウェート政府の関係機関はそれへの対応ぶりや被害状況、その他関連情報について発表しています。今後も情勢悪化の可能性があります。
-
-○引き続き、不要不急の外出は避けるとともに、軍関連施設や重要インフラ施設等には近づかないようにしてください。爆発音が聞こえた場合には、
-屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
-屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
-といった行動の徹底をお願いします。
-
-○以下のような複数の信頼できる情報源から最新情報を確認するとともに、クウェート政府関連当局から指示に従い、ご自身の安全確保に努めてください。
-・　クウェート情報省
-https://x.com/MOInformation?s=20
-・　クウェート内務省
-https://x.com/Moi_kuw?s=20
-・　クウェート国営通信（Kuwait News Agency, KUNA）
-https://www.kuna.net.kw/Default.aspx?language=en　
-※クウェート政府各省からの発表は随時こちらに転載されます。
-・　クウェート国際空港（Kuwait International Airport）
-https://www.kuwaitairport.gov.kw/en/　
-※　クウェート発着便の運行状況について確認できます。
-
-○また、在留邦人の方で、負傷等の被害に遭われた方がいらっしゃいましたら、下記のとおり当館連絡先まで速やかにご連絡ください。
-
-○在留届、たびレジ登録時の電話番号及び住所が最新の情報と整合しているか、再度、ご確認をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163269</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163269A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163269.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163269L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163268</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 17:25:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月3日10:00時点）</title>
-        <lead>３月３日１０時現在（現地時間）、テルアビブ（ベン・グリオン）空港は閉鎖されております。現時点においては、３月４日まで閉鎖とされています。
- 
-【航空当局の公式発表】
-・安全保障状況が許すまで全面運休・空域閉鎖であり、期限や再開日時は発表されていません。
-・再開の際には、２４時間前までにIsrael Airports Authorityから公式発表が行われるとされています。
- 
-【観光省からの情報提供】
-・現時点では、閉鎖は3月4日までとされています。
- 
-【一部報道】
-・今後空域が再開されたとしても、当面、海外に取り残されたイスラエル国民の救援フライトが中心。
-・エルアル航空は、空域が再開次第、欠航便の顧客の振替え便を速やかに手配できるよう、3月21日までの新規航空券の予約を停止。これに関して、アルキア航空とイズレール航空は、それぞれ3月15日と3月18日まで新規航空券の予約を停止。
-・2日、イスラエル公共放送KANは、ベン・グリオン空港は金曜日（６日）まで閉鎖。
-
- 
-今後の空港稼働状況等については、以下のホームページ又はご利用予定の航空会社にご確認ください。
- 
-（テルアビブ（ベン・グリオン）空港発の定期商用便の運航状況）
-https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
- 
-陸路国境通行所の詳細は、以下のホームページで確認いただけますが、現在の情勢を踏まえ、通行可能時間が予告なく変更となる可能性がありますのでご留意ください。
-（参照：Israel Airport Authorityホームページ内の「Land Borders」）
-https://www.iaa.gov.il/en/
- 
-繰り返しのお知らせとなりますが、不測の事態に備え、ロケット弾の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163268</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163268A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163268.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163268L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
