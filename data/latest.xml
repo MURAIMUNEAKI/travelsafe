@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/05 16:30:51" mailCount="72" odType="02">
+<opendata dataType="L" lastModified="2026/03/05 16:40:50" mailCount="71" odType="02">
     <mail>
         <keyCd>163342</keyCd>
         <infoType>R10</infoType>
@@ -1964,23 +1964,5 @@ https://www.iaa.gov.il/en/
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163268.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163268L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163266</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/03 16:40:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0994</cd>
-        </country>
-        <title>領事窓口再開のお知らせ（３月４日から）</title>
-        <lead>在アゼルバイジャン日本国大使館の領事窓口は、明日（３月４日）から通常営業とさせていただきます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163266</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163266A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163266.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163266L.xml</xmlLightUrl>
-        <koukanCd>530A</koukanCd>
     </mail>
 </opendata>
