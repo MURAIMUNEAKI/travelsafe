@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/06 16:30:50" mailCount="68" odType="02">
+<opendata dataType="L" lastModified="2026/03/06 16:45:50" mailCount="69" odType="02">
+    <mail>
+        <keyCd>163378</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/06 16:45:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0230</cd>
+        </country>
+        <title>チクングニア熱感染事例確認に伴う注意喚起</title>
+        <lead>【ポイント】
+○チクングニア熱のローカル感染が拡大しています。
+○虫除け対策を入念に行い、チクングニア熱の症状が疑われる場合は、早めに医療機関を受診してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163378</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163378A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163378.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163378L.xml</xmlLightUrl>
+        <koukanCd>739A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163377</keyCd>
         <infoType>R10</infoType>
