@@ -1,5 +1,109 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 02:50:49" mailCount="48" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 03:25:49" mailCount="52" odType="02">
+    <mail>
+        <keyCd>163398</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 03:20:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>（結果のご連絡）日本政府手配のマスカットへのバス及びマスカットから東京へのチャーターフライトについて</title>
+        <lead>標記調査にご回答いただいた皆様
+
+本調査に関して、日本政府が確保することのできた席数を超える数のバスへの乗車・フライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
+■高齢、傷病、妊娠中、お子様連れ等の方
+■未成年者（単独の場合）
+■短期旅行者等で当地に自宅等の拠点がない方　等
+
+今回の日本政府手配バス・フライトに乗車・搭乗いただける皆様には既に別途ご案内のメールを送付させていただきました。乗車・搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
+追加の運行を実施する際には改めて連絡いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163398</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163398A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163398.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163398L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163397</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 03:15:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>（結果のご連絡）日本政府手配のリヤドへのバス及びリヤドから東京へのチャーターフライトについて</title>
+        <lead>標記調査にご回答いただいた皆様
+
+本調査に関して、日本政府が確保することのできた席数を超える数のバスへの乗車・フライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
+■高齢、傷病、妊娠中、お子様連れ等の方
+■未成年者（単独の場合）
+■短期旅行者等で当地に自宅等の拠点がない方　等
+
+今回の日本政府手配バス・フライトに乗車・搭乗いただける皆様には既に別途ご案内のメールを送付させていただきました。乗車・搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
+追加の運行を実施する際には改めて連絡いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163397</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163397A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163397.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163397L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163396</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 03:10:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>（結果のご連絡）日本政府手配のリヤドへのバス及びリヤドから東京へのチャーターフライトについて</title>
+        <lead>標記調査にご回答いただいた皆様
+
+本調査に関して、日本政府が確保することのできた席数を超える数のバスへの乗車・フライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
+　■高齢、傷病、妊娠中、お子様連れ等の方
+　■未成年者（単独の場合）
+■短期旅行者等で当地に自宅等の拠点がない方　等
+
+今回の日本政府手配バス・フライトに乗車・搭乗いただける皆様には既に別途ご案内のメールを送付させていただきました。乗車・搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
+追加の運行を実施する際には改めて連絡いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163396</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163396A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163396.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163396L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163395</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 03:05:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>（結果のご連絡）日本政府手配のリヤドへのバス及びリヤドから東京へのチャーターフライトについて</title>
+        <lead>標記調査にご回答いただいた皆様
+
+本調査に関して、日本政府が確保することのできた席数を超える数のバスへの乗車・フライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
+■高齢、傷病、妊娠中、お子様連れ等の方
+■未成年者（単独の場合）
+■短期旅行者等で当地に自宅等の拠点がない方　等
+
+今回の日本政府手配バス・フライトに乗車・搭乗いただける皆様には既に別途ご案内のメールを送付させていただきました。乗車・搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
+追加の運行を実施する際には改めて連絡いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163395</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163395A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163395.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163395L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163394</keyCd>
         <infoType>R10</infoType>
