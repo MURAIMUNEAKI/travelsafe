@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/06 18:50:49" mailCount="68" odType="02">
+<opendata dataType="L" lastModified="2026/03/06 19:25:49" mailCount="67" odType="02">
     <mail>
         <keyCd>163383</keyCd>
         <infoType>R10</infoType>
@@ -1788,34 +1788,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/index.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163309.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163309L.xml</xmlLightUrl>
         <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163308</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/04 19:25:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>イラン関連情報第10報：ラス・タヌラ製油所に対する攻撃</title>
-        <lead>１　報道によれば、３月４日（現地時間）、サウジ・アラムコのラス・タヌラ製油所がドローン攻撃を受けたが、被害は発生しなかった模様です。
-　　同日、サウジアラビア国防省報道官も「ラス・タヌラ製油所を標的としたドローン攻撃未遂があったが、被害は発生しなかった」と発表しています。
-https://x.com/alekhbariyabrk/status/2029133052635693109?s=48
-https://x.com/spa_eng/status/2029133014823739821?s=48
-
-２　在留邦人の皆様におかれましては、引き続き不測の事態に備え、米国関連施設だけでなく、石油関連施設にも近づかないほか、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めてください。
-　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。
-
-３　ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、
-屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
-屋内にいる場合：　窓から離れる、窓のない部屋に移動する
-といった、ご自身の身を守る行動を最優先に行うようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163308</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163308A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163308.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163308L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
     </mail>
 </opendata>
