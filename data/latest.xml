@@ -1,5 +1,102 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 05:40:49" mailCount="55" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 06:20:49" mailCount="59" odType="02">
+    <mail>
+        <keyCd>163405</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 06:10:49</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0055</cd>
+        </country>
+        <title>邦人被害（路上での強盗事件の発生）</title>
+        <lead>邦人が被害者となる路上での強盗事件が発生しましたので、お知らせします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163405</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163405A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163405.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163405L.xml</xmlLightUrl>
+        <koukanCd>403G</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163404</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 06:00:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <title>（結果のご連絡）政府手配のマスカットから東京へのチャーターフライトについて</title>
+        <lead>標記調査にご回答いただいた皆様
+
+本調査に関して、日本政府が確保することのできた席数を超える数のフライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
+　■高齢、傷病、妊娠中、お子様連れ等の方　■未成年者（単独の場合）■短期旅行者等で当地に自宅等の拠点がない方　等
+
+今回のフライトに搭乗にいただける皆様には既に別途ご案内のメールを送付させていただきました。搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
+今回のフライトへの搭乗ができなかった皆様には、追加の運行を実施する際には連絡させていただきます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163404</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163404A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163404.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163404L.xml</xmlLightUrl>
+        <koukanCd>761A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163403</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 05:55:42</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0254</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0252</cd>
+        </country>
+        <title>ラマダン期間中のテロに関する注意喚起</title>
+        <lead>２月13日付にて、外務省より広域情報が発出されているとおり、２月18日（水）から３月19日（木）の期間は、イスラム教のラマダン月に当たります。
+https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C012.html
+
+また、今般の中東情勢に応じて、イスラム過激派組織は、イスラエルや欧米諸国等の関連施設を標的とするように繰り返し呼びかけており、米国やイスラエル権益に対するテロが発生する可能性も否定できません。
+
+つきましては、在留邦人及び旅行者の皆様におかれましては、以下の場所がテロの標的となりやすいことを十分認識し、不測の事態に巻き込まれないよう、当該期間中はなるべく避けるようご注意ください。
+
+●米国・イスラエル等西側公館施設及び軍関連施設
+●レストラン、ホテル、ショッピングモール、ナイトクラブ、映画館等人が多く集まる施設
+●教会・モスク等宗教関係施設
+●政府関連施設</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163403</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163403A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163403.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163403L.xml</xmlLightUrl>
+        <koukanCd>713A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163402</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 05:45:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>（結果のご連絡）政府手配のリヤドから東京へのチャーターフライトについて</title>
+        <lead>標記調査にご回答いただいた皆様
+
+本調査に関して、日本政府が確保することのできた席数を超える数のフライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
+　■高齢、傷病、妊娠中、お子様連れ等の方　■未成年者（単独の場合）■短期旅行者等で当地に自宅等の拠点がない方　等
+
+今回のフライトに搭乗いただける皆様には既に別途ご案内のメールを送付させていただきました。搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
+今回のフライトへの搭乗ができなかった皆様には、追加の運行を実施する際には連絡させていただきます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163402</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163402A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163402.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163402L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163401</keyCd>
         <infoType>R10</infoType>
