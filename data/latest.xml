@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/06 16:45:50" mailCount="69" odType="02">
+<opendata dataType="L" lastModified="2026/03/06 17:30:51" mailCount="70" odType="02">
+    <mail>
+        <keyCd>163380</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/06 17:05:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0267</cd>
+        </country>
+        <title>住居侵入窃盗事件等の発生【注意喚起】</title>
+        <lead>○在留邦人に対する電線盗難及び住居侵入窃盗事件が発生しましたのでお知らせします。邦人の皆様におかれましては、自宅の防犯措置を再確認し、細心の注意を払って下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163380</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163380A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163380.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163380L.xml</xmlLightUrl>
+        <koukanCd>732A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163379</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/06 17:00:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>イラン関連情報第12報：サウジアラビアに対する攻撃発生情報及び注意喚起</title>
+        <lead>１　昨日５日未明から本日６日朝にかけて当地国防省が発表したサウジアラビアに対する攻撃状況に関する概況以下のとおりです。
+－　５日未明、アルカルジ（リヤドから南方約100キロに位置する都市）郊外で巡航ミサイル３発を迎撃
+－　５日未明、アルカルジでドローン３機を迎撃
+－　５日早朝、ジャウフ州東部でドローン１機を迎撃
+－　６日未明、プリンス・スルタン基地に向かう弾道ミサイル３発を迎撃
+－　６日未明、東部州でドローン１機を迎撃
+－　６日早朝、アルカルジ東部でドローン１機を迎撃
+－　６日早朝、アルカルジ東部で巡航ミサイル１発を迎撃
+－　６日朝、　リヤド東部でドローン３機を迎撃
+
+２　在留邦人の皆様におかれましては、引き続き不測の事態に備え、米国関連施設、軍事関連施設、石油施設等、攻撃の対象となる可能性のある施設には近づかない（写真撮影等も厳禁）ほか、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めて下さい。
+　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。
+
+３　ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、
+屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
+屋内にいる場合：　窓から離れる、窓のない部屋に移動する
+といった、ご自身の身を守る行動を最優先に行うようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163379</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163379A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163379.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163379L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163378</keyCd>
         <infoType>R10</infoType>
@@ -1822,29 +1874,5 @@ https://x.com/spa_eng/status/2029133014823739821?s=48
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163303.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163303L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163301</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/04 17:15:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月４日 １２時００分）</title>
-        <lead>○３月４日１２時現在、ドバイ国際空港（DXB）及びアル・マクトゥーム国際空港（DWC）では、一部のフライトが運航しています。エミレーツ航空については、４日２３時５９分までの定期便の運航停止を発表していますが、一部の便は運航している状況も見受けられます。 
-安全確保及び今後の運航状況の不確実性や航空券の入手状況を踏まえ、当地からの退避をお考えの方は、乗り継ぎ便を含む運航中のフライトの利用も選択肢としてご検討ください。 
-なお、DXB及びエミレーツ航空は、航空会社から直接確定した出発時刻の通知を受けていない限り空港へ向かわないよう注意を呼びかけています。 
-空港ご利用予定に際しては、引き続き当館からのメール配信及び当局、空港、各航空会社等の最新の発表をご確認いただきますよう、お願いいたします。  
-
-https://dubaiairports.ae/　（ドバイ国際空港HP）  
-https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163301</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163301A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163301.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163301L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
