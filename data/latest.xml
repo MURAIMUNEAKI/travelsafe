@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/06 17:45:49" mailCount="70" odType="02">
+<opendata dataType="L" lastModified="2026/03/06 18:25:49" mailCount="69" odType="02">
+    <mail>
+        <keyCd>163383</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/06 18:05:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月6日(金）11:00時点）</title>
+        <lead>3月6日(金)11時現在（現地時間）、テルアビブ（ベン・グリオン）空港からの出発便は運航されていません。
+ 
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼
+ 
+■■ベン・グリオン空港運航状況（前回から変更なし）
+●公式ウェブページでは、3月6日(金)14:00までの出発便の運航ステータスは「キャンセル」。
+ 
+■■ヨルダン クイーン・アリア国際空港
+●6日（金）からロイヤル・ヨルダン航空の全運賃が見直される（価格が上がる見込み）。
+ 
+■■注意喚起
+●中東地域での航空便の欠航や空域閉鎖による混乱に乗じ、航空会社のサポート部門を装ったソーシャルメディア（SNS）上の詐欺行為が急増しているとの情報がありますのでご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163383</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163383A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163383.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163383L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163380</keyCd>
         <infoType>R10</infoType>
@@ -1814,65 +1846,5 @@ https://x.com/spa_eng/status/2029133014823739821?s=48
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163306.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163306L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163304</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/04 18:25:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>ハマド国際空港情報（３月４日午後０時時点）</title>
-        <lead>３月４日午後０時現在、ハマド国際空港は依然として全ての航空便の運航が停止されています。 
-
-【カタール航空ご利用の方の荷物の受け取りについて】 
-預入荷物の受取については、滞在先ホテルのフロントデスクに +974 4010 5586 に電話するようご依頼下さい。その際、パスポート、ホテルバウチャー、荷物タグを用意し、それらをホテル側に共有してください。 
-
-皆様においては、搭乗予定の航空会社から最新の運航状況を確認をするようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163304</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163304A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163304.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163304L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163303</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/04 18:00:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月4日11:00時点）</title>
-        <lead>3月4日11時現在（現地時間）、テルアビブ（ベン・グリオン）空港からの出発便は運航されていません。
-
-■■■■新着情報■■■■
-【観光省からの情報提供】
-・観光省では、イスラエルの航空会社アルキアと協働して、エジプト・タバ-キプロス・ラルナカ間の退避便フライトを計画。タバまでは観光省がチャーターバスを運航。詳細情報の入手に関しては、（昨日お知らせした）「出国希望者向け情報」のフォーム（https://govforms.gov.il/mw/forms/TouristEvacuationFromIsrael@tourism.gov.il?displang=en&amp;gbxid=0 ）に登録が必要。
-・3月5日(木)から、エル・アル・イスラエル航空は、現在イスラエル国外で足止めされているイスラエル人の帰国を目的として、ラルナカ及びアテネからの帰還便を運航。現在の安全保障の状況に鑑み、これらの便へのイスラエルからの搭乗はできない。
-・アテネ及びラルナカの海路でのクルーズ運航については、現状はいかなる決定もされていない。
-
-【報道】
-・軍ラジオニュースによると、今夜からベン・グリオン空港を限定再開。イスラエル国外に足止めされているイスラエル市民の帰還を目的とする帰還便のみ。当面は一時間に一着陸便のみで運用。
-
-【航空会社発表】
-・エル・アル・イスラエル航空は、イスラエルへの帰還便の運航準備を完了した。航空券を予約済みの者に対し追加料金なしで振替便を提供。該当者にはエル・アル航空から連絡。
-・新規の予約は受け付けていない。（https://www.elal.com/eng/about-elal/news/recent-updates ）
-
-【ベン・グリオン空港運航状況】
-・公式ウェブページでは、3月5日(木)10:00までの出発便の運航ステータスは「キャンセル」。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163303</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163303A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163303.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163303L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
