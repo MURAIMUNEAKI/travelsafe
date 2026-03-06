@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 04:50:49" mailCount="54" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 05:25:49" mailCount="55" odType="02">
+    <mail>
+        <keyCd>163401</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 05:20:45</leaveDate>
+        <title>【注意喚起】大規模抗議集会「STOP THE WAR ON IRAN」（３月７日）の実施について</title>
+        <lead>【ポイント】
+●明日３月７日（土）、全米各地で「STOP THE WAR ON IRAN」と題する大規模抗議集会が呼びかけられています。（https://www.answercoalition.org/iran）
+●多くの人が集まる場所では、不測の事態が発生する危険性も高まりますので、抗議活動が行われている場所に不用意に近づかない、周囲の状況に十分警戒するなど、ご自身の安全確保に十分注意を払ってください。
+●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163401</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163401A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163401.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163401L.xml</xmlLightUrl>
+        <koukanCd>301V</koukanCd>
+    </mail>
     <mail>
         <keyCd>163400</keyCd>
         <infoType>R10</infoType>
