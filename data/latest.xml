@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/06 23:55:48" mailCount="61" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 00:30:49" mailCount="52" odType="02">
+    <mail>
+        <keyCd>163392</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 00:25:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月６日午後６時時点）</title>
+        <lead>３月６日午後６時現在、ハマド国際空港は依然として全ての航空便の運航が停止されています。
+
+航空便で移動を予定している邦人の皆様においては、搭乗予定の航空会社から最新の運行状況を確認をするようお願いいたします。
+
+【荷物の受け取りについて】
+カタール航空利用者：
+ホテルに配置されているカタール航空の専用チームにお声がけください。
+
+すべての利用者（他航空会社を含む）：
+手荷物サービスまでご連絡ください。
++974 4010 1812
++974 4010 5586</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163392</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163392A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163392.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163392L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163390</keyCd>
         <infoType>R10</infoType>
@@ -1317,296 +1346,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/index.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163326.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163326L.xml</xmlLightUrl>
         <koukanCd>506I</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163325</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/05 00:25:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>ハマド国際空港情報（３月４日午後６時時点）</title>
-        <lead>３月４日午後６時現在、ハマド国際空港は依然として全ての航空便の運航が停止されています。
-
-カタール航空は、３月６日午前９時に運航状況の見直し等を更新予定とのことです。
-
-航空便で移動を予定している邦人の皆様においては、搭乗予定の航空会社から最新の運行状況を確認をするようお願いいたします。
-
-【カタール航空ご利用の方の荷物の受け取りについて】
-預入荷物の受取については、滞在先ホテルのフロントデスクに +974 4010 5586 に電話するようご依頼下さい。その際、パスポート、ホテルバウチャー、荷物タグを用意し、それらをホテル側に共有してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163325</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163325A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163325.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163325L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163324</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/05 00:10:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月４日 １９時００分）</title>
-        <lead>○３月４日１９時現在、ドバイ国際空港（DXB）及びアル・マクトゥーム国際空港（DWC）では、一部のフライトが運航しています。安全確保及び今後の運航状況の不確実性や航空券の入手状況を踏まえ、当地からの退避をお考えの方は、乗り継ぎ便を含む運航中のフライトの利用も選択肢としてご検討ください。 
-なお、DXB及びエミレーツ航空は、航空会社から直接確定した出発時刻の通知を受けていない限り空港へ向かわないよう注意を呼びかけています。 
-空港ご利用予定に際しては、引き続き当館からのメール配信及び当局、空港、各航空会社等の最新の発表をご確認いただきますよう、お願いいたします。  
-https://dubaiairports.ae/　（ドバイ国際空港HP）  
-https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163324</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163324A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163324.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163324L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163323</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/05 00:06:04</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【交通情報】ケルン、ボンおよびモンハイムでの近距離公共交通機関におけるストライキの影響（３月６日(金)）</title>
-        <lead>○Ver.di（統一サービス業労働組合）等は、新たな警告ストライキを呼びかけています。
-○３月６日（金）午前３時から翌７日（土）午前３時頃まで、ケルン、ボンおよびモンハイムの近距離公共交通機関（バスや路面電車等）の運休が予定されています。また、KVBとSWBが共同運行する路面電車16系統及び18系統に加え、夜行バス路線も影響をうける模様です。
-○S-BahnやRE（地域列車）等はストライキの影響を受けないとのことです。
-○通勤、通学、旅行等に当たっては、事前にご利用予定の公共交通機関の運行情報等をよくご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163323</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163323A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163323.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163323L.xml</xmlLightUrl>
-        <koukanCd>506F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163322</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/05 00:06:03</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0592</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0473</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0597</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0784</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0758</cd>
-        </country>
-        <country areaCd="33">
-            <cd>0868</cd>
-        </country>
-        <title>トリニダード・トバゴにおける緊急事態宣言の発令</title>
-        <lead>　3月3日、カンガルー大統領は、緊急事態宣言を発令しました。同日付パサード＝ビセッサ－首相声明によると、前回の緊急事態宣言が1月31日に終了した後、ギャングによる暴力的犯罪行為が全国的に増加し、放置すればギャング間の報復の銃撃が公共の安全を脅かし、また、警察官、刑務所職員等を標的とする攻撃に関する情報があることなどが宣言発令の理由とされています。現時点では、外出禁止令は発令されていません。
-
-○ご参考
-2026年2月4日付け領事メール
-トリニダード・トバゴにおける緊急事態宣言の終了
-https://www.tt.emb-japan.go.jp/itpr_ja/11_000001_04754.html</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163322</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163322A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163322.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163322L.xml</xmlLightUrl>
-        <koukanCd>424A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163321</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/05 00:00:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月4日17:00時点）</title>
-        <lead>3月4日17時現在（現地時間）、テルアビブ（ベン・グリオン）空港からの出発便は運航されていません。
-
-■■■■新着情報■■■■
-ヨルダン クイーン・アリア国際空港の航空各社の運航状況
-・エミレーツ航空：12日(木)までキャンセル
-・カタール航空：カタールの空域が再開次第再開（カタール時間6日(金)9時までに情報が更新される）
-・ロイヤルヨルダン航空：空域が閉鎖されていない限り運航（シリア、イラク、UAE、バーレーン、クウェート、カタールは空域閉鎖に伴い運休）※下部に残席情報あり
-・エティハド航空：UAE時間5日(木)14時までキャンセル
-・トルコ航空：公式ウェブサイトでは6日(金)までアンマン便はキャンセル
-・フライドバイ：限定的再開
-・エチオピア航空：運休
-
-※【ロイヤルヨルダン航空の残席情報4日(水)14時現在、3月5日、6日分】
-Amman to Athens: no flight on 05MAR. 06MAR has 2 seats available in business, and 9 seats in economy class
-Amman to Cairo: around 10 seats available both in economy and business class
-Amman to Istanbul: only 9 seats available in economy class on 6MAR. 05MAR currently fully booked.
-Amman to Jeddah: 05MAR, 20 seats available. 06MAR 10 seats available
-Amman to Riyadh: Widley open both on 05 and 06MAR.</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163321</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163321A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163321.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163321L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>2026T030</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢 戦争</contentInfo>
-        <leaveDate>2026/03/05 00:00:00</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>クウェートの危険情報（引上げ）</title>
-        <lead>●２月２８日、イスラエル及び米国はイランに対して攻撃を行い、同日、イラン革命ガードは、クウェート内の米軍基地を標的とする攻撃を行った旨発表しました。その後も攻撃が続いており、民間施設等にも被害が発生しています。
-●こうした状況を受け、クウェートを危険レベル３（渡航は止めてください（渡航中止勧告））に引き上げます。
-●既に滞在中の方は、複数の情報源から最新の情報を入手するなど特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T030.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T030A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T030.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T030L.xml</xmlLightUrl>
-        <riskLevel4>0</riskLevel4>
-        <riskLevel3>1</riskLevel3>
-        <riskLevel2>0</riskLevel2>
-        <riskLevel1>0</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T030_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>2026T029</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢 戦争</contentInfo>
-        <leaveDate>2026/03/05 00:00:00</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>カタールの危険情報（引上げ）</title>
-        <lead>●２月２８日、イスラエル及び米国はイランに対して攻撃を行い、同日、イラン革命ガードは、カタールの米軍基地を標的とする攻撃を行った旨発表しました。その後も攻撃が続いており、民間施設等にも被害が発生しています。
-●こうした状況を受け、カタール全土を危険レベル３（渡航は止めてください（渡航中止勧告））に引き上げます。
-●既に滞在中の方は、複数の情報源から最新の情報を入手するなど特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T029.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T029A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T029.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T029L.xml</xmlLightUrl>
-        <riskLevel4>0</riskLevel4>
-        <riskLevel3>1</riskLevel3>
-        <riskLevel2>0</riskLevel2>
-        <riskLevel1>0</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T029_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>2026T028</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢 戦争</contentInfo>
-        <leaveDate>2026/03/05 00:00:00</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>アラブ首長国連邦の危険情報（引上げ）</title>
-        <lead>●２月２８日、イスラエル及び米国はイランに対して攻撃を行い、同日、イラン革命ガードは、アラブ首長国連邦内の米軍基地を標的とする攻撃を行った旨発表しました。その後も攻撃が続いており、民間施設等にも被害が発生しています。
-●こうした状況を受け、アラブ首長国連邦全土を危険レベル３（渡航は止めてください（渡航中止勧告））に引き上げます。
-●既に滞在中の方は、複数の情報源から最新の情報を入手するなど特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T028.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T028A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T028.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T028L.xml</xmlLightUrl>
-        <riskLevel4>0</riskLevel4>
-        <riskLevel3>1</riskLevel3>
-        <riskLevel2>0</riskLevel2>
-        <riskLevel1>0</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T028_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>2026T027</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢 戦争</contentInfo>
-        <leaveDate>2026/03/05 00:00:00</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0968</cd>
-        </country>
-        <title>オマーンの危険情報（引上げ）</title>
-        <lead>●２月２８日（現地時間）、イスラエル、米国によるイランへの攻撃がありました。
-●同日、オマーンを除く湾岸諸国等に攻撃があり、イラン革命ガードは、各国国内の米軍基地等を標的とする攻撃を行った旨発表しました。その後、オマーンに対しても攻撃がありました。
-●こうした状況を受け、オマーン全土を危険レベル３（渡航は止めてください（渡航中止勧告））に引き上げます。
-●既に滞在中の方は、複数の情報源から最新の情報を入手するなど特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。
-●お困りの方は、在オマーン日本国大使館又は外務省領事局にご連絡ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T027.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T027A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T027.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T027L.xml</xmlLightUrl>
-        <riskLevel4>0</riskLevel4>
-        <riskLevel3>1</riskLevel3>
-        <riskLevel2>0</riskLevel2>
-        <riskLevel1>0</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T027_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>2026T026</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢</contentInfo>
-        <leaveDate>2026/03/05 00:00:00</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>サウジアラビアの危険情報（一部引上げ）</title>
-        <lead>●２月２８日、イスラエル及び米国はイランに対して攻撃を行い、同日、イラン革命ガードは、サウジアラビア内の米軍基地を標的とする攻撃を行った旨発表しました。その後も攻撃が続いており、民間施設等にも被害が発生しています。
-●こうした状況を受け、攻撃が発生しているリヤド州・東部州を危険レベル３（渡航は止めてください（渡航中止勧告））に引き上げます。
-●既に滞在中の方は、複数の情報源から最新の情報を入手するなど特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T026.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T026A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T026.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T026L.xml</xmlLightUrl>
-        <riskLevel4>0</riskLevel4>
-        <riskLevel3>1</riskLevel3>
-        <riskLevel2>1</riskLevel2>
-        <riskLevel1>1</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T026_1_Detail.html</mapImageUrl>
     </mail>
 </opendata>
