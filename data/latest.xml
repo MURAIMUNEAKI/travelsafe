@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/06 21:30:49" mailCount="67" odType="02">
+<opendata dataType="L" lastModified="2026/03/06 22:00:50" mailCount="65" odType="02">
+    <mail>
+        <keyCd>163387</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/06 21:55:51</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0055</cd>
+        </country>
+        <title>邦人被害（強盗未遂事件の発生）</title>
+        <lead>邦人が被害者となる強盗未遂事件が発生しましたので、お知らせします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163387</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163387A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163387.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163387L.xml</xmlLightUrl>
+        <koukanCd>403G</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163386</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/06 21:35:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>イラン関連情報第13報：領事窓口閉鎖のお知らせ（３月８日から当面の間）</title>
+        <lead>１　現在の中東情勢の緊張を受け、来館者の皆様及び職員の生命・身体の安全確保のため、在サウジアラビア日本国大使館は、３月８日（日）から当面の間、領事窓口を臨時閉鎖します。再開の際は、改めて領事メール等でお知らせします。
+
+２　なお、邦人保護やパスポート更新等の業務については対応しておりますので、必要な方は、本メール末尾に記載の問い合わせ先へ事前の連絡をお願いします。
+
+３　在留邦人の皆様におかれましては、引き続き不測の事態に備え、米国関連施設、軍事関連施設、石油施設等、攻撃の対象となる可能性のある施設には近づかない（写真撮影等も厳禁）ほか、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めて下さい。
+　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。
+
+（問い合わせ先） 
+在サウジアラビア日本国大使館領事班 
+TEL：011-488-1100 
+FAX：011-488-0189 
+E-mail：consular-sec@rd.mofa.go.jp 
+ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html 
+　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。 
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163386</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163386A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163386.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163386L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163385</keyCd>
         <infoType>R10</infoType>
@@ -1649,117 +1699,5 @@ https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_052.html#ad-image-0<
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163316.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163316L.xml</xmlLightUrl>
         <koukanCd>707A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163314</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/04 21:46:04</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0041</cd>
-        </country>
-        <country areaCd="42">
-            <cd>0423</cd>
-        </country>
-        <title>中東情勢を踏まえた注意喚起</title>
-        <lead>●目下の中東情勢を踏まえ、スイスに滞在中の日本人の皆様におかれては、以下についてご注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163314</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163314A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163314.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163314L.xml</xmlLightUrl>
-        <koukanCd>516A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163313</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/04 21:46:03</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>クウェート国際空港の状況（3月4日15:00時点）について</title>
-        <lead>○3月4日15:00時点（現地時間）、クウェート国際空港は閉鎖されています。
-邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
-
-○同空港のサイトを以下のとおりお知らせします。
-クウェート国際空港（Kuwait International Airport）
-https://www.kuwaitairport.gov.kw/en/　
-※	クウェート発着便の運行状況について確認できます。
-
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163313</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163313A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163313.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163313L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163312</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/04 21:40:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>9007</cd>
-        </country>
-        <title>中東各国にある日本大使館、総領事館の領事メール受信方法</title>
-        <lead>●目下の中東情勢を踏まえ、モスクワから日本への主要なフライト乗り継ぎ地である中東各国に所在する日本大使館などは、各地の空港やフライト運航状況などについて領事メールを通じて頻繁に発信しています。これらのメールは「たびレジ」に登録すれば配信を受けられます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163312</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163312A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163312.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163312L.xml</xmlLightUrl>
-        <koukanCd>517A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163311</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/04 21:35:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0964</cd>
-        </country>
-        <title>イラク国内の状況及び注意喚起（３月４日）</title>
-        <lead>１　米国、イスラエルのイラン攻撃以降、イラク国内のバグダッド、エルビル、バスラの主要都市を含めた複数箇所において、米国権益等への攻撃とともに、イラク国内の武装勢力への米等からと見られる攻撃が引き続き発生しています。特に、エルビルでは、同地に所在する米軍基地への攻撃が頻発しております。
-
-２　更に、イラク国内で米国等への抗議活動が継続的に実施されており、特にバグダッド中心部では、交通封鎖が複数箇所で実施されています。
-
-３　こうした攻撃や抗議活動により、万が一被害にあった場合には、まずはご自身の安全を確保いただき、その後、当館にもご一報をお願いいたします。
-
-４　今回のイラクを含む中東地域での攻撃発生に伴い、３月４日現在、イラク空域の封鎖は継続されており、航空便の運行はすべて運休となっております。
-
-５　３月４日現在、トルコ及びクウェートの陸路国境は開放されています。陸路移動の際は、警護要員の同行等、十分な安全対策をとってください。また、トルコへの出国では、以下の情報の事前通報が必要となっており、クウェートについても今後必要となる可能性があり得ますので、陸路移動される場合には、当館又はエルビル領事事務所に必要情報の連絡をお願いします。
-
-（陸路出国に必要な情報）
-●　出国日
-●　パスポート情報（顔写真ページ写し）
-●　出国先での一時滞在先
-●　出国先からの航空券情報（Eチケット写し）
-●　移動車両情報
-
-
-６　やむを得ない事情により現在イラクに滞在中の方におかれましては、不要不急の外出を控えてください。また、今後、治安が急速に悪化することもあり得ます。航空便の運航状況を含め、報道や警備会社を通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163311</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163311A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163311.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163311L.xml</xmlLightUrl>
-        <koukanCd>704W</koukanCd>
     </mail>
 </opendata>
