@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 08:50:49" mailCount="60" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 09:25:49" mailCount="60" odType="02">
+    <mail>
+        <keyCd>163409</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 09:15:44</leaveDate>
+        <title>【注意喚起】イランへの攻撃に対する抗議集会（3月7日）の実施について</title>
+        <lead>●3月7日（土）、米国によるイラン攻撃に対する抗議集会が全米規模で予定されており、オレゴン州やアイダホ州でも予定されています。詳細は以下のURLをご参照ください。
+https://www.answercoalition.org/iran
+●不測の事態に巻き込まれないよう、外出される前には報道等で最新情報の入手に努め、抗議集会が行われている場所には安易に近づかない等、十分注意を払ってください。
+●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。また、車で外出される際には迂回ルートをあらかじめ想定しておいてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163409</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163409A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163409.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163409L.xml</xmlLightUrl>
+        <koukanCd>301W</koukanCd>
+    </mail>
     <mail>
         <keyCd>163408</keyCd>
         <infoType>R10</infoType>
@@ -1494,36 +1509,5 @@ https://www.anzen.mofa.go.jp/anzen_info/pdf/another_story1.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163336.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163336L.xml</xmlLightUrl>
         <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163335</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/05 09:10:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>9007</cd>
-        </country>
-        <title>中東各国にある日本大使館、総領事館の領事メール受信方法</title>
-        <lead>●目下の中東情勢を踏まえ、モスクワから日本への主要なフライト乗り継ぎ地である中東各国に所在する日本大使館などは、各地の空港やフライト運航状況などについて領事メールを通じて頻繁に発信しています。これらのメールは「たびレジ」に登録すれば配信を受けられます。
-
-現在、中東各国にある日本大使館、総領事館では、空港や乗り入れ航空会社の運航状況などを在留邦人に周知するために領事メールを通じて頻繁に発信しています。これらの領事メールは外務省が運営する海外安全情報の無料配信サービス「たびレジ」に登録すれば配信を受けられます。登録サイトは次の通りです。
-https://www.ezairyu.mofa.go.jp/tabireg/index.html　
-
-上記のサイトでは「渡航予定がある方」と「渡航予定がない方」によって登録方法が異なります。休暇などの一時帰国で実際にアブダビ、ドバイ、カタール、イスタンブールなどでの乗り継ぎを予定している場合には「渡航予定がある方」から、そうでない場合には「渡航予定がない方」から、情報が必要な国とご自身のメールアドレスを登録してください。
-
-また、海外安全ホームページの各国別の頁の下段に「現地大使館・総領事館からの安全情報」の欄があり、ここでも各公館が発信した領事メールを閲覧することができます。以下は、日本への乗り継ぎ地の情報が掲載されているサイトです。
-・アラブ首長国連邦（UAE、アブダビ、ドバイ）
-https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_042.html#ad-image-0　　
-・カタール（ドーハ）
-https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_048.html#ad-image-0　
-・トルコ（イスタンブール）
-https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_052.html#ad-image-0</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163335</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163335A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163335.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163335L.xml</xmlLightUrl>
-        <koukanCd>517E</koukanCd>
     </mail>
 </opendata>
