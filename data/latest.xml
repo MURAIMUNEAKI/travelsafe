@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 14:40:49" mailCount="55" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 15:25:49" mailCount="56" odType="02">
+    <mail>
+        <keyCd>163412</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 14:55:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月７日午前８時時点）</title>
+        <lead>カタール航空は３月７日、立ち往生している方、高齢者、医療的なニーズを必要とする人等を対象とし、ロンドン、パリ、マドリード、ローマ、フランクフルト行きの便を運行すると発表しました。
+他方、これら便は定期商業運航便の再開を意味するものではないとのことです。
+
+乗客の皆様にあっては、カタール航空からの正式な連絡を受けるまで空港には向かわないようにして下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163412</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163412A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163412.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163412L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163411</keyCd>
         <infoType>R10</infoType>
