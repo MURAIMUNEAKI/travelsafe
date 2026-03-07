@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 22:00:49" mailCount="49" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 22:30:49" mailCount="50" odType="02">
+    <mail>
+        <keyCd>163419</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 22:30:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>【重要】【在カタール大使館】カタールに滞在されている皆様の今後の予定等について</title>
+        <lead>○３月８日に予定されている日本政府手配バス・フライトへの乗車・搭乗いただける皆様には、既に別途ご案内のメールを送付させていただきました。乗車予定の皆様におかれては、事情により参加をキャンセルされる場合は、必ず当館にご連絡ください。
+○３月９日の次のサウジアラビア・リヤドへのバス運行に関連し、改めてご希望を伺いたく以下のサイトからアンケートにご協力をお願いいたします。３月７日(土)午後11時までにご回答ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163419</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163419A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163419.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163419L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163418</keyCd>
         <infoType>R10</infoType>
