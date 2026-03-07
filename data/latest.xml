@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 10:15:49" mailCount="60" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 11:05:49" mailCount="61" odType="02">
+    <mail>
+        <keyCd>163410</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 10:36:02</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>1340</cd>
+        </country>
+        <country areaCd="33">
+            <cd>1787</cd>
+        </country>
+        <title>【注意喚起】イランへの攻撃に対する抗議集会（３月７日）の実施について</title>
+        <lead>●３月７日（土）、イランへの攻撃に対する抗議集会が全米規模で予定されており、当館管轄地域においては、ニューヨーク（マンハッタン区Union Square）やピッツバーグ等、複数の地域で抗議活動が予定されています。 
+●不測の事態に巻き込まれないよう、報道や治安当局の発表等により最新情報の入手に努めるとともに、抗議集会やデモ行進に安易に近づいたり、写真撮影をしたりせず、また、抗議集会やデモ行進に予期せず遭遇した場合には速やかにその場を離れるなど、ご自身の安全確保に十分注意を払ってください。
+●また、３月７日（土）のみならず、今後も同様の抗議集会が各地で開催される可能性がありますので、最新の報道や治安当局の発表等にご留意ください。
+●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163410</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163410A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163410.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163410L.xml</xmlLightUrl>
+        <koukanCd>301H</koukanCd>
+    </mail>
     <mail>
         <keyCd>163409</keyCd>
         <infoType>R10</infoType>
