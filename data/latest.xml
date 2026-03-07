@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 15:50:48" mailCount="56" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 16:25:49" mailCount="58" odType="02">
+    <mail>
+        <keyCd>163414</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 16:25:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェート国際空港の状況（3月7日10:00時点）について</title>
+        <lead>○3月7日10:00時点（現地時間）、クウェート国際空港は閉鎖されています。
+邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
+
+○同空港のサイトを以下のとおりお知らせします。
+クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163414</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163414A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163414.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163414L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163413</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/03/07 16:20:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>イラク国内の状況及び注意喚起（３月７日）</title>
+        <lead>１　イラク国内、特に主要都市である、バグダッド、エルビル、バスラでの米国権益等への攻撃が頻発しています。特に、エルビルでは、同地に所在する米軍基地に加え、外国人が利用するホテルへの攻撃も発生しています。
+
+２　当館からも既にお知らせしていますが、米国政府もイラク滞在の自国民に対し、イラク・クルディスタン地域(KR)における外国人が利用するホテルへの脅威、安全が確保できる国への出国について注意喚起を発出しています。
+https://iq.usembassy.gov/security-alert-u-s-embassy-baghdad-iraq-march-6-2026-update-1/
+
+３　今回のイラクを含む中東地域での攻撃発生に伴い、３月７日現在、イラク空域の封鎖は継続されており、航空便の運行はすべて運休となっております。
+
+４　現状の治安情勢を踏まえ、安全が確保できる周辺国への移動をご検討ください。３月７日現在、トルコ及びクウェートの陸路国境は開放されています。陸路移動の際は、警護要員の同行等、十分な安全対策をとってください。また、トルコへの出国では、以下の情報の事前通報が必要となっており、クウェートについても今後必要となる可能性があり得ますので、陸路移動される場合には、当館又はエルビル領事事務所に必要情報の連絡をお願いします。
+
+（陸路出国に必要な情報）
+●　出国日
+●　パスポート情報（顔写真ページ写し）
+●　出国先での一時滞在先
+●　出国先からの航空券情報（Eチケット写し）
+
+５　やむを得ない事情により現在イラクに滞在中の方におかれましては、不要不急の外出を控えてください。また、今後、治安が急速に悪化することもあり得ます。航空便の運航状況を含め、報道や警備会社を通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163413</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163413A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163413.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163413L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163412</keyCd>
         <infoType>R10</infoType>
