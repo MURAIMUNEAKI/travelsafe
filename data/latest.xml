@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 17:40:49" mailCount="52" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 18:25:48" mailCount="52" odType="02">
+    <mail>
+        <keyCd>163415</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/07 18:05:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（3月７日12時00分）</title>
+        <lead>○３月５日、外務省は、中東地域の情勢が悪化していることを踏まえ、アラブ首長国連邦を含む６カ国（サウジアラビアは東部のみ）の危険情報をレベル３（渡航中止勧告）に引き上げました。
+https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T028.html#ad-image-0
+
+○UAE国防省は、国内各地で聞こえた音は弾道ミサイルやドローンへの迎撃によるものだと発表しています。携帯電話には緊急速報（アラート）が配信されています。引き続き、不要不急の外出は避けてください。  
+
+爆発音が聞こえた場合には、  
+屋外にいる場合　：　近くの建物や地下へ避難し、物陰に身を隠してください  
+屋内にいる場合　：　窓から離れ、窓のない部屋に移動してください
+
+○３月７日朝、ドバイ国際空港（DXB）では、一時的な運航停止を発表していましたが、その後、運航再開が報じられています。 
+ 
+　当地から空路での退避を検討されている方は、乗り継ぎ便を含むフライトの運航状況を十分にご確認ください。  
+https://dubaiairports.ae/　（ドバイ国際空港HP）  
+https://www.emirates.com/ae/english/
+　（エミレーツ航空HP）  
+ 
+○在ドバイ日本国総領事館管轄地域（ドバイ首長国、シャルジャ首長国、アジュマーン首長国、ウンム・ル・カイワイン首長国、ラアス・ル・ハイマ首長国、フジャイラ首長国）に滞在されている皆様へ
+　当館から定期的に重要な情報を発信しております。在留届又は「たびレジ」登録をお済みでない方がいらっしゃいましたら、必ず実施して頂くようお願いいたします。
+在留届（３ヶ月以上、当地に長期滞在する方）
+https://www.ezairyu.mofa.go.jp/RRnet/index.html
+たびレジ（観光や出張で当地短期渡航中及び余儀なく滞在されている方）
+https://www.ezairyu.mofa.go.jp/tabireg/index.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163415</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163415A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163415.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163415L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163414</keyCd>
         <infoType>R10</infoType>
@@ -1249,40 +1288,6 @@ https://www.de.emb-japan.go.jp/files/100294519.pdf</lead>
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163352A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163352.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163352L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163351</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/05 18:00:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月5日11:00時点）</title>
-        <lead>3月5日11時現在（現地時間）、テルアビブ（ベン・グリオン）空港からの出発便は運航されていません。
- 
-▲▼▲▼▲▼新着情報▲▼▲▼▲▼
- 
-■■ベン・グリオン空港運航状況■■
-
-●公式ウェブページでは、3月6日(金)10:00までの出発便の運航ステータスは「キャンセル」。
- 
-■■イスラエル観光省からの情報提供■■
-
-●イスラエル観光省は、昨日の政府の決定に基づき、運輸・道路安全省と協力しながらイスラエルに滞在している出国希望者の対応に取り組んでいる。
-●イスラエル領空の空域制限が解除されれば、出国便も開始される。観光省は座席配分優先順位基準の策定などの準備を行っている。
-●出国便が再開される際には、チケットの購入は観光省を通さず、各航空会社に対して直接購入することになる。
-●避難便が実施されるまでの間、観光省は今週初めより、国内複数地点からタバ国境検問所へのバス輸送を実施している。昨朝は、約350名の利用があった。利用希望者は「出国希望者向け情報」のフォーム（https://govforms.gov.il/mw/forms/TouristEvacuationFromIsrael@tourism.gov.il?displang=en&amp;gbxid=0 ）に登録が必要。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163351</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163351A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163351.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163351L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
