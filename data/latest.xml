@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 17:30:50" mailCount="54" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 17:40:49" mailCount="52" odType="02">
     <mail>
         <keyCd>163414</keyCd>
         <infoType>R10</infoType>
@@ -1284,60 +1284,5 @@ https://www.de.emb-japan.go.jp/files/100294519.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163351.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163351L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163349</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/05 17:35:59</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0030</cd>
-        </country>
-        <title>船舶ストライキ（3月5日）</title>
-        <lead>報道等によれば、本日3月5日（木）午前0時から6日（金）午前0時にかけて、船舶労働者協会による24時間ストライキが実施されています。このため、ギリシャ全土の船舶運航に欠航等の影響の可能性がありますので、フェリー等船舶をご利用の方は、最新状況を各船会社等に確認してください。
-
-※この情報は現時点で発表・報道されているものとなり、今後変更となる可能性があります。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163349</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163349A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163349.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163349L.xml</xmlLightUrl>
-        <koukanCd>507A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163348</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/05 17:35:58</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>【件名】大使館からの情報発信（３月５日午後０時）</title>
-        <lead>【重要なお知らせ】
-本日アラブ首長国全域は危険情報レベル３（渡航中止勧告）に引き上げられております。
-https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03431.html
- 
-上記案内で、アラブ首長国連邦に滞在する邦人で希望される方々を空港が稼働している近隣国へ陸路で輸送する予定があります。
-案内については在留届又はたびレジに登録済みの方に送らさせて頂きます。
-在留届又はたびレジ登録をお済みでない方がいらっしゃいましたら、必ず実施して頂くようお願いいたします。
-●在留届（アブダビ首長国内にお住まいの日本国籍者対象）
-https://www.ezairyu.mofa.go.jp/RRnet/index.html
-●たびレジ（短期渡航中及び滞在されている日本国籍者対象）
-https://www.ezairyu.mofa.go.jp/tabireg/index.html
- 
-また、情勢の急激な変化により、いつでも避難できるよう手元にパスポート、現金等をご準備頂きますようお願いいたします。
-外務省から下記の海外安全対策マニュアルを発信しておりますので、ご参照ください。
-「ゴルゴ１３の中堅・中小企業向け海外安全対策マニュアル」
-https://www.anzen.mofa.go.jp/anzen_info/golgo13xgaimusho.html
-【退避への備え】
-https://www.anzen.mofa.go.jp/anzen_info/pdf/another_story1.pdf</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163348</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163348A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163348.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163348L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
     </mail>
 </opendata>
