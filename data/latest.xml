@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/07 13:25:49" mailCount="57" odType="02">
+<opendata dataType="L" lastModified="2026/03/07 14:00:49" mailCount="56" odType="02">
     <mail>
         <keyCd>163411</keyCd>
         <infoType>R10</infoType>
@@ -1372,23 +1372,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163342.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163342L.xml</xmlLightUrl>
         <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163341</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/05 13:50:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月５日 ８時３０分）</title>
-        <lead>○３月５日、外務省は、中東地域の情勢が悪化していることを踏まえ、アラブ首長国連邦を含む６カ国（サウジアラビアは東部のみ）の危険情報をレベル３（渡航中止勧告）に引き上げました。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163341</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163341A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163341.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163341L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
