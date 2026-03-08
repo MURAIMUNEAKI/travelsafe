@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/08 22:00:50" mailCount="41" odType="02">
+<opendata dataType="L" lastModified="2026/03/08 22:20:48" mailCount="42" odType="02">
+    <mail>
+        <keyCd>163434</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/08 22:05:43</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0047</cd>
+        </country>
+        <title>【注意喚起】当地米国大使館での爆発事件を踏まえた注意喚起</title>
+        <lead>＜ポイント＞
+●３月８日未明、オスロの米国大使館で原因不明の爆発事件が発生しました。現在、警察が捜査中です。
+
+●現在の中東情勢に鑑み、不測の事態が発生する可能性も排除されませんので、米国、イスラエル、イラン等関係国関連施設や同情勢に関連するデモに極力近寄らない等、安全確保に十分心がけてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163434</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163434A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163434.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163434L.xml</xmlLightUrl>
+        <koukanCd>511A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163433</keyCd>
         <infoType>R10</infoType>
