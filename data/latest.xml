@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/08 16:25:48" mailCount="44" odType="02">
+<opendata dataType="L" lastModified="2026/03/08 16:35:49" mailCount="45" odType="02">
+    <mail>
+        <keyCd>163428</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/08 16:35:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>イスラエルからヨルダンへの陸路移動の検討について(3/8)</title>
+        <lead>累次の領事メールでお知らせしておりますとおり、3月7日現在、テルアビブ（ベン・グリオン）空港からの出発便は運航されていません。イスラエル観光省は、領空の空域制限が解除されれば出発便も開始されると発表していますが、今後の状況は不透明です。
+ 
+このような状況を踏まえ、現在、在イスラエル日本国大使館は、陸路でヨルダンの首都アンマンへ退避する貸切バス運行の実施に向けて検討を行っています。
+この陸路移動に関しては、追って連絡いたします。現在のところ、3月11日(水)実施を想定しています。
+
+今後の情勢の変化、関係機関との調整などの中で、実施方法・日時など、やむを得ない変更（中止を含む）が生じる可能性があります。あらかじめご了承ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163428</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163428A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163428.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163428L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163427</keyCd>
         <infoType>R10</infoType>
