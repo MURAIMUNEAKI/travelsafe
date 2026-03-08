@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/08 13:00:50" mailCount="45" odType="02">
+<opendata dataType="L" lastModified="2026/03/08 13:40:48" mailCount="44" odType="02">
+    <mail>
+        <keyCd>163427</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/08 13:30:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェート国際空港の状況（3月8日7:00時点）について</title>
+        <lead>○3月8日7:00時点（現地時間）、クウェート国際空港は閉鎖されています。
+邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
+
+○同空港のサイトを以下のとおりお知らせします。
+クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163427</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163427A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163427.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163427L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163426</keyCd>
         <infoType>R10</infoType>
@@ -1113,65 +1150,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163377.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163377L.xml</xmlLightUrl>
         <koukanCd>607U</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163376</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/06 13:40:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>ハマド国際空港情報（３月６日午前７時時点）</title>
-        <lead>３月６日午前７時現在、ハマド国際空港は依然として全ての航空便の運航が停止されています。
-
-航空便で移動を予定している邦人の皆様においては、搭乗予定の航空会社から最新の運行状況を確認をするようお願いいたします。
-
-【カタール航空ご利用の方の荷物の受け取りについて】
-預入荷物の受取については、滞在先ホテルのフロントデスクに +974 4010 5586 に電話するようご依頼下さい。その際、パスポート、ホテルバウチャー、荷物タグを用意し、それらをホテル側に共有してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163376</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163376A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163376.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163376L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163375</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/06 13:10:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>クウェート国際空港の状況（3月6日7:00時点）について</title>
-        <lead>○3月6日7:00時点（現地時間）、クウェート国際空港は閉鎖されています。
-邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
-
-○同空港のサイトを以下のとおりお知らせします。
-クウェート国際空港（Kuwait International Airport）
-https://www.kuwaitairport.gov.kw/en/　
-※	クウェート発着便の運行状況について確認できます。
-
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163375</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163375A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163375.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163375L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
     </mail>
 </opendata>
