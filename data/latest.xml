@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/08 23:15:49" mailCount="41" odType="02">
+<opendata dataType="L" lastModified="2026/03/08 23:50:49" mailCount="42" odType="02">
+    <mail>
+        <keyCd>163435</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/08 23:40:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月８日 １８時）</title>
+        <lead>○当館からご案内したアンケート「アラブ首長国連邦に滞在されている皆様の今後の予定等について」につきまして、急なご依頼および短時間でのご回答をお願いすることとなり、誠に恐縮に存じます。ご協力賜りましたことに厚く御礼申し上げます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163435</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163435A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163435.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163435L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163434</keyCd>
         <infoType>R10</infoType>
