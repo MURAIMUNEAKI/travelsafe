@@ -1,30 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/08 16:35:49" mailCount="45" odType="02">
+<opendata dataType="L" lastModified="2026/03/08 17:25:49" mailCount="43" odType="02">
     <mail>
-        <keyCd>163428</keyCd>
+        <keyCd>163430</keyCd>
         <infoType>R10</infoType>
-        <leaveDate>2026/03/08 16:35:39</leaveDate>
+        <leaveDate>2026/03/08 16:45:40</leaveDate>
         <area>
             <cd>50</cd>
         </area>
         <country areaCd="50">
-            <cd>0972</cd>
+            <cd>0971</cd>
         </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>イスラエルからヨルダンへの陸路移動の検討について(3/8)</title>
-        <lead>累次の領事メールでお知らせしておりますとおり、3月7日現在、テルアビブ（ベン・グリオン）空港からの出発便は運航されていません。イスラエル観光省は、領空の空域制限が解除されれば出発便も開始されると発表していますが、今後の状況は不透明です。
- 
-このような状況を踏まえ、現在、在イスラエル日本国大使館は、陸路でヨルダンの首都アンマンへ退避する貸切バス運行の実施に向けて検討を行っています。
-この陸路移動に関しては、追って連絡いたします。現在のところ、3月11日(水)実施を想定しています。
+        <title>アラブ首長国連邦に滞在されている皆様の今後の予定等について</title>
+        <lead>今後の当館業務の参考とするため、アラブ首長国連邦に在留・滞在されている皆様の今後の予定について確認させていただきたく、以下のサイトからアンケートにご協力をお願いいたします。
+３月８日(日)午後４時までにご回答ください。
 
-今後の情勢の変化、関係機関との調整などの中で、実施方法・日時など、やむを得ない変更（中止を含む）が生じる可能性があります。あらかじめご了承ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163428</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163428A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163428.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163428L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
+https://forms.office.com/Pages/ResponsePage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFfgKDD4ukQ5DqnR1D4SQT31UQVlaMDcyUklFWUtKQTQyRDJZM0dHRVBVSy4u</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163430</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163430A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163430.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163430L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163429</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/08 16:40:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>アラブ首長国連邦に滞在されている皆様の今後の予定などについて</title>
+        <lead>今後の当館業務の参考とするため、アラブ首長国連邦に在留・滞在されている皆様の今後の予定について確認させていただきたく、以下のサイトからアンケートにご協力をお願いいたします。
+３月８日(日)午後４時までにご回答ください。
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFfgKDD4ukQ5DqnR1D4SQT31UQzQyREg3M1VNT1dYM0tYUktTV0ZBTE5ONC4u</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163429</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163429A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163429.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163429L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
     </mail>
     <mail>
         <keyCd>163427</keyCd>
@@ -1249,77 +1265,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163383.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163383L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163380</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/06 17:05:40</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0267</cd>
-        </country>
-        <title>住居侵入窃盗事件等の発生【注意喚起】</title>
-        <lead>○在留邦人に対する電線盗難及び住居侵入窃盗事件が発生しましたのでお知らせします。邦人の皆様におかれましては、自宅の防犯措置を再確認し、細心の注意を払って下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163380</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163380A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163380.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163380L.xml</xmlLightUrl>
-        <koukanCd>732A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163379</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/06 17:00:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>イラン関連情報第12報：サウジアラビアに対する攻撃発生情報及び注意喚起</title>
-        <lead>１　昨日５日未明から本日６日朝にかけて当地国防省が発表したサウジアラビアに対する攻撃状況に関する概況以下のとおりです。
-－　５日未明、アルカルジ（リヤドから南方約100キロに位置する都市）郊外で巡航ミサイル３発を迎撃
-－　５日未明、アルカルジでドローン３機を迎撃
-－　５日早朝、ジャウフ州東部でドローン１機を迎撃
-－　６日未明、プリンス・スルタン基地に向かう弾道ミサイル３発を迎撃
-－　６日未明、東部州でドローン１機を迎撃
-－　６日早朝、アルカルジ東部でドローン１機を迎撃
-－　６日早朝、アルカルジ東部で巡航ミサイル１発を迎撃
-－　６日朝、　リヤド東部でドローン３機を迎撃
-
-２　在留邦人の皆様におかれましては、引き続き不測の事態に備え、米国関連施設、軍事関連施設、石油施設等、攻撃の対象となる可能性のある施設には近づかない（写真撮影等も厳禁）ほか、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めて下さい。
-　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。
-
-３　ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、
-屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
-屋内にいる場合：　窓から離れる、窓のない部屋に移動する
-といった、ご自身の身を守る行動を最優先に行うようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163379</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163379A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163379.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163379L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163378</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/06 16:45:40</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0230</cd>
-        </country>
-        <title>チクングニア熱感染事例確認に伴う注意喚起</title>
-        <lead>【ポイント】
-○チクングニア熱のローカル感染が拡大しています。
-○虫除け対策を入念に行い、チクングニア熱の症状が疑われる場合は、早めに医療機関を受診してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163378</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163378A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163378.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163378L.xml</xmlLightUrl>
-        <koukanCd>739A</koukanCd>
     </mail>
 </opendata>
