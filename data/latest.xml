@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/08 18:15:49" mailCount="43" odType="02">
+<opendata dataType="L" lastModified="2026/03/08 18:45:49" mailCount="44" odType="02">
+    <mail>
+        <keyCd>163432</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/08 18:40:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>3月9日(月)早朝にカタール・ドーハを出発し、サウジアラビア・リヤドへ向かうバスへの乗車希望調査</title>
+        <lead>【重要】昨日送信したアンケートは希望調査ではないので、乗車を希望する方は改めて本調査に回答をお願いします。
+○カタール時間3月9日(月)早朝にカタール・ドーハを出発し、サウジアラビア・リヤドへ向かうバスへの乗車希望調査を実施します。
+○回答期限は、3月8日(日)15時（日本時間8日21時）です。
+○ご家族の場合は代表者（世帯主等）１名からご回答をお願いします。企業やグループの場合は、代表者が回答することなく、各人でご回答ください
+○本件希望者全員をリヤドに輸送する計画です。本件後、当面の間はバス運行の予定はありません。
+○今後運行の可能性のあるサウジアラビア・リヤド発の政府チャーター機（リヤド「第２便」：11日(水)未明以降を予定）の搭乗については、別途の希望調査や必要な場合は搭乗可否における優先度付けが行われます。
+○リヤド到着後、政府チャーター機やご自身で手配したフライトへの搭乗までの間に滞在するホテル等は、各自でご手配、費用負担をいただきますので、予めご了承ください（一時待機施設は短時間のみの使用で手配しており、長時間の使用はできません。）。
+○バス出発までに乗車をキャンセルされる場合は、必ず在カタール日本国大使館にご連絡ください。
+○以下のサイトから回答ください。
+
+https://forms.office.com/r/a2VvnHaMHb</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163432</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163432A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163432.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163432L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163431</keyCd>
         <infoType>R10</infoType>
