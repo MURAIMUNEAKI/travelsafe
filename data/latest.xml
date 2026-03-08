@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/08 19:25:48" mailCount="44" odType="02">
+<opendata dataType="L" lastModified="2026/03/08 19:45:49" mailCount="44" odType="02">
+    <mail>
+        <keyCd>163433</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/08 19:40:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月8日(日）12:00時点）</title>
+        <lead>3月8日(日)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
+
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼
+ 
+■■ベン・グリオン空港運航状況
+●公式ウェブページ（出発便情報）
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
+
+●3月8日(日)出発便フライト予定（総計29便）
+〈AIR HAIFA　4便〉
+　ATHENS　2
+　LARNACA　2
+〈ARKIA ISRAELI AIRLINES　6便〉
+　ATHENS　1
+　BARCELONA　1
+　LARNACA　2
+　PRAGUE　1
+　TBILISI　1
+〈EL AL ISRAEL AIRLINES　12便〉
+　ATHENS　1
+　BANGKOK　1
+　BUCHAREST　1
+　MADRID　1
+　MIAMI	1
+　MUNICH　1
+　NEWARK　1
+　PARIS　1
+　ROME　1
+　SOFIA　1
+　TBILISI　1
+　ZURICH　1
+〈ISRAIR AIRLINES　6便〉
+　ATHENS　2
+　BUDAPEST　1
+　LARNACA　1
+　SOFIA　1
+　TBILISI　1
+〈US AIRWAYS INC.　1便〉
+　ATHENS　1
+ 
+●3月9日(月)出発便フライト予定（総計39便）
+〈ARKIA ISRAELI AIRLINES　9便〉
+　ATHENS　4
+　LARNACA　2
+　PRAGUE　1
+　ROME　1
+　TBILISI　1
+〈EL AL ISRAEL AIRLINES　22便〉
+　BANGKOK　3
+　BARCELONA　1
+　BUDAPEST　2
+　LARNACA　1
+　MADRID　1
+　MUNICH　1
+　PARIS　1
+　ROME　1
+　TBILISI　2
+　MILAN　2
+　NEW YORK　2
+　GENEVA　1
+　LONDON　1
+　PHUKET　1
+　WARSAW　1
+　LOS ANGELES　1</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163433</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163433A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163433.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163433L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163432</keyCd>
         <infoType>R10</infoType>
@@ -1263,23 +1347,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163385.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163385L.xml</xmlLightUrl>
         <koukanCd>530A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163384</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/06 19:30:43</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0039</cd>
-        </country>
-        <title>ミラノ・コルティナ2026冬季パラリンピック開催及び中東情勢の悪化を踏まえた注意喚起</title>
-        <lead>　3月6日（金）から15日（日）までのミラノ・コルティナ2026冬季パラリンピック開催に伴い、会場周辺では警備が強化され、交通規制や立入制限が実施されます。また、現在の中東情勢の悪化を受けて、イタリア国内では当局によるテロ等への警戒体制が強化されています。当地に滞在中の方及び渡航予定の方は、以下の点にご注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163384</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163384A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163384.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163384L.xml</xmlLightUrl>
-        <koukanCd>509D</koukanCd>
     </mail>
 </opendata>
