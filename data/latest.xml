@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 01:20:48" mailCount="46" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 01:50:48" mailCount="48" odType="02">
+    <mail>
+        <keyCd>163444</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 01:30:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>【訂正】イラクに滞在されている皆様の今後の予定等について</title>
+        <lead>先ほど送付しました標記領事メールについて、本文中に「アラブ首長国連邦に在留・滞在されている皆様の～」とありますが、正しくは「イラクに在留・滞在されている皆様の～」となります。
+混乱を招いてしまい申し訳ございません。お詫びして訂正いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163444</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163444A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163444.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163444L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163443</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 01:25:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>【訂正】クウェートに滞在されている皆様の今後の予定等について</title>
+        <lead>先ほど送付しました標記領事メールについて、本文中に「アラブ首長国連邦に在留・滞在されている皆様の～」とありますが、正しくは「クウェートに在留・滞在されている皆様の～」となります。
+混乱を招いてしまい申し訳ございません。お詫びして訂正いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163443</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163443A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163443.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163443L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163442</keyCd>
         <infoType>R10</infoType>
