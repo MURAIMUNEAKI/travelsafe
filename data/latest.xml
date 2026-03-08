@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/08 12:05:49" mailCount="44" odType="02">
+<opendata dataType="L" lastModified="2026/03/08 13:00:50" mailCount="45" odType="02">
+    <mail>
+        <keyCd>163426</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/08 12:40:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月８日 ７時）</title>
+        <lead>○３月５日、外務省は、中東地域の情勢が悪化していることを踏まえ、アラブ首長国連邦を含む６カ国（サウジアラビアは東部のみ）の危険情報をレベル３（渡航中止勧告）に引き上げました。
+https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T028.html#ad-image-0
+
+○UAE 国防省は、国内各地で聞こえた音は弾道ミサイルやドローンへの迎撃によるものだと発表しています。３月 7 日には、Al Barsha 地区において、迎撃による破片の落下による人的被害も報じられております。引き続き、不要不急の外出は避けていただくとともに、特に UAE 当局からの緊急速報（アラート）がスマートフォンに配信された際は、十分にご注意ください。
+
+爆発音が聞こえた場合には、
+屋外にいる場合 ： 近くの建物や地下へ避難し、物陰に身を隠してください
+屋内にいる場合 ： 窓から離れ、窓のない部屋に移動してください
+
+○３月８日当地午前アラブ首長国連邦及びオマーンからの出国者を乗せた政府チャーター機がオマーン・マスカット国際空港から成田国際空港に向け出発しました。
+
+
+○３月７日朝、ドバイ国際空港（DXB）ではエミレーツ航空が一時的な運航停止を発表しましたが、 その後、運航再開しております。本日も３時２４分に成田行きの便が出発したほか、まもなく羽田行きの便も出発する予定です。
+当地から空路での退避を検討されている方は、乗り継ぎ便を含むフライトの運航状況を十分にご確認ください。
+https://dubaiairports.ae/
+（ドバイ国際空港HP）
+https://www.emirates.com/ae/english/
+（エミレーツ航空 HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163426</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163426A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163426.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163426L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163424</keyCd>
         <infoType>R10</infoType>
