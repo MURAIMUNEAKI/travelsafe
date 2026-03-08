@@ -1,5 +1,124 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 00:40:50" mailCount="43" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 01:20:48" mailCount="46" odType="02">
+    <mail>
+        <keyCd>163442</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 01:20:38</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>【訂正】バーレーンに滞在されている皆様の今後の予定などについて</title>
+        <lead>先ほど送付しました標記領事メールにつきまして、本文中に「アラブ首長国連邦に在留・滞在されている皆様の～」とありますが、正しくは「バーレーンに在留・滞在されている皆様の～」となります。
+混乱を招いてしまい申し訳ございません。お詫びして訂正いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163442</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163442A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163442.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163442L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163441</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 00:50:54</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>イラクに滞在されている皆様の今後の予定等について</title>
+        <lead>今後の当館業務の参考とするため、アラブ首長国連邦に在留・滞在されている皆様の今後の予定について確認させていただきたく、以下のサイトからアンケートにご協力をお願いいたします。
+３月８日(日)午後１１時までにご回答ください。
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFfgKDD4ukQ5DqnR1D4SQT31UQkZGOURUQU5ZUDlNM0JSTklZUVpJQVZSUi4u</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163441</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163441A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163441.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163441L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163440</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 00:50:54</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェート国際空港の状況（3月8日18:00時点）について</title>
+        <lead>○3月8日18:00時点（現地時間）、クウェート国際空港は閉鎖されています。
+邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
+
+○同空港のサイトを以下のとおりお知らせします。
+クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163440</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163440A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163440.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163440L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163439</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 00:45:53</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェートに滞在されている皆様の今後の予定等について</title>
+        <lead>今後の当館業務の参考とするため、アラブ首長国連邦に在留・滞在されている皆様の今後の予定について確認させていただきたく、以下のサイトからアンケートにご協力をお願いいたします。
+３月８日(日)午後１１時までにご回答ください。
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFfgKDD4ukQ5DqnR1D4SQT31URjQzUDlDSUpGMVgzSEpHNVFOU0tRRVM1SS4u</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163439</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163439A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163439.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163439L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163438</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 00:45:53</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>バーレーンに滞在されている皆様の今後の予定などについて</title>
+        <lead>今後の当館業務の参考とするため、アラブ首長国連邦に在留・滞在されている皆様の今後の予定について確認させていただきたく、以下のサイトからアンケートにご協力をお願いいたします。
+３月８日(日)午後１１時までにご回答ください。
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFfgKDD4ukQ5DqnR1D4SQT31UNEhZTFc3V1YzR0dRSE5KRFNEMzNCTlU2WS4u</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163438</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163438A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163438.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163438L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163437</keyCd>
         <infoType>R10</infoType>
@@ -1270,58 +1389,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163395.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163395L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163394</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/07 01:20:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月6日(金）18:00時点）</title>
-        <lead>3月6日(金)18時現在（現地時間）、テルアビブ（ベン・グリオン）空港からの出発便は運航されていません。
-
-▲▼▲▼▲▼新着情報▲▼▲▼▲▼
-■■ベン・グリオン空港運航状況（前回から変更なし）
-●公式ウェブページでは、3月6日(金)14:00までの出発便の運航ステータスは「キャンセル」。
-
-■■報道（グローブズ紙、3月5日(木)）
-●空域開放の第一段階では、ベングリオン空港の運航は限定的かつ段階的に再開される見込み。
-●この段階ではイスラエル航空会社のみが運航を許可され、近隣目的地へのナローボディ機による運航が1時間あたり1便（最大200名搭乗）のペースで行われる予定。
-●開始24時間後、運航は1時間あたり2機の小型機、あるいは1機の大型機へと拡大される見込み。
-●現段階では到着便のみが運航。出発便は、保安検査と地上待機でより長時間の滞在が必要であり、空港内滞在時間を可能な限り短縮することが優先。
-●運輸道路安全省は、来週より情勢の安定を条件に、出国便の運航も限定的に再開することを決定。今後数時間以内に承認が見込まれる。
-●出発便の運用手順は、乗客はフライトの約1時間半前までに空港に到着。それより早い到着は認められない。また、各出発便の搭乗者数は最大50名まで。乗客は最小限の手荷物でのみ搭乗が許される。チェックインは事前にオンラインで実施。乗客の保安検査は保護区域付近で実施。地上での長時間待機を避けるため、乗客は航空機が離陸準備を整えた時点でのみ搭乗が許可される。このプランが開始後24時間で順調に機能した場合、各便の出発旅客数を増やす可能性あり。
-https://www.globes.co.il/news/article.aspx?did=1001536734</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163394</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163394A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163394.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163394L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163393</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/07 00:55:41</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0251</cd>
-        </country>
-        <title>イフタールに伴う交通規制について</title>
-        <lead>・７日（土）、イフタール（Iftar program）に伴い、午前11時から式典終了までの間、市内各所で交通規制が行われる予定です。
-・群衆には近付かないでください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163393</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163393A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163393.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163393L.xml</xmlLightUrl>
-        <koukanCd>711A</koukanCd>
     </mail>
 </opendata>
