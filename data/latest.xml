@@ -1,5 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 02:40:49" mailCount="48" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 03:30:49" mailCount="45" odType="02">
+    <mail>
+        <keyCd>163446</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 03:05:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>【既にご連絡済みのリヤド第１便への搭乗者を対象としたご連絡です。】(重要)日本政府チャーター機によるサウジアラビア・リヤドからの出国（搭乗のご案内）</title>
+        <lead>（本件は、連絡に漏れのないように、既に外務省や各地の日本国大使館から搭乗の可否につきご連絡済みの「搭乗者」にご連絡するものです。
+搭乗についてまだ大使館等からご連絡差し上げていない皆様については、空港ターミナルにお越しいただいても搭乗できないのでご注意ください。）
+
+１　搭乗便
+エチオピア航空　ＥＴ８４０５便
+ 
+２　出発時刻等（予定：いずれも現地時間）
+３月９日（月）06：05　キング・ハーリド国際空港（ターミナル５）発
+　 同日       22：50　成田国際空港着（第１ターミナル）
+ 
+３　受付時間、場所
+（１）３月９日（月）午前２時から午前４時３０分までの間に、キング・ハーリド国際空港（ターミナル５）までお越しください。なお、ターミナル５とターミナル１～４との間の距離は長く、徒歩移動できませんので誤ったターミナルに集合しないようご注意ください。
+（２）ターミナル５の入口等にはオレンジのジャケットを着た大使館員が待機していますので、誘導に従ってください。
+（３）搭乗をキャンセルされる場合には、９日の午前０時までに以下に連絡ください。
+【緊急時の連絡先：在サウジアラビア日本国大使館】
+代表電話：＋９６６－（０）１１－４８８－１１００（オペレーターが２４時間対応）
+ 
+４　荷物等
+（１）お一人あたり預け荷物は１個まで、重量は２３ｋｇまでです。
+（２）機内預け荷物、または持ち込めるものの制限については、商用機と同じ安全基準が適用されます（液体物やバッテリー等）。
+（３）ペットの帯同は認められません。
+ 
+５　その他
+（１）キング・ハーリド国際空港で、通常のサウジアラビアの出国手続きがあります。
+（２）機内では通常の商用機のエコノミークラスと同様のサービスが提供されます。
+（３）公共交通機関が終了している時間帯に成田空港に到着します。各自のご負担で、宿泊や交通手段を予めご準備おきください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163446</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163446A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163446.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163446L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163445</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 03:00:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>イラン関連情報第１３報：サウジアラビアに対する死傷者を伴う攻撃発生情報及び注意喚起</title>
+        <lead>１　報道（民間防衛総局報道官の発表）によれば、３月８日、アルカルジ（リヤドから南方約100キロに位置する都市）の住宅街に飛翔体が落下し、住民２人（インド国籍及びバングラデシュ国籍）が死亡し、12人（バングラデシュ国籍）が負傷した模様です。
+https://www.spa.gov.sa/N2531274
+
+２　在留邦人の皆様におかれましては、引き続き不測の事態に備え、米国関連施設、軍事関連施設、石油施設等、攻撃の対象となる可能性のある施設には近づかない（写真撮影等も厳禁）ほか、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めて下さい。
+　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。
+
+３　ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、
+屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
+屋内にいる場合：　窓から離れる、窓のない部屋に移動する
+といった、ご自身の身を守る行動を最優先に行うようお願いします。
+
+
+（問い合わせ先） 
+在サウジアラビア日本国大使館領事班 
+TEL：011-488-1100 
+FAX：011-488-0189 
+E-mail：consular-sec@rd.mofa.go.jp 
+ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html 
+　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。 
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163445</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163445A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163445.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163445L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163444</keyCd>
         <infoType>R10</infoType>
@@ -1296,136 +1376,6 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163400A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163400.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163400L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163399</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/07 03:30:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>日本政府手配のマスカットへのバス及びマスカットから東京へのチャーターフライトについて</title>
-        <lead>標記調査にご回答いただいた皆様
-
-本調査に関して、日本政府が確保することのできた席数を超える数のバスへの乗車・フライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
-■高齢、傷病、妊娠中、お子様連れ等の方
-■未成年者（単独の場合）
-■短期旅行者等で当地に自宅等の拠点がない方　等
-
-今回の日本政府手配バス・フライトに乗車・搭乗いただける皆様には既に別途ご案内のメールを送付させていただきました。乗車・搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
-追加の運行を実施する際には改めて連絡いたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163399</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163399A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163399.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163399L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163398</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/07 03:20:39</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>（結果のご連絡）日本政府手配のマスカットへのバス及びマスカットから東京へのチャーターフライトについて</title>
-        <lead>標記調査にご回答いただいた皆様
-
-本調査に関して、日本政府が確保することのできた席数を超える数のバスへの乗車・フライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
-■高齢、傷病、妊娠中、お子様連れ等の方
-■未成年者（単独の場合）
-■短期旅行者等で当地に自宅等の拠点がない方　等
-
-今回の日本政府手配バス・フライトに乗車・搭乗いただける皆様には既に別途ご案内のメールを送付させていただきました。乗車・搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
-追加の運行を実施する際には改めて連絡いたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163398</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163398A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163398.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163398L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163397</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/07 03:15:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>（結果のご連絡）日本政府手配のリヤドへのバス及びリヤドから東京へのチャーターフライトについて</title>
-        <lead>標記調査にご回答いただいた皆様
-
-本調査に関して、日本政府が確保することのできた席数を超える数のバスへの乗車・フライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
-■高齢、傷病、妊娠中、お子様連れ等の方
-■未成年者（単独の場合）
-■短期旅行者等で当地に自宅等の拠点がない方　等
-
-今回の日本政府手配バス・フライトに乗車・搭乗いただける皆様には既に別途ご案内のメールを送付させていただきました。乗車・搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
-追加の運行を実施する際には改めて連絡いたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163397</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163397A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163397.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163397L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163396</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/07 03:10:39</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>（結果のご連絡）日本政府手配のリヤドへのバス及びリヤドから東京へのチャーターフライトについて</title>
-        <lead>標記調査にご回答いただいた皆様
-
-本調査に関して、日本政府が確保することのできた席数を超える数のバスへの乗車・フライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
-　■高齢、傷病、妊娠中、お子様連れ等の方
-　■未成年者（単独の場合）
-■短期旅行者等で当地に自宅等の拠点がない方　等
-
-今回の日本政府手配バス・フライトに乗車・搭乗いただける皆様には既に別途ご案内のメールを送付させていただきました。乗車・搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
-追加の運行を実施する際には改めて連絡いたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163396</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163396A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163396.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163396L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163395</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/07 03:05:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>（結果のご連絡）日本政府手配のリヤドへのバス及びリヤドから東京へのチャーターフライトについて</title>
-        <lead>標記調査にご回答いただいた皆様
-
-本調査に関して、日本政府が確保することのできた席数を超える数のバスへの乗車・フライトへの搭乗希望をいただいたところ、申し訳ありませんが、事前にお伝えしましたとおり、今回の便についてはやむを得ず以下に該当する方々に先に乗車していただくこととなりました。
-■高齢、傷病、妊娠中、お子様連れ等の方
-■未成年者（単独の場合）
-■短期旅行者等で当地に自宅等の拠点がない方　等
-
-今回の日本政府手配バス・フライトに乗車・搭乗いただける皆様には既に別途ご案内のメールを送付させていただきました。乗車・搭乗いただけない皆様には個別の連絡は行いませんので、予めご了承ください。
-追加の運行を実施する際には改めて連絡いたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163395</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163395A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163395.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163395L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
     </mail>
 </opendata>
