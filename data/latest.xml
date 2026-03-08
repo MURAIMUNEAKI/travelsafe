@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/08 17:50:49" mailCount="43" odType="02">
+<opendata dataType="L" lastModified="2026/03/08 18:15:49" mailCount="43" odType="02">
+    <mail>
+        <keyCd>163431</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/08 18:05:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月８日 １２時）</title>
+        <lead>○先ほど、当館から「アラブ首長国連邦に滞在されている皆様の今後の予定等について」という件名の領事メールを配信いたしました。当地に在留・滞在されている皆様の今後のご予定について確認させていただきたく、以下のサイトにて実施中のからアンケートにご協力お願いいたします。大変恐れ入りますが、本日午後４時までにご回答ください。 
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFfgKDD4ukQ5DqnR1D4SQT31UQVlaMDcyUklFWUtKQTQyRDJZM0dHRVBVSy4u</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163431</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163431A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163431.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163431L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163430</keyCd>
         <infoType>R10</infoType>
@@ -1233,37 +1253,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163384.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163384L.xml</xmlLightUrl>
         <koukanCd>509D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163383</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/06 18:05:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月6日(金）11:00時点）</title>
-        <lead>3月6日(金)11時現在（現地時間）、テルアビブ（ベン・グリオン）空港からの出発便は運航されていません。
- 
-▲▼▲▼▲▼新着情報▲▼▲▼▲▼
- 
-■■ベン・グリオン空港運航状況（前回から変更なし）
-●公式ウェブページでは、3月6日(金)14:00までの出発便の運航ステータスは「キャンセル」。
- 
-■■ヨルダン クイーン・アリア国際空港
-●6日（金）からロイヤル・ヨルダン航空の全運賃が見直される（価格が上がる見込み）。
- 
-■■注意喚起
-●中東地域での航空便の欠航や空域閉鎖による混乱に乗じ、航空会社のサポート部門を装ったソーシャルメディア（SNS）上の詐欺行為が急増しているとの情報がありますのでご注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163383</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163383A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163383.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163383L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
