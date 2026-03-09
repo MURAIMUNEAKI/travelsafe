@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 18:20:49" mailCount="45" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 18:55:49" mailCount="47" odType="02">
+    <mail>
+        <keyCd>163460</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 18:55:42</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ドルトムント、デュッセルドルフ等での近距離公共交通機関におけるストライキの影響（３月９日(月)および１０日（火））</title>
+        <lead>○Ver.di（統一サービス業労働組合）が、新たな警告ストライキを呼びかけています。
+○本日３月９日（月）午前３時３０分頃から翌１０日（火）午前１時３０分頃まで、ドルトムントの近距離公共交通機関（バスや路面電車）が運休しているとのことです。
+○３月１０日（火）、デュッセルドルフ、メットマンおよびベルギッシェ・ラント（ヴッパータール、ゾーリンゲン、レムシャイト、レバークーゼン、ベルギッシュ・グラードバッハ）の近距離公共交通機関の運休が予定されております。
+○S-BahnやRE（地域列車）等はストライキの影響を受けないとのことです。
+○通勤、通学、旅行等に当たっては、事前にご利用予定の公共交通機関の運行情報等をよくご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163460</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163460A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163460.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163460L.xml</xmlLightUrl>
+        <koukanCd>506F</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163459</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 18:50:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月９日午後０時）</title>
+        <lead>３月９日午後０時現在、ハマド国際空港でのフライトは引き続き停止されていますが、カタール航空は、カタール民間航空局からの一時的な許可に基づき、３月10日に以下のドーハ発の便を運行する予定であるとしています。
+
+カイロ（CAI）、ロンドン（LHR）、ジッダ（JED）、マニラ（MNL）、コーチン（COK）、マスカット（MCT）、イスタンブール（IST）、ムンバイ（BOM）、デリー（DEL）、ナイロビ（NBO）、イスラマバード（ISB）、マドリード（MAD）、フランクフルト（FRA）、コロンボ（CMB）、ミラノ（MXP）
+
+航空便で移動を予定している邦人の皆様においては、搭乗予定の航空会社から最新の運行状況を確認をするようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163459</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163459A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163459.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163459L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163458</keyCd>
         <infoType>R10</infoType>
