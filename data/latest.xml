@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 22:30:48" mailCount="50" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 22:55:50" mailCount="52" odType="02">
+    <mail>
+        <keyCd>163469</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 22:50:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0995</cd>
+        </country>
+        <title>（重要）「在留届」登録内容の確認等のお願い</title>
+        <lead>【ポイント】 
+・「在留届」は、緊急事態発生時に、提出された届の内容を基に、大使館がジョージア国内の邦人の在留状況を把握し、避難等に必要な情報の提供や、安否確認・支援活動等を行うための重要なものです。 
+・連絡先や滞在期間の変更等、在留届の内容に変更がある場合や、既に日本へ帰国している場合は、オンラインで変更又は帰国の届出をお願いします。 
+・旅行者用の「たびレジ」をご登録されたままジョージアに長期在留されている方は、速やかに「在留届」をお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163469</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163469A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163469.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163469L.xml</xmlLightUrl>
+        <koukanCd>540A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163468</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 22:40:41</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0244</cd>
+        </country>
+        <title>【交通事故の注意喚起】クアンザ・スル州で発生した交通事故</title>
+        <lead>●3月7日（土）、クアンザ・スル州ムネンガ地区で、56名が乗車していたバスが横転する交通事故が発生し、22名が死亡、24名が負傷しました。
+●在留邦人が本件による被害を受けたとの情報はありません。
+●バス利用時の注意点を参照ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163468</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163468A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163468.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163468L.xml</xmlLightUrl>
+        <koukanCd>731A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163467</keyCd>
         <infoType>R10</infoType>
