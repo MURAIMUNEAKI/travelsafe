@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/10 00:20:50" mailCount="50" odType="02">
+<opendata dataType="L" lastModified="2026/03/10 01:00:50" mailCount="52" odType="02">
+    <mail>
+        <keyCd>163474</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 00:50:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0234</cd>
+        </country>
+        <title>ナイジェリアにおける米国関連施設等に対するテロの可能性に関する注意喚起</title>
+        <lead>・本日３月９日、在ナイジェリア米国大使館より、ナイジェリア国内の米国関連施設及び米国と関連する学校等に対するテロ警戒情報が発表されました。
+・米国大使館は、これらの施設を訪問する際には特に注意するよう呼びかけています。
+・在留邦人の皆様におかれては、最新情報の収集に努めるとともに、特に人が多く集まる場所や欧米関連施設周辺においては十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163474</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163474A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163474.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163474L.xml</xmlLightUrl>
+        <koukanCd>715A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163473</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 00:35:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>サウジアラビア渡航者へのたびレジ登録のお願い等（３月９日　１８：００現在）</title>
+        <lead>【サウジアラビアへのたびレジ登録】
+○サウジアラビア国内の空港利用や同国への退避（政府手配の車両退避を含む）等のため、サウジアラビア国内に移動される方は、サウジアラビアの査証を取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
+●「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
+渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から同国内の安全情報や空港稼働状況、車両避難に関する情報等が発出された際、これらの情報を受け取ることが出来ます。
+●サウジアラビアの査証取得方法
+以下のリンクからご確認ください。
+https://www.bh.emb-japan.go.jp/files/100987859.pdf
+
+【空港等の稼働状況】
+バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況については下のとおりです。 
+また、サウジアラビアへの移動手段について、お困りの方がいらっしゃいましたら末尾記載の当館メールアドレス宛にご相談ください。
+○ バーレーン国際空港 
+　３月９日１８時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。 
+○ キング・ファハド・コーズウェイ 
+　３月９日１８時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。 
+　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（ https://kfca.sa/en/ ）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。 
+　通行方法の詳細については、こちら（ https://www.bh.emb-japan.go.jp/files/100987859.pdf ）をご参照下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163473</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163473A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163473.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163473L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163472</keyCd>
         <infoType>R10</infoType>
