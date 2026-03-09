@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 20:25:49" mailCount="48" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 20:50:49" mailCount="49" odType="02">
+    <mail>
+        <keyCd>163464</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 20:45:48</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0031</cd>
+        </country>
+        <title>日本大使館前歩道におけるデモの実施(３月９日（月）)</title>
+        <lead>　本日、３月９日（月）１４時００分から１６時００分にかけて、日本大使館前において、日本のイルカ漁に反対するデモが実施される予定です。
+　当館へ来館される場合は、周囲の状況に注意を払い、大使館への出入りの際には警備に当たっている大使館警備員または当地警察の指示に従ってください。また、デモ隊には興味本位で近づかないようにし、不測の事態に巻き込まれることのないよう十分に注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163464</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163464A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163464.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163464L.xml</xmlLightUrl>
+        <koukanCd>510A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163463</keyCd>
         <infoType>R10</infoType>
