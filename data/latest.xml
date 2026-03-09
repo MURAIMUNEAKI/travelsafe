@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/10 02:15:50" mailCount="55" odType="02">
+<opendata dataType="L" lastModified="2026/03/10 02:45:50" mailCount="53" odType="02">
     <mail>
         <keyCd>163479</keyCd>
         <infoType>R10</infoType>
@@ -1421,71 +1421,5 @@ https://www.emirates.com/ae/english/
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163426.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163426L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163424</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/08 02:35:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>クウェート国際空港の状況（3月7日20:00時点）について</title>
-        <lead>○3月7日20:00時点（現地時間）、クウェート国際空港は閉鎖されています。
-邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
-
-○同空港のサイトを以下のとおりお知らせします。
-クウェート国際空港（Kuwait International Airport）
-https://www.kuwaitairport.gov.kw/en/　
-※	クウェート発着便の運行状況について確認できます。
-
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163424</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163424A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163424.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163424L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163423</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/08 02:25:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>イスラエル情勢の緊迫化に伴う注意喚起、安全対策 3/7</title>
-        <lead>３月７日、既に発出されていたホームフロントコマンド（https://www.oref.org.il/eng ）の指針の期間が延長されました。本指針は３月９日２０時まで有効です。概要は以下のとおりです（これまでの指針から内容に変更はありません。）。
- 
-●５０人までの集会は、シェルターに時間内に到着できる場合に限って許可。
-●職場における活動は、シェルターに時間内に到着できる場合に限って許可。
-●教育活動は禁止。
- 
-繰り返しのお知らせとなりますが、不測の事態に備え、ロケット弾の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
- 
-引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）を含む当局の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163423</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163423A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163423.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163423L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
