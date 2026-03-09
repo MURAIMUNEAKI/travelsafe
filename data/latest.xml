@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 22:00:50" mailCount="49" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 22:30:48" mailCount="50" odType="02">
+    <mail>
+        <keyCd>163467</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 22:30:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>イスラエル情勢の緊迫化に伴う注意喚起、安全対策 3/9</title>
+        <lead>各種報道によれば、最近イラン及びヒズボッラーから発射されるミサイルの一部にクラスター弾が使用されていると報じられています。
+ 
+クラスター弾を使用したミサイルは、迎撃に成功したとしても、以下のリンク先のようなクラスター子弾が広範囲に着弾し爆発するおそれがあり、非常に危険です。
+（https://matzav.com/idf-confirms-for-first-time-iran-launched-cluster-bomb-missile-at-israel/ ）
+ 
+また、子弾は、着弾時に爆発しない場合、不発爆弾として路上や建物敷地内等に残り、何らかの拍子に突然爆発する危険性もあり、非常に危険です。そのような物を見かけても、絶対に近づいたり触れたりしないようご注意ください。
+ 
+ホームフロントコマンドからも同様の注意喚起がなされています。
+（https://www.oref.org.il/eng/articles/info/iron-swords/1102 ）
+ 
+繰り返しのお知らせになりますが、不測の事態に備え、ロケット弾の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
+ 
+避難指示の解除があるまではシェルター等から出ないようご留意ください。
+ 
+引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）を含む当局の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163467</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163467A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163467.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163467L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163466</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 22:10:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月９日 １６時）</title>
+        <lead>○「３月１０日(火)深夜　アラブ首長国連邦（UAE）・ドバイ発の日本政府チャーター機への搭乗希望調査」にご協力いただき、ありがとうございました。希望調査メールでご案内のとおり、 
+－　搭乗いただけることを当方が確定した方に対して、当地時間３月９日(月)２１時頃までにメールでご連絡します。 
+－　お申込み後にキャンセルされる場合は、在ドバイ日本国総領事館に必ずご連絡ください。キャンセルされた座席を他の方にご利用いただけるよう努めますので、お願いいたします。 
+
+在ドバイ日本国総領事館  
+電話：（市外局番04）2938888（国外からは（国番号971）-4-2938888） 
+メール：ryouji@du.mofa.go.jp　</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163466</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163466A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163466.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163466L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163465</keyCd>
         <infoType>R10</infoType>
@@ -1477,24 +1536,5 @@ https://forms.office.com/r/a2VvnHaMHb</lead>
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C019A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C019.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026C019L.xml</xmlLightUrl>
-    </mail>
-    <mail>
-        <keyCd>163419</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/07 22:30:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>【重要】【在カタール大使館】カタールに滞在されている皆様の今後の予定等について</title>
-        <lead>○３月８日に予定されている日本政府手配バス・フライトへの乗車・搭乗いただける皆様には、既に別途ご案内のメールを送付させていただきました。乗車予定の皆様におかれては、事情により参加をキャンセルされる場合は、必ず当館にご連絡ください。
-○３月９日の次のサウジアラビア・リヤドへのバス運行に関連し、改めてご希望を伺いたく以下のサイトからアンケートにご協力をお願いいたします。３月７日(土)午後11時までにご回答ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163419</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163419A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163419.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163419L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
     </mail>
 </opendata>
