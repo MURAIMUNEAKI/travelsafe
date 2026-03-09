@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 23:25:49" mailCount="54" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 23:55:50" mailCount="55" odType="02">
+    <mail>
+        <keyCd>163472</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 23:30:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>大使館からの情報発信（３月９日午後６時）</title>
+        <lead>「３月１０日(火)深夜　アラブ首長国連邦（UAE）・ドバイ発の日本政府チャーター機への搭乗希望調査」にご協力いただき、ありがとうございました。希望調査メールでご案内のとおり、
+－　搭乗いただけることを当方が確定した方に対して、当地時間３月９日(月)２１時頃までにメールでご連絡します。
+－　お申込み後にキャンセルされる場合は、在アラブ首長国連邦日本国大使館に必ずご連絡ください。キャンセルされた座席を他の方にご利用いただけるよう努めますので、お願いいたします。
+在アラブ首長国連邦日本国大使館　領事警備班
+メール：consular@ab.mofa.go.jp
+ 
+アラブ首長国全域は危険情報レベル３（渡航中止勧告）となっております。
+https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03431.html
+ 
+アブダビ首長国内にあるザーイド国際空港は、３月９日午後６時現在、3月6日から3月19日までの間、アブダビ発着で運航予定の限定路線は多数就航予定となっておりますが、不定期な便も多数あります。東京（成田）便についても連日キャンセルが続いておりますので、欧州や東南アジア等の経由地から帰国されるのを推奨いたします。
+確認できている主な航路：バンコク、バンガロール、カイロ、デリー、フランクフルト、ハノイ、ジッダ、クアラルンプール、ロンドン（ヒースロー）、ミラノ（マルペンサ）、ムンバイ、パリ、プーケット、リヤド、ソウル（仁川）
+邦人の皆様におかれては、関連情報を公式情報等から入手するようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163472</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163472A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163472.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163472L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163471</keyCd>
         <infoType>R10</infoType>
