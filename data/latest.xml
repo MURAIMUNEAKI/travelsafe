@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/10 01:25:48" mailCount="54" odType="02">
+<opendata dataType="L" lastModified="2026/03/10 02:00:50" mailCount="55" odType="02">
+    <mail>
+        <keyCd>163479</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 01:35:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>3月10日(火)午後にサウジアラビア・リヤドを出発する政府チャーター機への搭乗希望調査［回答期限：現地時間3月10日午前8時］</title>
+        <lead>【重要】サウジアラビア・リヤドを出発する日本政府チャーター機への搭乗を希望する方は、以下をお読みの上、本調査の回答用ＵＲＬから、サウジ時間3月10日午前8時までに回答をお願いいたします。
+（搭乗を希望されない場合、ご回答は不要です。）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163479</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163479A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163479.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163479L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163478</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 01:30:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>3月10日(火)午後にサウジアラビア・リヤドを出発する政府チャーター機への搭乗希望調査［回答期限：現地時間3月10日午前8時］</title>
+        <lead>【重要】サウジアラビア・リヤドを出発する日本政府チャーター機への搭乗を希望する方は、以下をお読みの上、本調査の回答用ＵＲＬから、サウジ時間3月10日午前8時までに回答をお願いいたします。
+（搭乗を希望されない場合、ご回答は不要です。）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163478</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163478A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163478.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163478L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163476</keyCd>
         <infoType>R10</infoType>
@@ -1449,26 +1487,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163423.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163423L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163422</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/08 01:30:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>ハマド国際空港情報（３月７日午後７時時点）</title>
-        <lead>カタール航空はカタール民間航空局からの一時的な許可により、安全な運航ルートが確認されたことを受け、３月８日にハマド国際空港行きの以下の便を運航する予定と発表しました。
-ロンドン、パリ、マドリード、ローマ、フランクフルト、バンコク発
-
-航空便で移動を予定している邦人の皆様においては、搭乗予定の航空会社から最新の状況を確認するようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163422</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163422A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163422.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163422L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
     </mail>
 </opendata>
