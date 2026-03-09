@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 17:55:50" mailCount="45" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 18:20:49" mailCount="45" odType="02">
+    <mail>
+        <keyCd>163458</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 18:10:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0092</cd>
+        </country>
+        <title>～ラマダン最終期及びイード期間中の注意喚起について～</title>
+        <lead>○　今週後半から始まるラマダン最終期、特にラマダン期間中最後の金曜日である３月13日は、信仰心が特に高まる時期となります。大きな音を伴う大人数での集会等目立った行動は避けるよう御注意ください。
+○　またその直後に始まるイード期間中は、人流の増加が見込まれることから、この機を捉えてテロ発生の可能性が高まることはもとより、一般犯罪も増加する傾向にあります。
+○　イード期間に入ると家畜の屠殺が随所で行われることから、感染症罹患を避けるためにも、屠殺場所に近づいたり、路上に流れている家畜の血液等には絶対に触れないようにしてください。
+○　在留邦人の皆様におかれましては、引き続き周囲の安全に特に配慮した行動を心掛けていただき、御自身の不用意な行動によって無用なトラブルを惹起してしまうことや、これに巻き込まれてしまうことのないよう引き続き御注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163458</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163458A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163458.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163458L.xml</xmlLightUrl>
+        <koukanCd>610A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163457</keyCd>
         <infoType>R10</infoType>
@@ -1385,44 +1406,5 @@ https://www.iaa.gov.il/en/airports/q-a-2026/</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163416.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163416L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163415</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/07 18:05:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（3月７日12時00分）</title>
-        <lead>○３月５日、外務省は、中東地域の情勢が悪化していることを踏まえ、アラブ首長国連邦を含む６カ国（サウジアラビアは東部のみ）の危険情報をレベル３（渡航中止勧告）に引き上げました。
-https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T028.html#ad-image-0
-
-○UAE国防省は、国内各地で聞こえた音は弾道ミサイルやドローンへの迎撃によるものだと発表しています。携帯電話には緊急速報（アラート）が配信されています。引き続き、不要不急の外出は避けてください。  
-
-爆発音が聞こえた場合には、  
-屋外にいる場合　：　近くの建物や地下へ避難し、物陰に身を隠してください  
-屋内にいる場合　：　窓から離れ、窓のない部屋に移動してください
-
-○３月７日朝、ドバイ国際空港（DXB）では、一時的な運航停止を発表していましたが、その後、運航再開が報じられています。 
- 
-　当地から空路での退避を検討されている方は、乗り継ぎ便を含むフライトの運航状況を十分にご確認ください。  
-https://dubaiairports.ae/　（ドバイ国際空港HP）  
-https://www.emirates.com/ae/english/
-　（エミレーツ航空HP）  
- 
-○在ドバイ日本国総領事館管轄地域（ドバイ首長国、シャルジャ首長国、アジュマーン首長国、ウンム・ル・カイワイン首長国、ラアス・ル・ハイマ首長国、フジャイラ首長国）に滞在されている皆様へ
-　当館から定期的に重要な情報を発信しております。在留届又は「たびレジ」登録をお済みでない方がいらっしゃいましたら、必ず実施して頂くようお願いいたします。
-在留届（３ヶ月以上、当地に長期滞在する方）
-https://www.ezairyu.mofa.go.jp/RRnet/index.html
-たびレジ（観光や出張で当地短期渡航中及び余儀なく滞在されている方）
-https://www.ezairyu.mofa.go.jp/tabireg/index.html</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163415</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163415A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163415.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163415L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
