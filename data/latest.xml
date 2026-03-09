@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 16:50:48" mailCount="40" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 17:30:50" mailCount="43" odType="02">
     <mail>
         <keyCd>163455</keyCd>
         <infoType>R10</infoType>
@@ -529,6 +529,35 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFfgKDD4u
         <koukanCd>727A</koukanCd>
     </mail>
     <mail>
+        <keyCd>2026T033</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢 テロ 戦争</contentInfo>
+        <leaveDate>2026/03/09 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>イラクの危険情報【一部地域の危険レベル引上げ】</title>
+        <lead>●２月２８日（現地時間）、イスラエル及び米国はイランに対して攻撃を行いました。同日以降、バグダッドなどの主要都市を含めて国内で米国権益等への攻撃があり、それに対し国内武装勢力への攻撃が発生しています。
+●こうした状況を受け、エルビル県エルビル市、スレイマーニーヤ県及びドホーク県の一部地域の危険レベルをレベル３（渡航は止めてください（渡航中止勧告））に引上げます。
+●既に滞在中の方は、最新情報を入手し特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T033.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T033A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T033.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T033L.xml</xmlLightUrl>
+        <riskLevel4>1</riskLevel4>
+        <riskLevel3>1</riskLevel3>
+        <riskLevel2>1</riskLevel2>
+        <riskLevel1>0</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T033_1_Detail.html</mapImageUrl>
+    </mail>
+    <mail>
         <keyCd>163435</keyCd>
         <infoType>R10</infoType>
         <leaveDate>2026/03/08 23:40:42</leaveDate>
@@ -960,6 +989,65 @@ https://forms.office.com/r/a2VvnHaMHb</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163420.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163420L.xml</xmlLightUrl>
         <koukanCd>708A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026T032</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢 戦争</contentInfo>
+        <leaveDate>2026/03/08 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0961</cd>
+        </country>
+        <title>レバノンの危険情報【一部地域の危険レベル引き上げ】</title>
+        <lead>●3月2日（現地時間）、イスラエルはヒズボッラー等に対する攻撃を開始しました。攻撃はベイルート県にも発生しています。
+●こうした状況を受け、これまで危険レベル２であった地域のすべての危険レベルを「レベル３：渡航中止勧告」に引き上げます。
+●お困りの方は、在レバノン日本国大使館又は外務省領事局にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T032.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T032A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T032.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T032L.xml</xmlLightUrl>
+        <riskLevel4>1</riskLevel4>
+        <riskLevel3>1</riskLevel3>
+        <riskLevel2>0</riskLevel2>
+        <riskLevel1>0</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T032_1_Detail.html</mapImageUrl>
+    </mail>
+    <mail>
+        <keyCd>2026T031</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢 戦争 一般情報</contentInfo>
+        <leaveDate>2026/03/08 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0962</cd>
+        </country>
+        <title>ヨルダンの危険情報（一部引上げ）</title>
+        <lead>●２月２８日（現地時間）、イスラエル及び米国はイランに対し攻撃を行い、同日、イランはヨルダンに所在する米軍基地等を標的とする攻撃を行いました。
+●３月８日（現地時間）時点で、攻撃は継続しており、情勢は引き続き緊迫しています。
+●こうした状況を受け、攻撃被害が発生するリスクが高いマフラク県、アズラク県の危険レベルをレベル３（渡航は止めてください。（渡航中止勧告））に引き上げます。
+●既に滞在中の方は、最新情報を入手し特別な注意を払うとともに、状況によっては不要不急の外出を避ける等の十分な安全対策を講じてください。また、航空便のキャンセル、遅延が発生していますので留意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T031.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T031A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T031.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T031L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>1</riskLevel3>
+        <riskLevel2>1</riskLevel2>
+        <riskLevel1>0</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T031_1_Detail.html</mapImageUrl>
     </mail>
     <mail>
         <keyCd>2026C019</keyCd>
