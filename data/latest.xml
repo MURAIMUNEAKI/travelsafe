@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 09:40:49" mailCount="37" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 10:10:50" mailCount="38" odType="02">
+    <mail>
+        <keyCd>163448</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 09:50:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>日本政府チャーター機によるサウジアラビア・リヤドからの出国（空港行きバスのご案内）</title>
+        <lead>●本メールは、既にご連絡済みの第１便への搭乗者のうち、カタール・クウェート・バーレーンからバスでリヤドに退避された方を対象としたご連絡です。
+●本件は、既に外務省や各地の日本国大使館から搭乗の可否につきご連絡済みの「搭乗者」にご連絡するものです。
+●搭乗について大使館等からご連絡差し上げていない皆様については、空港ターミナルにお越しいただいても搭乗できないのでご注意ください
+※システムの都合上、在留届及びたびレジに登録されている全員に送信されていますが、本メールの対象者は上記のとおりです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163448</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163448A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163448.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163448L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163447</keyCd>
         <infoType>R10</infoType>
