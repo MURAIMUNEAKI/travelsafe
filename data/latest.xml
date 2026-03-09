@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 20:50:49" mailCount="49" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 21:30:49" mailCount="50" odType="02">
+    <mail>
+        <keyCd>163465</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 21:25:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0228</cd>
+        </country>
+        <title>トーゴ北部サバヌ州における非常事態宣言の継続</title>
+        <lead>●２月27日、トーゴ国民議会は、治安状況を踏まえ、2022年６月から続いているサバヌ州全域における非常事態宣言を、2026年３月13日から12ヶ月間延長する法案を採択しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163465</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163465A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163465.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163465L.xml</xmlLightUrl>
+        <koukanCd>A77A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163464</keyCd>
         <infoType>R10</infoType>
