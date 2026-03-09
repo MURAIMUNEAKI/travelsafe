@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/10 04:00:49" mailCount="53" odType="02">
+<opendata dataType="L" lastModified="2026/03/10 04:20:50" mailCount="53" odType="02">
+    <mail>
+        <keyCd>163482</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 04:15:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>イスラエル情勢の緊迫化に伴う注意喚起、安全対策 3/9（その２）</title>
+        <lead>３月９日、既に発出されていたホームフロントコマンド（https://www.oref.org.il/eng ）の指針の期間が延長されました。本指針は３月１４日２０時まで有効です。概要は以下のとおりです（これまでの指針から内容に変更はありません。）。
+
+●５０人までの集会は、シェルターに時間内に到着できる場合に限って許可。
+●職場における活動は、シェルターに時間内に到着できる場合に限って許可。
+●教育活動は原則禁止。
+
+繰り返しのお知らせとなりますが、不測の事態に備え、ロケット弾の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
+
+引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）を含む当局の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163482</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163482A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163482.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163482L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163479</keyCd>
         <infoType>R10</infoType>
@@ -550,35 +579,6 @@ US AIRWAYS INC. 1
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163457.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163457L.xml</xmlLightUrl>
         <koukanCd>515A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163456</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 17:35:39</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>【重要】イスラエルからの陸路退避（ヨルダンへの出国）</title>
-        <lead>●日本政府は、退避を希望する邦人の方をバスでヨルダンの首都アンマンまで運行することを、早ければ３月１１日（水）朝にも実施する予定です。
-●在イスラエル日本国大使館からヨルダン川（シェイク・フセイン橋）国境検問所又はアレンビー橋（キング・フセイン橋）国境検問所を経て、アンマン市内まで貸し切りバスでの運行を予定しています。バス料金は無料（政府負担）です。
-●両国内の移動に関しては、在イスラエル日本国大使館、在ヨルダン日本国大使館それぞれの職員が随行・サポートします。
-●下記参加条件を全て確認の上、後述の方法で回答してください。
-
-　実施予定日時：３月１１日(水)10:00発予定
-　（集合時間等は退避を希望された方に対し、随時ご連絡します）　　　　　　　　
-　集合場所:在イスラエル日本国大使館
-　目的地：アンマン市（空港、ホテル等）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163456</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163456A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163456.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163456L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
     <mail>
         <keyCd>163455</keyCd>
