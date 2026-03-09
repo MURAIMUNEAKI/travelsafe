@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/09 11:00:52" mailCount="37" odType="02">
+<opendata dataType="L" lastModified="2026/03/09 12:00:51" mailCount="38" odType="02">
+    <mail>
+        <keyCd>163450</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 11:45:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0060</cd>
+        </country>
+        <title>コタキナバル市内ビーチのワニ目撃情報に関する注意喚起</title>
+        <lead>　報道によると、８日の午前7時50分頃、コタキナバル市タンジュン・アルビーチ（Tanjung Aru beach）のライフガードタワーから約100メートル離れた水域でワニが目撃され、海に近づかないようにとの警告が出されました。目撃されたワニは捕獲する前に姿を消しており、同ビーチには危険情報として赤旗が掲げられ民間防衛隊(APM)による監視を継続中ですが、当局は、水上アクティビティは当面の間控えるよう市民に呼びかけています。 
+　ここ数年、タンジュン・アルビーチでのワニの目撃例が断続的に発生しています。最新情報を収集し、海に近づくときには十分にご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163450</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163450A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163450.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163450L.xml</xmlLightUrl>
+        <koukanCd>609W</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163449</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/09 11:10:48</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>デモ情報（ジャカルタ：３月９日）</title>
+        <lead>●　本９日午前１０時頃から、ジャカルタ中心部の独立記念塔（モナス）周辺において、労働団体等によるデモが予定されています。
+●　デモの周辺道路では交通規制が行われ、交通状況に影響が生じる可能性があります。外出の際にはご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163449</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163449A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163449.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163449L.xml</xmlLightUrl>
+        <koukanCd>607A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163448</keyCd>
         <infoType>R10</infoType>
@@ -1209,19 +1247,5 @@ https://iq.usembassy.gov/security-alert-u-s-embassy-baghdad-iraq-march-6-2026-up
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163412.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163412L.xml</xmlLightUrl>
         <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163411</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/07 11:05:51</leaveDate>
-        <title>抗議集会「Stop the War on Iran」（３月７日）</title>
-        <lead>●3月7日（土）、「Stop the War on Iran」と題する抗議集会が全米規模で計画されており、カリフォルニア州北部、ネバダ州でも予定されています。また、同様の抗議集会が今後も見込まれます。
-●不測の事態に巻き込まれないよう、外出される前には報道等で最新情報の入手に努め、抗議集会が行われている場所には安易に近づかない等、十分注意を払ってください。
-●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。また、車で外出される際には迂回ルートをあらかじめ想定しておいてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163411</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163411A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163411.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163411L.xml</xmlLightUrl>
-        <koukanCd>301I</koukanCd>
     </mail>
 </opendata>
