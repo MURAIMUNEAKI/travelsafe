@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/10 11:00:52" mailCount="55" odType="02">
+<opendata dataType="L" lastModified="2026/03/10 11:50:48" mailCount="56" odType="02">
+    <mail>
+        <keyCd>163485</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 11:20:43</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>ニュピ祭に際しての注意喚起</title>
+        <lead>●インドネシアのバリ島では、3月19日（木）はニュピ祭日（サカ暦新年）に当たります。ニュピ祭の当日は、火や電灯の使用、飲食店等の営業、航空機の離発着及び外出等の屋外行動等が制限されますので、十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163485</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163485A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163485.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163485L.xml</xmlLightUrl>
+        <koukanCd>607F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163484</keyCd>
         <infoType>R10</infoType>
