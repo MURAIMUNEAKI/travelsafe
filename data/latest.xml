@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 04:50:48" mailCount="72" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 05:25:49" mailCount="73" odType="02">
+    <mail>
+        <keyCd>163531</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 05:05:43</leaveDate>
+        <area>
+            <cd>30</cd>
+        </area>
+        <country areaCd="30">
+            <cd>9001</cd>
+        </country>
+        <title>トロント米国総領事館での銃撃事件を踏まえた注意喚起</title>
+        <lead>　3月10日（火）早朝、トロントの米国総領事館で銃撃事件が発生しました。
+　本事案との関連性は不明ですが、現在の中東情勢に鑑み、不測の事態が発生する可能性も排除されませんので、当地にある米国総領事館や同情勢に関連する施設に立ち寄られる際は、安全確保に十分ご注意ください。
+　また、最新情報の入手に努め、抗議活動が行われている場合には近づかないように注意していただくとともに、遭遇した場合には、周囲の状況に注意を払いつつ、その場を離れる等、自らの安全確保を最優先に行動するようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163531</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163531A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163531.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163531L.xml</xmlLightUrl>
+        <koukanCd>302F</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163530</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 05:00:51</leaveDate>
+        <area>
+            <cd>30</cd>
+        </area>
+        <country areaCd="30">
+            <cd>9001</cd>
+        </country>
+        <title>在トロント米国総領事館での銃撃事件をふまえた注意喚起</title>
+        <lead>●本日、３月１０日（火）早朝（現地時間）、トロントの米国総領事館で銃撃事件が発生しました。負傷者は報告されておらず、現在、警察が捜査中です。
+●本事案との関連性は不明ですが、現在の中東情勢に鑑み、不測の事態が発生する可能性も排除されませんので、米国等関係国関連施設や同情勢に関連する集会やデモに極力近寄らない等、安全確保に十分努めてください。
+
+※既に日本へ帰国された、あるいは当館管轄地域外へ転出された後、当館に在留届を引き続き残されたままの方がおられます。有事に際して、在留邦人の皆さまの安否確認が円滑に行うことができるよう、帰国・転出される方（された方）は以下のＵＲＬから「帰国・転出届」を提出いただくか、当館へメールによる連絡をお願いします。また、在留届の住所や連絡先（メールや携帯電話など）に変更が生じた場合には「変更届」を提出するようにしてください。 
+https://www.ezairyu.mofa.go.jp/RRnet/residencereport/login
+在バンクーバー日本国総領事館　領事班  
+メール：consul@vc.mofa.go.jp</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163530</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163530A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163530.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163530L.xml</xmlLightUrl>
+        <koukanCd>302E</koukanCd>
+    </mail>
     <mail>
         <keyCd>163529</keyCd>
         <infoType>R10</infoType>
@@ -1759,52 +1803,6 @@ https://www.etihad.com/en-jo/manage/flight-status</lead>
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163448A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163448.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163448L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163447</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 05:00:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>(重要：時間変更)日本政府チャーター機によるサウジアラビア・リヤドからの出国（搭乗のご案内）</title>
-        <lead>【既にご連絡済みのリヤド第１便への搭乗者を対象としたご連絡です。】
-（本件は、連絡に漏れのないように、既に外務省や各地の日本国大使館から搭乗の可否につきご連絡済みの「搭乗者」にご連絡するものです。
-搭乗についてまだ大使館等からご連絡差し上げていない皆様については、空港ターミナルにお越しいただいても搭乗できないのでご注意ください。）
-
-日本政府チャーター機の出発時刻が、３月９日(月)13:30に変更されました。
-これを受けて、集合時刻などが以下のとおり変更されます。ご注意ください。
-
-１　搭乗便
-エチオピア航空　ＥＴ８４０５便
- 
-２　出発時刻等（予定：いずれも現地時間）
-３月９日（月）13：30　キング・ハーリド国際空港（ターミナル５）発
-３月１０日（火）06：15　成田国際空港着（第１ターミナル）
- 
-３　受付時間、場所
-（１）３月９日（月）午前9時から正午までの間に、キング・ハーリド国際空港（ターミナル５）までお越しください。なお、ターミナル５とターミナル１～４との間の距離は長く、徒歩移動できませんので誤ったターミナルに集合しないようご注意ください。
-（２）ターミナル５の入口等にはオレンジのジャケットを着た大使館員が待機していますので、誘導に従ってください。
-（３）搭乗をキャンセルされる場合には、９日の午前7時までに以下に連絡ください。
-【緊急時の連絡先：在サウジアラビア日本国大使館】
-代表電話：＋９６６－（０）１１－４８８－１１００（オペレーターが２４時間対応）
- 
-４　荷物等
-（１）お一人あたり預け荷物は１個まで、重量は２３ｋｇまでです。
-（２）機内預け荷物、または持ち込めるものの制限については、商用機と同じ安全基準が適用されます（液体物やバッテリー等）。
-（３）ペットの帯同は認められません。
- 
-５　その他
-（１）キング・ハーリド国際空港で、通常のサウジアラビアの出国手続きがあります。
-（２）機内では通常の商用機のエコノミークラスと同様のサービスが提供されます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163447</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163447A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163447.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163447L.xml</xmlLightUrl>
         <koukanCd>708A</koukanCd>
     </mail>
 </opendata>
