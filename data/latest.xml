@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 02:00:49" mailCount="70" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 02:25:49" mailCount="73" odType="02">
+    <mail>
+        <keyCd>163527</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 02:01:13</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0245</cd>
+        </country>
+        <title>セネガル入国時のワクチン証明書の取扱いについて（セネガル政府発表）</title>
+        <lead>●３月９日、セネガル外務省が入国時必要とされるワクチン接種証明書についてコミュニケを発出しました。
+●一方、WHOは西アフリカ地域への渡航者に対し、黄熱病等のワクチン接種を推奨していることから、引き続き必要なワクチン接種について御確認の上、接種されることを推奨いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163527</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163527A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163527.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163527L.xml</xmlLightUrl>
+        <koukanCd>081A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163526</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 02:01:13</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0220</cd>
+        </country>
+        <title>セネガル入国時のワクチン証明書の取扱いについて（セネガル政府発表）</title>
+        <lead>●３月９日、セネガル外務省が入国時必要とされるワクチン接種証明書についてコミュニケを発出しました。
+●一方、WHOは西アフリカ地域への渡航者に対し、黄熱病等のワクチン接種を推奨していることから、引き続き必要なワクチン接種について御確認の上、接種されることを推奨いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163526</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163526A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163526.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163526L.xml</xmlLightUrl>
+        <koukanCd>080A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163525</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 02:01:13</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0238</cd>
+        </country>
+        <title>セネガル入国時のワクチン証明書の取扱いについて（セネガル政府発表）</title>
+        <lead>●３月９日、セネガル外務省が入国時必要とされるワクチン接種証明書についてコミュニケを発出しました。
+●一方、WHOは西アフリカ地域への渡航者に対し、黄熱病等のワクチン接種を推奨していることから、引き続き必要なワクチン接種について御確認の上、接種されることを推奨いたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163525</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163525A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163525.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163525L.xml</xmlLightUrl>
+        <koukanCd>B78A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163524</keyCd>
         <infoType>R10</infoType>
