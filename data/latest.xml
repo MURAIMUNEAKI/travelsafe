@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/10 13:40:48" mailCount="56" odType="02">
+<opendata dataType="L" lastModified="2026/03/10 14:00:50" mailCount="57" odType="02">
+    <mail>
+        <keyCd>163489</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 13:45:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月10日午前７時現在）</title>
+        <lead>３月10日午前７時現在、ハマド国際空港ではドーハ発着の限定的なフライトが運行されており、カタール航空は、カタール民間航空局からの一時的な許可に基づき以下のドーハ発の便を運行する予定であるとしています。
+
+３月10日
+カイロ、ロンドン、ジッダ、マニラ、コーチン、マスカット、イスタンブール、ムンバイ、デリー、ナイロビ、イスラマバード、マドリード、フランクフルト、コロンボ、ミラノ、モスクワ
+
+３月11日
+カイロ、トロント、ダラス/フォートワース、ロンドン、パリ、マドリード、ローマ、デリー、ジッダ、マスカット、香港、ソウル、バンコク、クアラルンプール、メルボルン
+
+邦人の皆様においては、有効かつ確定したチケットをお持ちでない場合、現時点で空港には向かうことのないようご注意下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163489</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163489A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163489.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163489L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163488</keyCd>
         <infoType>R10</infoType>
