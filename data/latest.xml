@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/10 15:25:48" mailCount="59" odType="02">
+<opendata dataType="L" lastModified="2026/03/10 15:50:49" mailCount="60" odType="02">
+    <mail>
+        <keyCd>163492</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 15:35:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月１０日 １０時）</title>
+        <lead>○「３月１０日(火)深夜　アラブ首長国連邦（UAE）・ドバイ発の日本政府チャーター機への搭乗希望調査」にご協力いただき、ありがとうございました。昨日夜、搭乗いただけることを当方が確定した方にはメールでご連絡しました。 
+【重要】キャンセルされる際は、在ドバイ日本国総領事館に※必ずご連絡ください※。キャンセルされた座席を他の方にご利用いただけるよう努めますので、お願いいたします。 
+
+在ドバイ日本国総領事館  
+電話：（市外局番04）2938888（国外からは（国番号971）-4-2938888） 
+メール：ryouji@du.mofa.go.jp　</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163492</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163492A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163492.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163492L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163491</keyCd>
         <infoType>R10</infoType>
