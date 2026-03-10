@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/10 14:00:50" mailCount="57" odType="02">
+<opendata dataType="L" lastModified="2026/03/10 14:25:49" mailCount="58" odType="02">
+    <mail>
+        <keyCd>163490</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 14:10:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0095</cd>
+        </country>
+        <title>（続報）中東情勢を踏まえた車両使用規制について（在ミャンマー日本国大使館より）</title>
+        <lead>１　３月３日に国防治安評議会（NDSC）広報チームが発表した車両使用規制について、一部の民間メディアが本件の取り締まりに関する内部文書を入手したとし、その内容を報じています。
+
+２　その報道によれば、本内部文書には、３月１３日（金）までは猶予期間（啓蒙活動期間）とし、同月１４日（土）から内務省総合行政局、地元警察、交通警察、法務関係者、検察関係者、市役所関係者、区又は村落行政事務所関係者からなるチームによる本格的な取り締まりを開始するとされており、違反した場合は、強制労働なしの懲役１か月及び罰金２万チャットが科されると記載されています。同様に、３月９日２０時の国営テレビでも、１３日（金）までは啓蒙活動を行い、１４日（土）から取り締まりを行う旨、また本措置は、燃油の節約だけでなく、渋滞緩和やガソリンスタンドでの円滑な給油などに資すると報じています。
+
+３　３月４日付追加発表（以下、参照）では、職員用送迎車両、物品配送用車両等は例外とし、これらの車両については関係部署からの有効な証明書または推薦状を携行する必要があると発表されております。他方、１４日以降の当局による取り締まりを含め、今回の車両使用規制の解釈や実際の運用については不明な点が多々ありますところ、引き続き、必要な証明書や推薦状の携行等必要な対応を行うとともに、特に、１４日以降当面の間は、本規制に従い、偶数の日は偶数番号の車両、奇数の日は奇数番号の車両を使用し、車両が使用できない場合はタクシーを利用する等、慎重な対応をお勧めいたします。その間における当局の対応状況を確認の上、その後の対応を検討することをお勧めします。また、引き続きガソリン残量に余
+裕を持った給油等にも心掛けると共に、今後の報道や発表には引き続きご留意下さい。
+
+
+■問い合わせ先：在ミャンマー日本国大使館領事班
+　電話：９５ー１ー５４９６４４～８
+　メール：ryoji@yn.mofa.go.jp
+</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163490</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163490A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163490.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163490L.xml</xmlLightUrl>
+        <koukanCd>601A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163489</keyCd>
         <infoType>R10</infoType>
