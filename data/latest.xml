@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/10 19:55:48" mailCount="60" odType="02">
+<opendata dataType="L" lastModified="2026/03/10 20:25:49" mailCount="61" odType="02">
+    <mail>
+        <keyCd>163500</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 20:20:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <title>3月12日(木)午後にオマーン・マスカットを出発する政府チャーター機への搭乗希望調査［回答期限：現地時間3月10日20時30分］</title>
+        <lead>【重要】オマーン時間の3月12日16:00（予定）にマスカットから出発し、日本時間3月13日午前9:55に東京（羽田空港第２ターミナル）に到着する予定の政府チャーター機（全日空(ANA)）への搭乗、及び同機出発に接続するアラブ首長国連邦（UAE）からマスカット行きのバスへの乗車希望調査を実施します。搭乗・乗車を希望する方は、以下をお読みの上、本調査の回答用ＵＲＬから回答をお願いいたします。
+（搭乗・乗車を希望されない場合、ご回答は不要です。）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163500</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163500A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163500.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163500L.xml</xmlLightUrl>
+        <koukanCd>761A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163499</keyCd>
         <infoType>R10</infoType>
