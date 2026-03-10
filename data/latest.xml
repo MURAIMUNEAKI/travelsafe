@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/10 08:15:52" mailCount="54" odType="02">
+<opendata dataType="L" lastModified="2026/03/10 08:50:48" mailCount="55" odType="02">
+    <mail>
+        <keyCd>163484</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/10 08:25:40</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0506</cd>
+        </country>
+        <title>安全情報【1月分】</title>
+        <lead>【安全情報1月分】当地報道より、殺人、強盗事件や自然災害など、1月に報じられた皆様の安全に関わる情報の概要をお知らせしています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163484</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163484A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163484.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163484L.xml</xmlLightUrl>
+        <koukanCd>417A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163483</keyCd>
         <infoType>R10</infoType>
