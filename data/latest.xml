@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 04:00:49" mailCount="71" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 04:20:50" mailCount="72" odType="02">
+    <mail>
+        <keyCd>163529</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 04:20:40</leaveDate>
+        <area>
+            <cd>30</cd>
+        </area>
+        <country areaCd="30">
+            <cd>9001</cd>
+        </country>
+        <title>【在トロント米国総領事館での銃撃事件発生に伴う注意喚起】</title>
+        <lead>現地時間3月10日午前４時30分頃、オンタリオ州トロント中心部に所在する米国総領事館において、銃撃事件が発生しました。犯人は現在も逃走中であり、今後、カナダ国内の米国総領事館が標的となる可能性も否定できません。
+各米国総領事館周辺に立ち寄られる際には、十分な警戒とご注意をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163529</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163529A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163529.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163529L.xml</xmlLightUrl>
+        <koukanCd>302D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163527</keyCd>
         <infoType>R10</infoType>
