@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 13:40:49" mailCount="73" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 14:05:49" mailCount="76" odType="02">
+    <mail>
+        <keyCd>163537</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 13:55:53</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <title>12日マスカット発、13日リヤド発の政府チャーター機について（外務省領事局）</title>
+        <lead>外務省領事局です。
+イラク、クウェート、サウジアラビア、バーレーン、カタールの在留届およびたびレジ本登録の登録者の皆様に対して13日サウジアラビア・リヤド発の政府チャーター機について、また、アラブ首長国連邦、オマーンの同登録者の皆様に対して12日オマーン・マスカット発の政府チャーター機について、既にご案内申し上げているところですが、両チャーター機に関連して以下のとおりご連絡します。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163537</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163537A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163537.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163537L.xml</xmlLightUrl>
+        <koukanCd>761A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163536</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 13:55:53</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>12日マスカット発、13日リヤド発の政府チャーター機について（外務省領事局）</title>
+        <lead>外務省領事局です。
+イラク、クウェート、サウジアラビア、バーレーン、カタールの在留届およびたびレジ本登録の登録者の皆様に対して13日サウジアラビア・リヤド発の政府チャーター機について、また、アラブ首長国連邦、オマーンの同登録者の皆様に対して12日オマーン・マスカット発の政府チャーター機について、既にご案内申し上げているところですが、両チャーター機に関連して以下のとおりご連絡します。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163536</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163536A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163536.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163536L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163535</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 13:50:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>12日マスカット発、13日リヤド発の政府チャーター機について（外務省領事局）</title>
+        <lead>外務省領事局です。
+イラク、クウェート、サウジアラビア、バーレーン、カタールの在留届およびたびレジ本登録の登録者の皆様に対して13日サウジアラビア・リヤド発の政府チャーター機について、また、アラブ首長国連邦、オマーンの同登録者の皆様に対して12日オマーン・マスカット発の政府チャーター機について、既にご案内申し上げているところですが、両チャーター機に関連して以下のとおりご連絡します。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163535</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163535A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163535.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163535L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163534</keyCd>
         <infoType>R10</infoType>
