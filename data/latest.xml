@@ -1,5 +1,103 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 18:50:49" mailCount="81" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 19:25:48" mailCount="81" odType="02">
+    <mail>
+        <keyCd>163555</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/03/11 19:05:59</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>中東における経済拠点・銀行・テック企業への脅威情報について（３月１１日　１３：００）</title>
+        <lead>○　報道によると、イランの合同軍事司令部は、中東地域における米国及びイスラエルに関連する経済拠点・銀行を標的にする旨を発表しました。
+○　現時点で当地において標的となり得る施設等について列挙することは困難ですが、バーレーン国内の一部銀行、送金・両替企業は過去にイスラエル等との繋がりを指摘されているとの情報もあります。
+○　また一部報道では、イラン革命防衛隊傘下の通信社が、軍事用途に技術が利用された米国及びイスラエル関連企業も標的になり得るとして、一例としてグーグル、マイクロソフト、パランティア、IBM、エヌビディア、オラクルを例示したと報じています。
+○　掛かる情勢を踏まえ、当面の間、関連する可能性のある施設への、不要不急の立ち寄りは避けるなどの配慮をお願いいたします。
+○　引き続き邦人の皆さまは、緊急警報が鳴る、ミサイル・ドローン等の音がするなど被害の可能性がある場合には、
+　　　　屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
+　　　　屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
+を徹底し、身の安全を第一としてください。　</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163555</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163555A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163555.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163555L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163554</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 19:05:58</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ドイツ全土での大規模なストライキ実施に伴う航空便への影響（３月１２日（木）～３月１３日（金））</title>
+        <lead>○パイロット組合（VC）は、ルフトハンザ航空のパイロットに対し、３月１２日（木）から１３日（金）にわたってストライキを呼びかけており、これが実施されれば、航空便の欠航又は遅延の発生が予想され、全国的に大きな影響が出る模様です。
+◯出張やご旅行等を計画されている方は、事前にフライト情報を確認するとともに、時間に余裕をもって行動するようにしてください。
+◯最新のフライト情報は、航空会社ホームページ、報道等からご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163554</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163554A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163554.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163554L.xml</xmlLightUrl>
+        <koukanCd>506A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163553</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 19:00:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月11日(水)12:00時点）</title>
+        <lead>3月11日(水)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
+現時点では、特段従来の運用が変更されるといった発表・報道はありません。
+ 
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼
+●公式ウェブページ（出発便情報）
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
+●3月11日(水)出発便フライト予定（総計30便）（終日）
+（参考：2月28日以前の水曜日のフライト数は約160便）
+AIR HAIFA 5
+  ATHENS 2
+  LARNACA 3
+ARKIA ISRAELI AIRLINES	7
+  ATHENS 2
+  BUDAPEST 1
+  PARIS 1
+  PRAGUE 1
+  ROME 1
+  TBILISI 1
+EL AL ISRAEL AIRLINES	12
+  BUCHAREST 1
+  BUDAPEST 1
+  GENEVA 1
+  NEW YORK 2
+  NEWARK 2
+  PARIS 1
+  ROME 1
+  TBILISI 3
+ISRAIR AIRLINES	6
+  ATHENS 1
+  BUDAPEST 1
+  PRAGUE 1
+  ROME 2
+  TBILISI 1</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163553</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163553A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163553.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163553L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163552</keyCd>
         <infoType>R10</infoType>
@@ -1892,107 +1990,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163463.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163463L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163462</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 19:25:42</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0044</cd>
-        </country>
-        <title>グラスゴー中央駅付近で発生した火災について</title>
-        <lead>　３月８日（日）午後、グラスゴー市のグラスゴー中央駅近くの建物で火災が発生しました。この影響により、同駅は現時点で閉鎖されており、列車の運行に大きな影響が出ています。
-　報道等によると、火災は同駅隣接の建物（ユニオン・ストリート）で発生し、９日は終日、同駅では列車の発着が停止される予定で、今後も影響が続く可能性があるとされています。
-
-　つきましては、今後、同駅周辺に向かわれる予定のある方は、現地当局の指示に従うとともに、最新の運行状況を各鉄道会社等の公式情報からご確認ください。また、今後の状況に十分ご留意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163462</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163462A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163462.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163462L.xml</xmlLightUrl>
-        <koukanCd>518E</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163461</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 19:10:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月9日(月)12:00時点）</title>
-        <lead>3月9日(月)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
- 
-▲▼▲▼▲▼新着情報▲▼▲▼▲▼
- 
-■■ベン・グリオン空港運航状況
-●公式ウェブページ（出発便情報）
-https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
-
-●3月9日(月)出発便フライト予定（総計31便）（9時30分以降）
-（参考：2月28日以前の月曜日のフライト数は約160便）
-AIR HAIFA 4
-  ATHENS 2
-  LARNACA 2
-ARKIA ISRAELI AIRLINES　7
-  ATHENS 2
-  LARNACA 1
-  PRAGUE 1
-  ROME 1
-  TBILISI 1
-  ATHENS via LARNACA　1
-EL AL ISRAEL AIRLINES　14
-  BANGKOK 4
-  MUNICH 1
-  PARIS 2
-  ROME 1
-  TBILISI 1
-  MILAN 1
-  NEW YORK 1
-  PHUKET 1
-  WARSAW 1
-  LOS ANGELES 1
-ISRAIR AIRLINES 5
-  ATHENS 1
-  LARNACA 1
-  PRAGUE 1
-  ROME 1
-  TBILISI 1
-US AIRWAYS INC. 1
-  ATHENS 1</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163461</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163461A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163461.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163461L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163460</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 18:55:42</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【交通情報】ドルトムント、デュッセルドルフ等での近距離公共交通機関におけるストライキの影響（３月９日(月)および１０日（火））</title>
-        <lead>○Ver.di（統一サービス業労働組合）が、新たな警告ストライキを呼びかけています。
-○本日３月９日（月）午前３時３０分頃から翌１０日（火）午前１時３０分頃まで、ドルトムントの近距離公共交通機関（バスや路面電車）が運休しているとのことです。
-○３月１０日（火）、デュッセルドルフ、メットマンおよびベルギッシェ・ラント（ヴッパータール、ゾーリンゲン、レムシャイト、レバークーゼン、ベルギッシュ・グラードバッハ）の近距離公共交通機関の運休が予定されております。
-○S-BahnやRE（地域列車）等はストライキの影響を受けないとのことです。
-○通勤、通学、旅行等に当たっては、事前にご利用予定の公共交通機関の運行情報等をよくご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163460</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163460A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163460.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163460L.xml</xmlLightUrl>
-        <koukanCd>506F</koukanCd>
     </mail>
 </opendata>
