@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/12 04:45:49" mailCount="81" odType="02">
+<opendata dataType="L" lastModified="2026/03/12 05:30:49" mailCount="82" odType="02">
+    <mail>
+        <keyCd>163574</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 04:45:51</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0055</cd>
+        </country>
+        <title>邦人被害（乗車中の強盗致傷事件の発生）</title>
+        <lead>邦人が被害者となる乗車中の強盗致傷事件が発生しましたので、お知らせします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163574</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163574A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163574.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163574L.xml</xmlLightUrl>
+        <koukanCd>403G</koukanCd>
+    </mail>
     <mail>
         <keyCd>163572</keyCd>
         <infoType>R10</infoType>
