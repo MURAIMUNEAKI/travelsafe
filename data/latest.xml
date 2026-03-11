@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 14:20:49" mailCount="82" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 14:55:49" mailCount="80" odType="02">
+    <mail>
+        <keyCd>163545</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 14:40:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月１１日 ９時）</title>
+        <lead>○「３月１２日（木）午後にオマーン・マスカットを出発する政府チャーター機への搭乗希望調査」にご協力いただき、ありがとうございました。今朝、搭乗いただけることが確定した方には、メールでご連絡いたしました。  
+【重要】キャンセルされる際は、在ドバイ日本国総領事館に必ずご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163545</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163545A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163545.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163545L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163543</keyCd>
         <infoType>R10</infoType>
@@ -1980,64 +1999,6 @@ https://www.etihad.com/en-jo/manage/flight-status</lead>
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163454A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163454.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163454L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163453</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 14:40:56</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0962</cd>
-        </country>
-        <title>イランへの攻撃に伴う注意喚起・その７</title>
-        <lead>【ポイント】
-●２月２８日のイスラエル等によるイランに対する攻撃を受けて、イスラエル以外にも、ヨルダンを含めＵＡＥ、バーレーン、カタール等米軍基地が所在する国々に対するイランからの攻撃が、連日確認されています。湾岸諸国では、民間施設も攻撃されています。今後、事態が急速に悪化する可能性も排除されません。
-●今後、ヨルダン発着の航空便が停止する可能性も念頭に、ヨルダンからの出国を希望されている方は、航空便が運航している間に、早期の出国を検討してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163453</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163453A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163453.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163453L.xml</xmlLightUrl>
-        <koukanCd>757A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163452</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 14:40:55</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>3月10日(火)深夜にアラブ首長国連邦・ドバイを出発する政府チャーター機への搭乗希望調査［回答期限：現地時間3月9日14時</title>
-        <lead>【重要】アラブ首長国連邦（UAE）・ドバイを出発する日本政府チャーター機への搭乗を希望する方は、以下をお読みの上、本調査の回答用ＵＲＬから、UAE時間3月9日14時までに回答をお願いいたします。
-（搭乗を希望されない場合、ご回答は不要です。）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163452</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163452A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163452.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163452L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163451</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 14:35:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>3月10日(火)深夜にアラブ首長国連邦・ドバイを出発する政府チャーター機への搭乗希望調査［回答期限：現地時間3月9日14時］</title>
-        <lead>【重要】アラブ首長国連邦（UAE）・ドバイを出発する日本政府チャーター機への搭乗を希望する方は、以下をお読みの上、本調査の回答用ＵＲＬから、UAE時間3月9日14時までに回答をお願いいたします。
-（搭乗を希望されない場合、ご回答は不要です。）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163451</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163451A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163451.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163451L.xml</xmlLightUrl>
         <koukanCd>755A</koukanCd>
     </mail>
 </opendata>
