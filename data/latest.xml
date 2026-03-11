@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 08:40:49" mailCount="73" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 09:30:50" mailCount="74" odType="02">
+    <mail>
+        <keyCd>163532</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 09:05:41</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0691</cd>
+        </country>
+        <title>ポンペイ気象台によるに洪水注意喚起の発出</title>
+        <lead>●ポンペイ州への洪水に関する注意喚起</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163532</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163532A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163532.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163532L.xml</xmlLightUrl>
+        <koukanCd>627A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163531</keyCd>
         <infoType>R10</infoType>
