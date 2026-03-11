@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 23:30:49" mailCount="81" odType="02">
+<opendata dataType="L" lastModified="2026/03/12 00:00:50" mailCount="82" odType="02">
+    <mail>
+        <keyCd>163566</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 23:50:44</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ストライキ実施に伴う国内各空港への影響（３月12日（木）及び13日（金）））</title>
+        <lead>パイロット組合（VC）は、ルフトハンザ航空、貨物航空会社ルフトハンザ・カーゴ及び地域子会社ルフトハンザ・シティラインに対して、３月12日（木）及び13日（金）の急なストライキを呼びかけており、これが実施されれば航空便の欠航や遅延などが発生することが予想されます。
+
+出張やご旅行等を計画されている方は、事前にフライト情報を確認するとともに、時間に余裕をもって行動するようにしてください。
+
+最新のフライト情報は、航空会社ホームページ、報道等からご確認ください。
+
+【関連ＵＲＬ】
+○ルフトハンザ航空ホームページ
+https://www.lufthansa.com/de/de/fluginformationen 
+
+○ミュンヘン空港ホームページ
+https://www.munich-airport.com/ 
+
+○シュトゥットガルト空港ホームページ
+https://www.flughafen-stuttgart.de/?cl=de</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163566</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163566A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163566.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163566L.xml</xmlLightUrl>
+        <koukanCd>506G</koukanCd>
+    </mail>
     <mail>
         <keyCd>163565</keyCd>
         <infoType>R10</infoType>
