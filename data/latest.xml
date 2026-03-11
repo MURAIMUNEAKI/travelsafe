@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 17:45:50" mailCount="82" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 18:30:48" mailCount="82" odType="02">
+    <mail>
+        <keyCd>163552</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 18:25:43</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0886</cd>
+        </country>
+        <title>台湾安全情報（２０２５年第４四半期）</title>
+        <lead>台湾当局の統計及び当協会が把握している事件・事故を基に作成した台湾の安全情報をお知らせいたします。
+日本人の方が詐欺の被害に遭う事例が確認されています。安易に投資したり、ＳＮＳ上のみで知り合った人に送金したりしないようご注意ください。被害に遭った場合は、警察に被害届を提出するとともに当協会宛にもご連絡ください。	
+また、日本人の方が交通事故に巻き込まれる事例も見られます。歩行中は周囲の車両の状況をよく見るとともに、バス・タクシーへの乗車中は必ずシートベルトを締めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163552</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163552A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163552.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163552L.xml</xmlLightUrl>
+        <koukanCd>632B</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163551</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 17:55:47</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0886</cd>
+        </country>
+        <title>台湾安全情報（２０２５年第４四半期）</title>
+        <lead>台湾当局の統計及び当協会が把握している事件・事故を基に作成した台湾の安全情報をお知らせいたします。
+日本人の方が詐欺の被害に遭う事例が確認されています。安易に投資したり、ＳＮＳ上のみで知り合った人に送金したりしないようご注意ください。被害に遭った場合は、警察に被害届を提出するとともに当協会宛にもご連絡ください。	
+また、日本人の方が交通事故に巻き込まれる事例も見られます。歩行中は周囲の車両の状況をよく見るとともに、バス・タクシーへの乗車中は必ずシートベルトを締めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163551</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163551A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163551.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163551L.xml</xmlLightUrl>
+        <koukanCd>632A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163549</keyCd>
         <infoType>R10</infoType>
@@ -1976,45 +2016,5 @@ US AIRWAYS INC. 1
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163459.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163459L.xml</xmlLightUrl>
         <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163458</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 18:10:41</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0092</cd>
-        </country>
-        <title>～ラマダン最終期及びイード期間中の注意喚起について～</title>
-        <lead>○　今週後半から始まるラマダン最終期、特にラマダン期間中最後の金曜日である３月13日は、信仰心が特に高まる時期となります。大きな音を伴う大人数での集会等目立った行動は避けるよう御注意ください。
-○　またその直後に始まるイード期間中は、人流の増加が見込まれることから、この機を捉えてテロ発生の可能性が高まることはもとより、一般犯罪も増加する傾向にあります。
-○　イード期間に入ると家畜の屠殺が随所で行われることから、感染症罹患を避けるためにも、屠殺場所に近づいたり、路上に流れている家畜の血液等には絶対に触れないようにしてください。
-○　在留邦人の皆様におかれましては、引き続き周囲の安全に特に配慮した行動を心掛けていただき、御自身の不用意な行動によって無用なトラブルを惹起してしまうことや、これに巻き込まれてしまうことのないよう引き続き御注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163458</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163458A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163458.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163458L.xml</xmlLightUrl>
-        <koukanCd>610A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163457</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 17:55:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0046</cd>
-        </country>
-        <title>（治安情報）米国、イスラエル権益を標的としたテロ等への注意喚起</title>
-        <lead>○中東情勢の悪化に伴い、スウェーデン国内の米国及びイスラエル権益がテロの標的となる可能性がありますので十分に注意してください。
-○国外への渡航を予定されている方は、航空会社や外務省海外安全ホームページなどの公式の情報源から、最新の情報を収集するよう努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163457</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163457A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163457.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163457L.xml</xmlLightUrl>
-        <koukanCd>515A</koukanCd>
     </mail>
 </opendata>
