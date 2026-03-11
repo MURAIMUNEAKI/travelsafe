@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 22:05:49" mailCount="85" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 22:25:49" mailCount="84" odType="02">
     <mail>
         <keyCd>163562</keyCd>
         <infoType>R10</infoType>
@@ -2078,29 +2078,5 @@ https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03431.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163467.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163467L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163466</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 22:10:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月９日 １６時）</title>
-        <lead>○「３月１０日(火)深夜　アラブ首長国連邦（UAE）・ドバイ発の日本政府チャーター機への搭乗希望調査」にご協力いただき、ありがとうございました。希望調査メールでご案内のとおり、 
-－　搭乗いただけることを当方が確定した方に対して、当地時間３月９日(月)２１時頃までにメールでご連絡します。 
-－　お申込み後にキャンセルされる場合は、在ドバイ日本国総領事館に必ずご連絡ください。キャンセルされた座席を他の方にご利用いただけるよう努めますので、お願いいたします。 
-
-在ドバイ日本国総領事館  
-電話：（市外局番04）2938888（国外からは（国番号971）-4-2938888） 
-メール：ryouji@du.mofa.go.jp　</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163466</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163466A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163466.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163466L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
