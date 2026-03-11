@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 14:55:49" mailCount="80" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 15:25:49" mailCount="80" odType="02">
+    <mail>
+        <keyCd>163546</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 15:10:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>ベンガルールに所在するホテルの営業に関する報道について</title>
+        <lead>【ポイント】
+●報道によると、ベンガルールホテル協会は、商業用LPGシリンダーの供給停止を受けて、１０日（火）から営業を停止するホテル（及びレストラン）がある旨を発表しました。
+●出張等で当地ホテルやレストランを使用する予定がある方は、事前に利用先に営業状況を確認するなどの対応をお勧めします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163546</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163546A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163546.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163546L.xml</xmlLightUrl>
+        <koukanCd>606F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163545</keyCd>
         <infoType>R10</infoType>
@@ -1963,42 +1983,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163455.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163455L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163454</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 15:25:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>大使館からの情報発信（３月９日午前１０時００分）</title>
-        <lead>本日午前９時４０分頃、外務省より１０日２３時ドバイ発ー東京（羽田）便のチャーター機の希望調査メールを送付しております。回答期限が本日９日１４時までとなっておりますので、希望される方は必ずご回答頂くようお願いいたします。
- 
-アラブ首長国全域は危険情報レベル３（渡航中止勧告）となっております。
-https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03431.html
- 
-アブダビ首長国内にあるザーイド国際空港は、３月９日午前１０時現在、3月6日から3月19日までの間、アブダビ発着で運航予定の限定路線は多数就航予定となっておりますが、不定期な便も多数あります。東京（成田）便についても連日キャンセルが続いておりますので、欧州や東南アジア等の経由地から帰国されるのを推奨いたします。
-３月５日以降就航が確認できている路線：バンコク、バンガロール、カイロ、デリー、フランクフルト、ハノイ、ジッダ、クアラルンプール、ロンドン（ヒースロー）、ミラノ（マルペンサ）、ムンバイ、パリ、プーケット、リヤド、ソウル（仁川）
-邦人の皆様におかれては、関連情報を公式情報等から入手するようお願いします。
- 
-●Emirates News Agency-WAM
-https://www.wam.ae/en/home/main
-●Khaleej Times
-https://www.khaleejtimes.com/
-●エティハド航空チケットHP
-https://www.etihad.com/en-jo/
-（今後の情勢によってはキャンセルされる可能性がございます。）
-●ザーイド国際空港（リンク先）
-https://www.zayedinternationalairport.ae/ 
-●ザーイド国際空港（限定路線情報ー３月９日午前１０時）
-https://www.etihad.com/en-jo/manage/flight-status</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163454</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163454A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163454.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163454L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
     </mail>
 </opendata>
