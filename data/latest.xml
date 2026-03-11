@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/11 23:00:50" mailCount="82" odType="02">
+<opendata dataType="L" lastModified="2026/03/11 23:30:49" mailCount="81" odType="02">
+    <mail>
+        <keyCd>163565</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 23:30:42</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <title>ピウラ州一部地域に対する治安対策のための非常事態宣言の発出</title>
+        <lead>●ペルー政府は、治安対策のため、ピウラ州一部地域に対する非常事態宣言を官報に告示しました。
+●同宣言により、憲法で保障された権利の一部が制限されます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163565</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163565A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163565.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163565L.xml</xmlLightUrl>
+        <koukanCd>412A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163564</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/11 23:20:41</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <title>アヤクチョ州・クスコ州・フニン州の一部地域に対する非常事態宣言</title>
+        <lead>●ペルー政府は、テロ・麻薬対策のため、アヤクチョ州、クスコ州、フニン州の一部地域に対する非常事態宣言を官報に告示しました。
+●同地域では、センデロ・ルミノソ等のテロ組織が、違法な武器取引、麻薬生産等の活動をしており、テロ事件等も発生しています。同地域には立ち入らないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163564</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163564A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163564.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163564L.xml</xmlLightUrl>
+        <koukanCd>412A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163563</keyCd>
         <infoType>R10</infoType>
@@ -1953,76 +1991,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163473.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163473L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163472</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 23:30:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>大使館からの情報発信（３月９日午後６時）</title>
-        <lead>「３月１０日(火)深夜　アラブ首長国連邦（UAE）・ドバイ発の日本政府チャーター機への搭乗希望調査」にご協力いただき、ありがとうございました。希望調査メールでご案内のとおり、
-－　搭乗いただけることを当方が確定した方に対して、当地時間３月９日(月)２１時頃までにメールでご連絡します。
-－　お申込み後にキャンセルされる場合は、在アラブ首長国連邦日本国大使館に必ずご連絡ください。キャンセルされた座席を他の方にご利用いただけるよう努めますので、お願いいたします。
-在アラブ首長国連邦日本国大使館　領事警備班
-メール：consular@ab.mofa.go.jp
- 
-アラブ首長国全域は危険情報レベル３（渡航中止勧告）となっております。
-https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03431.html
- 
-アブダビ首長国内にあるザーイド国際空港は、３月９日午後６時現在、3月6日から3月19日までの間、アブダビ発着で運航予定の限定路線は多数就航予定となっておりますが、不定期な便も多数あります。東京（成田）便についても連日キャンセルが続いておりますので、欧州や東南アジア等の経由地から帰国されるのを推奨いたします。
-確認できている主な航路：バンコク、バンガロール、カイロ、デリー、フランクフルト、ハノイ、ジッダ、クアラルンプール、ロンドン（ヒースロー）、ミラノ（マルペンサ）、ムンバイ、パリ、プーケット、リヤド、ソウル（仁川）
-邦人の皆様におかれては、関連情報を公式情報等から入手するようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163472</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163472A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163472.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163472L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163471</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 23:10:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0962</cd>
-        </country>
-        <title>イランへの攻撃に伴う注意喚起・その８</title>
-        <lead>【ポイント】
-●２月２８日のイスラエル及び米国によるイランに対する攻撃を受けて、イスラエル以外にも、ヨルダンを含めＵＡＥ、バーレーン、カタール等米軍基地が所在する国々に対するイランからの攻撃が、連日確認されています。湾岸諸国では、民間施設も攻撃されています。今後、事態が急速に悪化する可能性も排除されません。
-●今後、ヨルダン発着の航空便が停止する可能性も念頭に、ヨルダンからの出国を希望されている方は、航空便が運航している間に、早期の出国を検討してください。
-●３月１０日、米軍が駐留する基地が所在し、攻撃被害が発生するリスクが高いヨルダン東部のザルカ県及びマフラク県の危険レベルが、レベル３（渡航は止めてください（渡航中止勧告））に引き上げられました。邦人の皆様は渡航しないようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163471</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163471A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163471.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163471L.xml</xmlLightUrl>
-        <koukanCd>757A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163470</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/09 23:05:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0961</cd>
-        </country>
-        <title>イスラエル国防軍によるベイルート県内を含むレバノン国内複数地域への攻撃及び危険情報【一部地域の危険レベル引き上げ】</title>
-        <lead>●３月２日以降、イスラエル国防軍によるヒズボッラー等関連施設を標的としたとみられる攻撃が、ベイルート南部郊外ダーヒエ地区、レバノン南部及びベカー地方を中心に断続的に発生しており、レバノン国内では多数の被害が生じている模様です。
-●３月８日、ベイルート県内のホテルに対する攻撃が発生しております。今後も不測の事態が生じる可能性があります。
-●こうした状況を受け、レバノンに関する危険情報を変更し、一部地域の危険レベルが引き上げられました。どのような目的であれ、「レベル３：渡航中止勧告」以上の地域への渡航は止めてください。
-●最新の安全情報や攻撃に関する警告等の情報収集に努めてください。退避の呼びかけ等が発出された場合には、速やかに安全な場所へ退避してください。また、爆発音等が確認された場合には現場には近づかず、安全確保を最優先に行動してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163470</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163470A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163470.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163470L.xml</xmlLightUrl>
-        <koukanCd>707A</koukanCd>
     </mail>
 </opendata>
