@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/12 07:50:49" mailCount="82" odType="02">
+<opendata dataType="L" lastModified="2026/03/12 08:25:48" mailCount="82" odType="02">
+    <mail>
+        <keyCd>163576</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 08:15:44</leaveDate>
+        <area>
+            <cd>30</cd>
+        </area>
+        <country areaCd="30">
+            <cd>9001</cd>
+        </country>
+        <title>カナダ各地での麻しん（はしか）の流行に関する注意喚起</title>
+        <lead>●カナダ各地で麻しん（はしか）の流行が報告されています。麻しん（はしか）は感染力が非常に強く、今後さらに拡大する可能性があるため、予防対策や流行に関する最新情報にご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163576</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163576A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163576.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163576L.xml</xmlLightUrl>
+        <koukanCd>302F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163575</keyCd>
         <infoType>R10</infoType>
@@ -2008,23 +2026,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163485.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163485L.xml</xmlLightUrl>
         <koukanCd>607F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163484</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/10 08:25:40</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0506</cd>
-        </country>
-        <title>安全情報【1月分】</title>
-        <lead>【安全情報1月分】当地報道より、殺人、強盗事件や自然災害など、1月に報じられた皆様の安全に関わる情報の概要をお知らせしています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163484</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163484A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163484.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163484L.xml</xmlLightUrl>
-        <koukanCd>417A</koukanCd>
     </mail>
 </opendata>
