@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/12 00:00:50" mailCount="82" odType="02">
+<opendata dataType="L" lastModified="2026/03/12 00:25:50" mailCount="83" odType="02">
+    <mail>
+        <keyCd>163567</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 00:20:42</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ドイツ全土での大規模なストライキ実施に伴う航空便への影響（３月１２日（木）～３月１３日（金））</title>
+        <lead>○パイロット組合（VC）は、ルフトハンザ航空のパイロットに対し、３月１２日（木）から１３日（金）にわたってストライキを呼びかけており、これが実施されれば、航空便の欠航又は遅延の発生が予想され、全国的に大きな影響が出る模様です。 
+◯出張やご旅行等を計画されている方は、事前にフライト情報を確認するとともに、時間に余裕をもって行動するようにしてください。 
+◯最新のフライト情報は、航空会社ホームページ、報道等からご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163567</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163567A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163567.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163567L.xml</xmlLightUrl>
+        <koukanCd>506F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163566</keyCd>
         <infoType>R10</infoType>
