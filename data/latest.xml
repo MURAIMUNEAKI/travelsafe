@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/12 16:45:49" mailCount="92" odType="02">
+<opendata dataType="L" lastModified="2026/03/12 17:25:49" mailCount="91" odType="02">
     <mail>
         <keyCd>163593</keyCd>
         <infoType>R10</infoType>
@@ -2239,34 +2239,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163496.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163496L.xml</xmlLightUrl>
         <koukanCd>524A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163495</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/10 17:25:44</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0045</cd>
-        </country>
-        <title>中東情勢の悪化を踏まえた注意喚起</title>
-        <lead>　昨今の中東情勢を背景とするデモや集会がデンマークにおいても実施されています。不測の事態を避けるためにも、デモや集会を見た際には近づかないようにしていただき、報道等により最新の情勢を把握するよう努めるとともに、不測の事態に巻き込まれることのないようにご注意ください。
-　また、３月８日未明、ノルウェーにある米国大使館で原因不明の爆発事件が発生しております。デンマークにおいても令和６年１０月にヘレロップに所在するイスラエル大使館付近で爆発事件が発生していることから、不測の事態に巻き込まれないためにも、米国、イスラエル、イラン等関係国関連施設には極力近づかないなど、安全確保に十分心がけてください。
-　なお、上記の関連施設のうち主要な施設の所在地は以下のとおりです。
-
-●米国大使館
-　Dag Hammarskjolds Alle 24, 2100 Copenhagen
-●イスラエル大使館
-　Lundevangsvej 4, 2900 Hellerup
-●イラン大使館
-　Svanemoellevej 48, 2100 Copenhagen
-●シナゴーグ
-　Krystalgade 12, 1172 Copenhagen K</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163495</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163495A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163495.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163495L.xml</xmlLightUrl>
-        <koukanCd>503A</koukanCd>
     </mail>
 </opendata>
