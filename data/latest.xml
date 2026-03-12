@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/13 05:25:49" mailCount="71" odType="02">
+<opendata dataType="L" lastModified="2026/03/13 05:50:49" mailCount="72" odType="02">
+    <mail>
+        <keyCd>163607</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/13 05:30:55</leaveDate>
+        <title>観光シーズンの安全対策</title>
+        <lead>●当地ではこれから大リーグの試合をはじめとして様々なイベントが各地で開催され、多くの人で賑わいます。このようなイベントでは、スリや置き引きをはじめとした一般犯罪が増加する傾向にあるので注意してください。
+●また、テロの危険も高まりますので、外出・ご旅行の際には周囲の治安状況に注意を払うなどの安全対策に留意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163607</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163607A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163607.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163607L.xml</xmlLightUrl>
+        <koukanCd>301F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163606</keyCd>
         <infoType>R10</infoType>
