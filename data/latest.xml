@@ -1,5 +1,129 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/12 13:35:49" mailCount="85" odType="02">
+<opendata dataType="L" lastModified="2026/03/12 14:30:48" mailCount="88" odType="02">
+    <mail>
+        <keyCd>163587</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 14:15:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月１２日 ９時）</title>
+        <lead>○ドバイ国際空港（DXB）では、本日も成田行き及び羽田行きの便は運航され、すでに出発しました。当地から空路での退避を検討されている方は、乗り継ぎ便を含むフライトの運航状況を十分にご確認ください。  
+https://dubaiairports.ae/　（ドバイ国際空港HP）   
+https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163587</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163587A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163587.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163587L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163586</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 13:40:53</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0961</cd>
+        </country>
+        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
+        <lead>中東各国・地域に滞在されている邦人の皆様へ
+
+中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
+一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
+つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
+
+【回答期限】本日（現地時間深夜24時まで）
+【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
+https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163586</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163586A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163586.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163586L.xml</xmlLightUrl>
+        <koukanCd>707A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163585</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 13:40:53</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0962</cd>
+        </country>
+        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
+        <lead>中東各国・地域に滞在されている邦人の皆様へ
+
+中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
+一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
+つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
+
+【回答期限】本日（現地時間深夜24時まで）
+【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
+https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163585</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163585A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163585.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163585L.xml</xmlLightUrl>
+        <koukanCd>757A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163584</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 13:35:52</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
+        <lead>中東各国・地域に滞在されている邦人の皆様へ
+
+中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
+一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
+つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
+
+【回答期限】本日（現地時間深夜24時まで）
+【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
+https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163584</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163584A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163584.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163584L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163583</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 13:35:52</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
+        <lead>中東各国・地域に滞在されている邦人の皆様へ
+
+中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
+一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
+つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
+
+【回答期限】本日（現地時間深夜24時まで）
+【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
+https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163583</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163583A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163583.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163583L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163582</keyCd>
         <infoType>R10</infoType>
@@ -2050,60 +2174,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163491.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163491L.xml</xmlLightUrl>
         <koukanCd>537A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163490</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/10 14:10:40</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0095</cd>
-        </country>
-        <title>（続報）中東情勢を踏まえた車両使用規制について（在ミャンマー日本国大使館より）</title>
-        <lead>１　３月３日に国防治安評議会（NDSC）広報チームが発表した車両使用規制について、一部の民間メディアが本件の取り締まりに関する内部文書を入手したとし、その内容を報じています。
-
-２　その報道によれば、本内部文書には、３月１３日（金）までは猶予期間（啓蒙活動期間）とし、同月１４日（土）から内務省総合行政局、地元警察、交通警察、法務関係者、検察関係者、市役所関係者、区又は村落行政事務所関係者からなるチームによる本格的な取り締まりを開始するとされており、違反した場合は、強制労働なしの懲役１か月及び罰金２万チャットが科されると記載されています。同様に、３月９日２０時の国営テレビでも、１３日（金）までは啓蒙活動を行い、１４日（土）から取り締まりを行う旨、また本措置は、燃油の節約だけでなく、渋滞緩和やガソリンスタンドでの円滑な給油などに資すると報じています。
-
-３　３月４日付追加発表（以下、参照）では、職員用送迎車両、物品配送用車両等は例外とし、これらの車両については関係部署からの有効な証明書または推薦状を携行する必要があると発表されております。他方、１４日以降の当局による取り締まりを含め、今回の車両使用規制の解釈や実際の運用については不明な点が多々ありますところ、引き続き、必要な証明書や推薦状の携行等必要な対応を行うとともに、特に、１４日以降当面の間は、本規制に従い、偶数の日は偶数番号の車両、奇数の日は奇数番号の車両を使用し、車両が使用できない場合はタクシーを利用する等、慎重な対応をお勧めいたします。その間における当局の対応状況を確認の上、その後の対応を検討することをお勧めします。また、引き続きガソリン残量に余
-裕を持った給油等にも心掛けると共に、今後の報道や発表には引き続きご留意下さい。
-
-
-■問い合わせ先：在ミャンマー日本国大使館領事班
-　電話：９５ー１ー５４９６４４～８
-　メール：ryoji@yn.mofa.go.jp
-</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163490</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163490A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163490.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163490L.xml</xmlLightUrl>
-        <koukanCd>601A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163489</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/10 13:45:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>ハマド国際空港情報（３月10日午前７時現在）</title>
-        <lead>３月10日午前７時現在、ハマド国際空港ではドーハ発着の限定的なフライトが運行されており、カタール航空は、カタール民間航空局からの一時的な許可に基づき以下のドーハ発の便を運行する予定であるとしています。
-
-３月10日
-カイロ、ロンドン、ジッダ、マニラ、コーチン、マスカット、イスタンブール、ムンバイ、デリー、ナイロビ、イスラマバード、マドリード、フランクフルト、コロンボ、ミラノ、モスクワ
-
-３月11日
-カイロ、トロント、ダラス/フォートワース、ロンドン、パリ、マドリード、ローマ、デリー、ジッダ、マスカット、香港、ソウル、バンコク、クアラルンプール、メルボルン
-
-邦人の皆様においては、有効かつ確定したチケットをお持ちでない場合、現時点で空港には向かうことのないようご注意下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163489</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163489A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163489.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163489L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
     </mail>
 </opendata>
