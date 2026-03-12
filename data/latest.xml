@@ -1,5 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/12 18:45:50" mailCount="89" odType="02">
+<opendata dataType="L" lastModified="2026/03/12 19:30:50" mailCount="89" odType="02">
+    <mail>
+        <keyCd>163595</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 19:10:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月12日(木)12:00時点）</title>
+        <lead>3月12日(木)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
+本日については、特段従来の運用が変更されるとするような発表・報道は見られません。
+ 
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼
+ 
+■■ベン・グリオン空港運航状況
+●公式ウェブページ（出発便情報）
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
+
+●3月12日(木)出発便フライト予定（総計24便）
+（参考：2月28日以前の木曜日のフライト数は約190便）
+AIR HAIFA 4
+  ATHENS 2
+  LARNACA 2
+ARKIA ISRAELI AIRLINES 9
+  ATHENS 2
+  BUDAPEST 1
+  LARNACA 3
+  PARIS 1
+  PRAGUE 1
+  ROME 1
+EL AL ISRAEL AIRLINES 4
+  BANGKOK 1
+  PARIS 1
+  ROME 1
+  LOS ANGELES 1
+ISRAIR AIRLINES 7
+  BUCHAREST 1
+  BUDAPEST 1
+  LARNACA 1
+  MILAN 1
+  PRAGUE 1
+  ROME 1
+  BERLIN 1
+ 
+●3月13日(金)出発便フライト予定（総計36便）
+（参考：2月28日以前の金曜日のフライト数は約140便）
+AIR HAIFA 4
+  ATHENS 2
+  LARNACA 2
+ARKIA ISRAELI AIRLINES 7
+  AMSTERDAM 1
+  ATHENS 2
+  LARNACA 2
+  ROME 1
+  BARCELONA 1</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163595</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163595A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163595.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163595L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163594</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 19:00:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>中東情勢を受けた集会・デモ行進（3月12日）</title>
+        <lead>・本日3月12日（木）19時から、アテネのシンタグマ広場から米国大使館まで、大規模なデモ行進が行われる予定です。
+・これに伴い、17時30分から地下鉄シンタグマ駅が閉鎖されます。また、周辺の主要道路においても交通規制が行われる可能性があります。
+・過去のデモや抗議集会では、参加者の一部が暴徒化し警察との衝突により負傷者や拘束者が出ています。群衆事故の発生も懸念されるため、不用意に近づかず、不測の事態に巻き込まれないよう十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163594</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163594A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163594.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163594L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163593</keyCd>
         <infoType>R10</infoType>
@@ -2078,112 +2164,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163500.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163500L.xml</xmlLightUrl>
         <koukanCd>761A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163499</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/10 19:10:39</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>【重要】政府チャーター機（第2便）出発時間変更のお知らせ</title>
-        <lead>●本件は、既に外務省や各地の日本国大使館から搭乗の可否につきご連絡済みの「搭乗者」にご連絡するものです。
-●搭乗について大使館等からご連絡差し上げていない皆様については、空港ターミナルにお越しいただいても搭乗できないのでご注意ください
-※システムの都合上、在留届及びたびレジに登録されている全員に送信されていますが、本メールの対象者は上記のとおりです。
-
-　政府チャーター機（第2便）の出発時間が変更となりましたのでお知らせします。
-■変更前
-出発：16:50（リヤド）
-■変更後
-出発：18:20（リヤド）
-
-　これに伴い、チェックインカウンターの開設時間も以下の通り変更となります。
-■チェックインカウンター
-変更前：13:00開始
-変更後：14:00～17:20
-場所：キング・ハーリド国際空港 ターミナル5
-搭乗予定の方は、上記時間内にチェックインをお願いいたします。
-
-　ご不明点がある場合は在サウジアラビア日本国大使館までご連絡ください。
-
-（問い合わせ先）　　　　　　　　　　　　　　　
-在サウジアラビア日本国大使館
-【連絡先】代表電話：＋９６６－（０）１１－４８８－１１００
-　　　　　E-mail ：consular-sec@rd.mofa.go.jp</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163499</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163499A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163499.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163499L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163498</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/10 19:05:44</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月10日(火)12:00時点）</title>
-        <lead>3月10日(火)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
-
-▲▼▲▼▲▼新着情報▲▼▲▼▲▼
-
-■■ベン・グリオン空港運航状況
-●公式ウェブページ（出発便情報）
-https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
-
-●3月10日(火)出発便フライト予定（総計45便）（終日）
-（参考：2月28日以前の火曜日のフライト数は約140便）
-AIR HAIFA 3
-  ATHENS 2
-  LARNACA 1
-ARKIA ISRAELI AIRLINES 8
-  BUDAPEST 1
-  LARNACA 2
-  PARIS 1
-  PRAGUE 1
-  ROME 1
-  SOFIA 1
-  TBILISI 1
-EL AL ISRAEL AIRLINES 25
-  AMSTERDAM 1
-  BANGKOK 3
-  BUCHAREST 2
-  BUDAPEST 2
-  GENEVA 1
-  LONDON 1
-  MADRID 1
-  MIAMI 1
-  MILAN 2
-  MUNICH 1
-  NEW YORK 2
-  NEWARK 2
-  PARIS 2
-  PHUKET 1
-  ROME 1
-  SOFIA 1
-  WARSAW 1
-ISRAIR AIRLINES	9
-  ATHENS 3
-  BUDAPEST 1
-  LARNACA 1
-  PRAGUE 1
-  SOFIA 1
-  TBILISI 1
-  ZANZIBAR 1</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163498</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163498A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163498.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163498L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
