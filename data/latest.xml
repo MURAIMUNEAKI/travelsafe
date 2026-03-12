@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/12 18:20:50" mailCount="90" odType="02">
+<opendata dataType="L" lastModified="2026/03/12 18:45:50" mailCount="89" odType="02">
     <mail>
         <keyCd>163593</keyCd>
         <infoType>R10</infoType>
@@ -2185,39 +2185,5 @@ ISRAIR AIRLINES	9
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163498.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163498L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163497</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/10 18:25:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>バーレーン国内の被害状況について（３月１０日　１２：００現在）</title>
-        <lead>【報道されている最新の被害状況】
-○バーレーン政府によると、３月９日の未明、シトラ地区で多数の家屋が被害を受け、２か月の乳児を含めた３２名が重軽傷を負った模様です。
-
-○内務省によると、３月１０日の未明、マナーマ地区の住宅ビルに攻撃があり、１名が死亡（バーレーン国籍２９歳女性）、ほか８名が負傷した模様です。
-
-○引き続き邦人の皆さまは緊急警報が鳴る、ミサイル・ドローン等の音がするなど被害の可能性がある場合には、
-　　　　屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
-　　　　屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
-を徹底し、身の安全を第一としてください。　
-
-【サウジアラビアへのたびレジ登録】
-○サウジアラビア国内の空港利用や同国への退避（政府手配の車両退避を含む）等のため、サウジアラビア国内に移動される方は、サウジアラビアの査証を取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
-●「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
-渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から同国内の安全情報や空港稼働状況等の情報を受け取ることが出来ます。
-●サウジアラビアの査証取得方法
-以下のリンクからご確認ください。
-https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163497</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163497A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163497.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163497L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
     </mail>
 </opendata>
