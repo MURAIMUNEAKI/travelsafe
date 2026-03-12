@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/13 00:25:53" mailCount="81" odType="02">
+<opendata dataType="L" lastModified="2026/03/13 01:05:48" mailCount="77" odType="02">
+    <mail>
+        <keyCd>163603</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/13 00:35:41</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>注意喚起：大雨による水害被害</title>
+        <lead>●今週に入ってからの降雨により、エルトルノ市においてピライ川の増水により浸水被害が発生しているほか、11日夜にはサンタクルスーコチャバンバ間（旧街道）で再び土砂崩れが発生し、落石により2名の犠牲者が出ております。
+●今後も降雨が続くとの予報が出ているところ、引き続き土砂崩れや川の増水の恐れがあります。
+●降雨時における市内の通行、特に山間部の移動には十分注意するとともに、河川周辺地域には近づかないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163603</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163603A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163603.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163603L.xml</xmlLightUrl>
+        <koukanCd>002A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163602</keyCd>
         <infoType>R10</infoType>
@@ -2089,125 +2109,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163521.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163521L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163520</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 01:00:39</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0964</cd>
-        </country>
-        <title>【一部訂正】3月13日(金)14:45にサウジアラビア・リヤド出発予定の政府チャーター機への搭乗希望調査［回答期限：現地時間3月11日午前8時］</title>
-        <lead>本日送付しました領事メール「3月13日(金)14:45にサウジアラビア・リヤド出発予定の政府チャーター機への搭乗希望調査［回答期限：現地時間3月11日午前8時］」について、本文の一部（東京への到着予定時間）に誤りがありましたので、お詫びして訂正いたします。リヤド出発時間（13日14:45）に修正はありません。
-
-【訂正前】
-○サウジアラビア（以下、サウジ）時間の3月13日14:45（予定）にリヤドから出発し、日本時間3月13 日20:45に東京（成田空港第１ターミナル）に到着する予定の政府チャーター機（エチオピア航空）への搭乗希望調査を実施します。
-
-【訂正後】
-○サウジアラビア（以下、サウジ）時間の3月13日14:45（予定）にリヤドから出発し、日本時間3月14 日7:30に東京（成田空港第１ターミナル）に到着する予定の政府チャーター機（エチオピア航空）への搭乗希望調査を実施します。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163520</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163520A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163520.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163520L.xml</xmlLightUrl>
-        <koukanCd>704A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163519</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 00:55:52</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>【一部訂正】3月13日(金)14:45にサウジアラビア・リヤド出発予定の政府チャーター機への搭乗希望調査［回答期限：現地時間3月11日午前8時］</title>
-        <lead>本日送付しました領事メール「3月13日(金)14:45にサウジアラビア・リヤド出発予定の政府チャーター機への搭乗希望調査［回答期限：現地時間3月11日午前8時］」について、本文の一部（東京への到着予定時間）に誤りがありましたので、お詫びして訂正いたします。リヤド出発時間（13日14:45）に修正はありません。
-
-【訂正前】
-○サウジアラビア（以下、サウジ）時間の3月13日14:45（予定）にリヤドから出発し、日本時間3月13 日20:45に東京（成田空港第１ターミナル）に到着する予定の政府チャーター機（エチオピア航空）への搭乗希望調査を実施します。
-
-【訂正後】
-○サウジアラビア（以下、サウジ）時間の3月13日14:45（予定）にリヤドから出発し、日本時間3月14 日7:30に東京（成田空港第１ターミナル）に到着する予定の政府チャーター機（エチオピア航空）への搭乗希望調査を実施します。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163519</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163519A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163519.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163519L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163518</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 00:55:52</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>【一部訂正】3月13日(金)14:45にサウジアラビア・リヤド出発予定の政府チャーター機への搭乗希望調査［回答期限：現地時間3月11日午前8時］</title>
-        <lead>本日送付しました領事メール「3月13日(金)14:45にサウジアラビア・リヤド出発予定の政府チャーター機への搭乗希望調査［回答期限：現地時間3月11日午前8時］」について、本文の一部（東京への到着予定時間）に誤りがありましたので、お詫びして訂正いたします。リヤド出発時間（13日14:45）に修正はありません。
-
-【訂正前】
-○サウジアラビア（以下、サウジ）時間の3月13日14:45（予定）にリヤドから出発し、日本時間3月13 日20:45に東京（成田空港第１ターミナル）に到着する予定の政府チャーター機（エチオピア航空）への搭乗希望調査を実施します。
-
-【訂正後】
-○サウジアラビア（以下、サウジ）時間の3月13日14:45（予定）にリヤドから出発し、日本時間3月14 日7:30に東京（成田空港第１ターミナル）に到着する予定の政府チャーター機（エチオピア航空）への搭乗希望調査を実施します。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163518</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163518A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163518.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163518L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163517</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 00:50:53</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>【一部訂正】3月13日(金)14:45にサウジアラビア・リヤド出発予定の政府チャーター機への搭乗希望調査［回答期限：現地時間3月11日午前8時］</title>
-        <lead>本日送付しました領事メール「3月13日(金)14:45にサウジアラビア・リヤド出発予定の政府チャーター機への搭乗希望調査［回答期限：現地時間3月11日午前8時］」について、本文の一部（東京への到着予定時間）に誤りがありましたので、お詫びして訂正いたします。リヤド出発時間（13日14:45）に修正はありません。
-
-【訂正前】
-○サウジアラビア（以下、サウジ）時間の3月13日14:45（予定）にリヤドから出発し、日本時間3月13 日20:45に東京（成田空港第１ターミナル）に到着する予定の政府チャーター機（エチオピア航空）への搭乗希望調査を実施します。
-
-【訂正後】
-○サウジアラビア（以下、サウジ）時間の3月13日14:45（予定）にリヤドから出発し、日本時間3月14 日7:30に東京（成田空港第１ターミナル）に到着する予定の政府チャーター機（エチオピア航空）への搭乗希望調査を実施します。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163517</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163517A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163517.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163517L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163516</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 00:50:53</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>【一部訂正】3月13日(金)14:45にサウジアラビア・リヤド出発予定の政府チャーター機への搭乗希望調査［回答期限：現地時間3月11日午前8時］</title>
-        <lead>本日送付しました領事メール「3月13日(金)14:45にサウジアラビア・リヤド出発予定の政府チャーター機への搭乗希望調査［回答期限：現地時間3月11日午前8時］」について、本文の一部（東京への到着予定時間）に誤りがありましたので、お詫びして訂正いたします。リヤド出発時間（13日14:45）に修正はありません。
-
-【訂正前】
-○サウジアラビア（以下、サウジ）時間の3月13日14:45（予定）にリヤドから出発し、日本時間3月13 日20:45に東京（成田空港第１ターミナル）に到着する予定の政府チャーター機（エチオピア航空）への搭乗希望調査を実施します。
-
-【訂正後】
-○サウジアラビア（以下、サウジ）時間の3月13日14:45（予定）にリヤドから出発し、日本時間3月14 日7:30に東京（成田空港第１ターミナル）に到着する予定の政府チャーター機（エチオピア航空）への搭乗希望調査を実施します。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163516</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163516A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163516.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163516L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
     </mail>
 </opendata>
