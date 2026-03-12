@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/12 15:25:48" mailCount="91" odType="02">
+<opendata dataType="L" lastModified="2026/03/12 16:00:52" mailCount="92" odType="02">
+    <mail>
+        <keyCd>163593</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 16:00:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>アンケート回答のお願い等（３月１２日　１０：００現在）</title>
+        <lead>【アンケート回答のお願い】
+○本日（３月１２日）７：４０頃に当館から送信した「【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】」にて、皆様の滞在状況を確認するアンケートのリンクをお送りしました。
+回答期限が本日２４時（バーレーン時間）までとなっており、家族がいらっしゃる方はそれぞれの登録が必要（家族分まとめて１回の登録ではない）となりますので、ご協力お願いいたします。
+アンケートURL：https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl
+
+【サウジアラビアへのたびレジ登録】
+○サウジアラビア国内の空港利用や同国への退避等のため、サウジアラビア国内に移動される方は、サウジアラビアの査証を取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
+●「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
+渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から発信される同国内の安全情報等を受け取ることが出来ます。
+●サウジアラビアの査証取得方法
+以下のリンクからご確認ください。
+https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163593</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163593A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163593.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163593L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163592</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/12 15:50:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月12日午前９時時点）</title>
+        <lead>３月12日午前９時現在、ハマド国際空港ではドーハ発着の限定的なフライトが運行されており、カタール航空は、カタール民間航空局からの一時的な許可に基づき一部のフライトを運行するとしています。
+
+３月13日（ドーハ発）
+パース、ソウル、ダッカ、ジッダ、クアラルンプール、バンコク、コチ、アルジェ、マイアミ、イスタンブール、カイロ、アムステルダム、ロンドン、ミラノ、パリ</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163592</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163592A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163592.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163592L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163591</keyCd>
         <infoType>R10</infoType>
@@ -2218,28 +2268,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163495.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163495L.xml</xmlLightUrl>
         <koukanCd>503A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163492</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/10 15:35:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月１０日 １０時）</title>
-        <lead>○「３月１０日(火)深夜　アラブ首長国連邦（UAE）・ドバイ発の日本政府チャーター機への搭乗希望調査」にご協力いただき、ありがとうございました。昨日夜、搭乗いただけることを当方が確定した方にはメールでご連絡しました。 
-【重要】キャンセルされる際は、在ドバイ日本国総領事館に※必ずご連絡ください※。キャンセルされた座席を他の方にご利用いただけるよう努めますので、お願いいたします。 
-
-在ドバイ日本国総領事館  
-電話：（市外局番04）2938888（国外からは（国番号971）-4-2938888） 
-メール：ryouji@du.mofa.go.jp　</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163492</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163492A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163492.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163492L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
