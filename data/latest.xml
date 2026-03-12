@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/13 04:40:49" mailCount="72" odType="02">
+<opendata dataType="L" lastModified="2026/03/13 05:25:49" mailCount="71" odType="02">
+    <mail>
+        <keyCd>163606</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/13 04:55:46</leaveDate>
+        <title>春休み期間中のマイアミビーチ周辺における各種規制の強化</title>
+        <lead>●　春休み期間中の治安維持対策として、昨年に続き各種規制の実施
+●　状況により、夜間外出禁止令の発出も予想されるため、不測の事態に巻き込まれないよう注意</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163606</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163606A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163606.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163606L.xml</xmlLightUrl>
+        <koukanCd>301P</koukanCd>
+    </mail>
     <mail>
         <keyCd>163605</keyCd>
         <infoType>R10</infoType>
@@ -1986,49 +1999,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163532.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163532L.xml</xmlLightUrl>
         <koukanCd>627A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163531</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 05:05:43</leaveDate>
-        <area>
-            <cd>30</cd>
-        </area>
-        <country areaCd="30">
-            <cd>9001</cd>
-        </country>
-        <title>トロント米国総領事館での銃撃事件を踏まえた注意喚起</title>
-        <lead>　3月10日（火）早朝、トロントの米国総領事館で銃撃事件が発生しました。
-　本事案との関連性は不明ですが、現在の中東情勢に鑑み、不測の事態が発生する可能性も排除されませんので、当地にある米国総領事館や同情勢に関連する施設に立ち寄られる際は、安全確保に十分ご注意ください。
-　また、最新情報の入手に努め、抗議活動が行われている場合には近づかないように注意していただくとともに、遭遇した場合には、周囲の状況に注意を払いつつ、その場を離れる等、自らの安全確保を最優先に行動するようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163531</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163531A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163531.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163531L.xml</xmlLightUrl>
-        <koukanCd>302F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163530</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 05:00:51</leaveDate>
-        <area>
-            <cd>30</cd>
-        </area>
-        <country areaCd="30">
-            <cd>9001</cd>
-        </country>
-        <title>在トロント米国総領事館での銃撃事件をふまえた注意喚起</title>
-        <lead>●本日、３月１０日（火）早朝（現地時間）、トロントの米国総領事館で銃撃事件が発生しました。負傷者は報告されておらず、現在、警察が捜査中です。
-●本事案との関連性は不明ですが、現在の中東情勢に鑑み、不測の事態が発生する可能性も排除されませんので、米国等関係国関連施設や同情勢に関連する集会やデモに極力近寄らない等、安全確保に十分努めてください。
-
-※既に日本へ帰国された、あるいは当館管轄地域外へ転出された後、当館に在留届を引き続き残されたままの方がおられます。有事に際して、在留邦人の皆さまの安否確認が円滑に行うことができるよう、帰国・転出される方（された方）は以下のＵＲＬから「帰国・転出届」を提出いただくか、当館へメールによる連絡をお願いします。また、在留届の住所や連絡先（メールや携帯電話など）に変更が生じた場合には「変更届」を提出するようにしてください。 
-https://www.ezairyu.mofa.go.jp/RRnet/residencereport/login
-在バンクーバー日本国総領事館　領事班  
-メール：consul@vc.mofa.go.jp</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163530</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163530A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163530.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163530L.xml</xmlLightUrl>
-        <koukanCd>302E</koukanCd>
     </mail>
 </opendata>
