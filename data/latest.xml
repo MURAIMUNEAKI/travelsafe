@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/14 03:50:48" mailCount="45" odType="02">
+<opendata dataType="L" lastModified="2026/03/14 04:20:49" mailCount="45" odType="02">
+    <mail>
+        <keyCd>163637</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/14 04:00:40</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0056</cd>
+        </country>
+        <title>【注意喚起】サンティアゴ市内地下鉄でのスリ・盗難被害の発生</title>
+        <lead>在留邦人及び渡航者の皆様へ  
+サンティアゴ市内の地下鉄において、日本人がスリ及び盗難の被害に遭う事案が連続して発生しました。いずれも地下鉄車内で発生しており、巧妙な手口が確認されていますので、以下のとおりお知らせするとともに、十分な注意をお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163637</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163637A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163637.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163637L.xml</xmlLightUrl>
+        <koukanCd>404A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163636</keyCd>
         <infoType>R10</infoType>
@@ -1162,39 +1181,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163574.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163574L.xml</xmlLightUrl>
         <koukanCd>403G</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163572</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 04:00:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>サウジアラビアへのたびレジ登録等（３月１１日　２２：００時点）</title>
-        <lead>【サウジアラビアへのたびレジ登録】
-○サウジアラビア国内の空港利用や同国への退避等のため、サウジアラビア国内に移動される方は、サウジアラビアの査証を取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
-●「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
-渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から発信される同国内の安全情報等を受け取ることが出来ます。
-●サウジアラビアの査証取得方法
-以下のリンクからご確認ください。
-https://www.bh.emb-japan.go.jp/files/100987859.pdf
-
-【空港等の稼働状況】
-バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況については下のとおりです。 
-また、サウジアラビアへの移動手段について、お困りの方がいらっしゃいましたら末尾記載の当館メールアドレス宛にご相談ください。
-○ バーレーン国際空港 
-　３月１１日２２時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。 
-○ キング・ファハド・コーズウェイ 
-　３月１１日２２時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。 
-　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（ https://kfca.sa/en/ ）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。 
-　通行方法の詳細については、こちら（ https://www.bh.emb-japan.go.jp/files/100987859.pdf ）をご参照下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163572</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163572A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163572.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163572L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
     </mail>
 </opendata>
