@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/13 17:25:49" mailCount="64" odType="02">
+<opendata dataType="L" lastModified="2026/03/13 17:55:49" mailCount="64" odType="02">
+    <mail>
+        <keyCd>163619</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/13 17:55:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0063</cd>
+        </country>
+        <title>【総領事館からのお知らせ】当館休館日（２０２６年３月２０日（金））のお知らせ</title>
+        <lead>●３月２０日（金）は当館休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163619</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163619A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163619.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163619L.xml</xmlLightUrl>
+        <koukanCd>611F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163618</keyCd>
         <infoType>R10</infoType>
@@ -1794,25 +1812,5 @@ ISRAIR AIRLINES	6
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163552.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163552L.xml</xmlLightUrl>
         <koukanCd>632B</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163551</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 17:55:47</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0886</cd>
-        </country>
-        <title>台湾安全情報（２０２５年第４四半期）</title>
-        <lead>台湾当局の統計及び当協会が把握している事件・事故を基に作成した台湾の安全情報をお知らせいたします。
-日本人の方が詐欺の被害に遭う事例が確認されています。安易に投資したり、ＳＮＳ上のみで知り合った人に送金したりしないようご注意ください。被害に遭った場合は、警察に被害届を提出するとともに当協会宛にもご連絡ください。	
-また、日本人の方が交通事故に巻き込まれる事例も見られます。歩行中は周囲の車両の状況をよく見るとともに、バス・タクシーへの乗車中は必ずシートベルトを締めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163551</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163551A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163551.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163551L.xml</xmlLightUrl>
-        <koukanCd>632A</koukanCd>
     </mail>
 </opendata>
