@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/14 00:50:49" mailCount="46" odType="02">
+<opendata dataType="L" lastModified="2026/03/14 01:25:49" mailCount="46" odType="02">
+    <mail>
+        <keyCd>163634</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/14 01:20:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェート国際空港の状況（3月13日19:00時点）について</title>
+        <lead>○3月13日19:00時点（現地時間）、クウェート国際空港は閉鎖されています。
+邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
+
+○同空港のサイトを以下のとおりお知らせします。
+クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163634</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163634A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163634.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163634L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163633</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/14 01:10:42</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】NRW州各都市近距離公共交通機関におけるストライキの影響（３月１７日（火））</title>
+        <lead>○Ver.di（統一サービス業労働組合）が、警告ストライキを呼びかけています。
+○３月１７日（火）、デュッセルドルフを含むほぼすべてのNRW州地域で近距離公共交通機関（バスや路面電車）が運休される見込みです。
+○Ver.diによると、ストライキに関して、レーバークーゼンの近距離交通会社Wupsi社、モンハイム市の鉄道、ギュータースローの車両、ハムおよびミュンスターの市営電力会社は影響を受けないとのことです。アーヘンにある、Aseagという会社は、もともと団体交渉の対象外です。
+○S-BahnやRE（地域列車）等はストライキの影響を受けない見込みです。
+○通勤、通学、旅行等に当たっては、事前にご利用予定の公共交通機関の運行情報等をご自身でよくご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163633</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163633A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163633.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163633L.xml</xmlLightUrl>
+        <koukanCd>506F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163632</keyCd>
         <infoType>R10</infoType>
@@ -1161,57 +1220,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163570.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163570L.xml</xmlLightUrl>
         <koukanCd>709A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163569</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 01:25:44</leaveDate>
-        <title>最近の安全対策情報（令和８年３月１１日）</title>
-        <lead>【ポイント】
-●米国各地で麻しん（はしか）の流行が報告されています。麻しん（はしか）は感染力が非常に強く、今後さらに拡大する可能性があるため、予防対策や流行に関する最新情報にご留意ください。
-●最近の中東情勢及び宗教等に関連した祝祭日やイベントに伴い、米国各地でもテロ等不測の事態が発生する可能性が排除されません。お出掛けになる際には、周囲の状況に注意し、安全確保に十分注意を払ってください。
-●米国内で「2026 WORLD BASEBALL CLASSIC（ワールドベースボールクラシック：WBC）」が開催されています。観戦に伴い、安全対策の再確認をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163569</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163569A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163569.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163569L.xml</xmlLightUrl>
-        <koukanCd>301S</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163568</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 01:20:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>クウェート国際空港の状況（3月11日19:00時点）について</title>
-        <lead>○3月11日19:00時点（現地時間）、クウェート国際空港は閉鎖されています。
-邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
-
-○同空港のサイトを以下のとおりお知らせします。
-クウェート国際空港（Kuwait International Airport）
-https://www.kuwaitairport.gov.kw/en/　
-※	クウェート発着便の運行状況について確認できます。
-
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163568</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163568A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163568.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163568L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
     </mail>
 </opendata>
