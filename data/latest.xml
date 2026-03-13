@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/14 07:45:49" mailCount="44" odType="02">
+<opendata dataType="L" lastModified="2026/03/14 08:20:50" mailCount="44" odType="02">
+    <mail>
+        <keyCd>163641</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/14 08:10:48</leaveDate>
+        <area>
+            <cd>30</cd>
+        </area>
+        <country areaCd="30">
+            <cd>9001</cd>
+        </country>
+        <title>（再送）【注意喚起】当地米国総領事館前での集会の開催</title>
+        <lead>●先ほど送付いたしました、（関連報道）のリンクに誤りがありましたので再送いたします。
+●明日、3月14日（土）トロントの米国総領事館前で親パレスチナのAl-Quds Dayの集会が行われる予定です。
+●このところ、シナゴーグ（ユダヤ教礼拝所）や米国総領事館を狙った銃撃事件が立て続けに発生しており、集会及び米国、イスラエル等の関係国関連施設に極力近寄らない等、安全確保に十分心がけてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163641</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163641A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163641.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163641L.xml</xmlLightUrl>
+        <koukanCd>302T</koukanCd>
+    </mail>
     <mail>
         <keyCd>163640</keyCd>
         <infoType>R10</infoType>
@@ -1145,23 +1165,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163577.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163577L.xml</xmlLightUrl>
         <koukanCd>607A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163576</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 08:15:44</leaveDate>
-        <area>
-            <cd>30</cd>
-        </area>
-        <country areaCd="30">
-            <cd>9001</cd>
-        </country>
-        <title>カナダ各地での麻しん（はしか）の流行に関する注意喚起</title>
-        <lead>●カナダ各地で麻しん（はしか）の流行が報告されています。麻しん（はしか）は感染力が非常に強く、今後さらに拡大する可能性があるため、予防対策や流行に関する最新情報にご留意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163576</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163576A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163576.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163576L.xml</xmlLightUrl>
-        <koukanCd>302F</koukanCd>
     </mail>
 </opendata>
