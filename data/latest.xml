@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/13 20:50:49" mailCount="52" odType="02">
+<opendata dataType="L" lastModified="2026/03/13 21:30:50" mailCount="50" odType="02">
+    <mail>
+        <keyCd>163628</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/13 21:10:39</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0095</cd>
+        </country>
+        <title>（続報）中東情勢を踏まえた車両使用規制について（公告：燃料管理のための携帯電話アプリケーションを用いた検証システムの試験導入）（在ミャンマー日本国大使館より）</title>
+        <lead>　３月３日に国防治安評議会（NDSC）広報チームが発表した車両使用規制に関連して、３月12日付当地国営紙(Global New Light of Myanmar)は、3月12日から燃料管理のために携帯電話アプリケーション（以下「アプリ」という。）を用いた検証システムの試験導入に係るエネルギー省の公告を報じたところ、概要は以下のとおりですので、ご留意ください。なお、同公告の全文の仮和訳は末尾のとおりです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163628</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163628A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163628.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163628L.xml</xmlLightUrl>
+        <koukanCd>601A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163624</keyCd>
         <infoType>R10</infoType>
@@ -1461,65 +1479,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163562.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163562L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163561</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 21:25:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>イラン関連情報（第５報）：中東における経済拠点・銀行・テック企業への脅威情報について</title>
-        <lead>報道によると、３月１１日、イランの合同軍事司令部は、中東地域における米国及びイスラエルに関連する経済拠点・銀行を標的にする旨を発表しました。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163561</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163561A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163561.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163561L.xml</xmlLightUrl>
-        <koukanCd>708D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163560</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 20:50:57</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>中東情勢に伴う注意喚起について</title>
-        <lead>○報道によると、イランの合同軍事司令部は、中東地域における米国及びイスラエルに関連する経済拠点・銀行を標的にする旨を発表しました。
-
-○また一部報道では、イラン革命防衛隊傘下の通信社が、軍事用途に技術が利用された米国及びイスラエル関連企業も標的になり得るとして、一例としてグーグル、マイクロソフト、パランティア、IBM、エヌビディア、オラクルを例示したと報じています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163560</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163560A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163560.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163560L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163559</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 20:50:57</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0962</cd>
-        </country>
-        <title>【至急】イランへの攻撃に伴う注意喚起・その９</title>
-        <lead>【ポイント】
-●２月２８日のイスラエル及び米国によるイランに対する攻撃を受けて、イスラエル以外にも、ヨルダンを含めＵＡＥ、バーレーン、カタール等米軍基地が所在する国々に対するイランからの攻撃が、連日確認されています。湾岸諸国では、エネルギー・インフラ等の民間施設も攻撃されています。ヨルダンでも、今後、事態が急速に悪化する可能性も排除されません。
-●今後、ヨルダン発着の航空便が停止する可能性も念頭に、ヨルダンからの出国を希望されている方は、航空便が運航している間に、早期の出国を検討してください。
-●引き続き、軍事施設や当地米国大使館等攻撃の標的となり得る施設には近づかないようにしてください。また、本日の報道によると、イランの合同軍事司令部は、中東地域における米国及びイスラエルに関連する経済拠点・銀行を標的にする旨を発表しており、当面の間、関連する可能性のある施設への、不要不急の立ち寄りは避けるなどの配慮をお願いいたします。
-●３月１０日、米軍が駐留する基地が所在し、攻撃被害が発生するリスクが高いヨルダン東部のザルカ県及びマフラク県の危険レベルが、レベル３（渡航は止めてください（渡航中止勧告））に引き上げられました。邦人の皆様は渡航しないようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163559</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163559A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163559.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163559L.xml</xmlLightUrl>
-        <koukanCd>757A</koukanCd>
     </mail>
 </opendata>
