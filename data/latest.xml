@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/13 18:45:50" mailCount="65" odType="02">
+<opendata dataType="L" lastModified="2026/03/13 19:25:49" mailCount="63" odType="02">
+    <mail>
+        <keyCd>163622</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/13 19:05:55</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0031</cd>
+        </country>
+        <title>ロッテルダム市内におけるシナゴーグの火災に関する注意喚起</title>
+        <lead>1.　3月13日未明、ロッテルダム市内A.B.N. Davidsplein広場にあるシナゴーグにおいて火災が発生しました。すでに火災そのものは鎮火していますが、不審火による出火の情報もあり、警察は放火の疑いも視野に捜査をしていると報道されています。
+2.　昨今の中東情勢の悪化を受け、欧州地域でも不測の事態が発生する可能性が排除されません。普段以上に最新情報を収集し、周囲の状況に十分注意してください。
+
+　以下の外務省ホームページの「海外安全」にて、海外安全パンフレット・資料が確認できますので、ご参考としてください。 
+https://www.mofa.go.jp/mofaj/press/pr/pub/pamph/index.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163622</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163622A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163622.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163622L.xml</xmlLightUrl>
+        <koukanCd>510A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163621</keyCd>
         <infoType>R10</infoType>
@@ -1752,103 +1774,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163556.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163556L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163555</keyCd>
-        <infoType>R20</infoType>
-        <leaveDate>2026/03/11 19:05:59</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>中東における経済拠点・銀行・テック企業への脅威情報について（３月１１日　１３：００）</title>
-        <lead>○　報道によると、イランの合同軍事司令部は、中東地域における米国及びイスラエルに関連する経済拠点・銀行を標的にする旨を発表しました。
-○　現時点で当地において標的となり得る施設等について列挙することは困難ですが、バーレーン国内の一部銀行、送金・両替企業は過去にイスラエル等との繋がりを指摘されているとの情報もあります。
-○　また一部報道では、イラン革命防衛隊傘下の通信社が、軍事用途に技術が利用された米国及びイスラエル関連企業も標的になり得るとして、一例としてグーグル、マイクロソフト、パランティア、IBM、エヌビディア、オラクルを例示したと報じています。
-○　掛かる情勢を踏まえ、当面の間、関連する可能性のある施設への、不要不急の立ち寄りは避けるなどの配慮をお願いいたします。
-○　引き続き邦人の皆さまは、緊急警報が鳴る、ミサイル・ドローン等の音がするなど被害の可能性がある場合には、
-　　　　屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
-　　　　屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
-を徹底し、身の安全を第一としてください。　</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163555</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163555A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163555.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163555L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163554</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 19:05:58</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【交通情報】ドイツ全土での大規模なストライキ実施に伴う航空便への影響（３月１２日（木）～３月１３日（金））</title>
-        <lead>○パイロット組合（VC）は、ルフトハンザ航空のパイロットに対し、３月１２日（木）から１３日（金）にわたってストライキを呼びかけており、これが実施されれば、航空便の欠航又は遅延の発生が予想され、全国的に大きな影響が出る模様です。
-◯出張やご旅行等を計画されている方は、事前にフライト情報を確認するとともに、時間に余裕をもって行動するようにしてください。
-◯最新のフライト情報は、航空会社ホームページ、報道等からご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163554</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163554A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163554.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163554L.xml</xmlLightUrl>
-        <koukanCd>506A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163553</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 19:00:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月11日(水)12:00時点）</title>
-        <lead>3月11日(水)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
-現時点では、特段従来の運用が変更されるといった発表・報道はありません。
- 
-▲▼▲▼▲▼新着情報▲▼▲▼▲▼
-●公式ウェブページ（出発便情報）
-https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
-●3月11日(水)出発便フライト予定（総計30便）（終日）
-（参考：2月28日以前の水曜日のフライト数は約160便）
-AIR HAIFA 5
-  ATHENS 2
-  LARNACA 3
-ARKIA ISRAELI AIRLINES	7
-  ATHENS 2
-  BUDAPEST 1
-  PARIS 1
-  PRAGUE 1
-  ROME 1
-  TBILISI 1
-EL AL ISRAEL AIRLINES	12
-  BUCHAREST 1
-  BUDAPEST 1
-  GENEVA 1
-  NEW YORK 2
-  NEWARK 2
-  PARIS 1
-  ROME 1
-  TBILISI 3
-ISRAIR AIRLINES	6
-  ATHENS 1
-  BUDAPEST 1
-  PRAGUE 1
-  ROME 2
-  TBILISI 1</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163553</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163553A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163553.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163553L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
