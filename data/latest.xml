@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/13 19:55:49" mailCount="62" odType="02">
+<opendata dataType="L" lastModified="2026/03/13 20:15:50" mailCount="61" odType="02">
+    <mail>
+        <keyCd>163624</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/13 20:10:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月13日(金)13:00時点）</title>
+        <lead>3月13日(金)13時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
+本日については、特段従来の運用が変更されるとするような発表・報道は見られません。
+
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼
+
+■■ベン・グリオン空港運航状況
+●公式ウェブページ（出発便情報）
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
+
+●3月13日(金)出発便フライト予定（総計36便）
+（参考：2月28日以前の金曜日のフライト数は約140便）
+AIR HAIFA （4）
+  ATHENS 2
+  LARNACA 2
+ARKIA ISRAELI AIRLINES （7）
+  AMSTERDAM 1
+  ATHENS 2
+  LARNACA 2
+  ROME 1
+  BARCELONA 1
+EL AL ISRAEL AIRLINES （15）
+  ATHENS 2
+  BUDAPEST 2
+  LONDON 1
+  MADRID 1
+  MIAMI 1
+  MILAN 1
+  NEW YORK 1
+  NEWARK 1
+  PARIS 1
+  SOFIA 1
+  TBILISI 1
+  LOS ANGELES 1
+  BARCELONA 1
+ISRAIR AIRLINES （9）
+  ATHENS 3
+  BUCHAREST 1
+  BUDAPEST 1
+  LARNACA 1
+  ROME 2
+  BERLIN 1
+QUALITY AIR SERVICES （1）
+  ATHENS 1</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163624</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163624A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163624.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163624L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163622</keyCd>
         <infoType>R10</infoType>
@@ -1692,51 +1755,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163559.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163559L.xml</xmlLightUrl>
         <koukanCd>757A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163558</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 20:10:56</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>イラン関連情報第１４報：中東における経済拠点・銀行・テック企業への脅威情報について</title>
-        <lead>１　報道によると、３月１１日、イランの合同軍事司令部は、中東地域における米国及びイスラエルに関連する経済拠点・銀行を標的にする旨を発表しました。
-
-２　また一部報道では、イラン革命防衛隊傘下の通信社が、軍事用途に技術が利用された米国及びイスラエル関連企業も標的になり得るとして、一例としてグーグル、マイクロソフト、パランティア、IBM、エヌビディア、オラクルを例示したと報じています。
-
-３　当該報道内容を踏まえ、当面の間、関連する可能性のある施設への、不要不急の立ち寄りは避けるなどの配慮をお願いいたします。
-
-４　引き続き、在留邦人の皆様におかれましては、ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、
-屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
-屋内にいる場合：　窓から離れる、窓のない部屋に移動する
-といった、ご自身の身を守る行動を最優先に行うようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163558</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163558A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163558.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163558L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163557</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 20:10:56</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【交通情報】ストライキ実施に伴うルフトハンザ航空便への影響（３月１２日から１３日）</title>
-        <lead>　パイロット組合（VC）は、ルフトハンザ航空のパイロットに対し、３月１２日（木）から１３日（金）にかけてストライキを呼びかけており、航空便の欠航や遅延が予想されます。
-　出張や旅行を計画されている方は、事前にフライト情報を確認するとともに、時間に余裕を持った行動をお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163557</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163557A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163557.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163557L.xml</xmlLightUrl>
-        <koukanCd>506E</koukanCd>
     </mail>
 </opendata>
