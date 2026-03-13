@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/14 02:50:49" mailCount="47" odType="02">
+<opendata dataType="L" lastModified="2026/03/14 03:20:49" mailCount="45" odType="02">
     <mail>
         <keyCd>163636</keyCd>
         <infoType>R10</infoType>
@@ -1196,63 +1196,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163572.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163572L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163571</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 03:10:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0090</cd>
-        </country>
-        <title>中東情勢に関する注意喚起</title>
-        <lead>●報道等によれば、３月１１日、イランが中東地域における米国及びイスラエル関連の経済拠点や銀行を標的にする旨を発表しました。
-●トルコ国内では、３月４日及び９日の２回にわたり、イランから発射されトルコ領空に向かっていた弾道ミサイルが、東地中海に駐留する北大西洋条約機構（NATO）の部隊により迎撃され、破片がそれぞれトルコ南東部に落下しています。
-●これらの状況に照らして、
-・米国及びイスラエルの大使館や総領事館等の政府機関
-・米国軍事関連施設
-・米国及びイスラエルに関連した民間経済拠点や銀行
-へは近づかないでください。また、不測の事態に備え、複数の情報源から最新の情報を確認し、自らの安全確保に努めてください。
-●万が一不測の事態に巻き込まれた場合の対応として、以下の点を参考にしてください。
-【基本対応】
-・爆発、銃撃の音を聞いたら、その場に伏せるなど直ちに低い姿勢をとり、頑丈なものの陰に隠れる。
-・周囲を確認し、可能であれば、速やかに、低い姿勢を保ちつつ安全なところに退避する。閉鎖空間の場合、出入口に殺到すると将棋倒しなどの二次的な被害に遭うこともあり、注意が必要となる。
-・爆発は複数回発生する可能性があるため、爆発後に様子を見に行かない。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163571</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163571A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163571.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163571L.xml</xmlLightUrl>
-        <koukanCd>709T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163570</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 02:55:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0090</cd>
-        </country>
-        <title>中東情勢に関する注意喚起</title>
-        <lead>●報道等によれば、３月１１日、イランが中東地域における米国及びイスラエル関連の経済拠点や銀行を標的にする旨を発表しました。
-●トルコ国内では、３月４日及び９日の２回にわたり、イランから発射されトルコ領空に向かっていた弾道ミサイルが、東地中海に駐留する北大西洋条約機構（NATO）の部隊により迎撃され、破片がそれぞれトルコ南東部に落下しています。
-●これらの状況に照らして、
-・米国及びイスラエルの大使館や総領事館等の政府機関
-・米国軍事関連施設
-・米国及びイスラエルに関連した民間経済拠点や銀行
-へは近づかないでください。また、不測の事態に備え、複数の情報源から最新の情報を確認し、自らの安全確保に努めてください。
-●万が一不測の事態に巻き込まれた場合の対応として、以下の点を参考にしてください。
-【基本対応】
-・爆発、銃撃の音を聞いたら、その場に伏せるなど直ちに低い姿勢をとり、頑丈なものの陰に隠れる。
-・周囲を確認し、可能であれば、速やかに、低い姿勢を保ちつつ安全なところに退避する。閉鎖空間の場合、出入口に殺到すると将棋倒しなどの二次的な被害に遭うこともあり、注意が必要となる。
-・爆発は複数回発生する可能性があるため、爆発後に様子を見に行かない。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163570</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163570A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163570.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163570L.xml</xmlLightUrl>
-        <koukanCd>709A</koukanCd>
     </mail>
 </opendata>
