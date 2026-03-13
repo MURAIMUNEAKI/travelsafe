@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/13 20:15:50" mailCount="61" odType="02">
+<opendata dataType="L" lastModified="2026/03/13 20:50:49" mailCount="52" odType="02">
     <mail>
         <keyCd>163624</keyCd>
         <infoType>R10</infoType>
@@ -796,110 +796,6 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
         <koukanCd>756A</koukanCd>
     </mail>
     <mail>
-        <keyCd>163591</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 15:00:58</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
-        <lead>中東各国・地域に滞在されている邦人の皆様へ
-
-中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
-一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
-つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
-
-【回答期限】本日（現地時間深夜24時まで）
-【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
-https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163591</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163591A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163591.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163591L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163590</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 15:00:58</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
-        <lead>中東各国・地域に滞在されている邦人の皆様へ
-
-中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
-一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
-つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
-
-【回答期限】本日（現地時間深夜24時まで）
-【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
-https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163590</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163590A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163590.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163590L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163589</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 14:55:52</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0968</cd>
-        </country>
-        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
-        <lead>中東各国・地域に滞在されている邦人の皆様へ
-
-中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
-一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
-つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
-
-【回答期限】本日（現地時間深夜24時まで）
-【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
-https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163589</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163589A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163589.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163589L.xml</xmlLightUrl>
-        <koukanCd>761A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163588</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 14:55:52</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
-        <lead>中東各国・地域に滞在されている邦人の皆様へ
-
-中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
-一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
-つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
-
-【回答期限】本日（現地時間深夜24時まで）
-【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
-https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163588</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163588A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163588.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163588L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
         <keyCd>163587</keyCd>
         <infoType>R10</infoType>
         <leaveDate>2026/03/12 14:15:42</leaveDate>
@@ -918,110 +814,6 @@ https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163587.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163587L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163586</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 13:40:53</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0961</cd>
-        </country>
-        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
-        <lead>中東各国・地域に滞在されている邦人の皆様へ
-
-中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
-一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
-つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
-
-【回答期限】本日（現地時間深夜24時まで）
-【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
-https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163586</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163586A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163586.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163586L.xml</xmlLightUrl>
-        <koukanCd>707A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163585</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 13:40:53</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0962</cd>
-        </country>
-        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
-        <lead>中東各国・地域に滞在されている邦人の皆様へ
-
-中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
-一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
-つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
-
-【回答期限】本日（現地時間深夜24時まで）
-【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
-https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163585</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163585A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163585.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163585L.xml</xmlLightUrl>
-        <koukanCd>757A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163584</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 13:35:52</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
-        <lead>中東各国・地域に滞在されている邦人の皆様へ
-
-中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
-一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
-つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
-
-【回答期限】本日（現地時間深夜24時まで）
-【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
-https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163584</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163584A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163584.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163584L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163583</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 13:35:52</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0964</cd>
-        </country>
-        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
-        <lead>中東各国・地域に滞在されている邦人の皆様へ
-
-中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
-一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
-つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
-
-【回答期限】本日（現地時間深夜24時まで）
-【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
-https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163583</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163583A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163583.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163583L.xml</xmlLightUrl>
-        <koukanCd>704A</koukanCd>
     </mail>
     <mail>
         <keyCd>163582</keyCd>
@@ -1110,32 +902,6 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163580A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163580.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163580L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163579</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 13:25:39</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】</title>
-        <lead>中東各国・地域に滞在されている邦人の皆様へ
-
-中東情勢の緊迫化を受け、日本政府としては邦人の皆様の安全確保を最優先にチャーター機等による退避支援を実施しました。皆様のご理解とご協力に感謝申し上げます。
-一方で、引き続き中東地域に滞在されている邦人がいらっしゃると承知しております。
-つきましては、現在のご滞在状況や今後の出国のご予定・ご意向について、改めてお知らせください。
-
-【回答期限】本日（現地時間深夜24時まで）
-【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
-https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163579</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163579A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163579.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163579L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
     </mail>
     <mail>
