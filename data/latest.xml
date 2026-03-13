@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/13 15:30:49" mailCount="63" odType="02">
+<opendata dataType="L" lastModified="2026/03/13 16:00:49" mailCount="63" odType="02">
+    <mail>
+        <keyCd>163614</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/13 16:00:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月１３日 １０時３０分）</title>
+        <lead>○ここ数日も、ドバイ首長国におけるイランによるとみられる攻撃による人的・物的被害が度々報じられています。 
+UAE国防省は、国内各地で聞こえた音は弾道ミサイルやドローンの迎撃によるものだと発表しています。引き続き、不要不急の外出は避けていただくとともに、特にUAE当局からの緊急速報（アラート）がスマートフォンに配信された際は、十分にご注意ください。 
+爆発音が聞こえた場合には、   
+屋外にいる場合：　近くの建物や地下へ避難し、物陰に身を隠してください   
+屋内にいる場合：　窓から離れ、窓のない部屋に移動してください 
+
+３月１１日、イランの革命防衛隊は、米国やイスラエルに関係する主要企業・金融機関を攻撃の標的とする旨発表しています。米国・イスラエル関係施設には近づかないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163614</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163614A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163614.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163614L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163612</keyCd>
         <infoType>R10</infoType>
@@ -1774,24 +1798,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163548.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163548L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163547</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/11 15:50:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>12日マスカット発、13日リヤド発の政府チャーター機について（外務省領事局）</title>
-        <lead>外務省領事局です。
-イラク、クウェート、サウジアラビア、バーレーン、カタールの在留届およびたびレジ本登録の登録者の皆様に対して13日サウジアラビア・リヤド発の政府チャーター機について、また、アラブ首長国連邦、オマーンの同登録者の皆様に対して12日オマーン・マスカット発の政府チャーター機について、既にご案内申し上げているところですが、両チャーター機に関連して以下のとおりご連絡します。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163547</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163547A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163547.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163547L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
