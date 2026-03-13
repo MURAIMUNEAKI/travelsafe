@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/13 22:00:50" mailCount="49" odType="02">
+<opendata dataType="L" lastModified="2026/03/13 22:35:49" mailCount="50" odType="02">
+    <mail>
+        <keyCd>163630</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/13 22:05:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0964</cd>
+        </country>
+        <title>イラク国内の状況及び注意喚起（３月13日）</title>
+        <lead>１　イラク国内のバグダッド、エルビル、バスラ等では、引き続き米国権益等への攻撃が頻発しています。
+
+２　３月13日現在、イラク空域の封鎖は継続されており、航空便の運行はすべて運休となっております。
+
+３　３月13日現在、トルコ及びクウェートの陸路国境は開放されています。国外への陸路移動の際は、警護要員の同行等、十分な安全対策をとってください。また、トルコへの出国では、以下の情報の事前通報が必要となっており、クウェートについても今後必要となる可能性がありますので、陸路移動される場合には、当館又はエルビル領事事務所に必要情報の連絡をお願いします。
+
+（陸路出国に必要な情報）
+●　出国日
+●　パスポート情報（顔写真ページ写し）
+●　出国先での一時滞在先
+●　出国先からの航空券情報（Eチケット写し）
+
+４　やむを得ない事情により現在イラクに滞在中の方におかれましては、不要不急の外出を控えてください。また、今後、治安が更に悪化することもあり得ます。航空便の運航状況を含め、報道や警備会社を通じて、最新の治安情報を確認するなど、万全な安全対策にご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163630</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163630A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163630.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163630L.xml</xmlLightUrl>
+        <koukanCd>704A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163629</keyCd>
         <infoType>R10</infoType>
