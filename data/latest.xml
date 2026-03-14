@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/14 14:10:49" mailCount="43" odType="02">
+<opendata dataType="L" lastModified="2026/03/14 14:30:49" mailCount="44" odType="02">
+    <mail>
+        <keyCd>163645</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/14 14:21:03</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射（第２報）</title>
+        <lead>本14日の北朝鮮による弾道ミサイルの可能性があるものの発射に関し、我が国政府の対応状況等が首相官邸ホームページに掲載されました。
+引き続き、最新の情報に留意して下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163645</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163645A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163645.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163645L.xml</xmlLightUrl>
+        <koukanCd>616D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163644</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/14 14:21:03</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射（第１報）</title>
+        <lead>本14日、北朝鮮から弾道ミサイルの可能性のあるものが発射されました。
+
+引き続き、我が国政府等が発表する情報や報道、最新の情報に留意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163644</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163644A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163644.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163644L.xml</xmlLightUrl>
+        <koukanCd>616A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163643</keyCd>
         <infoType>R10</infoType>
@@ -1116,25 +1155,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163592.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163592L.xml</xmlLightUrl>
         <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163587</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 14:15:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月１２日 ９時）</title>
-        <lead>○ドバイ国際空港（DXB）では、本日も成田行き及び羽田行きの便は運航され、すでに出発しました。当地から空路での退避を検討されている方は、乗り継ぎ便を含むフライトの運航状況を十分にご確認ください。  
-https://dubaiairports.ae/　（ドバイ国際空港HP）   
-https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163587</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163587A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163587.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163587L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
