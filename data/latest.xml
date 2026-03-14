@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/14 15:25:49" mailCount="46" odType="02">
+<opendata dataType="L" lastModified="2026/03/14 15:55:49" mailCount="46" odType="02">
+    <mail>
+        <keyCd>163648</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/14 15:30:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月１４日 １０時３０分）（前回の領事メールと同様の内容です。）</title>
+        <lead>○引き続き、ドバイ首長国で、イランによるとみられる攻撃で人的・物的被害が度々報じられています。 
+UAE国防省は、国内各地で聞こえた音は弾道ミサイルやドローンの迎撃によるものだと発表しています。引き続き、不要不急の外出は避けていただくとともに、特にUAE当局からの緊急速報（アラート）がスマートフォンに配信された際は、十分にご注意ください。 
+
+爆発音が聞こえた場合には、   
+屋外にいる場合：　近くの建物や地下へ避難し、物陰に身を隠してください   
+屋内にいる場合：　窓から離れ、窓のない部屋に移動してください</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163648</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163648A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163648.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163648L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163647</keyCd>
         <infoType>R10</infoType>
@@ -1193,26 +1216,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163593.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163593L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163592</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 15:50:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0974</cd>
-        </country>
-        <title>ハマド国際空港情報（３月12日午前９時時点）</title>
-        <lead>３月12日午前９時現在、ハマド国際空港ではドーハ発着の限定的なフライトが運行されており、カタール航空は、カタール民間航空局からの一時的な許可に基づき一部のフライトを運行するとしています。
-
-３月13日（ドーハ発）
-パース、ソウル、ダッカ、ジッダ、クアラルンプール、バンコク、コチ、アルジェ、マイアミ、イスタンブール、カイロ、アムステルダム、ロンドン、ミラノ、パリ</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163592</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163592A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163592.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163592L.xml</xmlLightUrl>
-        <koukanCd>756A</koukanCd>
     </mail>
 </opendata>
