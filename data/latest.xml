@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/14 20:40:49" mailCount="45" odType="02">
+<opendata dataType="L" lastModified="2026/03/14 21:30:48" mailCount="43" odType="02">
     <mail>
         <keyCd>163652</keyCd>
         <infoType>R10</infoType>
@@ -1130,49 +1130,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163601.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163601L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163599</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 21:11:04</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0961</cd>
-        </country>
-        <title>イスラエル国防軍によるベイルート県内を含むレバノン国内複数地域への攻撃</title>
-        <lead>●３月２日以降、イスラエル国防軍によるヒズボッラー等関連施設を標的としたとみられる攻撃が、ベイルート南部郊外ダーヒエ地区、レバノン南部及びベカー地方を中心に断続的に発生しており、レバノン国内では多数の被害が生じている模様です。
-●３月１２日未明、ベイルート県Ramelet al-Baydaにおいて攻撃が発生しております。今後も不測の事態が生じる可能性があります。
-●レバノンは現在、全土が危険レベル３（渡航中止勧告）以上に指定されています。レバノンへの渡航は、どのような目的であっても止めてください。
-●最新の安全情報や攻撃に関する警告等の情報収集に努めてください。退避の呼びかけ等が発出された場合には、速やかに安全な場所へ退避してください。また、爆発音等が確認された場合には現場には近づかず、安全確保を最優先に行動してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163599</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163599A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163599.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163599L.xml</xmlLightUrl>
-        <koukanCd>707A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163598</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 21:11:04</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0031</cd>
-        </country>
-        <title>環境保護団体のデモによるマーストリヒト・アーヘン空港付近Ａ２道路の封鎖（３月１４日（土））</title>
-        <lead>・環境保護団体Extinction Rebellion(XR)は、３月１４日（土）午後1時からデモによりマーストリヒト・アーヘン空港付近で高速道路A２を封鎖すると告知をしています。
-・当日は、興味本位でデモ隊に近づくことなく、不測の事態に巻き込まれることのないよう十分に注意してください。また、テレビや新聞等の報道にも注意を払い、最新の情報の入手に努めるなどして、交通渋滞に巻き込まれないよう注意するとともに、偶然デモが行われている場面に遭遇した場合には、速やかにその場を離れるようにしてください。
-
-　以下の外務省ホームページの「海外安全」にて、海外安全パンフレット・資料が確認できますので、ご参考としてください。 
-
-https://www.mofa.go.jp/mofaj/press/pr/pub/pamph/index.html</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163598</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163598A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163598.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163598L.xml</xmlLightUrl>
-        <koukanCd>510A</koukanCd>
     </mail>
 </opendata>
