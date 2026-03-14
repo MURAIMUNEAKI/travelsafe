@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/14 14:30:49" mailCount="44" odType="02">
+<opendata dataType="L" lastModified="2026/03/14 14:55:49" mailCount="45" odType="02">
+    <mail>
+        <keyCd>163646</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/14 14:45:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0082</cd>
+        </country>
+        <title>北朝鮮によるミサイル発射</title>
+        <lead>　本１４日、北朝鮮から弾道ミサイルの可能性があるものが発射されました。弾道ミサイルとみられるものは、すでに落下しているとみられますが、引き続き我が国政府や韓国当局等が発表する情報や報道を注視し、最新情報に留意してください。
+　我が国政府の対応状況等については、以下の首相官邸ホームページに掲載されておりますので、お知らせいたします。
+
+【首相官邸ホームページ】
+https://www.kantei.go.jp/jp/105/discourse/20260314shiji.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163646</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163646A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163646.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163646L.xml</xmlLightUrl>
+        <koukanCd>616F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163645</keyCd>
         <infoType>R10</infoType>
