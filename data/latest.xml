@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/15 04:40:49" mailCount="45" odType="02">
+<opendata dataType="L" lastModified="2026/03/15 05:20:49" mailCount="44" odType="02">
     <mail>
         <keyCd>163659</keyCd>
         <infoType>R10</infoType>
@@ -1153,18 +1153,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163607.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163607L.xml</xmlLightUrl>
         <koukanCd>301F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163606</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/13 04:55:46</leaveDate>
-        <title>春休み期間中のマイアミビーチ周辺における各種規制の強化</title>
-        <lead>●　春休み期間中の治安維持対策として、昨年に続き各種規制の実施
-●　状況により、夜間外出禁止令の発出も予想されるため、不測の事態に巻き込まれないよう注意</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163606</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163606A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163606.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163606L.xml</xmlLightUrl>
-        <koukanCd>301P</koukanCd>
     </mail>
 </opendata>
