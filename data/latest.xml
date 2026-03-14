@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/14 22:40:49" mailCount="43" odType="02">
+<opendata dataType="L" lastModified="2026/03/14 23:25:49" mailCount="42" odType="02">
+    <mail>
+        <keyCd>163653</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/14 23:00:49</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0031</cd>
+        </country>
+        <title>アムステルダム市内におけるユダヤ人学校の爆発事案に関する注意喚起</title>
+        <lead>1.	3月14日未明、アムステルダム市内Buitenveldertにあるユダヤ人学校の外壁で爆発が発生したとの報道がありました。負傷者等の報道はなく、建物の損傷は軽微とのことです。警察は3月13日にロッテルダム市内で発生したシナゴーグ放火との関連について捜査中と報道されています。
+2.	昨今の中東情勢の悪化を受け、欧州地域でも不測の事態が発生する可能性が排除されません。普段以上に最新情報を収集し、周囲の状況に十分注意してください。
+
+　以下の外務省ホームページの「海外安全」にて、海外安全パンフレット・資料が確認できますので、ご参考としてください。 
+https://www.mofa.go.jp/mofaj/press/pr/pub/pamph/index.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163653</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163653A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163653.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163653L.xml</xmlLightUrl>
+        <koukanCd>510A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163652</keyCd>
         <infoType>R10</infoType>
@@ -1062,73 +1084,5 @@ E-mail：ryouji@po.mofa.go.jp</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163603.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163603L.xml</xmlLightUrl>
         <koukanCd>002A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163602</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 23:15:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>クウェート国際空港の状況（3月12日17:00時点）について</title>
-        <lead>○報道によれば、3月12日（現地時間）、クウェート民間航空局はクウェート国際空港が複数のドローンの標的となり、物的被害が発生した旨発表しました。
-
-○3月12日17:00時点（現地時間）、クウェート国際空港は閉鎖されています。
-邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
-
-○同空港のサイトを以下のとおりお知らせします。
-クウェート国際空港（Kuwait International Airport）
-https://www.kuwaitairport.gov.kw/en/　
-※	クウェート発着便の運行状況について確認できます。
-
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163602</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163602A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163602.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163602L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163601</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/12 22:55:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>アンケート回答のお願い等（３月１２日　１７：００現在）</title>
-        <lead>【アンケート回答のお願い】
-○本日（３月１２日）７：４０頃に当館から送信した「【重要】現在のご滞在状況や今後の出国のご予定・ご意向についての調査【期限：本日（現地時間深夜24時）まで】」にて、皆様の滞在状況を確認するアンケートのリンクをお送りしました。
-回答期限が本日２４時（バーレーン時間）までとなっており、家族がいらっしゃる方はそれぞれの登録が必要（家族分まとめて１回の登録ではない）となりますので、ご協力お願いいたします。
-アンケートURL：https://forms.office.com/pages/responsepage.aspx?id=-OTFDQ9iEk-CeZE0QXBOFb_ZlOZmMIZMtN479J-pyc9UMjdHUlFWT041UUw1S0pMM01CMkFCOUI2Ui4u&amp;route=shorturl
-
-【サウジアラビアへのたびレジ登録】
-○サウジアラビア国内の空港利用や同国への退避等のため、サウジアラビア国内に移動される方は、サウジアラビアの査証を取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
-●「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
-渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から発信される同国内の安全情報等を受け取ることが出来ます。
-●サウジアラビアの査証取得方法
-以下のリンクからご確認ください。
-https://www.bh.emb-japan.go.jp/files/100987859.pdf</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163601</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163601A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163601.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163601L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
     </mail>
 </opendata>
