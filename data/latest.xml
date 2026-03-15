@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/16 07:45:48" mailCount="33" odType="02">
+<opendata dataType="L" lastModified="2026/03/16 08:20:50" mailCount="31" odType="02">
     <mail>
         <keyCd>163672</keyCd>
         <infoType>R10</infoType>
@@ -915,44 +915,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163642.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163642L.xml</xmlLightUrl>
         <koukanCd>616D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163641</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/14 08:10:48</leaveDate>
-        <area>
-            <cd>30</cd>
-        </area>
-        <country areaCd="30">
-            <cd>9001</cd>
-        </country>
-        <title>（再送）【注意喚起】当地米国総領事館前での集会の開催</title>
-        <lead>●先ほど送付いたしました、（関連報道）のリンクに誤りがありましたので再送いたします。
-●明日、3月14日（土）トロントの米国総領事館前で親パレスチナのAl-Quds Dayの集会が行われる予定です。
-●このところ、シナゴーグ（ユダヤ教礼拝所）や米国総領事館を狙った銃撃事件が立て続けに発生しており、集会及び米国、イスラエル等の関係国関連施設に極力近寄らない等、安全確保に十分心がけてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163641</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163641A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163641.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163641L.xml</xmlLightUrl>
-        <koukanCd>302T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163640</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/14 07:45:49</leaveDate>
-        <area>
-            <cd>30</cd>
-        </area>
-        <country areaCd="30">
-            <cd>9001</cd>
-        </country>
-        <title>【注意喚起】当地米国総領事館前での集会の開催</title>
-        <lead>●明日、3月14日（土）トロントの米国総領事館前で親パレスチナのAl-Quds Dayの集会が行われる予定です。
-●このところ、シナゴーグ（ユダヤ教礼拝所）や米国総領事館を狙った銃撃事件が立て続けに発生しており、集会及び米国、イスラエル等の関係国関連施設に極力近寄らない等、安全確保に十分心がけてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163640</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163640A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163640.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163640L.xml</xmlLightUrl>
-        <koukanCd>302T</koukanCd>
     </mail>
 </opendata>
