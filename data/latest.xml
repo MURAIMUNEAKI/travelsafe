@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/15 16:45:49" mailCount="41" odType="02">
+<opendata dataType="L" lastModified="2026/03/15 17:30:50" mailCount="39" odType="02">
     <mail>
         <keyCd>163664</keyCd>
         <infoType>R10</infoType>
@@ -1076,54 +1076,5 @@ https://www.bh.emb-japan.go.jp/files/100987859.pdf
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163619.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163619L.xml</xmlLightUrl>
         <koukanCd>611F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163618</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/13 17:21:00</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0234</cd>
-        </country>
-        <title>ナイジェリア国内における宗教的行事に関する注意喚起</title>
-        <lead>・本日、ナイジェリア国内においてイスラム教関連団体が宗教的行事に伴い集会やデモ行進を行うとの情報があります。
-・これに伴い同団体と治安部隊との間で衝突が発生する可能性があります。
-・万が一の場合に備え、在留邦人の皆様は、周辺地域には決して近付くことのないようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163618</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163618A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163618.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163618L.xml</xmlLightUrl>
-        <koukanCd>715A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163617</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/13 17:20:59</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>大使館からの情報発信・ＳＮＳ使用に関する注意喚起（３月１３日午後０時）</title>
-        <lead>１　現在、アラブ首長国全域は危険情報レベル３（渡航中止勧告）となっております。
-https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03431.html
- 
-２　ＳＮＳ等使用上の注意
-（１）UAE当局は、イランからの攻撃に伴い被害を受けた現場や迎撃による落下物等の撮影、それらの画像・動画の公開を控えるよう警告しており、一部報道では、イランによる攻撃状況を撮影していた人物が逮捕された旨も報じられています。
- 
-（２）ＵＡＥのＳｉｍをお使いの在留邦人の皆様へ
-ミサイル・ドローンに関する動画、写真投稿に関して日本帰国後もＳＮＳ上での投稿はご注意ください。
-投稿した場合、ＵＡＥへの入国禁止又は空港にて身柄拘束される恐れがありますので、特に、ご注意ください。
-・日本帰国後は、ＵＡＥのSim及びeSimはできる限り外して、日本のSimに切り替えて使用してください。eSimは必ず設定から外してください。
-・すでにＳＮＳで投稿済みの写真・動画は削除してください。
-・UAE政府を批判するような投稿も避けてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163617</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163617A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163617.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163617L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
     </mail>
 </opendata>
