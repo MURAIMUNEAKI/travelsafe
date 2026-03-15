@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/15 14:40:49" mailCount="38" odType="02">
+<opendata dataType="L" lastModified="2026/03/15 15:00:50" mailCount="39" odType="02">
+    <mail>
+        <keyCd>163660</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/15 14:50:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0093</cd>
+        </country>
+        <title>アフガニスタン・パキスタン情勢に係る注意喚起（その２）</title>
+        <lead>○ ２月２１日以降、アフガニスタン・パキスタン国境沿いでの衝突が激化し、現地時間２月２７日未明には首都カブールにおいても、複数の爆発事案が発生しました。また、その後も現在まで、双方の間で攻撃の応酬が継続している模様で、国境地域を含むアフガニスタン国内の複数の地方都市において、武力衝突等の事案が連日報告されている他、首都カブールにおいても複数の日において、更なる爆発及び対空砲火の音等が確認され、民間人の死傷者も発生する等、治安情勢が不確実性を増している状況です。
+
+○ これらの国内治安情勢に加えて、最近の中東地域全体の緊張の高まりもあり、カブール国際空港を離発着する国際線商用便の遅延やキャンセルの可能性にも引き続き留意する必要があります。
+
+○ アフガニスタン全土に危険レベル４の退避勧告が発出されています。どのような目的であれアフガニスタンの渡航は止めていただくよう従来お願いしているところですが、現在の情勢は流動的であり、予断を許さない状況です。アフガニスタンにおいては、小さなきっかけで治安が急速に悪化することもあり得ます。繰り返しになりますが、アフガニスタンへの渡航は、どのような目的であれ止めてください。既に滞在されている方は直ちに退避してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163660</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163660A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163660.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163660L.xml</xmlLightUrl>
+        <koukanCd>701A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163659</keyCd>
         <infoType>R10</infoType>
