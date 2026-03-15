@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/15 18:25:49" mailCount="37" odType="02">
+<opendata dataType="L" lastModified="2026/03/15 18:45:49" mailCount="36" odType="02">
     <mail>
         <keyCd>163664</keyCd>
         <infoType>R10</infoType>
@@ -1000,29 +1000,5 @@ https://www.mofa.go.jp/mofaj/press/pr/pub/pamph/index.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163622.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163622L.xml</xmlLightUrl>
         <koukanCd>510A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163621</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/13 18:35:41</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0062</cd>
-        </country>
-        <title>当館代表電話の一時不通予定について</title>
-        <lead>●　３月１４日（土）午後０時００分から午後５時００分の間、事務所設備工事のため、当館代表電話が一時不通となります。
-●　ご用件のある方は、下記連絡先又は当館の代表メールアドレスまでご連絡ください。
-　　インドネシア国内から　０８００－１４０１９３４
-　　インドネシア国外より　１－８１８－７５５４２０７
-　　代表アドレス：ryoji@sb.mofa.go.jp　
-●　緊急時の方は、０８１１－３７５－６０４までご連絡ください。
-●　設備工事の進捗状況によっては、代表電話が不通となる時間が多少前後する可能性もありますので、御了承ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163621</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163621A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163621.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163621L.xml</xmlLightUrl>
-        <koukanCd>607U</koukanCd>
     </mail>
 </opendata>
