@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/15 22:25:49" mailCount="36" odType="02">
+<opendata dataType="L" lastModified="2026/03/15 22:50:49" mailCount="37" odType="02">
+    <mail>
+        <keyCd>163670</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/15 22:30:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>領事窓口の再開（３月１６日）</title>
+        <lead>１　在サウジアラビア日本国大使館は、明日１６日より領事窓口業務を再開します。
+　　領事窓口業務時間（ラマダン期間） 9：00～13：30
+
+２　今後、情勢の変化により、再度領事窓口を閉鎖する可能性もありますところ、その際は改めてお知らせします。
+　　
+（問い合わせ先）
+在サウジアラビア日本国大使館領事班
+TEL：011-488-1100
+FAX：011-488-0189
+E-mail：consular-sec@rd.mofa.go.jp
+ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html
+　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163670</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163670A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163670.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163670L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163669</keyCd>
         <infoType>R10</infoType>
