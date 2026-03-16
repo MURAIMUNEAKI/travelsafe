@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/16 20:45:50" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/03/16 21:25:48" mailCount="30" odType="02">
+    <mail>
+        <keyCd>163681</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/16 21:05:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0092</cd>
+        </country>
+        <title>在カラチ日本国総領事館の休館日変更のお知らせ</title>
+        <lead>　在カラチ日本国総領事館では、パキスタンの休日（Eid-ul-Fitr）に伴い、下記のとおり休館日を変更しますので、ご確認ください。
+　　
+・開館日から休館日に変更：３月２０日（金）
+・閉館日から開館日に変更：７月２０日（月）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163681</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163681A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163681.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163681L.xml</xmlLightUrl>
+        <koukanCd>610E</koukanCd>
+    </mail>
     <mail>
         <keyCd>163680</keyCd>
         <infoType>R10</infoType>
