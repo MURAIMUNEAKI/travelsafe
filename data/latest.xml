@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/17 04:45:49" mailCount="37" odType="02">
+<opendata dataType="L" lastModified="2026/03/17 05:25:49" mailCount="38" odType="02">
+    <mail>
+        <keyCd>163696</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 05:25:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>米国関連企業に対する脅威情報について(3月16日)</title>
+        <lead>3月16日(現地時間)イラン革命防衛隊系メディアは、中東地域における米国関連企業に対する攻撃を示唆するとともに、周辺住民に避難をするよう呼びかけるメッセージをテレグラム上に投稿しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163696</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163696A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163696.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163696L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163695</keyCd>
         <infoType>R10</infoType>
