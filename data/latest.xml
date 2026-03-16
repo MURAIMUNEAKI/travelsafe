@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/16 17:10:48" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/03/16 17:20:50" mailCount="28" odType="02">
+    <mail>
+        <keyCd>163678</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/16 17:15:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（3月16日午前10時点）</title>
+        <lead>３月16日午前10時現在、ハマド国際空港ではドーハ発着の限定的なフライトが運行されており、カタール航空は、カタール民間航空局からの一時的な許可に基づき以下のドーハ発の便を運行する予定であるとしています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163678</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163678A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163678.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163678L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163677</keyCd>
         <infoType>R10</infoType>
@@ -106,6 +124,33 @@ https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163673.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163673L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>2026T035</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢</contentInfo>
+        <leaveDate>2026/03/16 00:00:00</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0245</cd>
+        </country>
+        <title>ギニアビサウの危険情報【危険レベル継続】（内容の更新）</title>
+        <lead>　ギニアビサウの危険情報について、カシェウ州のレベル３（渡航中止勧告）及びその他全土のレベル２（不要不急の渡航は止めてください）を継続しつつ、記載内容を更新しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T035.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T035A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T035.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T035L.xml</xmlLightUrl>
+        <riskLevel4>0</riskLevel4>
+        <riskLevel3>1</riskLevel3>
+        <riskLevel2>1</riskLevel2>
+        <riskLevel1>0</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T035_1_Detail.html</mapImageUrl>
     </mail>
     <mail>
         <keyCd>163672</keyCd>
