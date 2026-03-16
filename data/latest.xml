@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/17 01:30:49" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/03/17 01:55:49" mailCount="30" odType="02">
+    <mail>
+        <keyCd>163687</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 01:55:48</leaveDate>
+        <title>午後臨時閉館のお知らせ（３月１６日）</title>
+        <lead>●ワシントンDC地域における雷雨・竜巻の予報のため、本日１４時以降は臨時閉館（含：領事窓口（１３：３０～１６：３０））となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163687</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163687A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163687.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163687L.xml</xmlLightUrl>
+        <koukanCd>301A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163686</keyCd>
         <infoType>R10</infoType>
