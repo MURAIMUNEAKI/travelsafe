@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/16 21:25:48" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/03/16 22:10:49" mailCount="31" odType="02">
+    <mail>
+        <keyCd>163682</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/16 21:40:49</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0031</cd>
+        </country>
+        <title>アムステルダム市内におけるオフィスビルの爆発事案に関する注意喚起</title>
+        <lead>1.	3月15日から16日未明にかけて、アムステルダム市内Zuidas区にあるオフィスビルAtriumにおいて、爆発物からの出火事案が発生したとの現地報道がありました。負傷者はなく、火は警備員によって鎮火され建物への損害は軽微とのことです。
+2.	報道によると、この事案についてSNS上で「Harakat Ashab al-Yamin al-Islamiyyah」と名乗るグループが犯行声明を出しており、同ビル内に所在するニューヨーク銀行を標的としたとのことです。また、同グループは3月13日ロッテルダム市内シナゴーグの放火及び14日アムステルダム市内ユダヤ人学校の爆発についても犯行声明を出していると報道されています。
+3.	昨今の中東情勢の悪化を受け、欧州地域でも不測の事態が発生する可能性が排除されません。普段以上に最新情報を収集し、周囲の状況に十分注意してください。
+
+　以下の外務省ホームページの「海外安全」にて、海外安全パンフレット・資料が確認できますので、ご参考としてください。 
+https://www.mofa.go.jp/mofaj/press/pr/pub/pamph/index.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163682</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163682A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163682.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163682L.xml</xmlLightUrl>
+        <koukanCd>510A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163681</keyCd>
         <infoType>R10</infoType>
