@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/16 18:25:49" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/03/16 19:00:49" mailCount="30" odType="02">
+    <mail>
+        <keyCd>163680</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/16 19:00:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月16日(月)12:00時点）</title>
+        <lead>3月16日(月)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
+本日については、特段従来の運用が変更されるとするような発表・報道は見られません。
+ 
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼
+ 
+■■ベン・グリオン空港運航状況
+
+●公式ウェブページ（出発便情報）
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
+・公式ウェブページにスケジュールが掲載されているのは、出発便・到着便ともに3月18日(水)分まで。
+・3月16日(月)2:56に、成田発直行便ベン・グリオン空港着
+・3月17日(火)に、ベングリオン空港（11:40)発成田行き直行便あり。
+
+●3月16日(月)出発便フライト予定（総計36便）
+（参考：2月28日以前の月曜日のフライト数は約160便）
+AIR HAIFA --3--
+  ATHENS 2
+  LARNACA 1
+ARKIA ISRAELI AIRLINES --6--
+  AMSTERDAM 1
+  ATHENS 1
+  PARIS 1
+  SOFIA 1
+  BARCELONA 1
+  ROME via LARNACA 1
+EL AL ISRAEL AIRLINES --21--
+  AMSTERDAM 1
+  ATHENS 1
+  BANGKOK 1
+  BUCHAREST 1
+  BUDAPEST 1
+  GENEVA 1
+  LARNACA 1
+  LONDON 1
+  MADRID 1
+  MIAMI 1
+  MILAN 1
+  MUNICH 1
+  NEW YORK 1
+  NEWARK 3
+  PARIS 2
+  SOFIA 1
+  TBILISI 1
+  WARSAW 1
+ISRAIR AIRLINES --6--
+  ATHENS 1
+  BUDAPEST 1
+  LARNACA 2
+  ROME 1
+  LONDON LUTON 1</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163680</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163680A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163680.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163680L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163679</keyCd>
         <infoType>R10</infoType>
