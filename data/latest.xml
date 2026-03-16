@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/16 20:00:51" mailCount="28" odType="02">
+<opendata dataType="L" lastModified="2026/03/16 20:30:49" mailCount="29" odType="02">
     <mail>
         <keyCd>163680</keyCd>
         <infoType>R10</infoType>
@@ -253,6 +253,36 @@ https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
         <infectionLevel2>0</infectionLevel2>
         <infectionLevel1>0</infectionLevel1>
         <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T035_1_Detail.html</mapImageUrl>
+    </mail>
+    <mail>
+        <keyCd>2026T034</keyCd>
+        <infoType>T40</infoType>
+        <contentInfo>治安情勢 戦争</contentInfo>
+        <leaveDate>2026/03/16 00:00:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0961</cd>
+        </country>
+        <title>レバノンの危険情報【一部地域の危険レベル引き上げ】</title>
+        <lead>●３月１１日、ヒズボッラーはイランと共同でイスラエル北部に対する攻撃を実施し、その後、イスラエルは、レバノンに対する攻撃の規模や事前警告の範囲を拡大しています。
+●こうした状況を受け、危険レベル３（渡航中止勧告）であった地域の危険レベルをレベル４（退避勧告）に引き上げます。これにより、レバノン全土の危険情報がレベル４となります。
+●レバノンへの渡航は、どのような目的であれ止めてください。既に滞在中の方は、安全に出国可能と判断される場合は、商用便が運航している間に、速やかに国外に退避してください。
+●お困りの方は、在レバノン日本国大使館又は外務省領事局にご連絡ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T034.html</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T034A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T034.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T034L.xml</xmlLightUrl>
+        <riskLevel4>1</riskLevel4>
+        <riskLevel3>0</riskLevel3>
+        <riskLevel2>0</riskLevel2>
+        <riskLevel1>0</riskLevel1>
+        <infectionLevel4>0</infectionLevel4>
+        <infectionLevel3>0</infectionLevel3>
+        <infectionLevel2>0</infectionLevel2>
+        <infectionLevel1>0</infectionLevel1>
+        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T034_1_Detail.html</mapImageUrl>
     </mail>
     <mail>
         <keyCd>163672</keyCd>
