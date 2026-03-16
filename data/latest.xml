@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/16 23:55:50" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/03/17 00:35:49" mailCount="28" odType="02">
+    <mail>
+        <keyCd>163685</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 00:30:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>（参考情報）バーレーン国際空港及びキング・ファハド・コーズウェイの状況（３月１６日　１８：００時点）</title>
+        <lead>バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況については下のとおりです。 
+また、サウジアラビアへの移動手段について、お困りの方がいらっしゃいましたら末尾記載の当館メールアドレス宛にご相談ください。
+
+○ バーレーン国際空港 
+　３月１６日１８時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。 
+
+○ キング・ファハド・コーズウェイ 
+　３月１６日１８時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。 
+　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（ https://kfca.sa/en/ ）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。 
+　通行方法の詳細については、こちら（ https://www.bh.emb-japan.go.jp/files/100987859.pdf ）をご参照下さい。 
+
+○サウジアラビアのVISA、たびレジ案内
+　サウジアラビア国内の空港利用や同国への退避等のため、サウジアラビア国内に移動される方は、サウジアラビアのVISAを取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
+「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
+　渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から発信される同国内の安全情報等を受け取ることが出来ます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163685</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163685A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163685.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163685L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163684</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 00:15:42</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>タクシーストライキ（17日6時から20日6時まで）</title>
+        <lead>報道によりますと、3月17日（火）、ギリシャ全土で24時間のタクシーストライキが行われる予定です。また、アテネ市を含むアッティカ県では、3月17日（火）午前6時から20日（金）午前6時までの４日間にわたり、タクシーストライキが行われる予定です。
+タクシーの運行に影響が出ることが予想されますので、ご利用予定の方はご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163684</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163684A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163684.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163684L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163683</keyCd>
         <infoType>R10</infoType>
@@ -807,119 +858,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163659.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163659L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163658</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/15 00:25:54</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>サウジアラビアへのたびレジ登録等（３月１４日　１８：００時点）</title>
-        <lead>【サウジアラビアへのたびレジ登録】
-○サウジアラビア国内の空港利用や同国への退避等のため、サウジアラビア国内に移動される方は、サウジアラビアの査証を取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
-●「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
-渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から発信される同国内の安全情報等を受け取ることが出来ます。
-●サウジアラビアの査証取得方法
-以下のリンクからご確認ください。
-https://www.bh.emb-japan.go.jp/files/100987859.pdf
-
-【空港等の稼働状況】
-バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況については下のとおりです。 
-また、サウジアラビアへの移動手段について、お困りの方がいらっしゃいましたら末尾記載の当館メールアドレス宛にご相談ください。
-○ バーレーン国際空港 
-　３月１４日１８時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。 
-○ キング・ファハド・コーズウェイ 
-　３月１４日１８時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。 
-　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（ https://kfca.sa/en/ ）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。 
-　通行方法の詳細については、こちら（ https://www.bh.emb-japan.go.jp/files/100987859.pdf ）をご参照下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163658</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163658A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163658.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163658L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163657</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/15 00:25:54</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>クウェート国際空港の状況（3月14日18:00時点）について</title>
-        <lead>○3月14日18:00時点（現地時間）、クウェート国際空港は閉鎖されています。
-邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
-
-○同空港のサイトを以下のとおりお知らせします。
-クウェート国際空港（Kuwait International Airport）
-https://www.kuwaitairport.gov.kw/en/　
-※	クウェート発着便の運行状況について確認できます。
-
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163657</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163657A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163657.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163657L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163656</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/15 00:15:41</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0593</cd>
-        </country>
-        <title>夜間外出禁止令の発令</title>
-        <lead>●３月１３日、ノボア大統領は、大統領令３２９号にて、グアヤス県、ロス・リオス県、エル・オロ県、サント・ドミンゴ・デ・ロス・ツァチラス県を対象に、３月１５日から３月３０日までの夜間外出禁止令を発令しました。
-●在留邦人の皆様及び旅行されている皆様におかれましては、ご自身の居住及び渡航地域の外出禁止時間をご確認頂き、報道等で最新の情報収集に努めるとともに、身の安全確保にご留意いただけるようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163656</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163656A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163656.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163656L.xml</xmlLightUrl>
-        <koukanCd>408A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163655</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/15 00:00:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イラン当局によるＵＡＥ国内の指定区域住民・居住者への警告について</title>
-        <lead>１　報道などによれば、イラン当局は、以下の通りジェベル・アリ港、ハリファ港、フジャイラ港の住民へ避難を呼びかけました。
-（１）ＵＡＥの地図に示された区域の住民及び居住者の皆様は、ジェベル・アリ港、ハリファ港、フジャイラ港から直ちに避難するよう発表する。 
-（２）これらの地域は、民間施設に潜伏する米軍の存在により、正当な攻撃目標となり、今後数時間以内に攻撃を受ける可能性がある。 
-（３）全ての市民、港湾職員、及びこれらの施設周辺にいる人々は、命を守るため、できるだけ早くこれらの地域から避難するよう要請する。 
-関連リンク先：
-https://t.me/Tasnimnews/396856
-https://x.com/presstv/status/2032749385696624643?s=46</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163655</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163655A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163655.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163655L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
     </mail>
 </opendata>
