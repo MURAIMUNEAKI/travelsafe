@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/16 14:00:50" mailCount="32" odType="02">
+<opendata dataType="L" lastModified="2026/03/16 14:45:50" mailCount="28" odType="02">
+    <mail>
+        <keyCd>163674</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/16 14:25:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月１６日 ９時００分）</title>
+        <lead>○本日午前９時００分現在、早朝に発生したドバイ国際空港（DXB）付近におけるドローン攻撃に伴う火災の影響により、フライトの発着が停止されております。今後の運航につきましては、空港ホームページ等をご確認ください。 
+https://dubaiairports.ae/　（ドバイ国際空港HP）   
+https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163674</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163674A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163674.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163674L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163673</keyCd>
         <infoType>R10</infoType>
@@ -833,119 +853,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163647.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163647L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163646</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/14 14:45:42</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0082</cd>
-        </country>
-        <title>北朝鮮によるミサイル発射</title>
-        <lead>　本１４日、北朝鮮から弾道ミサイルの可能性があるものが発射されました。弾道ミサイルとみられるものは、すでに落下しているとみられますが、引き続き我が国政府や韓国当局等が発表する情報や報道を注視し、最新情報に留意してください。
-　我が国政府の対応状況等については、以下の首相官邸ホームページに掲載されておりますので、お知らせいたします。
-
-【首相官邸ホームページ】
-https://www.kantei.go.jp/jp/105/discourse/20260314shiji.html</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163646</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163646A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163646.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163646L.xml</xmlLightUrl>
-        <koukanCd>616F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163645</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/14 14:21:03</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0082</cd>
-        </country>
-        <title>北朝鮮によるミサイル発射（第２報）</title>
-        <lead>本14日の北朝鮮による弾道ミサイルの可能性があるものの発射に関し、我が国政府の対応状況等が首相官邸ホームページに掲載されました。
-引き続き、最新の情報に留意して下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163645</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163645A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163645.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163645L.xml</xmlLightUrl>
-        <koukanCd>616D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163644</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/14 14:21:03</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0082</cd>
-        </country>
-        <title>北朝鮮によるミサイル発射（第１報）</title>
-        <lead>本14日、北朝鮮から弾道ミサイルの可能性のあるものが発射されました。
-
-引き続き、我が国政府等が発表する情報や報道、最新の情報に留意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163644</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163644A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163644.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163644L.xml</xmlLightUrl>
-        <koukanCd>616A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163643</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/14 14:10:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>サウジアラビアへのたびレジ登録等（３月１４日　８：００時点）</title>
-        <lead>【サウジアラビアへのたびレジ登録】
-○サウジアラビア国内の空港利用や同国への退避等のため、サウジアラビア国内に移動される方は、サウジアラビアの査証を取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
-●「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
-渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から発信される同国内の安全情報等を受け取ることが出来ます。
-●サウジアラビアの査証取得方法
-以下のリンクからご確認ください。
-https://www.bh.emb-japan.go.jp/files/100987859.pdf
-
-【空港等の稼働状況】
-バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況については下のとおりです。 
-また、サウジアラビアへの移動手段について、お困りの方がいらっしゃいましたら末尾記載の当館メールアドレス宛にご相談ください。
-○ バーレーン国際空港 
-　３月１４日８時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。 
-○ キング・ファハド・コーズウェイ 
-　３月１４日８時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。 
-　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（ https://kfca.sa/en/ ）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。 
-　通行方法の詳細については、こちら（ https://www.bh.emb-japan.go.jp/files/100987859.pdf ）をご参照下さい。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163643</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163643A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163643.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163643L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163642</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/14 14:05:42</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0082</cd>
-        </country>
-        <title>北朝鮮によるミサイル発射</title>
-        <lead>韓国当局によると、本14日、北朝鮮が弾道ミサイルの可能性があるものを発射しました。
-引き続き最新の情報に留意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163642</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163642A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163642.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163642L.xml</xmlLightUrl>
-        <koukanCd>616D</koukanCd>
     </mail>
 </opendata>
