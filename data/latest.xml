@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/16 23:30:49" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/03/16 23:55:50" mailCount="30" odType="02">
     <mail>
         <keyCd>163683</keyCd>
         <infoType>R10</infoType>
@@ -921,30 +921,5 @@ https://x.com/presstv/status/2032749385696624643?s=46</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163655.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163655L.xml</xmlLightUrl>
         <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163654</keyCd>
-        <infoType>R20</infoType>
-        <leaveDate>2026/03/14 23:45:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（3月14日18時00分）</title>
-        <lead>3月14日、イランの保守強硬派メディア「タスニム通信」は、Jebel Ali 港、Khalifa 港、Fujairah 港及びその周辺地域の居住者等に対し、「今後数時間以内に攻撃を受ける可能性がある」として避難を呼び掛ける警告を発出しました（警告の内容は下記のとおり。）。
-上記3港及びその周辺地域にいる方は、速やかな避難をお願いします。また。他の邦人の皆様におかれましても、上記3港及びその周辺地域への立ち入りは厳にお控えいただけますようお願いします。
-
-【イラン】ＵＡＥ指定区域住民・居住者への警告（１４日付イラン時間16:46タスニム通信）
-
-１　ＵＡＥの地図に示された区域の住民及び居住者の皆様は、ジェベル・アリ港、ハリファ港、フジャイラ港から直ちに避難するよう発表する。
-２　これらの地域は、民間施設に潜伏する米軍の存在により、正当な攻撃目標となり、今後数時間以内に攻撃を受ける可能性がある。
-３　全ての市民、港湾職員、及びこれらの施設周辺にいる人々は、命を守るため、できるだけ早くこれらの地域から避難するよう要請する。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163654</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163654A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163654.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163654L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
