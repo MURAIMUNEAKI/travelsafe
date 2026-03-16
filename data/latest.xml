@@ -1,5 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/17 02:30:49" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/03/17 03:00:49" mailCount="35" odType="02">
+    <mail>
+        <keyCd>163692</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 02:50:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0233</cd>
+        </country>
+        <title>当館休館日(３月２０日(金)及び２３日(月))のご案内</title>
+        <lead>【ポイント】
+ラマダン明け休日となる３月２０日(金)及び２３日(月)は当館休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163692</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163692A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163692.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163692L.xml</xmlLightUrl>
+        <koukanCd>712A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163691</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 02:45:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0232</cd>
+        </country>
+        <title>当館休館日(３月２０日(金)及び２３日(月))のご案内</title>
+        <lead>【ポイント】
+ラマダン明け休日となる３月２０日(金)及び２３日(月)は当館休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163691</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163691A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163691.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163691L.xml</xmlLightUrl>
+        <koukanCd>077A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163690</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 02:40:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0231</cd>
+        </country>
+        <title>当館休館日(３月２０日(金)及び２３日(月))のご案内</title>
+        <lead>【ポイント】
+ラマダン明け休日となる３月２０日(金)及び２３日(月)は当館休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163690</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163690A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163690.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163690L.xml</xmlLightUrl>
+        <koukanCd>754A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163689</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 02:35:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <title>米国関連企業への脅威情報（3月16日）</title>
+        <lead>報道によると、3月16日、イランのイスラム革命ガードは米国関連企業への数時間以内の攻撃を示唆しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163689</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163689A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163689.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163689L.xml</xmlLightUrl>
+        <koukanCd>761A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163688</keyCd>
         <infoType>R10</infoType>
