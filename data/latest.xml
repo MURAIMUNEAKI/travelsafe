@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/16 22:45:49" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/03/16 23:30:49" mailCount="31" odType="02">
+    <mail>
+        <keyCd>163683</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/16 23:05:44</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】警告ストライキ実施に伴う交通への影響（３月17日（火）及び19日（木））</title>
+        <lead>統一サービス産業労働組合（Verdi）は、バイエルン州ほか複数の州が運営する公共交通機関従業員に対し、３月17日（火）及び19日（木）にわたる警告ストライキを呼びかけており、これが実施されれば交通に大きな影響が出る模様です。
+
+17日（火）は運転手に対するストライキの呼びかけではないため、トラム及び路線バスには影響はありませんが、地下鉄（Uバーン）の運行に支障が出る可能性があるとされています。
+また、19日（木）の正確な時間については、現時点では発表されていませんので、以下の公式ホームページや報道等から最新の情報をご確認ください。
+
+なお、両日共にバイエルン州の近郊列車（Sバーン）、地方バス及びバーデン・ヴュルテンブルク州の全ての公共交通機関は対象外となっています。
+
+出張やご旅行等を計画されている方は、事前に運行情報を確認するとともに、時間に余裕をもって行動するようにしてください。
+
+【関連ＵＲＬ】
+○統一サービス産業労働組合（Verdi）ホームページ
+https://www.verdi.de/presse/pressemitteilungen/tarifrunde-oepnv-verdi-ruft-erneut-streiks-mehreren-bundeslaendern 
+
+○ミュンヘン交通（MVG）
+https://www.mvg.de/news/streik.html# 
+
+○ニュルンベルク交通（VGN）
+https://www.vgn.de/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163683</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163683A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163683.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163683L.xml</xmlLightUrl>
+        <koukanCd>506G</koukanCd>
+    </mail>
     <mail>
         <keyCd>163682</keyCd>
         <infoType>R10</infoType>
@@ -911,27 +946,5 @@ https://x.com/presstv/status/2032749385696624643?s=46</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163654.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163654L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163653</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/14 23:00:49</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0031</cd>
-        </country>
-        <title>アムステルダム市内におけるユダヤ人学校の爆発事案に関する注意喚起</title>
-        <lead>1.	3月14日未明、アムステルダム市内Buitenveldertにあるユダヤ人学校の外壁で爆発が発生したとの報道がありました。負傷者等の報道はなく、建物の損傷は軽微とのことです。警察は3月13日にロッテルダム市内で発生したシナゴーグ放火との関連について捜査中と報道されています。
-2.	昨今の中東情勢の悪化を受け、欧州地域でも不測の事態が発生する可能性が排除されません。普段以上に最新情報を収集し、周囲の状況に十分注意してください。
-
-　以下の外務省ホームページの「海外安全」にて、海外安全パンフレット・資料が確認できますので、ご参考としてください。 
-https://www.mofa.go.jp/mofaj/press/pr/pub/pamph/index.html</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163653</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163653A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163653.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163653L.xml</xmlLightUrl>
-        <koukanCd>510A</koukanCd>
     </mail>
 </opendata>
