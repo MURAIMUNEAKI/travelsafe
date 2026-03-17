@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/17 16:50:49" mailCount="42" odType="02">
+<opendata dataType="L" lastModified="2026/03/17 17:30:49" mailCount="43" odType="02">
+    <mail>
+        <keyCd>163707</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 17:00:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0371</cd>
+        </country>
+        <title>邦人旅行者の盗難被害が発生したことに伴う注意喚起</title>
+        <lead>（ポイント）
+●　先日、ラトビアを旅行中の邦人旅行者が、リガの中央市場において、旅券や現金、クレジットカード等が入ったバッグを盗まれる事件が発生しました。
+●　公共交通機関を利用する際や、多くの観光客が集まる場所、リガ駅、中央市場周辺でのスリ、置き引き等には十分注意してください。
+●　安全に海外旅行する上で、旅券やクレジットカード、スマートフォン等の貴重品は、肌身離さず携行することが重要です。
+●　犯罪やテロ事件等の不測の事態に巻き込まれないよう、引き続き、治安や安全対策に関する情報収集に努め、身の回りの安全に一層の注意を払ってください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163707</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163707A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163707.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163707L.xml</xmlLightUrl>
+        <koukanCd>528A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163706</keyCd>
         <infoType>R10</infoType>
