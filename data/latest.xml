@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/18 01:00:49" mailCount="42" odType="02">
+<opendata dataType="L" lastModified="2026/03/18 01:30:51" mailCount="44" odType="02">
+    <mail>
+        <keyCd>163720</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 01:30:42</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0034</cd>
+        </country>
+        <title>暴風雨に対する警戒警報の発令</title>
+        <lead>●カナリア州政府は、3月18日午後3時から、カナリア諸島全域に暴風雨「Therese」に対する警戒警報を発令すると発表しました。
+●報道及び関係機関から最新の情報を収集して災害に備えてください。
+●カナリア州政府ＨＰ
+https://www3.gobiernodecanarias.org/noticias/el-gobierno-declara-la-situacion-de-alerta-por-fenomenos-costeros-en-canarias-2/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163720</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163720A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163720.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163720L.xml</xmlLightUrl>
+        <koukanCd>514V</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163719</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 01:25:39</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>【大使館からのお知らせ】大使館代表電話の不通について</title>
+        <lead>　現在、当館代表電話は一時的に不通となっておりますので、緊急の方は、以下の要領でお電話ください。
+
+【16:30～8：00閉館時】
+○サウジアラビア国内トールフリー　800 850 0786（閉館時のみ、オペレーターが２４時間対応可）
+○国外から架電　+1-818-755-4282（別途通話料金発生、閉館時のみ、オペレーターが２４時間対応可）
+
+【8：00～16：30開館時】
++966(0)50 447 3932
+
+
+　このメールは、在留届にて届けられたメールアドレス及び「たびレジ」に登録されたメールアドレスに自動的に配信されております。
+
+（問い合わせ先） 
+在サウジアラビア日本国大使館領事班 
+FAX：011-488-0189 
+E-mail：consular-sec@rd.mofa.go.jp 
+ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html
+　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163719</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163719A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163719.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163719L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163717</keyCd>
         <infoType>R10</infoType>
