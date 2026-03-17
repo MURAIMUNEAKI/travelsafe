@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/17 20:55:49" mailCount="44" odType="02">
+<opendata dataType="L" lastModified="2026/03/17 21:25:49" mailCount="46" odType="02">
+    <mail>
+        <keyCd>163714</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 21:25:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0094</cd>
+        </country>
+        <title>中東情勢を踏まえたスリランカの状況について</title>
+        <lead>○3月16日、スリランカ政府は、中東情勢の影響を受けた現下の国内燃料事情を踏まえ、3月18日（水）から、官公庁、学校、大学、裁判所につき毎週水曜日を休日とすることを決定。 
+○スリランカ政府は、ＱＲコードシステムによる燃料販売量の管理を導入。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163714</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163714A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163714.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163714L.xml</xmlLightUrl>
+        <koukanCd>603A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163713</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 21:15:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>ガルフエアによる限定フライトのお知らせ等（３月１７日　１５：００現在）</title>
+        <lead>【ガルフエアによる限定フライト】
+○ バーレーン国際空港における離発着は未だ再開されていませんが、ガルフエアより「キング・ファハド空港」（サウジアラビア東部州、ダンマン）からロンドン、ムンバイ（インド）、バンコク（タイ）の各空港に加え、フランクフルト（ドイツ）、ナイロビ（ケニア）の各空港へ向かう限定フライトも運航するとの発表がありました。
+　なお、ガルフエアは同フライトの予約が確定された乗客に対し、バーレーンから同空港までの交通手段の準備に加え、サウジアラビアへの通過ビザの取得を支援する旨発表しております。
+○ 詳細につきましては、ガルフエア公式サイトをご確認ください。
+　ガルフエア公式サイト：https://www.gulfair.com/en/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163713</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163713A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163713.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163713L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163712</keyCd>
         <infoType>R10</infoType>
