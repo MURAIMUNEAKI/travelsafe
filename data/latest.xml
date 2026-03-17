@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/17 17:30:49" mailCount="43" odType="02">
+<opendata dataType="L" lastModified="2026/03/17 17:55:50" mailCount="44" odType="02">
+    <mail>
+        <keyCd>163709</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 17:45:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>【重要】アブダビ首長国に滞在されている邦人の皆様へのアンケートご協力依頼</title>
+        <lead>アブダビ首長国滞在中の邦人の皆様
+在アラブ首長国連邦日本国大使館の領事班です。
+これまで日本政府として邦人の皆様に対してチャーター機等による出国支援を実施してきたところですが、引き続きUAEのアブダビ首長国に滞在されている方々がいらっしゃると承知しております。
+今後のイランを巡る中東情勢如何によっては、邦人の皆様に被害が及ぶ可能性もございます。その場合、当館といたしましては、邦人の皆様の安全確保の観点から様々なサポート（UAE当局や病院等との連携等）を実施させていただきます。
+ 
+つきましては、以下のリンク先から質問についてご回答くださるようお願いいたします。本アンケートは、万が一の事態も想定して、緊急事態発生時における邦人の皆様への対応につき、その準備のために実施するものです。特に、連絡電話番号及び滞在・居住先のホテル名又はビルディング名（部屋番号・番地は不要です。）の記載にご協力頂けますと幸いです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163709</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163709A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163709.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163709L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163707</keyCd>
         <infoType>R10</infoType>
