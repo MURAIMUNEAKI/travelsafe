@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/18 02:25:49" mailCount="44" odType="02">
+<opendata dataType="L" lastModified="2026/03/18 03:00:49" mailCount="46" odType="02">
+    <mail>
+        <keyCd>163723</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 02:55:43</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>【注意喚起】ボリビア全土の銀行でのBシリーズ紙幣からAシリーズへの交換開始について（続報）</title>
+        <lead>● 3月16日（月）より、ボリビア国内のすべての銀行窓口において、流通が混乱している「Bシリーズ」紙幣を「Aシリーズ」紙幣へ交換することが可能となりました。
+● 市中（商店、バス会社、タクシー等）では、有効な番号であってもBシリーズ紙幣（10、20、50ボリビアーノス札）の受け取りを拒否される事案が依然として発生しています。
+● トラブルを避けるため、お手持ちのBシリーズ紙幣は速やかに銀行でAシリーズへ交換することをお勧めします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163723</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163723A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163723.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163723L.xml</xmlLightUrl>
+        <koukanCd>402A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163721</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 02:40:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>【大使館からのお知らせ】当館休館日（３月２２日から同２４日まで　ラマダン明け大祭）について</title>
+        <lead>　３月２２日（日）から同２４日（火）までラマダン明け大祭のため、当館は休館日となります。
+　緊急の方は以下までお電話ください。オペレーターが２４時間対応いたします。
+＋９６６（０）１１－４８８－１１００
+
+　このメールは、在留届にて届けられたメールアドレス及び「たびレジ」に登録されたメールアドレスに自動的に配信されております。
+
+（問い合わせ先） 
+在サウジアラビア日本国大使館領事班 
+TEL：011-488-1100 
+FAX：011-488-0189 
+E-mail：consular-sec@rd.mofa.go.jp 
+ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html
+　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163721</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163721A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163721.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163721L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163720</keyCd>
         <infoType>R10</infoType>
