@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/17 08:20:49" mailCount="42" odType="02">
+<opendata dataType="L" lastModified="2026/03/17 08:50:49" mailCount="43" odType="02">
+    <mail>
+        <keyCd>163701</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 08:50:39</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0680</cd>
+        </country>
+        <title>脱走犯への注意</title>
+        <lead>脱走犯に関する緊急通報がありました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163701</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163701A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163701.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163701L.xml</xmlLightUrl>
+        <koukanCd>628A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163700</keyCd>
         <infoType>R10</infoType>
