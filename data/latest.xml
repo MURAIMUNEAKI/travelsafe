@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/17 18:30:49" mailCount="45" odType="02">
+<opendata dataType="L" lastModified="2026/03/17 18:50:50" mailCount="46" odType="02">
+    <mail>
+        <keyCd>163711</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 18:40:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>現在の滞在状況についての調査（期限：３月１８日２４時００分（当地時間））</title>
+        <lead>○日本政府はこれまで、チャーター機等による出国支援を実施してまいりましたが、現在も当地に滞在されている方がいらっしゃると承知しております。
+○今後の邦人保護等の当館業務に万全を期すため、皆様の現在の滞在状況について確認させていただきたく、以下のリンク先からアンケートにご協力いただくようお願いいたします。
+
+【回答期限】３月１８日２４時００分（当地時間）
+【回答方法】下記リンクよりアンケートにご回答ください（約３分で完了します）
+https://forms.office.com/r/vMiyNkHkNP?origin=lprLink</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163711</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163711A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163711.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163711L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163710</keyCd>
         <infoType>R10</infoType>
