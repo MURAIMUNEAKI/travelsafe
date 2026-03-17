@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/17 23:10:49" mailCount="44" odType="02">
+<opendata dataType="L" lastModified="2026/03/17 23:55:49" mailCount="43" odType="02">
+    <mail>
+        <keyCd>163716</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/17 23:25:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】近距離公共交通機関のおけるストライキ実施（３月１９日）</title>
+        <lead>　統一サービス産業労働組合（Verdi）は、ドイツの複数の州での近距離交通機関におけるストライキ実施を呼びかけました。ストライキの実施が決定しているのは、ハンブルク州、バイエルン州、ノルトライン＝ヴェストファーレン州ですが、今後実施される州が増える可能性もありますので、最新の情報をご確認ください。
+　ハンブルク州では、３月１９日（木）午前３時から３月２０日（金）午前３時までハンブルク・ホフバーン（Hochbahn）が運営するＵバーンとバスは運休となる見込みです。
+　ハンブルク・ホルシュタイン交通（VHH）が運営するバス、ドイツ鉄道が運行するSバーン、地域鉄道、長距離列車については、ストライキの影響は受けません。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163716</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163716A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163716.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163716L.xml</xmlLightUrl>
+        <koukanCd>506E</koukanCd>
+    </mail>
     <mail>
         <keyCd>163715</keyCd>
         <infoType>R10</infoType>
@@ -1180,64 +1200,5 @@ https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
         <infectionLevel2>0</infectionLevel2>
         <infectionLevel1>0</infectionLevel1>
         <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T034_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>163672</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/15 23:55:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>（参考情報）バーレーン国際空港及びキング・ファハド・コーズウェイの状況（３月１５日　１８：００現在）</title>
-        <lead>バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況については下のとおりです。 
-また、サウジアラビアへの移動手段について、お困りの方がいらっしゃいましたら末尾記載の当館メールアドレス宛にご相談ください。
-
-○ バーレーン国際空港 
-　３月１５日１８時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。 
-
-○ キング・ファハド・コーズウェイ 
-　３月１５日１８時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。 
-　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（ https://kfca.sa/en/ ）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。 
-　通行方法の詳細については、こちら（ https://www.bh.emb-japan.go.jp/files/100987859.pdf ）をご参照下さい。 
-
-○サウジアラビアのVISA、たびレジ案内
-　サウジアラビア国内の空港利用や同国への退避等のため、サウジアラビア国内に移動される方は、サウジアラビアのVISAを取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
-「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
-　渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から発信される同国内の安全情報等を受け取ることが出来ます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163672</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163672A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163672.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163672L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163671</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/15 23:20:43</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0254</cd>
-        </country>
-        <country areaCd="60">
-            <cd>0252</cd>
-        </country>
-        <title>日系企業関係者に対する強盗事件の発生に伴う注意喚起</title>
-        <lead>昨１４日早朝、ナクル郡において、日系企業の現地職員がタクシーを呼ぶため、歩道上にて待機していたところ、バイクに乗った２人組の犯人に突然ナイフで切りつけられ、重傷を負う事件が発生しました。被害者は犯人に携帯電話をひったくられており、携帯電話等を狙った強盗目的の可能性があります。
-
-在留邦人及び旅行者の皆様におかれましては、携帯電話を狙った窃盗事件が多発していますので、被害の未然防止の観点から、以下の点に注意してください。
-
-●屋外での携帯電話の使用はできる限り避け、必要な場合には、付近の建物内で使用する。タクシー等を依頼した際は、建物の敷地内等の安全な場所で車を待ち、車が来るまで路上に出ない。
-●周囲の状況をよく確認し、警戒を怠らないようにする。時折周囲に目線を向けるなど、警戒心を顕示する。
-●万一、強盗被害に遭った場合には、生命を第一に考え、決して犯人に抵抗せず、追いかけたり、奪い返そうとしない。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163671</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163671A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163671.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163671L.xml</xmlLightUrl>
-        <koukanCd>713A</koukanCd>
     </mail>
 </opendata>
