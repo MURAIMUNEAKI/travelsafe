@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/18 22:00:50" mailCount="53" odType="02">
+<opendata dataType="L" lastModified="2026/03/18 22:40:50" mailCount="54" odType="02">
+    <mail>
+        <keyCd>163749</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 22:35:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>在ジッダ日本国総領事館の閉館日のお知らせ</title>
+        <lead>　平素より当総領事館の業務につきまして、御理解及び御協力並びに貴重な御意見を賜り、厚く御礼申し上げます。
+
+　在ジッダ日本国総領事館は、３月２０日（金）から２４日（火）まで閉館となります。本日サウジアラビア政府当局が、明日３月１９日（木）がラマダン明けの大祭初日であると発表した場合は、３月１９日も閉館となります。
+
+　閉館期間中も、総領事館にご連絡いただけます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163749</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163749A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163749.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163749L.xml</xmlLightUrl>
+        <koukanCd>708D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163748</keyCd>
         <infoType>R10</infoType>
