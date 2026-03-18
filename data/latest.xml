@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/18 20:30:49" mailCount="52" odType="02">
+<opendata dataType="L" lastModified="2026/03/18 20:55:48" mailCount="53" odType="02">
+    <mail>
+        <keyCd>163745</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 20:45:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>【大使館からのお知らせ】大使館代表電話の復旧について</title>
+        <lead>　一時的に不通となっていた当館代表電話は復旧しましたので、お知らせします。
+
+
+　このメールは、在留届にて届けられたメールアドレス及び「たびレジ」に登録されたメールアドレスに自動的に配信されております。
+
+（問い合わせ先） 
+在サウジアラビア日本国大使館領事班 
+TEL：011-488-1100 
+FAX：011-488-0189 
+E-mail：consular-sec@rd.mofa.go.jp 
+ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html
+　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163745</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163745A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163745.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163745L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163742</keyCd>
         <infoType>R10</infoType>
