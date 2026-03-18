@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 01:30:49" mailCount="53" odType="02">
+<opendata dataType="L" lastModified="2026/03/19 02:05:49" mailCount="52" odType="02">
+    <mail>
+        <keyCd>163754</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/19 02:00:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>イラン関連情報第17報:リヤド上空における弾道ミサイル飛来に関する注意喚起</title>
+        <lead>１   ３月18日夜、国防省報道官は、リヤドにおける弾道ミサイルの脅威に対応している旨発表しました。
+
+ ２   在留邦人の皆様におかれましては、引き続き不測の事態に備え、米国関連施設、軍事関連施設、石油施設等、攻撃の対象となる可能性のある施設には近づかない（写真撮影等も厳禁）ほか、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めて下さい。
+　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。
+
+3    ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、
+屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
+屋内にいる場合：　窓から離れる、窓のない部屋に移動する
+といった、ご自身の身を守る行動を最優先に行うようお願いします。
+
+（問い合わせ先） 
+在サウジアラビア日本国大使館領事班 
+TEL：011-488-1100 
+FAX：011-488-0189 
+E-mail：consular-sec@rd.mofa.go.jp 
+ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html 
+　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。 
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163754</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163754A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163754.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163754L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163753</keyCd>
         <infoType>R10</infoType>
@@ -1371,37 +1406,5 @@ E-mail：ryouji@po.mofa.go.jp</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163689.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163689L.xml</xmlLightUrl>
         <koukanCd>761A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163688</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/17 02:05:39</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0961</cd>
-        </country>
-        <title>【重要】レバノン全土の危険情報レベル４（退避勧告）及び商用便での出国検討のお願い</title>
-        <lead>●イスラエル国防軍によるヒズボッラー等関連施設を標的としたとみられる攻撃は、ベイルート県などにも拡大しています。今後、レバノン全土の情勢がさらに悪化する可能性は排除できません。
-●レバノン全土の危険レベルは「レベル４：退避勧告」となっています。どのような目的であれ、レバノンへの渡航は止めてください。既に滞在中の方は、自らの安全確保に努めつつ、安全に出国可能と判断される場合は、商用便が運航している間に、速やかに国外に退避してください。
-●最新の安全情報や攻撃に関する警告等の情報収集に努めてください。退避の呼びかけ等が発出された場合には、速やかに安全な場所へ退避してください。また、爆発音等が確認された場合には現場には近づかず、安全確保を最優先に行動してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163688</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163688A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163688.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163688L.xml</xmlLightUrl>
-        <koukanCd>707A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163687</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/17 01:55:48</leaveDate>
-        <title>午後臨時閉館のお知らせ（３月１６日）</title>
-        <lead>●ワシントンDC地域における雷雨・竜巻の予報のため、本日１４時以降は臨時閉館（含：領事窓口（１３：３０～１６：３０））となります。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163687</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163687A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163687.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163687L.xml</xmlLightUrl>
-        <koukanCd>301A</koukanCd>
     </mail>
 </opendata>
