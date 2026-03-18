@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 03:55:49" mailCount="48" odType="02">
+<opendata dataType="L" lastModified="2026/03/19 04:20:50" mailCount="46" odType="02">
     <mail>
         <keyCd>163754</keyCd>
         <infoType>R10</infoType>
@@ -1267,69 +1267,5 @@ E-mail：ryouji@po.mofa.go.jp</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163695.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163695L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163694</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/17 04:15:39</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>イラン関連情報第１５報：中東における米国関連企業への脅威情報について</title>
-        <lead>１　３月１６日夜、イランの革命防衛隊系メディアは、米国関連企業の周辺地域に居住する住民に対して被害を避けるために避難を呼びかけるとともに、今後数時間以内に米国関連企業を標的とする旨、テレグラム上で発表しました。
-
-２　当該報道内容を踏まえ、当面の間、関連する可能性のある施設への、不要不急の立ち寄りは避けるなどの配慮をお願いいたします。
-
-３　引き続き、在留邦人の皆様におかれましては、ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、
-屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
-屋内にいる場合：　窓から離れる、窓のない部屋に移動する
-といった、ご自身の身を守る行動を最優先に行うようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163694</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163694A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163694.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163694L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163693</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/17 04:10:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>米国関連企業に対する脅威情報について(3月16日)</title>
-        <lead>○報道によれば、3月16日(現地時間)、イスラム革命防衛隊は米国関連企業への数時間以内の攻撃を示唆しました。
-地域内の全ての米国関連企業を撤退させるよう警告し、米国が株主となっている工場の周辺地域住民に対して避難するよう呼びかけています。
-( https://t.me/Tasnimnews/397476 )
-
-○不測の事態に備え、不要不急の外出を控えるとともに複数の情報源から最新情報を確認し、ご自身の安全確保に努めてください。情報の入手に当たっては、信頼のおける報道等の情報源に当たるよう心がけてください。
-
-○爆発音が聞こえた場合には、
-屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
-屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
-といった行動の徹底をお願いします。
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163693</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163693A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163693.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163693L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
     </mail>
 </opendata>
