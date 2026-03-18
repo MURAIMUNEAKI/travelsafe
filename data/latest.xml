@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/18 16:05:48" mailCount="49" odType="02">
+<opendata dataType="L" lastModified="2026/03/18 16:25:49" mailCount="50" odType="02">
+    <mail>
+        <keyCd>163735</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 16:15:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>ダンマン空港におけるガルフエアの運航状況（追加）（３月１８日　１０：００現在）</title>
+        <lead>【ダンマン空港におけるガルフエアの運航状況】
+○ バーレーン国際空港における離発着は未だ再開されていませんが、ガルフエアよりキング・ファハド空港（サウジアラビア東部州、ダンマン）から下記の各空港へ向かうフライトを運航すると発表がありました。（末尾３空港が新規追加）
+ロンドン（英国）、ムンバイ（インド）、バンコク（タイ）、フランクフルト（ドイツ）、ナイロビ（ケニア）、カイロ（エジプト）、カサブランカ（モロッコ）、チェンナイ（インド）
+
+　なお、ガルフエアは同フライトの予約が確定された乗客に対し、バーレーンから同空港までの交通手段の準備に加え、サウジアラビアへの通過ビザの取得を支援する旨発表しております。
+○ 詳細につきましては、ガルフエア公式サイトをご確認ください。
+　ガルフエア公式サイト：https://www.gulfair.com/en/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163735</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163735A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163735.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163735L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163734</keyCd>
         <infoType>R10</infoType>
