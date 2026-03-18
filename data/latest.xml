@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/18 12:10:49" mailCount="48" odType="02">
+<opendata dataType="L" lastModified="2026/03/18 12:55:49" mailCount="49" odType="02">
+    <mail>
+        <keyCd>163732</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 12:40:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0060</cd>
+        </country>
+        <title>休館日のお知らせ（３月２０日）</title>
+        <lead>１　当地祝日の変更に伴い、３月２０日（金）は休館となりますのでお知らせします。
+２　令和８（2026）年の休館日は、当事務所ホームページをご確認ください。
+　https://www.kotakinabalu.my.emb-japan.go.jp/itpr_ja/annai_j.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163732</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163732A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163732.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163732L.xml</xmlLightUrl>
+        <koukanCd>609W</koukanCd>
+    </mail>
     <mail>
         <keyCd>163731</keyCd>
         <infoType>R10</infoType>
