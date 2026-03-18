@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/18 14:35:48" mailCount="47" odType="02">
+<opendata dataType="L" lastModified="2026/03/18 15:05:49" mailCount="48" odType="02">
+    <mail>
+        <keyCd>163733</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 14:45:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月１８日 ９時３０分）</title>
+        <lead>○現在、ドバイ国際空港（DXB）におけるフライトの発着は一部制限されており、本日は午前３時１０分に成田行きの便が出発しましたが、羽田行きの便は欠航となっています。今後の運航につきましては、空港・航空会社のホームページ等をご確認ください。 
+https://dubaiairports.ae/　（ドバイ国際空港HP）   
+https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163733</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163733A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163733.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163733L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163732</keyCd>
         <infoType>R10</infoType>
