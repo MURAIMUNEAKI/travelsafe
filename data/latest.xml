@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/18 19:30:49" mailCount="50" odType="02">
+<opendata dataType="L" lastModified="2026/03/18 19:55:49" mailCount="51" odType="02">
+    <mail>
+        <keyCd>163741</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 19:50:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0961</cd>
+        </country>
+        <title>イスラエル国防軍によるベイルート県内を含むレバノン国内複数地域への攻撃及び商用便での出国検討のお願い</title>
+        <lead>●３月１８日未明から朝にかけて、ベイルート県Zokak El-Blat、Bachoura等において、イスラエル国防軍による特定の関連施設を標的としたとみられる攻撃が複数回発生しております。今後、レバノン全土の情勢がさらに悪化する可能性は排除できません。
+●レバノン全土の危険レベルは「レベル４：退避勧告」となっています。どのような目的であれ、レバノンへの渡航は止めてください。既に滞在中の方は、自らの安全確保に努めつつ、安全に出国可能と判断される場合は、商用便が運航している間に、速やかに国外に退避してください。
+●最新の安全情報や攻撃に関する警告等の情報収集に努めてください。退避の呼びかけ等が発出された場合には、速やかに安全な場所へ退避してください。また、爆発音等が確認された場合には現場には近づかず、安全確保を最優先に行動してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163741</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163741A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163741.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163741L.xml</xmlLightUrl>
+        <koukanCd>707A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163740</keyCd>
         <infoType>R10</infoType>
