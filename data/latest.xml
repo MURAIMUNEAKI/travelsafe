@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/18 17:25:49" mailCount="48" odType="02">
+<opendata dataType="L" lastModified="2026/03/18 18:00:53" mailCount="49" odType="02">
+    <mail>
+        <keyCd>163737</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/18 18:00:48</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>【注意喚起】オートバイによるひったくり事案の増加</title>
+        <lead>●ジャカルタのタムリン通りやスディルマン通り等においてオートバイによる携帯電話のひったくり事案が多発しています。
+●在留邦人の皆様におかれましては、防犯意識を一層高め、被害防止に努めてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163737</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163737A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163737.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163737L.xml</xmlLightUrl>
+        <koukanCd>607A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163735</keyCd>
         <infoType>R10</infoType>
