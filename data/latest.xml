@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 08:45:49" mailCount="40" odType="02">
+<opendata dataType="L" lastModified="2026/03/19 09:40:49" mailCount="40" odType="02">
+    <mail>
+        <keyCd>163760</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/19 09:30:42</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0061</cd>
+        </country>
+        <title>【安全情報】QLD州極北部へのトロピカルサイクロンの接近</title>
+        <lead>●QLD州極北部沖にサイクロンが発生、勢力を強めながら明２０日の上陸が予想されており、近隣のエリア（ Lockhart RiverからCape Tribulation ）に警報が発出されています。
+●人命や建物に被害が及ぶ可能性がありますので、同エリア周辺にお住まいの方、もしくは渡航予定の方は、気象局が発表する情報を随時確認し、身の安全を守るよう十分に注意して下さい。
+（気象局HP）
+https://www.bom.gov.au/warning/tropical-cyclone-forecast-track-map/IDQ65002</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163760</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163760A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163760.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163760L.xml</xmlLightUrl>
+        <koukanCd>614V</koukanCd>
+    </mail>
     <mail>
         <keyCd>163754</keyCd>
         <infoType>R10</infoType>
@@ -1061,23 +1082,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163702.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163702L.xml</xmlLightUrl>
         <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163701</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/17 08:50:39</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0680</cd>
-        </country>
-        <title>脱走犯への注意</title>
-        <lead>脱走犯に関する緊急通報がありました。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163701</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163701A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163701.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163701L.xml</xmlLightUrl>
-        <koukanCd>628A</koukanCd>
     </mail>
 </opendata>
