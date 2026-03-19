@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 23:00:48" mailCount="42" odType="02">
+<opendata dataType="L" lastModified="2026/03/19 23:25:50" mailCount="41" odType="02">
     <mail>
         <keyCd>163780</keyCd>
         <infoType>R10</infoType>
@@ -1115,25 +1115,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <infectionLevel2>0</infectionLevel2>
         <infectionLevel1>0</infectionLevel1>
         <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T036_1_Detail.html</mapImageUrl>
-    </mail>
-    <mail>
-        <keyCd>163716</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/17 23:25:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【交通情報】近距離公共交通機関のおけるストライキ実施（３月１９日）</title>
-        <lead>　統一サービス産業労働組合（Verdi）は、ドイツの複数の州での近距離交通機関におけるストライキ実施を呼びかけました。ストライキの実施が決定しているのは、ハンブルク州、バイエルン州、ノルトライン＝ヴェストファーレン州ですが、今後実施される州が増える可能性もありますので、最新の情報をご確認ください。
-　ハンブルク州では、３月１９日（木）午前３時から３月２０日（金）午前３時までハンブルク・ホフバーン（Hochbahn）が運営するＵバーンとバスは運休となる見込みです。
-　ハンブルク・ホルシュタイン交通（VHH）が運営するバス、ドイツ鉄道が運行するSバーン、地域鉄道、長距離列車については、ストライキの影響は受けません。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163716</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163716A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163716.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163716L.xml</xmlLightUrl>
-        <koukanCd>506E</koukanCd>
     </mail>
 </opendata>
