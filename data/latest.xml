@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 12:05:49" mailCount="40" odType="02">
+<opendata dataType="L" lastModified="2026/03/19 13:05:50" mailCount="39" odType="02">
     <mail>
         <keyCd>163760</keyCd>
         <infoType>R10</infoType>
@@ -1053,34 +1053,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163704.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163704L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163702</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/17 13:05:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>米国関連企業への脅威情報（３月１７日午前８時）</title>
-        <lead>1. 3月16日(現地時間)、イランのイスラム革命防衛隊（IRGC）は関連するテレグラムにおいて、すべての米国関連企業の撤退を警告するとともに、数時間以内の攻撃を示唆し、米国が株主となっている工場の労働者及び周辺住民に避難を呼びかけました。
-タスニーム通信（ペルシャ語）：https://t.me/Tasnimnews/397476
- 
-2. 当該報道内容を踏まえ、当面の間、関連する可能性のある施設及び建物等への、不要不急の立ち寄りは避けるようにしてください。
- 
-3. ドローンやミサイル攻撃等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、ご自身の身を守る行動を最優先に以下の対応を心がけてください。
-屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
-屋内にいる場合：　窓から離れる、窓のない部屋に移動する
- 
-4. また、UAE当局は、軍事・治安関連の画像・動画の公開や未確認情報のSNS等での拡散した場合には身柄拘束すると警告していますので、そうした行為には厳に控えてください。
- 
-5. 引き続き邦人の皆様におかれましては、不測の事態に備え、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163702</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163702A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163702.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163702L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
     </mail>
 </opendata>
