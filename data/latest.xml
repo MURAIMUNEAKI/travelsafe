@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 21:30:49" mailCount="40" odType="02">
+<opendata dataType="L" lastModified="2026/03/19 21:55:49" mailCount="41" odType="02">
+    <mail>
+        <keyCd>163778</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/19 21:35:42</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>中東情勢に対する抗議集会</title>
+        <lead>・19日14時現在、アテネのシンタグマ広場（Syntagma Sq.）で、学生団体等による中東情勢に対する抗議集会が行われています。
+・周囲の状況に注意を払い、抗議集会に遭遇した場合は速やかにその場を離れ、不測の事態に巻き込まれないよう十分注意してください。
+・インターネット上の情報によると、明日以降も中東情勢に対する抗議集会を含む複数のデモ・集会が予定されています。各地で突発的に発生する可能性もあります。報道等から最新情報を入手し、身の安全確保に努めてください。
+
+（主なデモ・集会予定）
+3月20日（金）正午から：シンタグマ広場
+3月20日（金）午後6時半から：ピレウス港近くにある、ピレウス海運・島嶼（とうしょ）政策省前(Ministry of Maritime Affairs &amp; Insular Policy) 
+3月21日（土）正午から：シンタグマ広場</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163778</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163778A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163778.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163778L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163777</keyCd>
         <infoType>R10</infoType>
