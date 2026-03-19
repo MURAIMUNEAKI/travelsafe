@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 18:55:49" mailCount="41" odType="02">
+<opendata dataType="L" lastModified="2026/03/19 19:30:50" mailCount="42" odType="02">
+    <mail>
+        <keyCd>163773</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/19 19:00:45</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月19日(木)12:00時点）</title>
+        <lead>3月19日(木)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
+拡大傾向にあった限定運用ですが、今後縮小（搭乗客数の制限強化）される見込みです。
+
+イラン、ヒズボッラーからのミサイル等による攻撃が継続しています。 
+在留邦人・渡航者の方で、負傷等の被害に遭われた方や被害の情報に接した方がいらっしゃいましたら、下記の当館連絡先までご連絡をお願いします。
+
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼
+
+■■ベン・グリオン空港運航状況
+
+●公式ウェブページ（出発便情報）
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
+
+●3月19日(木)出発便フライト予定（総計39便）
+（参考：2月28日以前の木曜日のフライト数は約190便）
+AIR HAIFA--3--
+  ATHENS 1
+  LARNACA 2
+ARKIA ISRAELI AIRLINES--8--
+  ATHENS 3
+  LARNACA 1
+  ROME 1
+  BARCELONA 1
+  ATHENS via NEW YORK 1
+  BATUMI 1
+EL AL ISRAEL AIRLINES--20--
+  BANGKOK 3
+  LARNACA 1
+  LONDON 1
+  MIAMI 1
+  MILAN 1
+  NEWARK 2
+  PARIS 3
+  WARSAW 1
+  GENEVA 2 
+  BUDAPEST 1
+  NEW YORK 1
+  ZURICH 1
+  PHUKET 1
+  BUCHAREST 1
+ISRAIR AIRLINES--8--
+  ATHENS 2
+  LARNACA 2
+  ROME 2
+  LONDON LUTON 1
+  TBILISI 1</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163773</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163773A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163773.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163773L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163772</keyCd>
         <infoType>R10</infoType>
