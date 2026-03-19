@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/20 04:50:49" mailCount="46" odType="02">
+<opendata dataType="L" lastModified="2026/03/20 05:30:48" mailCount="48" odType="02">
+    <mail>
+        <keyCd>163796</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 05:05:42</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>【お知らせ】戸籍情報連携関連システム及びオンライン在留届（ＯＲＲネット）のメンテナンスについて</title>
+        <lead>●法務省の戸籍情報連携関連システムの定期メンテナンス等のため、３月２０日(金)５：００～３月２２日(日)１１：００の間、パスポートのオンライン申請が御利用いただけませんので御注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163796</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163796A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163796.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163796L.xml</xmlLightUrl>
+        <koukanCd>402A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163795</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 04:55:42</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0212</cd>
+        </country>
+        <title>ラマダン終了及びモロッコの標準時変更</title>
+        <lead>●モロッコでは、３月１９日（木）をもってラマダンが終了することが発表されました。
+●また、３月２０日（金）及び２３日（月）がモロッコの祝日となることが発表されました。
+●モロッコの標準時及び当館の開館（事務受付）時間等が変更となるとともに、３月２０日（金）及び２３日（月）に当館は休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163795</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163795A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163795.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163795L.xml</xmlLightUrl>
+        <koukanCd>714A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163794</keyCd>
         <infoType>R10</infoType>
