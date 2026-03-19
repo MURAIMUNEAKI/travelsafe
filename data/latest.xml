@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 17:30:49" mailCount="41" odType="02">
+<opendata dataType="L" lastModified="2026/03/19 17:50:52" mailCount="41" odType="02">
+    <mail>
+        <keyCd>163770</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/19 17:50:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>ギリシャにおける口蹄疫の発生</title>
+        <lead>・ギリシャ（レスボス島の牛舎）で、家畜の病気である口蹄疫の発生が確認されました。
+・口蹄疫は、偶蹄類の動物が感染する病気であり、人に感染することはありません。
+・北エーゲ海行政自治体によると、現時点では、乳製品等のレスボス島からの持ち出しが禁止されていますので、注意してください。
+・日本の農林水産省は、口蹄疫やアフリカ豚熱などの家畜の伝染病が日本に侵入することを防ぐため、水際対策を強化しています。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163770</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163770A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163770.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163770L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163769</keyCd>
         <infoType>R10</infoType>
@@ -1082,28 +1103,5 @@ https://forms.office.com/r/vMiyNkHkNP?origin=lprLink</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163710.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163710L.xml</xmlLightUrl>
         <koukanCd>506A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163709</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/17 17:45:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>【重要】アブダビ首長国に滞在されている邦人の皆様へのアンケートご協力依頼</title>
-        <lead>アブダビ首長国滞在中の邦人の皆様
-在アラブ首長国連邦日本国大使館の領事班です。
-これまで日本政府として邦人の皆様に対してチャーター機等による出国支援を実施してきたところですが、引き続きUAEのアブダビ首長国に滞在されている方々がいらっしゃると承知しております。
-今後のイランを巡る中東情勢如何によっては、邦人の皆様に被害が及ぶ可能性もございます。その場合、当館といたしましては、邦人の皆様の安全確保の観点から様々なサポート（UAE当局や病院等との連携等）を実施させていただきます。
- 
-つきましては、以下のリンク先から質問についてご回答くださるようお願いいたします。本アンケートは、万が一の事態も想定して、緊急事態発生時における邦人の皆様への対応につき、その準備のために実施するものです。特に、連絡電話番号及び滞在・居住先のホテル名又はビルディング名（部屋番号・番地は不要です。）の記載にご協力頂けますと幸いです。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163709</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163709A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163709.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163709L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
     </mail>
 </opendata>
