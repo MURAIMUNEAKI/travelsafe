@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 14:35:49" mailCount="39" odType="02">
+<opendata dataType="L" lastModified="2026/03/19 14:55:49" mailCount="40" odType="02">
+    <mail>
+        <keyCd>163763</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/19 14:45:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0977</cd>
+        </country>
+        <title>デモに対する注意喚起</title>
+        <lead>ネパール在留邦人及び旅行者の皆様へ
+
+　人権・平和協会は本日、２０２６年３月１９日にカトマンズ盆地でデモを組織し、平和への連帯を表明し、米国、イスラエル、イランが関与する継続中の紛争に対応した停戦を呼びかけています。
+
+デモンストレーションのスケジュールと開催地：
+
+１．アメリカ大使館
+時　刻：午前１１時－午前１１時３０分
+所在地：マハラジガンジ
+
+２．イスラエル大使館
+時　刻：午前１１時１５分－午後１２時４５分
+所在地：ラジンパット
+
+３．イラン領事館
+時　刻：午後１時４５分
+所在地：ダルバール・マルグ、ホテル・ヤク＆イェティの近く</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163763</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163763A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163763.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163763L.xml</xmlLightUrl>
+        <koukanCd>617A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163760</keyCd>
         <infoType>R10</infoType>
