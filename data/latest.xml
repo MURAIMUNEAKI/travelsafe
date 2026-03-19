@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/20 01:20:49" mailCount="46" odType="02">
+<opendata dataType="L" lastModified="2026/03/20 02:05:49" mailCount="46" odType="02">
+    <mail>
+        <keyCd>163792</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 01:55:54</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0229</cd>
+        </country>
+        <title>国軍による軍事演習及び大統領選挙に係る注意事項</title>
+        <lead>●ベナン当局の発表によれば、昨日３月１８日（水）から３０日（月）までの間、当国内５都市（コトヌ、アラダ、ウィダ、グランポポ、ポルトノボ）において、軍事演習が実施されます。期間中は、上記都市に国軍兵が配置され、一部の道路は通行止めとなります。同訓練では空砲が使用される予定であることから、上記都市では、爆発音を耳にする可能性がありますので、ご注意下さい。また、ヘリコプターによる飛行訓練も予定されています。
+●また、下記の通り、３月２７日（金）から、大統領選挙の選挙期間となります。当国では、昨年１２月に、クーデタ未遂事案が発生しているほか、過去の選挙時には、破壊行為や治安部隊との衝突等が報告されており、今回の選挙でも、同種事案が発生する恐れがあります。
+●当地在留中又は渡航予定のある邦人の皆様におかれましては、不測の事態が発生する可能性もあることを念頭に置きつつ、安全第一で行動して頂くようお願い致します。また、危険な事態に遭遇した場合には、安全を確保した上で、下記当館連絡先までご連絡下さい。
+●緊急事態となった場合には、外出することが困難になる可能性がありますので、ご家族が最低１週間程度生活するために必要な食料、飲料水等の備蓄品を用意するとともに、自家用車のガソリンを常に満タンにするなどして、緊急時への備えを行って下さい。
+
+【大統領選挙日程】
+選挙運動期間：３月２７日（金）から４月１０日（金）までの間
+投    票    日：４月１２日（日）
+暫定結果公表：４月１４日（火）（注：変更される可能性有）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163792</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163792A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163792.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163792L.xml</xmlLightUrl>
+        <koukanCd>765A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163791</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 01:55:54</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】近距離公共交通機関におけるストライキ実施（３月２１日）</title>
+        <lead>　統一サービス産業労働組合（Verdi）は、本日３月１９日（木）に続き、２１日（土）についても、ハンブルク州の近距離交通機関におけるストライキ実施を呼びかけました。
+　このため、３月２１日（土）午前３時から３月２２日（日）午前３時まで、ハンブルク・ホフバーン（Hochbahn）が運行するＵバーンとバス、また、ハンブルク・ホルシュタイン交通（VHH）が運行するバスは、運休（または間引き運転）となる見込みです。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163791</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163791A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163791.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163791L.xml</xmlLightUrl>
+        <koukanCd>506E</koukanCd>
+    </mail>
     <mail>
         <keyCd>163789</keyCd>
         <infoType>R10</infoType>
@@ -1188,63 +1233,6 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163721A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163721.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163721L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163720</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/18 01:30:42</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0034</cd>
-        </country>
-        <title>暴風雨に対する警戒警報の発令</title>
-        <lead>●カナリア州政府は、3月18日午後3時から、カナリア諸島全域に暴風雨「Therese」に対する警戒警報を発令すると発表しました。
-●報道及び関係機関から最新の情報を収集して災害に備えてください。
-●カナリア州政府ＨＰ
-https://www3.gobiernodecanarias.org/noticias/el-gobierno-declara-la-situacion-de-alerta-por-fenomenos-costeros-en-canarias-2/</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163720</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163720A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163720.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163720L.xml</xmlLightUrl>
-        <koukanCd>514V</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163719</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/18 01:25:39</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>【大使館からのお知らせ】大使館代表電話の不通について</title>
-        <lead>　現在、当館代表電話は一時的に不通となっておりますので、緊急の方は、以下の要領でお電話ください。
-
-【16:30～8：00閉館時】
-○サウジアラビア国内トールフリー　800 850 0786（閉館時のみ、オペレーターが２４時間対応可）
-○国外から架電　+1-818-755-4282（別途通話料金発生、閉館時のみ、オペレーターが２４時間対応可）
-
-【8：00～16：30開館時】
-+966(0)50 447 3932
-
-
-　このメールは、在留届にて届けられたメールアドレス及び「たびレジ」に登録されたメールアドレスに自動的に配信されております。
-
-（問い合わせ先） 
-在サウジアラビア日本国大使館領事班 
-FAX：011-488-0189 
-E-mail：consular-sec@rd.mofa.go.jp 
-ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html
-　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。
-https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163719</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163719A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163719.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163719L.xml</xmlLightUrl>
         <koukanCd>708A</koukanCd>
     </mail>
 </opendata>
