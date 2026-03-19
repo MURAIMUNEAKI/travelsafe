@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 23:55:50" mailCount="44" odType="02">
+<opendata dataType="L" lastModified="2026/03/20 00:30:50" mailCount="45" odType="02">
+    <mail>
+        <keyCd>163788</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 00:30:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0962</cd>
+        </country>
+        <title>【参考】アンマン・クィーン・アーリア国際空港における各航空会社の運航状況</title>
+        <lead>【ポイント】
+●　現在、クィーン・アーリア国際空港からはロイヤルヨルダン航空を中心に商用便が運行しております。しかしながら、今後の中東情勢の変化によっては、前触れ無く空域が封鎖される可能性もあります。
+●　今後の航空会社の運行状況については、情勢によって大きく変わることが予想され、減便・欠航の可能性があることに注意願います。出国を予定されている方にありましては、各航空会社のHPなどを参考に、状況に応じた空路をご選択の上、最新のフライトスケジュールを適宜ご確認いただき、早期の出国を検討してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163788</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163788A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163788.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163788L.xml</xmlLightUrl>
+        <koukanCd>757A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163787</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 00:20:42</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>【注意喚起】3月22日（日）地方選挙（正副知事・市長等）の実施に伴う各種制限・禁止措置について</title>
+        <lead>● 3月22日（日）、ボリビア地方選挙（県知事、県議会議員、市長、市議会議員等）が実施されます。
+● 投票に伴い、選挙当日の車両通行禁止（テレフェリコ・国内線航空便の運休含む）や、アルコール販売・消費禁止などの厳しい制限措置がとられます。
+● 選挙期間中は、不測の事態に備え、政府機関、各県選挙裁判所、開票所等の付近や大勢の人が集まる場所には近づかないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163787</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163787A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163787.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163787L.xml</xmlLightUrl>
+        <koukanCd>402A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163786</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 00:15:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0962</cd>
+        </country>
+        <title>イランへの攻撃に伴う注意喚起・その１０</title>
+        <lead>【ポイント】
+●２月２８日のイスラエル及び米国によるイランに対する攻撃を受けて、イスラエル以外にも、ヨルダンを含めＵＡＥ、バーレーン、カタール等米軍基地が所在する国々に対するイランからの攻撃が、連日確認されています。湾岸諸国では、エネルギー・インフラや空港等の民間施設も攻撃されており、１８日もカタールのラスラファン工業都市が攻撃される被害を受けています。ヨルダンでも、今後、事態が急速に悪化する可能性も排除されません。
+●今後、ヨルダン発着の航空便が停止する可能性も念頭に、ヨルダンからの出国を希望されている方は、航空便が運航している間に、早期の出国を検討してください。
+　当地旅行会社の情報によりますと、現時点では、アンマン・クィーン・アーリア国際空港からはロイヤルヨルダン航空を中心に商用便が運行していますが、今後の状況次第では減便・欠航の可能性があることに注意願います。
+●引き続き、不要不急の外出を避け、軍事施設や当地米国大使館等攻撃の標的となり得る施設には近づかないようにしてください。また、報道によると、イランの合同軍事司令部は、中東地域における米国及びイスラエルに関連する経済拠点・銀行を標的にする旨を発表しており、当面の間、関連する可能性のある施設への、不要不急の立ち寄りは避けるなどの配慮をお願いいたします。
+●３月１０日、米軍が駐留する基地が所在し、攻撃被害が発生するリスクが高いヨルダン東部のザルカ県及びマフラク県の危険レベルが、レベル３（渡航は止めてください（渡航中止勧告））に引き上げられました。邦人の皆様は渡航しないようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163786</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163786A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163786.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163786L.xml</xmlLightUrl>
+        <koukanCd>757A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163785</keyCd>
         <infoType>R10</infoType>
@@ -1148,53 +1211,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163719.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163719L.xml</xmlLightUrl>
         <koukanCd>708A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163717</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/18 00:15:42</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0506</cd>
-        </country>
-        <title>安全情報【2月分】</title>
-        <lead>【安全情報2月分】当地報道より、殺人、強盗事件や自然災害など、2月に報じられた皆様の安全に関わる情報の概要をお知らせしています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163717</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163717A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163717.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163717L.xml</xmlLightUrl>
-        <koukanCd>417A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>2026T036</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢 テロ 戦争</contentInfo>
-        <leaveDate>2026/03/18 00:00:00</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0964</cd>
-        </country>
-        <title>イラクの危険情報【危険レベル３地域のレベル４への引上げ】</title>
-        <lead>●バグダッド、エルビルやバスラなどの主要都市を含めた国内全域において、米国権益等への攻撃とともに、親イラン武装勢力への攻撃が発生しています。石油関連施設への攻撃も発生しています。
-●中東における今後の状況によっては、更にイラク国内の情勢が悪化する恐れがあることから、これまで危険レベル３（渡航中止勧告）であった全ての地域を危険レベル４（退避勧告）に引き上げます。
-●イラクへの渡航は、どのような目的であれ止めてください。既に滞在されている方は直ちに退避してください。
-●お困りの方は、在イラク日本国大使館、在エルビル領事事務所又は外務省領事局にご連絡ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T036.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T036A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T036.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T036L.xml</xmlLightUrl>
-        <riskLevel4>1</riskLevel4>
-        <riskLevel3>0</riskLevel3>
-        <riskLevel2>0</riskLevel2>
-        <riskLevel1>0</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T036_1_Detail.html</mapImageUrl>
     </mail>
 </opendata>
