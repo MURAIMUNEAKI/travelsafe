@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/19 17:50:52" mailCount="41" odType="02">
+<opendata dataType="L" lastModified="2026/03/19 18:25:49" mailCount="42" odType="02">
+    <mail>
+        <keyCd>163772</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/19 18:15:42</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>9007</cd>
+        </country>
+        <title>ラマダン明け祭（イード・アル＝フィトル）礼拝に伴う注意喚起</title>
+        <lead>●３月２０日（金）午前７時頃から、ラマダン明け祭（イード・アル＝フィトル）礼拝が予定されています。
+●モスクワ市内及び州内のモスク周辺では、多くの参拝者により大規模な混雑が見込まれます。
+●３月１９日（木）深夜から２０日（金）午前にかけて、交通規制が実施される予定です。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163772</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163772A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163772.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163772L.xml</xmlLightUrl>
+        <koukanCd>517A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163771</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/19 18:00:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>イラン関連情報第７報：ヤンブーへの弾道ミサイルの迎撃及びドローン攻撃について（サウジ国防省発表）</title>
+        <lead>１ ３月1９日、国防省報道官は、ヤンブー港を目標とした可能性のある弾道ミサイルを迎撃した旨発表しました。
+　　https://x.com/modgovksa/status/2034545798956851477
+
+　 また、ヤンブーの石油関連施設を目標とした可能性のあるドローンが墜落し、被害状況を確認中である旨発表しました。
+　　https://x.com/modgovksa/status/2034546154902352232</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163771</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163771A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163771.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163771L.xml</xmlLightUrl>
+        <koukanCd>708D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163770</keyCd>
         <infoType>R10</infoType>
@@ -1083,25 +1125,5 @@ https://forms.office.com/r/vMiyNkHkNP?origin=lprLink</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163711.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163711L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163710</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/17 18:20:42</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【交通情報】ベルリン・ブランデンブルク空港（ＢＥＲ）での警告ストライキ実施に伴う航空便への影響（３月１８日（水））</title>
-        <lead>○統一サービス産業労働組合（Verdi）は、ベルリン・ブランデンブルク空港（ＢＥＲ）スタッフに対し、３月１８日（水）に警告ストライキを呼びかけており、これが実施されれば、航空便の欠航又は遅延の発生が予想され、大きな影響が出る模様です。
-◯出張やご旅行等を計画されている方は、事前にフライト情報を確認するとともに、時間に余裕をもって行動するようにしてください。
-◯最新のフライト情報は、航空会社ホームページ、報道等からご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163710</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163710A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163710.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163710L.xml</xmlLightUrl>
-        <koukanCd>506A</koukanCd>
     </mail>
 </opendata>
