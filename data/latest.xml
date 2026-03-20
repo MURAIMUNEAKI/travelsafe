@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/21 07:25:49" mailCount="39" odType="02">
+<opendata dataType="L" lastModified="2026/03/21 07:45:49" mailCount="40" odType="02">
+    <mail>
+        <keyCd>163813</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/21 07:35:46</leaveDate>
+        <title>領事窓口臨時閉鎖のお知らせ（３月２０日午後）</title>
+        <lead>●本日（２０日、金）ハワイ州知事は州全域に豪雨と洪水が発生しているため、州政府機関を閉鎖することを発表しました。
+●これを受けて、当館は本日（２０日、金）午後、領事窓口を臨時閉鎖いたします。緊急のご用件の場合は、当館代表電話番号までご連絡ください（事件・事故の第一報は「９１１」へおかけください）。
+●オアフ島北部のワヒアワ貯水池（レイク・ウィルソン）の水位は上昇中で決壊の恐れもあるため、ホノルル市・郡緊急事態管理局は、ハレイワ及びワイアルア域住民に対し避難指示を発出する等厳しい気象状況が続いています。また、オアフ島内における複数箇所において道路閉鎖の措置が取られています。
+●米国立気象局の予報によると、週末にかけて大雨、洪水、雷雨等が発生する恐れがあるとされています。在留邦人および旅行者の皆様におかれましては、当局からの情報や最新の気象情報等をこまめに確認し、大雨や強風時の外出を控え、低地や河川周辺への立ち入りを避ける等十分な安全対策を講じてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163813</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163813A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163813.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163813L.xml</xmlLightUrl>
+        <koukanCd>301E</koukanCd>
+    </mail>
     <mail>
         <keyCd>163812</keyCd>
         <infoType>R10</infoType>
