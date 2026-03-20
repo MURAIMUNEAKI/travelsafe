@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/20 10:15:49" mailCount="47" odType="02">
+<opendata dataType="L" lastModified="2026/03/20 10:55:49" mailCount="48" odType="02">
+    <mail>
+        <keyCd>163800</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 10:30:47</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0060</cd>
+        </country>
+        <title>詐欺被害抑止に向けたウェブページの新設 （在マレーシア日本国大使館ホームページ：「私は騙されない＠マレーシア」）</title>
+        <lead>● 当館ではこれまで、在留邦人や当地への邦人旅行客に対して、詐欺被害に遭わないよう注意喚起メールを発出してきましたが、昨今、在留邦人や邦人旅行客の方からの詐欺被害に関する相談や報告が増加傾向にあります。
+　また、「海外で高額収入」、「儲かる仕事」といった、いわゆる闇バイトの謳い文句に誘われ、「海外旅行に出かけて小遣い稼ぎができる」といった安易な気持ちでマレーシアに渡航した結果、意図せずに詐欺犯罪の加害者となり、マレーシア国家警察に逮捕された邦人も確認されています。
+
+● 当館では、マレーシアにおける詐欺被害の現状や、当館に多く寄せられる詐欺の手口などを紹介する「私は騙されない＠マレーシア」を当館ホームページに新設しました。
+
+● 在留邦人及び短期滞在者の皆さまにおかれましては、「私は騙されない＠マレーシア」を通じて、当地の犯罪情勢を認識していただき、個人情報の提供や金銭の要求があれば、「詐欺ではないか」と疑うなど、ご自身とご家族が“騙されない”、“犯罪被害に遭わない”ための防犯認識を高く保持していただくよう心がけてください。
+
+※　ホームページリンク先
+　　https://www.my.emb-japan.go.jp/itpr_ja/avoidbeingscammed.html　</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163800</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163800A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163800.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163800L.xml</xmlLightUrl>
+        <koukanCd>609A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163796</keyCd>
         <infoType>R10</infoType>
