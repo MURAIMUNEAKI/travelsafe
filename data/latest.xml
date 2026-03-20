@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/20 21:25:48" mailCount="44" odType="02">
+<opendata dataType="L" lastModified="2026/03/20 22:05:48" mailCount="42" odType="02">
     <mail>
         <keyCd>163809</keyCd>
         <infoType>R10</infoType>
@@ -1175,68 +1175,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163749.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163749L.xml</xmlLightUrl>
         <koukanCd>708D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163748</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/18 21:50:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>クウェート国際空港の状況（3月18日15:00時点）について</title>
-        <lead>○3月18日15:00時点（現地時間）、クウェート国際空港は閉鎖されています。
-邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
-
-○同空港のサイトを以下のとおりお知らせします。
-クウェート国際空港（Kuwait International Airport）
-https://www.kuwaitairport.gov.kw/en/　
-※	クウェート発着便の運行状況について確認できます。
-
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163748</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163748A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163748.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163748L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163746</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/18 21:30:40</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0095</cd>
-        </country>
-        <title>（続報）中東情勢を踏まえた車両使用規制について（3月15日付エネルギー省公告）（在ミャンマー日本国大使館より）</title>
-        <lead>　３月15日付当地国営紙(GLOBAL NEW LIGHT OF MYANMAR)は、エネルギー省による公告を報じ、ガソリンを給油する際にはバーコードが記載された自動車税納税証明書（登録証明書）が必要となり、また偶数車両は偶数日、奇数車両は奇数日に限り、その日1日1回のみ給油できることとなりますのでご留意ください（長距離移動の際の給油規則は、下記の参考を参照ください。）。
- 
-　また、前回の領事メールのとおり、１４日以降、交通規制に基づく本格的な取り締まりを開始したとして、国営テレビでは、全国各地の取り締まりの様子が連日放映されています。例えば、取締チームの交通警察は、今般の車両使用規制の違反者は道路交通法第96条（３万チャット以下の罰金 ）が適用される旨国営テレビのインタビューで答えています。
- 
-　つきましては、ガソリン購入規制、車両使用規制等、頻繁に新しい規制・運用が導入されていますので、今後の発表等につきましては、十分にご注意いただき、当面の間は当局の取り締まり状況を見極めながら、慎重に対応されることをお勧めします。
-
-■問い合わせ先：在ミャンマー日本国大使館領事班
-　電話：９５ー１ー５４９６４４～８
-　メール：ryoji@yn.mofa.go.jp</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163746</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163746A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163746.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163746L.xml</xmlLightUrl>
-        <koukanCd>601A</koukanCd>
     </mail>
 </opendata>
