@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/21 01:45:49" mailCount="39" odType="02">
+<opendata dataType="L" lastModified="2026/03/21 02:30:51" mailCount="38" odType="02">
     <mail>
         <keyCd>163811</keyCd>
         <infoType>R10</infoType>
@@ -1077,40 +1077,5 @@ https://www.bom.gov.au/warning/tropical-cyclone-forecast-track-map/IDQ65002</lea
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163760.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163760L.xml</xmlLightUrl>
         <koukanCd>614V</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163754</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/19 02:00:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>イラン関連情報第17報:リヤド上空における弾道ミサイル飛来に関する注意喚起</title>
-        <lead>１   ３月18日夜、国防省報道官は、リヤドにおける弾道ミサイルの脅威に対応している旨発表しました。
-
- ２   在留邦人の皆様におかれましては、引き続き不測の事態に備え、米国関連施設、軍事関連施設、石油施設等、攻撃の対象となる可能性のある施設には近づかない（写真撮影等も厳禁）ほか、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めて下さい。
-　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。
-
-3    ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、
-屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
-屋内にいる場合：　窓から離れる、窓のない部屋に移動する
-といった、ご自身の身を守る行動を最優先に行うようお願いします。
-
-（問い合わせ先） 
-在サウジアラビア日本国大使館領事班 
-TEL：011-488-1100 
-FAX：011-488-0189 
-E-mail：consular-sec@rd.mofa.go.jp 
-ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html 
-　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。 
-https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163754</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163754A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163754.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163754L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
     </mail>
 </opendata>
