@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/20 18:20:50" mailCount="47" odType="02">
+<opendata dataType="L" lastModified="2026/03/20 18:45:50" mailCount="47" odType="02">
+    <mail>
+        <keyCd>163807</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 18:45:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>イスラエル情勢の緊迫化に伴う注意喚起、安全対策 3/20</title>
+        <lead>既に発出されていたホームフロントコマンド（https://www.oref.org.il/eng ）の指針に関し、一部地域における変更が発表されました。本指針は３月２２日６時から有効です。概要は以下のとおりです。なお、同時刻まではこれまでの指針が適用されます。
+ 
+（https://www.oref.org.il/eng/articles/info/iron-swords/1100 に掲載されている図表において「黄色」で示されている地域）
+●屋外での５０人まで（建物内での１００人まで）の集会は、シェルターに時間内に到着できる場合に限って許可。
+●職場における活動は、シェルターに時間内に到着できる場合に限って許可。
+●教育活動は、シェルターに時間内に到着できる場合に限って許可。
+ 
+（上記を除く地域（https://www.oref.org.il/eng/articles/info/iron-swords/1100 に掲載されている図表において「濃いオレンジ色」で示されている地域））
+●５０人までの集会は、シェルターに時間内に到着できる場合に限って許可。
+●職場における活動は、シェルターに時間内に到着できる場合に限って許可。
+●教育活動は原則禁止。
+ 
+※上記リンク内の地図に表示される情報は、閲覧時点での指針です。
+ 
+繰り返しのお知らせとなりますが、不測の事態に備え、ロケット弾の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
+ 
+引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）を含む当局の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163807</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163807A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163807.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163807L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163806</keyCd>
         <infoType>R10</infoType>
@@ -1256,27 +1293,5 @@ ISRAIR AIRLINES--7--
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163739.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163739L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163738</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/18 18:30:43</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0049</cd>
-        </country>
-        <title>【交通情報】NRW州各都市近距離公共交通機関におけるストライキの影響（３月１９日（木））</title>
-        <lead>○Ver.di（統一サービス業労働組合）が、警告ストライキを呼びかけています。
-○３月１９日（木）、デュッセルドルフを含むほぼすべてのNRW州地域で近距離公共交通機関（バスや路面電車）が運休される見込みです。
-○Ver.diによると、ストライキに関して、ミュンスターの市営電力会社およびアーヘンのAseag社の公共交通機関は影響を受けないとのことです。
-○S-BahnやRE（地域列車）等はストライキの影響を受けない見込みです。
-○通勤、通学、旅行等に当たっては、事前にご利用予定の公共交通機関の運行情報等をご自身でよくご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163738</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163738A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163738.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163738L.xml</xmlLightUrl>
-        <koukanCd>506F</koukanCd>
     </mail>
 </opendata>
