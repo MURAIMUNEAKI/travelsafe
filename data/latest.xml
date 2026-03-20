@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/20 18:45:50" mailCount="47" odType="02">
+<opendata dataType="L" lastModified="2026/03/20 19:25:49" mailCount="46" odType="02">
+    <mail>
+        <keyCd>163808</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 18:55:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月20日(金)12:00時点）</title>
+        <lead>3月20日(金)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
+
+┌─
+◆イラン、ヒズボッラーからのミサイル等による攻撃が継続しています。 
+◆在留邦人・渡航者の方で、負傷等の被害に遭われた方や被害の情報に
+│接した方がいらっしゃいましたら、下記の当館連絡先までご連絡をお願いします。
+└─
+ 
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼
+ 
+■■ベン・グリオン空港運航状況
+●公式ウェブページ（出発便情報）
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
+ 
+●3月20日(金)出発便フライト予定（総計39便）
+（参考：2月28日以前の金曜日のフライト数は約140便）
+AIR HAIFA--4--
+  ATHENS 1
+  LARNACA 3
+ARKIA ISRAELI AIRLINES--9--
+  ATHENS 3
+  LARNACA 3
+  PARIS 1
+  ROME 1
+  AMSTERDAM 1
+EL AL ISRAEL AIRLINES--17--
+  ATHENS 2
+  LONDON 1
+  MADRID 1
+  MIAMI 1
+  MILAN 1
+  NEWARK 1
+  PARIS 3
+  ROME 1
+  LOS ANGELES 1
+  BARCELONA 1
+  NEW YORK 2
+  BUDAPEST 1
+  TBILISI 1
+ISRAIR AIRLINES--9--
+  ATHENS 3
+  LARNACA 2
+  PRAGUE 1
+  ROME 1
+  SOFIA 1
+  BUDAPEST 1</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163808</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163808A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163808.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163808L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163807</keyCd>
         <infoType>R10</infoType>
@@ -1204,94 +1270,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163741.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163741L.xml</xmlLightUrl>
         <koukanCd>707A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163740</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/18 19:10:41</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0260</cd>
-        </country>
-        <title>【注意喚起】邦人犯罪被害（マンダヒルモール駐車場内における一瞬をついた車上荒らし）情報について</title>
-        <lead>令和８年３月１８日 
-在ザンビア日本国大使館
-
-○３月１７日１３時頃、マンダヒルモール駐車場にて邦人の方が車上荒らしの被害に遭いました。
-○同事案は、多くの在留邦人の方々が利用するショッピングモール内で行われた白昼堂々の犯行でした。
-○邦人の皆様におかれましては、犯罪被害に遭わないよう、自らは犯罪の格好のターゲットとなり得ることを自覚し、引き続き、貴重品管理、周囲への警戒、目立つ行動の回避、車両の常時施錠等の犯罪の被害予防に十分ご留意いただきますよう、よろしくお願いします。
-以下、細部事象、注意喚起等の内容となります。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163740</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163740A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163740.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163740L.xml</xmlLightUrl>
-        <koukanCd>725A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163739</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/18 19:00:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月18日(水)12:00時点）</title>
-        <lead>3月18日(水)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。
-本日については、特段従来の運用が変更されるとするような発表・報道は見られません。
-
-イラン、ヒズボッラーからのミサイル等による攻撃が継続しています。 
-在留邦人・渡航者の方で、負傷等の被害に遭われた方や被害の情報に接した方がいらっしゃいましたら、下記の当館連絡先まで速やかにご連絡をお願いします。
- 
-▲▼▲▼▲▼新着情報▲▼▲▼▲▼
- 
-■■ベン・グリオン空港運航状況
- 
-●公式ウェブページ（出発便情報）
-https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
-●3月18日(水)出発便フライト予定（総計38便）
-（参考：2月28日以前の水曜日のフライト数は約160便）
-AIR HAIFA--2--
-  ATHENS 1
-  LARNACA 1
-ARKIA ISRAELI AIRLINES--8--
-  ATHENS 2
-  LARNACA 2
-  PARIS 1
-  PRAGUE 1
-  ROME 1
-  ATHENS via NEW YORK 1
-EL AL ISRAEL AIRLINES--21--
-  ATHENS 1
-  BANGKOK 4
-  LONDON 1
-  MADRID 3
-  MIAMI 1
-  MILAN 1
-  MUNICH 1
-  NEWARK 3
-  PARIS 1
-  ROME 1
-  SOFIA 1
-  WARSAW 1
-  LOS ANGELES 1
-  BARCELONA 1
-ISRAIR AIRLINES--7--
-  ATHENS 2
-  LARNACA 1
-  MADRID 1
-  ROME 2
-  LONDON LUTON 1</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163739</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163739A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163739.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163739L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
