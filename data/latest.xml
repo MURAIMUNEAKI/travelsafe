@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/20 15:55:49" mailCount="47" odType="02">
+<opendata dataType="L" lastModified="2026/03/20 16:30:50" mailCount="47" odType="02">
+    <mail>
+        <keyCd>163805</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 16:25:40</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0678</cd>
+        </country>
+        <title>【注意喚起】イサンゲル西北西沖における地震発生</title>
+        <lead>●バヌアツ気象局及び米地質調査所（ＵＳＧＳ）によると、イサンゲル（Isangel）の西北西約１００．７キロ付近でマグニチュード６．１の地震が発生しました。
+●津波に関する警報等はだされていませんが、安全が十分確認できるまでは、海岸および河川付近には近づかないでください。
+●インターネット上の報道・ラジオ・その他報道に十分に注意し、最新の情報を収集するよう心がけてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163805</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163805A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163805.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163805L.xml</xmlLightUrl>
+        <koukanCd>640A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163804</keyCd>
         <infoType>R10</infoType>
@@ -1245,29 +1265,5 @@ ISRAIR AIRLINES--7--
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163737.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163737L.xml</xmlLightUrl>
         <koukanCd>607A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163735</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/18 16:15:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>ダンマン空港におけるガルフエアの運航状況（追加）（３月１８日　１０：００現在）</title>
-        <lead>【ダンマン空港におけるガルフエアの運航状況】
-○ バーレーン国際空港における離発着は未だ再開されていませんが、ガルフエアよりキング・ファハド空港（サウジアラビア東部州、ダンマン）から下記の各空港へ向かうフライトを運航すると発表がありました。（末尾３空港が新規追加）
-ロンドン（英国）、ムンバイ（インド）、バンコク（タイ）、フランクフルト（ドイツ）、ナイロビ（ケニア）、カイロ（エジプト）、カサブランカ（モロッコ）、チェンナイ（インド）
-
-　なお、ガルフエアは同フライトの予約が確定された乗客に対し、バーレーンから同空港までの交通手段の準備に加え、サウジアラビアへの通過ビザの取得を支援する旨発表しております。
-○ 詳細につきましては、ガルフエア公式サイトをご確認ください。
-　ガルフエア公式サイト：https://www.gulfair.com/en/</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163735</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163735A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163735.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163735L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
     </mail>
 </opendata>
