@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/20 12:00:49" mailCount="47" odType="02">
+<opendata dataType="L" lastModified="2026/03/20 12:55:49" mailCount="47" odType="02">
+    <mail>
+        <keyCd>163801</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/20 12:45:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0977</cd>
+        </country>
+        <title>自然災害に関する注意喚起</title>
+        <lead>　国家災害リスク管理局は、以下のとおり３月２０日から２１日にかけての気象警報を発令しました。
+
+　大雨・大雪：３月２０日（金）、カルナリ州およびスドゥルパスチム州の丘陵地帯・山岳地帯で予想されます。
+　強風（最大風速１１９ｋｍ／ｈ）：３月２０日（金）にはルンビニ州のタライ地域（ダン、ネパールガンジ）、３月２１日（土）には東部地域（ビラトナガル、ダンクタ、ダラン）で予想されます。
+
+　同局は、倒木、脆弱な建物や屋根の損傷、電力および通信サービスの停止、 最近の暴風により、すでに死傷者が発生しているとして注意を呼びかけています。
+　ネパールに在留されている邦人の皆様におかれましては、天気予報等最新の情報にご注意いただき、特に陸路の利用を予定されている方はご自身の安全確保に努めて下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163801</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163801A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163801.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163801L.xml</xmlLightUrl>
+        <koukanCd>617A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163800</keyCd>
         <infoType>R10</infoType>
@@ -1231,25 +1255,5 @@ https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163733.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163733L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163732</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/18 12:40:42</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0060</cd>
-        </country>
-        <title>休館日のお知らせ（３月２０日）</title>
-        <lead>１　当地祝日の変更に伴い、３月２０日（金）は休館となりますのでお知らせします。
-２　令和８（2026）年の休館日は、当事務所ホームページをご確認ください。
-　https://www.kotakinabalu.my.emb-japan.go.jp/itpr_ja/annai_j.html</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163732</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163732A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163732.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163732L.xml</xmlLightUrl>
-        <koukanCd>609W</koukanCd>
     </mail>
 </opendata>
