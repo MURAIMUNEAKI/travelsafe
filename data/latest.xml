@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/21 17:40:50" mailCount="36" odType="02">
+<opendata dataType="L" lastModified="2026/03/21 18:20:49" mailCount="33" odType="02">
     <mail>
         <keyCd>163816</keyCd>
         <infoType>R10</infoType>
@@ -949,68 +949,5 @@ ISRAIR AIRLINES--8--
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163773.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163773L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163772</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/19 18:15:42</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>9007</cd>
-        </country>
-        <title>ラマダン明け祭（イード・アル＝フィトル）礼拝に伴う注意喚起</title>
-        <lead>●３月２０日（金）午前７時頃から、ラマダン明け祭（イード・アル＝フィトル）礼拝が予定されています。
-●モスクワ市内及び州内のモスク周辺では、多くの参拝者により大規模な混雑が見込まれます。
-●３月１９日（木）深夜から２０日（金）午前にかけて、交通規制が実施される予定です。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163772</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163772A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163772.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163772L.xml</xmlLightUrl>
-        <koukanCd>517A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163771</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/19 18:00:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>イラン関連情報第７報：ヤンブーへの弾道ミサイルの迎撃及びドローン攻撃について（サウジ国防省発表）</title>
-        <lead>１ ３月1９日、国防省報道官は、ヤンブー港を目標とした可能性のある弾道ミサイルを迎撃した旨発表しました。
-　　https://x.com/modgovksa/status/2034545798956851477
-
-　 また、ヤンブーの石油関連施設を目標とした可能性のあるドローンが墜落し、被害状況を確認中である旨発表しました。
-　　https://x.com/modgovksa/status/2034546154902352232</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163771</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163771A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163771.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163771L.xml</xmlLightUrl>
-        <koukanCd>708D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163770</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/19 17:50:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0030</cd>
-        </country>
-        <title>ギリシャにおける口蹄疫の発生</title>
-        <lead>・ギリシャ（レスボス島の牛舎）で、家畜の病気である口蹄疫の発生が確認されました。
-・口蹄疫は、偶蹄類の動物が感染する病気であり、人に感染することはありません。
-・北エーゲ海行政自治体によると、現時点では、乳製品等のレスボス島からの持ち出しが禁止されていますので、注意してください。
-・日本の農林水産省は、口蹄疫やアフリカ豚熱などの家畜の伝染病が日本に侵入することを防ぐため、水際対策を強化しています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163770</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163770A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163770.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163770L.xml</xmlLightUrl>
-        <koukanCd>507A</koukanCd>
     </mail>
 </opendata>
