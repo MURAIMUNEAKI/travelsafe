@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/21 20:40:49" mailCount="35" odType="02">
+<opendata dataType="L" lastModified="2026/03/21 21:25:49" mailCount="36" odType="02">
+    <mail>
+        <keyCd>163820</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/21 21:15:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>ギリシャ全土における24時間鉄道ストライキ（3月23日）</title>
+        <lead>3月23日（月）、ギリシャ鉄道連盟は、24時間ストライキを実施する予定です。ギリシャ全土の国営鉄道の運行に影響が出る見込みですのでご注意ください。
+※国営サバーバン鉄道には、アテネ国際空港行きが含まれます。
+※この情報は現時点で発表・報道されているものとなり、今後変更となる可能性があります。
+
+〇Hellenic Train
+https://www.hellenictrain.gr/en
+ストライキの発表（ギリシャ語）
+https://www.hellenictrain.gr/news/anakoinosi-20032026-akyroseis-kai-tropopoiiseis-dromologion-logo-24oris-apergias</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163820</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163820A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163820.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163820L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163819</keyCd>
         <infoType>R10</infoType>
