@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/21 14:00:49" mailCount="39" odType="02">
+<opendata dataType="L" lastModified="2026/03/21 14:20:49" mailCount="40" odType="02">
+    <mail>
+        <keyCd>163814</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/21 14:05:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月２１日 ９時００分）</title>
+        <lead>○イランの革命防衛隊は、ラアス・ル・ハイマ（Ras Al Khaimah）首長国がイランを攻撃するための作戦に利用されているとして、近い将来に同地域を攻撃対象とする可能性がある旨発表し、同地域居住者に避難を呼びかける警告を発出しました。
+　UAE 国内では、イランによるとみられる攻撃で人的・物的被害が度々報じられています。
+　当館管轄区域に滞在中の邦人の皆様におかれては、引き続き、不要不急の外出はお控えいただくとともに、特に UAE 当局からの攻撃に関する緊急速報（アラート）がスマートフォンに配信された際は、十分注意してください。また、UAE 当局による退避の呼びかけ等が発出された場合には、速やかに安全な場所へ退避してください。
+爆発音が聞こえた場合には、
+屋外にいる場合： 近くの建物や地下へ避難し、物陰に身を隠してください
+屋内にいる場合： 窓から離れ、窓のない部屋に移動してください
+　なお、攻撃に際し、当地当局から指示等があった場合は、必ず従ってください。
+
+◯イランの革命防衛隊は、米国やイスラエル関係企業・金融機関を攻撃の標的とする旨発表したほか、イランメディアは、UAE 国内の３港（Fujairah 港、Jebel Ali 港、Khalifa 港）及び石油関連施設（アブダビに所在する Al Hosn Gas Field ）の周辺地域居住者等に対し「攻撃を受ける可能性がある」として避難を呼び掛ける警告を発出しました。
+　米国・イスラエル関係施設（企業・金融機関含む）、上記３港、石油関連施設及びその周辺地域には近づかないようにしてください。
+
+○現在、ドバイ国際空港（DXB）におけるフライトの発着は一部制限されており、本日は午前２時３７分に成田行きの便が出発しましたが、羽田行きの便は欠航となっています。 
+　今後の運航につきましては、空港・航空会社のホームページ等をご確認ください。
+https://dubaiairports.ae/ （ドバイ国際空港HP）
+https://www.emirates.com/ae/english/ 
+（エミレーツ航空 HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163814</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163814A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163814.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163814L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163813</keyCd>
         <infoType>R10</infoType>
