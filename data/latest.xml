@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/21 16:45:50" mailCount="36" odType="02">
+<opendata dataType="L" lastModified="2026/03/21 17:30:50" mailCount="35" odType="02">
     <mail>
         <keyCd>163815</keyCd>
         <infoType>R10</infoType>
@@ -991,27 +991,5 @@ ISRAIR AIRLINES--8--
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163770.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163770L.xml</xmlLightUrl>
         <koukanCd>507A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163769</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/19 17:20:42</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0061</cd>
-        </country>
-        <title>（注意喚起）サイクロンの発生（北部準州東部沿岸への影響の可能性）</title>
-        <lead>●QLD州極北部沖にサイクロンが発生、勢力を強めながら、２０日（金）の上陸が予想されており、近隣のエリア（Lockhart RiverからCape Tribulation）に警報が発出されています。
-●２１日（土）午後１０時頃にカーペンタリア湾を通過し、NhulunbuyからPort MacArthur にかけての北部準州東部に再上陸する見込みです。
-●人命や建物に被害が及ぶ可能性がありますので、同エリア周辺にお住まいの方、もしくは渡航予定の方は、気象局が発表する情報を随時確認し、身の安全を守るよう十分に注意して下さい。
-（気象局HP）
-https://www.bom.gov.au/warning/tropical-cyclone-forecast-track-map/IDQ65019</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163769</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163769A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163769.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163769L.xml</xmlLightUrl>
-        <koukanCd>614D</koukanCd>
     </mail>
 </opendata>
