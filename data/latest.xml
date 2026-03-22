@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/22 18:25:49" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/03/22 18:50:49" mailCount="16" odType="02">
     <mail>
         <keyCd>163824</keyCd>
         <infoType>R10</infoType>
@@ -509,43 +509,6 @@ ISRAIR AIRLINES--9--
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163808A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163808.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163808L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163807</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/20 18:45:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>イスラエル情勢の緊迫化に伴う注意喚起、安全対策 3/20</title>
-        <lead>既に発出されていたホームフロントコマンド（https://www.oref.org.il/eng ）の指針に関し、一部地域における変更が発表されました。本指針は３月２２日６時から有効です。概要は以下のとおりです。なお、同時刻まではこれまでの指針が適用されます。
- 
-（https://www.oref.org.il/eng/articles/info/iron-swords/1100 に掲載されている図表において「黄色」で示されている地域）
-●屋外での５０人まで（建物内での１００人まで）の集会は、シェルターに時間内に到着できる場合に限って許可。
-●職場における活動は、シェルターに時間内に到着できる場合に限って許可。
-●教育活動は、シェルターに時間内に到着できる場合に限って許可。
- 
-（上記を除く地域（https://www.oref.org.il/eng/articles/info/iron-swords/1100 に掲載されている図表において「濃いオレンジ色」で示されている地域））
-●５０人までの集会は、シェルターに時間内に到着できる場合に限って許可。
-●職場における活動は、シェルターに時間内に到着できる場合に限って許可。
-●教育活動は原則禁止。
- 
-※上記リンク内の地図に表示される情報は、閲覧時点での指針です。
- 
-繰り返しのお知らせとなりますが、不測の事態に備え、ロケット弾の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
- 
-引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）を含む当局の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163807</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163807A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163807.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163807L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
