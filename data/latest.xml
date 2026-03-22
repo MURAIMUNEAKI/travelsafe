@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/22 23:40:50" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/03/23 00:25:49" mailCount="16" odType="02">
+    <mail>
+        <keyCd>163828</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/22 23:50:43</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0254</cd>
+        </country>
+        <country areaCd="60">
+            <cd>0252</cd>
+        </country>
+        <title>ナイロビ市内における洪水の恐れに関する避難命令について</title>
+        <lead>●本日、ケニア政府は、ナイロビダムエステート地区にあるナイロビダムが豪雨によって決壊すれば、周辺地域に洪水が発生する恐れがあるとして、ナイロビ市内６地区の住民に対し、直ちに高台に避難するよう、避難命令を出しました。避難対象となっている地区は以下のとおりです。
+   ・キベラ（Kibura）地区
+   ・ニャヨハイライズ（Nyayo Highrise）地区
+   ・ダムエステート（Dam Estate）地区
+   ・ランガタ（Langata）地区
+   ・ナイロビウエスト（Nairobi West）地区
+   ・マダラカ（Madaraka）地区
+
+●１９日付けの領事メールでお知らせしたとおり、ケニア気象局によれば、大雨は１９日（木）から２４日（火）までの間に発生する可能性が高く、特に河川の下流地域では、大雨が降っていない場所でも洪水、鉄砲水などが発生する恐れがあるとしてます。
+
+●在留邦人および旅行者の皆様におかれましては、当局の指示に従うとともに、最新の気象情報等をこまめに確認し、雨天時は上記地区へ往訪を避ける等十分な安全対策を講じてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163828</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163828A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163828.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163828L.xml</xmlLightUrl>
+        <koukanCd>713A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163827</keyCd>
         <infoType>R10</infoType>
@@ -480,37 +511,5 @@ https://www.emirates.com/ae/english/
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163812.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163812L.xml</xmlLightUrl>
         <koukanCd>301E</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163811</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/21 00:15:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>領事窓口再開のお知らせ（３月２３日（月）以降）</title>
-        <lead>在イスラエル日本国大使館は、３月２３日（月）以降、領事窓口を再開します。
- 
-＜窓口受付時間＞ 月～木：9:30～12:30及び14:00～16:00
-　　　　　　　　 金：9:30～12:30
- 
-今後の情勢の変化により、再度領事窓口を閉鎖する可能性もあります。その際は改めてお知らせします。
- 
-イラン、ヒズボッラーからのミサイル等による攻撃が継続しています。 在留邦人・渡航者の方で、負傷等の被害に遭われた方や被害の情報に接した方がいらっしゃいましたら、下記の当館連絡先までご連絡をお願いします。
- 
-繰り返しのお知らせとなりますが、不測の事態に備え、ロケット弾の飛来を警告するレッドアラート（Red Alert: https://redalert.me/index_en.html （英語））等のアプリケーションをご利用のスマートフォンにインストールするとともに、シェルター等への避難体制をはじめ最新情報を確認しつつ、自らの安全確保に努めてください。
- 
-引き続き、ホームフロントコマンド（https://www.oref.org.il/eng ）を含む当局の発表や報道を随時確認し、最新の情報を入手するよう努め、周囲の状況に十分ご注意ください。事態が悪化した場合に備えて、携行品や備蓄用物資の準備状況を改めてご確認ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163811</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163811A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163811.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163811L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
