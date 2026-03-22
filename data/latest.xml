@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/23 05:50:49" mailCount="17" odType="02">
+<opendata dataType="L" lastModified="2026/03/23 06:25:49" mailCount="16" odType="02">
     <mail>
         <keyCd>163829</keyCd>
         <infoType>R10</infoType>
@@ -518,19 +518,6 @@ https://www.emirates.com/ae/english/
         <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163813A.xml</xmlAllUrl>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163813.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163813L.xml</xmlLightUrl>
-        <koukanCd>301E</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163812</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/21 06:05:47</leaveDate>
-        <title>オアフ島における洪水警報及びハレイワ、ワイアルア地域住民に対する避難指示</title>
-        <lead>●本日（２０日）朝、米国立気象局ホノルル支局は、オアフ島に対し洪水警報を発出しました。特にオアフ島北部のワヒアワ貯水池（レイク・ウィルソン）の水位は上昇中で決壊の恐れもあるため、ホノルル市・郡緊急事態管理局は、ハレイワ及びワイアルア域住民に対し避難指示を発出しました。
-●オアフ島及び周辺の島では週末にかけて雨予報が続いていており、洪水や鉄砲水のリスクが高まるため、在留邦人および旅行者の皆様におかれましては、当局からの情報や最新の気象情報等をこまめに確認し、洪水地域等の危険な場所への入りを避ける等十分な安全対策を講じてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163812</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163812A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163812.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163812L.xml</xmlLightUrl>
         <koukanCd>301E</koukanCd>
     </mail>
 </opendata>
