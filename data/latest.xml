@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/23 20:50:50" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/03/23 21:30:49" mailCount="14" odType="02">
+    <mail>
+        <keyCd>163840</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/23 21:20:59</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0226</cd>
+        </country>
+        <title>ワガドゥグ市内における集会開催に伴う注意喚起</title>
+        <lead>　3月28日（土）、午前８時から、ワガ２０００地区（殉教者ロータリー、大きなタワーのモニュメントがある場所)において、欧州議会によるAES諸国内政への干渉(特にニジェール情勢)に対する抗議集会が開催予定であり、広く参加が呼びかけられています。また、これに伴い、ワガ２０００地区周辺において、交通渋滞や蝟集の発生、道路閉鎖等の交通規制や検問等の実施により、交通への影響が想定されます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163840</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163840A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163840.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163840L.xml</xmlLightUrl>
+        <koukanCd>735A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163839</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/23 21:20:59</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0226</cd>
+        </country>
+        <title>ワガドゥグ市内における集会開催に伴う注意喚起</title>
+        <lead>　3月28日（土）、午前８時から、ワガ２０００地区（殉教者ロータリー、大きなタワーのモニュメントがある場所)において、欧州議会によるAES諸国内政への干渉(特にニジェール情勢)に対する抗議集会が開催予定であり、広く参加が呼びかけられています。また、これに伴い、ワガ２０００地区周辺において、交通渋滞や蝟集の発生、道路閉鎖等の交通規制や検問等の実施により、交通への影響が想定されます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163839</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163839A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163839.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163839L.xml</xmlLightUrl>
+        <koukanCd>735A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163837</keyCd>
         <infoType>R10</infoType>
@@ -454,30 +490,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163821.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163821L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163820</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/21 21:15:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0030</cd>
-        </country>
-        <title>ギリシャ全土における24時間鉄道ストライキ（3月23日）</title>
-        <lead>3月23日（月）、ギリシャ鉄道連盟は、24時間ストライキを実施する予定です。ギリシャ全土の国営鉄道の運行に影響が出る見込みですのでご注意ください。
-※国営サバーバン鉄道には、アテネ国際空港行きが含まれます。
-※この情報は現時点で発表・報道されているものとなり、今後変更となる可能性があります。
-
-〇Hellenic Train
-https://www.hellenictrain.gr/en
-ストライキの発表（ギリシャ語）
-https://www.hellenictrain.gr/news/anakoinosi-20032026-akyroseis-kai-tropopoiiseis-dromologion-logo-24oris-apergias</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163820</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163820A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163820.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163820L.xml</xmlLightUrl>
-        <koukanCd>507A</koukanCd>
     </mail>
 </opendata>
