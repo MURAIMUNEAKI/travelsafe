@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/24 00:30:49" mailCount="15" odType="02">
+<opendata dataType="L" lastModified="2026/03/24 00:55:49" mailCount="16" odType="02">
+    <mail>
+        <keyCd>163844</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/24 00:55:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0030</cd>
+        </country>
+        <title>ギリシャ警察をかたる詐欺メッセージにご注意ください</title>
+        <lead>○ギリシャ警察は、警察をかたる詐欺メッセージ（SMS）への注意を呼びかけています。交通違反の罰金が未払いであるとして、国家歳入独立機関（AADE）の偽サイト（公式サイトに酷似）へ誘導し、個人情報や銀行口座情報などを入力させ、これらの情報や金銭を盗むものです。
+○ギリシャ警察や各種公共機関が、SMSやメッセージアプリを通じて罰金の支払いを要求することはありません。このようなメッセージを受け取った場合は、以下に留意し、詐欺被害に遭わないようくれぐれも注意してください。
+・このようなメッセージには返信しない
+・リンクを開かない（クリックしない）
+・個人情報や銀行口座情報等を入力しない
+・このようなメッセージは無視して、すぐに削除する</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163844</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163844A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163844.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163844L.xml</xmlLightUrl>
+        <koukanCd>507A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163843</keyCd>
         <infoType>R10</infoType>
