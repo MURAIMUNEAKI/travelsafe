@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/24 21:25:50" mailCount="23" odType="02">
+<opendata dataType="L" lastModified="2026/03/24 22:05:51" mailCount="25" odType="02">
+    <mail>
+        <keyCd>163863</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/24 21:40:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0034</cd>
+        </country>
+        <title>豪雨による洪水リスクに対する緊急警報の発令</title>
+        <lead>●カナリア州政府は、3月24日午後9時30分より、グランカナリア島において豪雨による洪水リスクに対する緊急警報を発令しました。テネリフェ島、ラパルマ島、ラゴメラ島、エルイエロ島は警戒警報、フエルテベントゥーラ島、ランサローテ島は事前警戒警報となっています。
+●報道及び関係機関から最新の情報を収集して災害に備えてください。
+●カナリア州政府ＨＰ
+https://www3.gobiernodecanarias.org/noticias/el-gobierno-actualiza-la-situacion-y-pasa-a-emergencia-por-riesgo-de-inundaciones-en-gran-canaria/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163863</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163863A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163863.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163863L.xml</xmlLightUrl>
+        <koukanCd>514V</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163862</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/24 21:35:39</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0253</cd>
+        </country>
+        <title>大統領選挙の実施（４月１０日（金））に伴う注意喚起</title>
+        <lead>　　</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163862</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163862A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163862.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163862L.xml</xmlLightUrl>
+        <koukanCd>767A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163861</keyCd>
         <infoType>R10</infoType>
