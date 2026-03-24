@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/24 18:30:50" mailCount="22" odType="02">
+<opendata dataType="L" lastModified="2026/03/24 18:55:51" mailCount="21" odType="02">
     <mail>
         <keyCd>163858</keyCd>
         <infoType>R10</infoType>
@@ -1256,73 +1256,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163827.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163827L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163825</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/22 18:55:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月22日(日)12:00時点）</title>
-        <lead>３月22日(日)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用を行っております。 
-
-==============================
-◆イラン、ヒズボッラーからのミサイル等に 
-　よる攻撃が継続しています。  
-◆在留邦人・渡航者の方で、負傷等の被害に 
-　遭われた方や被害の情報に接した方が いらっ
-　しゃいましたら、下記の当館連絡先まで 
-　ご連絡をお願いします。 
-==============================
-
-▲▼▲▼▲▼新着情報▲▼▲▼▲▼ 
-
-■■ベン・グリオン空港運航状況 
-●公式ウェブページ（出発便情報） 
-https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures
-
-●3月22日(日)出発便フライト予定（総計39便） 
-（参考：2月28日以前の日曜日のフライト数は約190便） 
-AIR HAIFA--2-- 
- ATHENS 1 
- LARNACA 1 
-ARKIA ISRAELI AIRLINES--10--- 
- ATHENS 1 
- LARNACA 4 
- PARIS 1 
- ROME 1 
- BARCELONA 1 
- LARNACA via BANGKOK 1 
- STANSTED 1 
-EL AL ISRAEL AIRLINES--21-- 
- BANGKOK 4 
- LONDON 3 
- MADRID 1 
- MIAMI 2 
- MUNICH 1 
- NEWARK 2 
- PARIS 4 
- NEW YORK 1 
-【TOKYO 1】 
- PHUKET 2 
-ISRAIR AIRLINES -6-- 
- ATHENS 1 
- LARNACA 1 
- ROME 1 
- FRANKFURT 1 
- BUDAPEST 1 
- BERLIN 1</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163825</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163825A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163825.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163825L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
