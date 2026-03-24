@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/25 01:30:49" mailCount="25" odType="02">
+<opendata dataType="L" lastModified="2026/03/25 02:00:51" mailCount="26" odType="02">
+    <mail>
+        <keyCd>163869</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/25 01:50:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0222</cd>
+        </country>
+        <title>【注意喚起】中東情勢の緊迫化に伴う警戒情報【ヌアクショット】</title>
+        <lead>外務省海外安全ホームページでは、「米国国務省が、全世界の米国民向けの渡航情報として、世界各地の米国や米国人関連施設等がイランを支持する勢力の標的になる可能性があるとの注意喚起を発出した」として注意を呼びかけていますので、次のリンクよりご確認ください。
+https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C021.html
+
+その上で、３月２３日、当地米国大使館が、同大使館および米国市民を対象としたテロ攻撃のリスクが高まっているとの注意喚起を発出しました。つきましては、当地においても、特に米国大使館近くの集会や人だかりには近寄らない、異変を察知したらすぐにその場を離れるなど、周囲の状況に普段以上に注意してください。また、不要の場合には、米国大使館周辺や外国人が多く集まる場所には長居しないことなども念頭においてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163869</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163869A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163869.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163869L.xml</xmlLightUrl>
+        <koukanCd>736A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163868</keyCd>
         <infoType>R10</infoType>
