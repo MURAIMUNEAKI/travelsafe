@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/24 13:00:49" mailCount="18" odType="02">
+<opendata dataType="L" lastModified="2026/03/24 13:45:49" mailCount="19" odType="02">
+    <mail>
+        <keyCd>163848</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/24 13:15:47</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0856</cd>
+        </country>
+        <title>ラオスにおける熱気球等の危険を伴うアクティビティに関する注意喚起</title>
+        <lead>ラオスの有名観光地であるバンビエンにおいて、邦人旅行者ら乗客８名と操縦士が搭乗する熱気球が山に墜落する事故が発生したとの報に接しました。
+ラオスの観光地等では、熱気球やパラグライダー、ジップライン、オフロード走行等の危険を伴うアクティビティを体験できるようですが、その際には、以下の点に十分御留意なされますよう宜しくお願いいたします。
+１．信頼できる、適切な保険に加入している業者を利用し、必ず講習を受けること。
+２．十分な安全対策が講じられていること。
+３．御自身が加入されている旅行保険が、参加するアクティビティに係る損害を十分カバーしていること。
+４．アクティビティに参加される際の契約書上アクティビティの行程における事故発生時の責任の帰属を明確にしておくこと。
+５．無理な行動は控えること。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163848</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163848A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163848.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163848L.xml</xmlLightUrl>
+        <koukanCd>608A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163846</keyCd>
         <infoType>R10</infoType>
