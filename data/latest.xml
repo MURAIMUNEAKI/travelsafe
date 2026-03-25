@@ -1,5 +1,115 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/25 18:55:49" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/03/25 19:20:49" mailCount="34" odType="02">
+    <mail>
+        <keyCd>163886</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/25 19:15:44</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0049</cd>
+        </country>
+        <title>【交通情報】ベルリン・ハーフマラソンに伴う大規模な交通規制等(３月２９日(日))</title>
+        <lead>◯主催団体の発表等によると、３月２９日（日）午前９時１５分から、ベルリン市内一円を走る約４万人規模のハーフマラソンが開催される予定です。
+これに伴い、３月２６日（木）からウンター・デン・リンデン通り、３月２７日（金）からマラソンのスタート・ゴール地点となる6月17日通り周辺において、また、３月２９日（日）早朝からマラソンコース周辺において大規模な交通規制が行われる予定です。
+　交通規制の時間帯は場所によって異なりますので、下記交通局プレスリリース、主催団体ホームページをよくご確認ください。
+◯ベルリン市内にお住まいの方、ベルリンへのご旅行を計画されている方は、報道や関係機関のホームページ等から最新情報を入手し、時間に余裕をもって行動するようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163886</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163886A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163886.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163886L.xml</xmlLightUrl>
+        <koukanCd>506A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163885</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/25 19:01:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月25日(水)12:00時点）</title>
+        <lead>・3月25日(水)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用となっています。 
+・イスラエル系航空会社のみによる特別運航（Recovery Flight）が継続しています。
+・23日(月)17時から、１時間あたり出発機１機、到着機１機の制限及びイスラエル出発便搭乗可能人数が120人から50人に縮小となっています。
+
+==============================
+◆イラン、ヒズボッラーからのミサイル等に 
+　よる攻撃が継続しています。  
+◆在留邦人・渡航者の方で、負傷等の被害に 
+　遭われた方や被害の情報に接した方がいらっ
+　しゃいましたら、下記の当館連絡先まで 
+　ご連絡をお願いします。 
+==============================
+
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼ 
+
+■■ベン・グリオン空港運航状況 
+●公式ウェブページ（出発便情報） 
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures　
+
+●3月25日(水)出発便フライト予定（9時～24時）
+【AIR HAIFA--1--】
+  LARNACA 1
+【ARKIA ISRAELI AIRLINES--4--】
+  ATHENS 2
+  LARNACA 2
+【EL AL ISRAEL AIRLINES--8--】
+  ATHENS 1
+  LONDON 2
+  NEWARK 1
+  PARIS 1
+  ROME 1
+  LOS ANGELES 1
+  NEW YORK 1
+【ISRAIR AIRLINES--3--】
+  ATHENS 1
+  LARNACA 1
+  ADDIS ABABA 1</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163885</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163885A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163885.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163885L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163884</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/25 19:01:00</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>（参考情報）バーレーン国際空港及びキング・ファハド・コーズウェイの状況（３月２５日　１３：００時点）</title>
+        <lead>バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況については以下のとおりです。 
+また、サウジアラビアへの移動手段について、お困りの方がいらっしゃいましたら末尾記載の当館メールアドレス宛にご相談ください。
+
+○ バーレーン国際空港 
+　３月２５日１３時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。 
+
+○ キング・ファハド・コーズウェイ 
+　３月２５日１３時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。 
+　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（ https://kfca.sa/en/ ）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。 
+　通行方法の詳細については、こちら（ https://www.bh.emb-japan.go.jp/files/100987859.pdf ）をご参照下さい。 
+
+○ サウジアラビアのVISA、たびレジ案内
+サウジアラビア国内の空港利用や同国への退避等のため、サウジアラビア国内に移動される方は、サウジアラビアのVISAを取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
+「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
+渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から発信される同国内の安全情報等を受け取ることが出来ます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163884</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163884A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163884.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163884L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163883</keyCd>
         <infoType>R10</infoType>
