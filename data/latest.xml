@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/25 20:50:49" mailCount="36" odType="02">
+<opendata dataType="L" lastModified="2026/03/25 21:25:48" mailCount="34" odType="02">
     <mail>
         <keyCd>163889</keyCd>
         <infoType>R10</infoType>
@@ -944,41 +944,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163843.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163843L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163840</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/23 21:20:59</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0226</cd>
-        </country>
-        <title>ワガドゥグ市内における集会開催に伴う注意喚起</title>
-        <lead>　3月28日（土）、午前８時から、ワガ２０００地区（殉教者ロータリー、大きなタワーのモニュメントがある場所)において、欧州議会によるAES諸国内政への干渉(特にニジェール情勢)に対する抗議集会が開催予定であり、広く参加が呼びかけられています。また、これに伴い、ワガ２０００地区周辺において、交通渋滞や蝟集の発生、道路閉鎖等の交通規制や検問等の実施により、交通への影響が想定されます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163840</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163840A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163840.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163840L.xml</xmlLightUrl>
-        <koukanCd>735A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163839</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/23 21:20:59</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0226</cd>
-        </country>
-        <title>ワガドゥグ市内における集会開催に伴う注意喚起</title>
-        <lead>　3月28日（土）、午前８時から、ワガ２０００地区（殉教者ロータリー、大きなタワーのモニュメントがある場所)において、欧州議会によるAES諸国内政への干渉(特にニジェール情勢)に対する抗議集会が開催予定であり、広く参加が呼びかけられています。また、これに伴い、ワガ２０００地区周辺において、交通渋滞や蝟集の発生、道路閉鎖等の交通規制や検問等の実施により、交通への影響が想定されます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163839</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163839A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163839.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163839L.xml</xmlLightUrl>
-        <koukanCd>735A</koukanCd>
     </mail>
 </opendata>
