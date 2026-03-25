@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/26 07:55:48" mailCount="35" odType="02">
+<opendata dataType="L" lastModified="2026/03/26 08:30:50" mailCount="36" odType="02">
+    <mail>
+        <keyCd>163898</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/26 08:00:45</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>【注意喚起】ラパス市内における道路封鎖の「無期限」延長（続報）</title>
+        <lead>● 本日、3月25日0時から実施されているラパス公共自動車協会による道路封鎖について、同協会は封鎖を「無期限」に延長すると発表しました。
+● 政府からの具体的な回答が得られていないことから、今後、封鎖地点での緊張が高まり、不測の事態に発展する可能性が否定できません。
+● エルアルト空港へのアクセスについては、テレフェリコ（ロープウェイ）の利用や、深夜・早朝の時間帯での移動を検討してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163898</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163898A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163898.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163898L.xml</xmlLightUrl>
+        <koukanCd>402A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163897</keyCd>
         <infoType>R10</infoType>
