@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/26 00:30:50" mailCount="36" odType="02">
+<opendata dataType="L" lastModified="2026/03/26 01:00:50" mailCount="36" odType="02">
+    <mail>
+        <keyCd>163895</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/26 01:00:45</leaveDate>
+        <title>【注意喚起】「No Kings」抗議デモについて</title>
+        <lead>【ポイント】
+○　３月２８日（土）、「No Kings」抗議デモが全米規模で予定されており、開催予定地は都心部に限られず、各地で交通や安全に対する影響が懸念されます。
+○　同抗議デモの会場及びその周辺においては、不測の事態が発生する可能性が排除されません。在留邦人及び旅行者の皆様におかれては、不測の事態に巻き込まれることのないよう、報道等で最新の情報の入手に努め、抗議活動が行われている場所に不用意に近づかないなど、十分に注意を払ってください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163895</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163895A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163895.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163895L.xml</xmlLightUrl>
+        <koukanCd>301D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163892</keyCd>
         <infoType>R10</infoType>
@@ -959,28 +973,5 @@ Email : ryouji.tonga@nu.mofa.go.jp
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163845.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163845L.xml</xmlLightUrl>
         <koukanCd>403U</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163844</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/24 00:55:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0030</cd>
-        </country>
-        <title>ギリシャ警察をかたる詐欺メッセージにご注意ください</title>
-        <lead>○ギリシャ警察は、警察をかたる詐欺メッセージ（SMS）への注意を呼びかけています。交通違反の罰金が未払いであるとして、国家歳入独立機関（AADE）の偽サイト（公式サイトに酷似）へ誘導し、個人情報や銀行口座情報などを入力させ、これらの情報や金銭を盗むものです。
-○ギリシャ警察や各種公共機関が、SMSやメッセージアプリを通じて罰金の支払いを要求することはありません。このようなメッセージを受け取った場合は、以下に留意し、詐欺被害に遭わないようくれぐれも注意してください。
-・このようなメッセージには返信しない
-・リンクを開かない（クリックしない）
-・個人情報や銀行口座情報等を入力しない
-・このようなメッセージは無視して、すぐに削除する</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163844</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163844A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163844.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163844L.xml</xmlLightUrl>
-        <koukanCd>507A</koukanCd>
     </mail>
 </opendata>
