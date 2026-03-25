@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/26 07:15:49" mailCount="36" odType="02">
+<opendata dataType="L" lastModified="2026/03/26 07:55:48" mailCount="35" odType="02">
     <mail>
         <keyCd>163897</keyCd>
         <infoType>R10</infoType>
@@ -948,18 +948,5 @@ Email : ryouji.tonga@nu.mofa.go.jp
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163850.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163850L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163846</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/24 07:50:41</leaveDate>
-        <title>テキサス州における麻しん（はしか）の流行</title>
-        <lead>● テキサス州において、麻しん（はしか）の流行が報告されており、予防接種を受けていない場合、流行地域で麻しんに感染するリスクがあります。
-● 流行地域を訪問する場合には、予防接種歴を確認し、定期接種を受けた記録がない場合は、あらかじめ予防接種を受けることを検討してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163846</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163846A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163846.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163846L.xml</xmlLightUrl>
-        <koukanCd>301T</koukanCd>
     </mail>
 </opendata>
