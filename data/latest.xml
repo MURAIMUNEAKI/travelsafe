@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/25 15:55:49" mailCount="26" odType="02">
+<opendata dataType="L" lastModified="2026/03/25 16:25:49" mailCount="28" odType="02">
+    <mail>
+        <keyCd>163877</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/25 16:10:45</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0061</cd>
+        </country>
+        <title>熱帯性サイクロン（ナレル）の今後の見通し</title>
+        <lead>【ポイント】
+●熱帯性サイクロン（ナレル）についての注意喚起です。
+
+●オーストラリア気象局によると、カテゴリー１の熱帯性サイクロン（ナレル）は、オーストラリアの北西海上にあり、今後発達しながら南に進路を変え、３月２６日０時以降にカテゴリー３（最大風速４０m/s）以上の勢力でポートヘッドランド、エクスマウス等西オーストラリア州北西部沿岸に接近または上陸する見込みです。今後、カーナーボンやカルバリに向かい、内陸や南西部地域一帯に影響が及ぶ可能性があります。西オーストラリア州北西部はじめサイクロン（ナレル）の進路周辺に在住・滞在の方、パース近郊でも特にアウトドアや海のレジャーを予定されている方については、大雨、暴風、高潮、高波に十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163877</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163877A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163877.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163877L.xml</xmlLightUrl>
+        <koukanCd>614F</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163876</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/25 16:00:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェート国際空港の状況（3月25日9:00時点）について</title>
+        <lead>○3月25日（現地時間）、クウェート民間航空局はクウェート国際空港が複数のドローンの標的となり、物的被害が発生した旨発表しました。
+
+○3月25日9:00時点（現地時間）、クウェート国際空港は閉鎖されています。
+邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
+
+○同空港のサイトを以下のとおりお知らせします。
+クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163876</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163876A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163876.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163876L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163871</keyCd>
         <infoType>R10</infoType>
