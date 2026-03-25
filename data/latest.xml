@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/26 01:25:49" mailCount="36" odType="02">
+<opendata dataType="L" lastModified="2026/03/26 02:05:48" mailCount="35" odType="02">
     <mail>
         <keyCd>163895</keyCd>
         <infoType>R10</infoType>
@@ -943,35 +943,5 @@ Email : ryouji.tonga@nu.mofa.go.jp
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163846.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163846L.xml</xmlLightUrl>
         <koukanCd>301T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163845</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/24 01:45:43</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0055</cd>
-        </country>
-        <title>【在クリチバ日本国総領事館】防犯講習会の開催のお知らせ</title>
-        <lead>在クリチバ日本国総領事館からのお知らせです。
-この度、在留邦人の皆様に向けた防犯講習会をオンライン（Teams）で開催いたします。
-本講習会では、当地の治安情勢や犯罪傾向とその対策、スラム地域の状況等をご説明させていただく予定です。本講習が、皆様の安全な生活のお役に立てば幸いです。なお、参加費は無料です。
-【講習会日時】２０２６年３月３０日（月）１５時（予定終了時間は１６時頃）
-【講習内容】クリチバ市の治安情況や犯罪傾向とその対策について
-【言語】日本語のみ
-
-参加を希望される方は、３月２７日(金)までに以下の情報をsetorconsular@c1.mofa.go.jp へ御連絡ください。
-○氏名
-○所属団体（会社名など）
-○連絡用メールアドレス
-
-ご連絡頂いた方には、後ほどTeamsリンクを配信いたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163845</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163845A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163845.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163845L.xml</xmlLightUrl>
-        <koukanCd>403U</koukanCd>
     </mail>
 </opendata>
