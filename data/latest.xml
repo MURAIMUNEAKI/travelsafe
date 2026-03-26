@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/27 04:45:49" mailCount="32" odType="02">
+<opendata dataType="L" lastModified="2026/03/27 05:30:49" mailCount="33" odType="02">
+    <mail>
+        <keyCd>163914</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/27 05:00:49</leaveDate>
+        <title>注意喚起：抗議集会「NO KINGS」（３月２８日（土））</title>
+        <lead>●３月２８日（土）、全米各地において抗議集会「NO KINGS」が予定されており、ワシントンＤＣでは、アーリントン墓地からナショナルモールに向けてのデモ行進を含め、複数のデモ行進が予定されています。
+●最新情報を入手して、不測の事態に巻き込まれないよう十分注意するとともに、予期せず抗議活動に遭遇した場合には、むやみに近づいたり、写真撮影をしたりせず、速やかにその場を離れてください。
+●人が多く集まる場所や施設は、テロの標的となりやすいことにも留意し、周囲の状況に十分警戒してください。
+●交通規制に伴う交通渋滞や公共交通機関の遅延・運休に留意し、時間に余裕をもった行動を心掛けてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163914</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163914A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163914.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163914L.xml</xmlLightUrl>
+        <koukanCd>301A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163913</keyCd>
         <infoType>R10</infoType>
