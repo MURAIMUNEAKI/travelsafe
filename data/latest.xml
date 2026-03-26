@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/26 20:25:49" mailCount="34" odType="02">
+<opendata dataType="L" lastModified="2026/03/26 20:55:49" mailCount="34" odType="02">
+    <mail>
+        <keyCd>163905</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/26 20:50:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0354</cd>
+        </country>
+        <title>【大使館からのお知らせ】当館の本日（3月26日）午後の開館について</title>
+        <lead>　アイスランドでは、引き続き各地で暴風雪が観測されていますが、首都圏に発出されている警報も13時に解除の見込みとなっていることから、当館は本日13時より大使館を開館することといたしました。
+
+　ただし、出勤できる職員の制約もあり十分な体制が確保できないため、通常の領事サービスの提供が難しい状況にあります。また、しばらくは足下が悪い状況が続くものと思われますので、不急の要件でのご来館については慎重にご判断ください（明日以降は通常通り領事業務を再開します）。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163905</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163905A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163905.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163905L.xml</xmlLightUrl>
+        <koukanCd>518B</koukanCd>
+    </mail>
     <mail>
         <keyCd>163904</keyCd>
         <infoType>R10</infoType>
@@ -859,26 +879,5 @@ https://www3.gobiernodecanarias.org/noticias/el-gobierno-actualiza-la-situacion-
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163862.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163862L.xml</xmlLightUrl>
         <koukanCd>767A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163861</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/24 20:55:40</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0027</cd>
-        </country>
-        <title>武装強盗事件の発生（ヨハネスブルグのWynberg地区）</title>
-        <lead>南アフリカにお住まいの皆様及び旅行者の皆様へ
-
-【ポイント】
-３月１９日、ヨハネスブルグのWynberg地区において、邦人が被害に遭う武装強盗事件が発生しました。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163861</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163861A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163861.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163861L.xml</xmlLightUrl>
-        <koukanCd>718A</koukanCd>
     </mail>
 </opendata>
