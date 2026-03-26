@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/26 13:30:49" mailCount="36" odType="02">
+<opendata dataType="L" lastModified="2026/03/26 14:15:49" mailCount="35" odType="02">
     <mail>
         <keyCd>163898</keyCd>
         <infoType>R10</infoType>
@@ -943,30 +943,5 @@ Email : ryouji.tonga@nu.mofa.go.jp
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163851.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163851L.xml</xmlLightUrl>
         <koukanCd>635A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163850</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/24 14:05:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月２４日 ９時００分）</title>
-        <lead>（前回内容から変更ありません） 
-
-○３月２２日、米国務省は世界各地の米国関係施設・地域が攻撃の標的にされる可能性があるとして、注意喚起しています。 
-またイランは、これまで以下のような警告を発出しています。 
-（１）ラアス・ル・ハイマ（Ras Al Khaimah）首長国がイランを攻撃するための作戦に利用されているとして、近い将来に同地域を攻撃対象とする可能性がある旨発表し、同地域居住者に避難を呼びかける警告を発出しました。 
-（２）米国やイスラエル関係企業・金融機関を攻撃の標的とする旨発表したほか、イランメディアは、UAE国内の３港（Fujairah港、Jebel Ali港、Khalifa港）及び石油関連施設（アブダビに所在するAl Hosn Gas Field ）の周辺地域居住者等に対し「攻撃を受ける可能性がある」として避難を呼び掛ける警告を発出しました。 
-
-十分にご留意の上、米国・イスラエル関係施設（企業・金融機関含む）、港、石油関連施設及びその周辺地域には近づかないようにしてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163850</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163850A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163850.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163850L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
