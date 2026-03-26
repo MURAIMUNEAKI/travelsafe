@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/26 20:55:49" mailCount="34" odType="02">
+<opendata dataType="L" lastModified="2026/03/26 21:20:49" mailCount="35" odType="02">
+    <mail>
+        <keyCd>163906</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/26 21:05:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>大雨による注意喚起（３月２６日午後４時）</title>
+        <lead>●本日３月２６日夕方から明日３月２７日朝にかけて、強風を伴う強い雨が予想されています。
+●邦人の皆様におかれましては、雨漏りの対応や特に夜間、万が一停電した場合の対策など、ご留意ください。また、ＳＮＳだけによる情報収集ではなく、正確な関連情報の入手に努めてください。
+NCM：https://www.ncm.gov.ae/maps-radars/uae-radars-network?lang=en
+THE NATIONAL：https://www.thenationalnews.com/news/uae/2026/03/26/uae-braces-for-friday-morning-deluge-as-rainstorm-path-shifts/
+GULF NEWS：https://gulfnews.com/uae/weather/uae-braces-for-final-wave-of-heavy-rain-as-weather-system-moves-east-1.500486915
+引き続き、関連情報を大使館から随時発信いたしますので、在留届及びたびレジの登録をお願いいたします。（大使館からのメールが届かない、急に届かなくなったという問い合わせが増えておりますが、今一度たびレジ登録時の滞在期間の再確認及びメールアプリのサブスクリプション解除等スマホ端末の迷惑メール設定状況をご確認ください。）
+●在留届・たびレジ
+https://www.ezairyu.mofa.go.jp/index.html
+●一部メールアプリのサブスクリプション解除機能による領事メールの配信停止についての注意喚起
+https://www.uae.emb-japan.go.jp/itpr_ja/11_000001_00273.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163906</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163906A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163906.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163906L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163905</keyCd>
         <infoType>R10</infoType>
