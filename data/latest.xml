@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/27 07:30:49" mailCount="34" odType="02">
+<opendata dataType="L" lastModified="2026/03/27 07:50:50" mailCount="35" odType="02">
+    <mail>
+        <keyCd>163919</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/27 07:45:42</leaveDate>
+        <title>【注意喚起】大規模抗議集会「NO KINGS」（３月２８日）</title>
+        <lead>●３月２８日（土）、大規模抗議集会「NO KINGS」が全米各地で予定されており、テキサス州及びオクラホマ州各地においても開催予定です。
+●昨年６月及び１０月にも全米各地で同様の大規模抗議集会「NO KINGS」が開催され、一部の都市では、移民関税執行局（ICE）に対する抗議活動とも相俟って、治安当局との衝突が発生しました。
+●不測の事態に巻き込まれないよう、外出の際には報道等で最新情報の入手に努め、抗議集会が行われている場所には不用意に近づかない等、十分注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163919</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163919A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163919.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163919L.xml</xmlLightUrl>
+        <koukanCd>301T</koukanCd>
+    </mail>
     <mail>
         <keyCd>163917</keyCd>
         <infoType>R10</infoType>
