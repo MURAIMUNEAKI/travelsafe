@@ -1,5 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/26 23:30:50" mailCount="32" odType="02">
+<opendata dataType="L" lastModified="2026/03/27 00:10:49" mailCount="33" odType="02">
+    <mail>
+        <keyCd>163910</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/27 00:05:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>参考情報）バーレーン国際空港及びキング・ファハド・コーズウェイの状況（３月２６日　１８：００時点）</title>
+        <lead>バーレーンからの出国に利用するバーレーン国際空港（空路）及びキング・ファハド・コーズウェイ（陸路）の現在の状況については以下のとおりです。 
+また、サウジアラビアへの移動手段について、お困りの方がいらっしゃいましたら末尾記載の当館メールアドレス宛にご相談ください。
+
+○ バーレーン国際空港 
+　３月２６日１８時現在、バーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。 
+
+○ キング・ファハド・コーズウェイ 
+　３月２６日１８時現在、ウェブサイトによると、キング・ファハド・コーズウェイは通常どおり運用されている状況が窺えます。 
+　同道路によりサウジアラビア側へ出国する際には、ウェブサイト（ https://kfca.sa/en/ ）から、最新の状況及び混雑状況（同サイトの上部にある「Live Cameras」）をご確認ください。 
+　通行方法の詳細については、こちら（ https://www.bh.emb-japan.go.jp/files/100987859.pdf ）をご参照下さい。 
+
+○ サウジアラビアのVISA、たびレジ案内
+サウジアラビア国内の空港利用や同国への退避等のため、サウジアラビア国内に移動される方は、サウジアラビアのVISAを取得すると共に、以下のリンクから確実にサウジアラビアの「たびレジ」利用者登録をお願いします。
+「たびレジ」URL：https://www.ezairyu.mofa.go.jp/tabireg/index.html
+渡航先としてサウジアラビアをご登録いただくことで、在サウジアラビア日本国大使館から発信される同国内の安全情報等を受け取ることが出来ます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163910</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163910A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163910.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163910L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163909</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/27 00:00:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>「在留届」及び「たびレジ」への登録のお願い</title>
+        <lead>　米国及びイスラエルによるイラン攻撃を契機に、中東地域の情勢は日々めまぐるしく変化しています。このような状況の中で、当館においては「在留届」及び「たびレジ」の登録情報をもとに、邦人の皆様の所在地や緊急連絡先の把握に努めています。今後のイランを巡る中東地域情勢の急激な悪化により、万が一、邦人の皆様に何らかの被害などが及んだ場合には、邦人の皆様の安全確保の観点から様々なサポート（UAE当局や病院等との連携等）など必要な支援を行ないます。そのためには、当館といたしましても当地に滞在している邦人の皆様の実態を正確に把握しておくことが重要となりますので、邦人の皆様におかれましてはあらためまして「在留届」及び「たびレジ」の登録についてご協力いただければ幸いです。
+　特に、ご家族、ご友人、同僚を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（3か月以上の滞在）の届出、又は「たびレジ」（3か月未満の滞在）の登録を、お知り合いの方や出張者・旅行者にご案内いただけますようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163909</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163909A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163909.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163909L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163908</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/26 23:45:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0994</cd>
+        </country>
+        <title>領事窓口の一時閉鎖のお知らせについて</title>
+        <lead>　中東情勢の緊迫化等の影響を受け、在アゼルバイジャン日本国大使館の領事窓口は、来訪者の安全のため、引き続き３月３１日（火）から４月３日（金）まで一時的に閉鎖します。なお、３月３０日（月）はアゼルバイジャンの休日のため、休館日です。
+　　緊急時には、末尾に記載の【問い合わせ先】への連絡をお願い致します。
+　　【問い合わせ先】
+　　在アゼルバイジャン日本国大使館
+　　Tel:+944 50 222 8063
+　　Email: consular@bk.mofa.go.jp</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163908</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163908A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163908.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163908L.xml</xmlLightUrl>
+        <koukanCd>530A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163907</keyCd>
         <infoType>R10</infoType>
@@ -787,53 +861,5 @@ https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C021.html
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163868.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163868L.xml</xmlLightUrl>
         <koukanCd>301H</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163866</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/25 00:00:42</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0052</cd>
-        </country>
-        <title>【重要なお知らせ】窓口時間の変更</title>
-        <lead>在留邦人の皆様
-
-4月1日(水)から在レオン日本国総領事館の領事窓口受付時間を以下のとおり変更します。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163866</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163866A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163866.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163866L.xml</xmlLightUrl>
-        <koukanCd>410D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>2026T038</keyCd>
-        <infoType>T40</infoType>
-        <contentInfo>治安情勢 一般犯罪 誘拐 災害</contentInfo>
-        <leaveDate>2026/03/25 00:00:00</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0503</cd>
-        </country>
-        <title>エルサルバドルの危険情報【危険レベル継続】（内容の更新）</title>
-        <lead>●危険レベル（２または１）を維持の上、記載内容の更新を行いました。
-●危険レベル2を発出しているサンサルバドル県、ラ・リベルタ県及びラ・パス県所在の6区でのギャングの活動は沈静化しているものの、各種犯罪は依然として多発していることから、引き続きこれらの6区への不要不急の立ち入りは控えてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T038.html</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T038A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T038.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/2026T038L.xml</xmlLightUrl>
-        <riskLevel4>0</riskLevel4>
-        <riskLevel3>0</riskLevel3>
-        <riskLevel2>1</riskLevel2>
-        <riskLevel1>1</riskLevel1>
-        <infectionLevel4>0</infectionLevel4>
-        <infectionLevel3>0</infectionLevel3>
-        <infectionLevel2>0</infectionLevel2>
-        <infectionLevel1>0</infectionLevel1>
-        <mapImageUrl>https://www.anzen.mofa.go.jp/info/map/2026T038_1_Detail.html</mapImageUrl>
     </mail>
 </opendata>
