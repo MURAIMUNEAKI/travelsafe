@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/27 06:20:49" mailCount="33" odType="02">
+<opendata dataType="L" lastModified="2026/03/27 06:45:49" mailCount="34" odType="02">
+    <mail>
+        <keyCd>163917</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/27 06:35:44</leaveDate>
+        <title>【注意喚起】全米各地で行われる抗議活動について（令和８年３月２６日）</title>
+        <lead>【ポイント】
+●３月２８日（土）、全米各地で大規模抗議集会「No Kings」が実施される予定です。昨年６月及び１０月にも同様の抗議集会が実施され、一部では治安当局が対応にあたる事態となっています。
+
+●中東情勢の悪化を受け、中東地域以外でも不測の事態が発生する可能性が排除されません。抗議集会など人が多く集まる場所や特定の施設（政府関連施設、観光名所、ショッピングモール、宗教施設、公共交通機関など）では、テロの危険が高まります。周囲の状況に普段以上に留意をし、不測の事態に巻き込まれないよう注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163917</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163917A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163917.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163917L.xml</xmlLightUrl>
+        <koukanCd>301S</koukanCd>
+    </mail>
     <mail>
         <keyCd>163916</keyCd>
         <infoType>R10</infoType>
