@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/28 04:40:49" mailCount="39" odType="02">
+<opendata dataType="L" lastModified="2026/03/28 05:25:49" mailCount="40" odType="02">
+    <mail>
+        <keyCd>163948</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/28 05:00:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>9007</cd>
+        </country>
+        <title>通信制限等に関する無許可イベントへの注意</title>
+        <lead>●ロシア内務省は、３月２７日から２９日にかけて無許可イベントへの参加をよびかける情報がインターネットやＳＮＳ上で拡散しているとして、イベント主催者や参加者は行政・刑事責任を問われる旨警告しています。
+●インターネット上の情報によれば、これは通信制限等への抗議集会を想定している模様です。これらのイベントに遭遇した場合には、むやみに近づいたり、写真撮影をしたりせず、速やかにその場を離れてください。
+ 
+１．ロシア内務省は、プレスリリースを発出し、３月２７日から２９日にかけて無許可イベント参加を呼びかける情報がインターネットやＳＮＳ上で拡散しているとして、このようなイベントの主催者や参加者は行政・刑事責任を問われる旨警告しています。
+内務省プレスセンターのサイト
+https://mvdmedia.ru/news/official/mvd-rossii-prizyvaet-grazhdan-ne-reagirovat-na-provokatsionnye-zayavleniya-organizatorov-nesanktsion/
+ 
+２．インターネット上の情報によれば、３月２７日から２９日にかけて、通信制限等に反対する集会が呼びかけられている模様です。無許可イベントの場合、当局による取り締まりが行われる可能性がありますので、これらのイベントに遭遇した場合には、むやみに近づいたり、写真撮影をしたりせず、速やかにその場を離れてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163948</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163948A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163948.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163948L.xml</xmlLightUrl>
+        <koukanCd>517V</koukanCd>
+    </mail>
     <mail>
         <keyCd>163946</keyCd>
         <infoType>R10</infoType>
