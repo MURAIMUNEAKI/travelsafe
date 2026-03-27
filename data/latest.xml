@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/27 17:25:49" mailCount="40" odType="02">
+<opendata dataType="L" lastModified="2026/03/27 18:00:52" mailCount="41" odType="02">
+    <mail>
+        <keyCd>163930</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/27 17:55:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月27日(金)12:00時点）</title>
+        <lead>・3月27日(金)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での限定運用となっています。 
+・イスラエル系航空会社のみによる特別運航（Recovery/Rescue Flight）が継続しています。
+・23日(月)17時から、１時間あたり出発機１機、到着機１機の制限及びイスラエル出発便搭乗可能人数が120人から50人に縮小となっています。
+
+==============================
+◆イラン、ヒズボッラーからのミサイル等に 
+　よる攻撃が継続しています。  
+◆在留邦人・渡航者の方で、負傷等の被害に 
+　遭われた方や被害の情報に接した方がいらっ
+　しゃいましたら、下記の当館連絡先まで 
+　ご連絡をお願いします。 
+==============================
+
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼ 
+
+■■ベン・グリオン空港運航状況 
+●公式ウェブページ（出発便情報） 
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures　
+
+●3月27日(金)出発便フライト予定(23便)
+【AIR HAIFA--3--】
+  LARNACA 3
+【ARKIA ISRAELI AIRLINES--4--】
+  ATHENS 3
+  LARNACA 1
+【EL AL ISRAEL AIRLINES--11--】
+  ATHENS 3
+  LONDON 1
+  MIAMI 1
+  PARIS 2
+  ROME 2
+  LOS ANGELES 1
+  NEW YORK 1
+【ISRAIR AIRLINES--5--】
+  ATHENS 1
+  LARNACA 2
+  ROME 2</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163930</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163930A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163930.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163930L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163929</keyCd>
         <infoType>R20</infoType>
