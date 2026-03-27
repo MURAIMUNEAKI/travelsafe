@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/27 14:45:49" mailCount="39" odType="02">
+<opendata dataType="L" lastModified="2026/03/27 15:30:49" mailCount="40" odType="02">
+    <mail>
+        <keyCd>163926</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/27 15:30:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃その他に伴う注意喚起（３月２７日 １０時３０分）</title>
+        <lead>○国立気象センターによると、フジャイラ、ラアス・ル・ハイマ、シャルジャ等首長国において多くの降雨が観測されたことを受け、当局は、天候の変動が続く中、安全を確保のため、市民に対し引き続き注意を呼びかけ、渓谷の流出水域に近づかないよう促しています。ご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163926</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163926A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163926.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163926L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163924</keyCd>
         <infoType>R10</infoType>
