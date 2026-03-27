@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/27 10:15:49" mailCount="36" odType="02">
+<opendata dataType="L" lastModified="2026/03/27 11:40:50" mailCount="37" odType="02">
+    <mail>
+        <keyCd>163921</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/27 10:55:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0063</cd>
+        </country>
+        <title>【総領事館からのお知らせ】当館休館日（ホーリーウィーク期間）のお知らせ</title>
+        <lead>●ホーリーウィーク期間中、当館は４月２日（木）から５日（日）まで休館となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163921</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163921A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163921.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163921L.xml</xmlLightUrl>
+        <koukanCd>611F</koukanCd>
+    </mail>
     <mail>
         <keyCd>163920</keyCd>
         <infoType>R10</infoType>
