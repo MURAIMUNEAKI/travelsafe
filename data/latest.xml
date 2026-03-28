@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/28 22:25:50" mailCount="41" odType="02">
+<opendata dataType="L" lastModified="2026/03/28 22:40:51" mailCount="40" odType="02">
     <mail>
         <keyCd>163961</keyCd>
         <infoType>R10</infoType>
@@ -982,28 +982,5 @@ GULF NEWS：https://gulfnews.com/uae/weather/heavy-rain-and-thunderstorms-sweep-
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163908.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163908L.xml</xmlLightUrl>
         <koukanCd>530A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163907</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/26 22:35:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>9007</cd>
-        </country>
-        <title>無人機の飛来に伴う注意喚起</title>
-        <lead>●報道によりますと、サンクトペテルブルク市・レニングラード州周辺において無人機の残骸による物的被害が発生しています。
-●在留邦人の皆様におかれましては、引き続き報道等により最新情報の入手に努めて下さい。また、知人等と常に連絡をとることが可能な状態にしておく等、所在の明確化にご留意願います。
-●また、無人機飛来に対する安全確保のため、航空機の離発着時刻が大きく変わったり、乗継便も含めて便が変更されることが頻繁に発生していますので、航空便の予約や利用に当たってはご注意ください。
-●当館が行う邦人安否確認のため、在留届に登録されている住所、居所、携帯電話やメールアドレス等の連絡先が最新のものであることをご確認ください。
-（オンライン在留届のサイト（「変更届」の頁で上記各項目を確認できます。））
-https://www.ezairyu.mofa.go.jp/RRnet/index.html</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163907</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163907A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163907.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163907L.xml</xmlLightUrl>
-        <koukanCd>517F</koukanCd>
     </mail>
 </opendata>
