@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/28 23:20:49" mailCount="40" odType="02">
+<opendata dataType="L" lastModified="2026/03/28 23:50:50" mailCount="40" odType="02">
+    <mail>
+        <keyCd>163962</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/28 23:25:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報(3月28日午後5時時点)</title>
+        <lead>カタール航空はドーハ発着便の段階的な増便を反映した最新のスケジュールを公表しました。
+
+Qatarairways.com/travelupdates</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163962</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163962A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163962.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163962L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163961</keyCd>
         <infoType>R10</infoType>
@@ -959,28 +979,5 @@ GULF NEWS：https://gulfnews.com/uae/weather/heavy-rain-and-thunderstorms-sweep-
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163909.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163909L.xml</xmlLightUrl>
         <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163908</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/26 23:45:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0994</cd>
-        </country>
-        <title>領事窓口の一時閉鎖のお知らせについて</title>
-        <lead>　中東情勢の緊迫化等の影響を受け、在アゼルバイジャン日本国大使館の領事窓口は、来訪者の安全のため、引き続き３月３１日（火）から４月３日（金）まで一時的に閉鎖します。なお、３月３０日（月）はアゼルバイジャンの休日のため、休館日です。
-　　緊急時には、末尾に記載の【問い合わせ先】への連絡をお願い致します。
-　　【問い合わせ先】
-　　在アゼルバイジャン日本国大使館
-　　Tel:+944 50 222 8063
-　　Email: consular@bk.mofa.go.jp</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163908</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163908A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163908.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163908L.xml</xmlLightUrl>
-        <koukanCd>530A</koukanCd>
     </mail>
 </opendata>
