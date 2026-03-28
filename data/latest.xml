@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/28 14:20:50" mailCount="41" odType="02">
+<opendata dataType="L" lastModified="2026/03/28 14:55:49" mailCount="41" odType="02">
+    <mail>
+        <keyCd>163954</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/28 14:50:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月２８日 ９時００分）</title>
+        <lead>○本日、ドバイ国際空港（DXB）では、成田行きの便は運航されすでに出発しましたが、羽田行きの便は欠航となっております。今後の運航につきましては、空港・航空会社のホームページ等をご確認ください。
+https://dubaiairports.ae/ （ドバイ国際空港HP）
+https://www.emirates.com/ae/english/ （エミレーツ航空 HP）
+○３月２７日、豪州政府はドバイ国際空港近くにある Le Meridien Hotel付近において継続的な脅威が存在するとし、ドバイのホテル周辺でのリスクが高まっている旨のアラートを出しています（当該記載は一時下記リンクから削除されましたが、本日付で再掲されています。）。https://www.smartraveller.gov.au/destinations/middle-east/united-
+arab-emirates （豪州政府 HP）
+  空港やホテル周辺においては特に注意していただき、 不要不急の訪問はお控えください。
+
+○３月２２日、米国務省は世界各地の米国関係施設・地域が攻撃の標的にされる可能性があるとして、注意喚起しています。
+  またイランは、これまで以下のような警告を発出しています。
+（１）ラアス・ル・ハイマ（Ras Al Khaimah）首長国がイランを攻撃するための作戦に利用されているとして、近い将来に同地域を攻撃対象とする可能性がある旨発表し、同地域居住者に避難を呼びかける警告を発出しました。
+（２）米国やイスラエル関係企業・金融機関を攻撃の標的とする旨発表したほか、イランメディアは、UAE 国内の３港（Fujairah 港、Jebel Ali 港、Khalifa 港）及び石油関連施設（アブダビに所在する Al Hosn Gas Field ）の周辺地域居住者等に対し「攻撃を受ける可能性がある」として避難を呼び掛ける警告を発出しました。
+  十分にご留意の上、米国・イスラエル関係施設（企業・金融機関含む）、港、石油関連施設及びその周辺地域には近づかないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163954</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163954A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163954.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163954L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163951</keyCd>
         <infoType>R10</infoType>
@@ -912,26 +941,5 @@ https://www.emirates.com/ae/english/　（エミレーツ航空HP）
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163900.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163900L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163899</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/26 14:55:41</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0063</cd>
-        </country>
-        <title>ダバオ市制記念イベント開催によるダバオ市内道路の交通規制</title>
-        <lead>【ポイント】
-●ダバオ市は、2026年3月28日（土）に開催される第89回市制記念日（Araw ng Dabaw）の主要行事「パラダ・ダバウェニョ（市民パレード）」および「コンシエルト・ダバウェニョ（記念コンサート）」に伴い、大規模な交通規制を実施すると発表しました。
-
-●3月24日から段階的に準備が始まり、イベント当日の28日は早朝から深夜にかけて市中心部の主要道路が全面閉鎖されます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163899</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163899A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163899.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163899L.xml</xmlLightUrl>
-        <koukanCd>611E</koukanCd>
     </mail>
 </opendata>
