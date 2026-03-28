@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/28 15:10:49" mailCount="40" odType="02">
+<opendata dataType="L" lastModified="2026/03/28 15:55:50" mailCount="41" odType="02">
+    <mail>
+        <keyCd>163955</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/28 15:55:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0977</cd>
+        </country>
+        <title>デモに対する注意喚起</title>
+        <lead>　報道によれば、本日（3月28日）、オリ元首相が逮捕されたことを受け、ネパール共産党（統一マルクス・レーニン主義）（UML）がデモの実施を決定しており、
+・　本日（3月28日）午後3時から、各地区UML本部において、抗議活動を行う
+・　明日（3月29日）正午から、ネパール全地区において、大規模なデモを行う
+とのことです。
+
+　在留邦人や旅行者の皆様におかれましては、上記抗議活動の場や、デモ、集会、政党事務所などには極力近づかず、また、報道等で最新の情報を入手の上、安全確保に努め、不測の事態に巻き込まれることのないよう十分注意をお願いします。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+※　この情報は、お知り合いの方や旅行者にもお知らせください。
+※　このメールは、在留届にて届けられたメールアドレス及び「たびレジ」に登録されたメールアドレスに自動的に配信されております。「たびレジ」簡易登録をされた方でメールの配信を停止されたい方は、以下のURLから停止手続きをお願いします。
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
+
+※　帰国や転勤などにより既に当地に住んでいない方は、以下の領事班代表メールにご連絡ください。
+
+在ネパール日本国大使館
+代表電話：+977(国番号)-1-4526680
+領事班代表メール：consular-emb@km.mofa.go.jp
+※　閉館時間帯（夜間や週末、休館日など）に事件事故など真に緊急の用件にて当館に連絡を希望される場合、上記大使館代表電話から緊急電話対応者に転送されます。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163955</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163955A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163955.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163955L.xml</xmlLightUrl>
+        <koukanCd>617A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163954</keyCd>
         <infoType>R10</infoType>
