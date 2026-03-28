@@ -1,35 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/28 20:40:51" mailCount="43" odType="02">
+<opendata dataType="L" lastModified="2026/03/28 21:25:49" mailCount="41" odType="02">
     <mail>
-        <keyCd>163960</keyCd>
+        <keyCd>163961</keyCd>
         <infoType>R10</infoType>
-        <leaveDate>2026/03/28 20:35:39</leaveDate>
+        <leaveDate>2026/03/28 20:45:41</leaveDate>
         <area>
             <cd>50</cd>
         </area>
         <country areaCd="50">
-            <cd>0972</cd>
+            <cd>0965</cd>
         </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>イスラエルからの陸路退避（他国政府によるエジプトへのバス便について）</title>
-        <lead>●今般、他国政府より、エジプトのシャルムエルシェイクへのバス便の座席提供に関する連絡がありましたので、ご案内いたします。
-●テルアビブからエイラート-タバ国境検問所を経て、エジプトのシャルムエルシェイクまで運行される予定とのことです。バス料金は無料ですが、別途イスラエル出国税及びエジプト入国税が必要です。
-●本件バス便は他国政府による運行であり、当館によるサポートはありません。
+        <title>クウェート国際空港の状況（3月28日14:00時点）について</title>
+        <lead>○3月28日（現地時間）、クウェート民間航空局はクウェート国際空港が複数のドローンの標的となり、物的被害が発生した旨発表しました。
 
-●実施予定日時：３月３０日(月)早朝出発予定
-　（集合時間、場所等は乗車を希望された方に対し、個別に随時ご連絡する予定です。）　　　　　　　　
-　目的地：エジプト・シャルムエルシェイク
-　
-●本件バス便の運行可否は、他国政府による判断に基づくものであり、中止や変更が生じる可能性があります。
-●バス移動や出国・入国のため長い待ち時間があり得ます。
-●シャルムエルシェイクでの宿泊、同地からの航空券は利用者自身で手配することとされています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163960</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163960A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163960.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163960L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
+○3月28日14:00時点（現地時間）、クウェート国際空港は閉鎖されています。
+邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
+
+○同空港のサイトを以下のとおりお知らせします。
+クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163961</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163961A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163961.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163961L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
     </mail>
     <mail>
         <keyCd>163959</keyCd>
@@ -997,52 +1005,5 @@ https://www.ezairyu.mofa.go.jp/RRnet/index.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163907.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163907L.xml</xmlLightUrl>
         <koukanCd>517F</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163906</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/26 21:05:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>大雨による注意喚起（３月２６日午後４時）</title>
-        <lead>●本日３月２６日夕方から明日３月２７日朝にかけて、強風を伴う強い雨が予想されています。
-●邦人の皆様におかれましては、雨漏りの対応や特に夜間、万が一停電した場合の対策など、ご留意ください。また、ＳＮＳだけによる情報収集ではなく、正確な関連情報の入手に努めてください。
-NCM：https://www.ncm.gov.ae/maps-radars/uae-radars-network?lang=en
-THE NATIONAL：https://www.thenationalnews.com/news/uae/2026/03/26/uae-braces-for-friday-morning-deluge-as-rainstorm-path-shifts/
-GULF NEWS：https://gulfnews.com/uae/weather/uae-braces-for-final-wave-of-heavy-rain-as-weather-system-moves-east-1.500486915
-引き続き、関連情報を大使館から随時発信いたしますので、在留届及びたびレジの登録をお願いいたします。（大使館からのメールが届かない、急に届かなくなったという問い合わせが増えておりますが、今一度たびレジ登録時の滞在期間の再確認及びメールアプリのサブスクリプション解除等スマホ端末の迷惑メール設定状況をご確認ください。）
-●在留届・たびレジ
-https://www.ezairyu.mofa.go.jp/index.html
-●一部メールアプリのサブスクリプション解除機能による領事メールの配信停止についての注意喚起
-https://www.uae.emb-japan.go.jp/itpr_ja/11_000001_00273.html</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163906</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163906A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163906.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163906L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163905</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/26 20:50:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0354</cd>
-        </country>
-        <title>【大使館からのお知らせ】当館の本日（3月26日）午後の開館について</title>
-        <lead>　アイスランドでは、引き続き各地で暴風雪が観測されていますが、首都圏に発出されている警報も13時に解除の見込みとなっていることから、当館は本日13時より大使館を開館することといたしました。
-
-　ただし、出勤できる職員の制約もあり十分な体制が確保できないため、通常の領事サービスの提供が難しい状況にあります。また、しばらくは足下が悪い状況が続くものと思われますので、不急の要件でのご来館については慎重にご判断ください（明日以降は通常通り領事業務を再開します）。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163905</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163905A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163905.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163905L.xml</xmlLightUrl>
-        <koukanCd>518B</koukanCd>
     </mail>
 </opendata>
