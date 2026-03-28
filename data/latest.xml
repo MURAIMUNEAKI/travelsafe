@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/29 01:25:49" mailCount="38" odType="02">
+<opendata dataType="L" lastModified="2026/03/29 01:50:49" mailCount="37" odType="02">
     <mail>
         <keyCd>163962</keyCd>
         <infoType>R10</infoType>
@@ -913,20 +913,5 @@ GULF NEWS：https://gulfnews.com/uae/weather/heavy-rain-and-thunderstorms-sweep-
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163914.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163914L.xml</xmlLightUrl>
         <koukanCd>301A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163913</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/27 01:35:55</leaveDate>
-        <title>大規模抗議集会「No Kings」の開催（３月２８日）及び 中東情勢に伴う注意喚起</title>
-        <lead>●３月２８日（土）、ロサンゼルス、サンディエゴ及びフェニックス等において大規模抗議集会「No Kings」が実施される予定です。（ https://www.nokings.org/ ）
-●主催団体は昨年６月及び１０月にも全米各地で同様の抗議集会を開催しており、ロサンゼルス・ダウンタウンの市庁舎周辺で実施された抗議集会では、移民関税執行局（ICE）に対する抗議活動とも重なり、集会後に連邦施設周辺に居残った参加者の一部が警官隊と衝突していることから今回も注意が必要です。
-●不測の事態に巻き込まれないよう、外出される前には報道等で最新情報の入手に努め、抗議活動が行われている場所には安易に近づかない等、十分注意を払ってください。
-●中東情勢の悪化を受け、中東地域以外でも不測の事態が発生する可能性が排除されません。抗議集会など人が多く集まる場所や特定の施設（政府関連施設、観光名所、ショッピングモール、宗教施設、公共交通機関など）では、テロの危険が高まります。周囲の状況に普段以上に留意をし、不測の事態に巻き込まれないよう注意してください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163913</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163913A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163913.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163913L.xml</xmlLightUrl>
-        <koukanCd>301F</koukanCd>
     </mail>
 </opendata>
