@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/29 20:45:49" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/03/29 21:30:49" mailCount="29" odType="02">
+    <mail>
+        <keyCd>163973</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/29 20:50:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月２９日午後２時時点）</title>
+        <lead>カタール航空は2026年４月15日までのドーハ発着便の段階的な増便を反映した最新のスケジュールを公表しました。
+
+Qatarairways.com/travelupdates</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163973</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163973A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163973.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163973L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163972</keyCd>
         <infoType>R10</infoType>
@@ -776,24 +796,5 @@ https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C021.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163938.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163938L.xml</xmlLightUrl>
         <koukanCd>301V</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163937</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/27 21:15:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0090</cd>
-        </country>
-        <title>イスタンブール市内におけるデモの注意喚起</title>
-        <lead>●明日（土）16時00分から、イスタンブール市内地下鉄Ｍ２線レヴェント（Levent）駅前から在イスタンブール・イスラエル総領事館へのデモ行進が呼びかけられております。
-●不測の事態に備え、可能な限りデモや集会には近づかないようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163937</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163937A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163937.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163937L.xml</xmlLightUrl>
-        <koukanCd>709T</koukanCd>
     </mail>
 </opendata>
