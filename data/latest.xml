@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/29 14:10:50" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/03/29 15:00:50" mailCount="31" odType="02">
+    <mail>
+        <keyCd>163965</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/29 14:50:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0093</cd>
+        </country>
+        <title>アフガニスタン・パキスタン情勢に係る注意喚起（その３）</title>
+        <lead>○ ２月２１日以降、アフガニスタン・パキスタン間の攻撃の応酬が継続しています。３月１６日夜には、首都カブールを含むアフガニスタン国内の複数箇所において、パキスタン側からの攻撃が行われた模様であり、カブール市内においても複数の場所において空爆が行われた結果、市内の医療施設が破壊され、数百名を越える民間人の死傷者が発生したとされています。また両国は、ラマダン明け大祭に先立ち、同期間中の停戦を表明していましたが、同期間中においても、アフガニスタン国内の地方都市において、パキスタン側からと思われる攻撃事案が複数発生したと報じられています。
+
+○ これらの国内治安情勢に加えて、最近の中東地域全体の緊張の高まりもあり、カブール国際空港を離発着する国際線商用便の遅延やキャンセルの可能性にも引き続き留意する必要があります。
+
+○ アフガニスタン全土に危険レベル４の退避勧告が発出されています。どのような目的であれアフガニスタンの渡航は止めていただくよう従来お願いしているところですが、現在の情勢は流動的であり、予断を許さない状況です。アフガニスタンにおいては、小さなきっかけで治安が急速に悪化することもあり得ます。繰り返しになりますが、アフガニスタンへの渡航は、どのような目的であれ止めてください。既に滞在されている方は直ちに退避してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163965</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163965A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163965.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163965L.xml</xmlLightUrl>
+        <koukanCd>701A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163964</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/29 14:35:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（３月２９日 ９時００分）</title>
+        <lead>○本日、ドバイ国際空港（DXB）では、成田行き及び羽田行きの便は運航され、すでに出発しました。今後の運航につきましては、空港・航空会社のホームページ等をご確認ください。 
+https://dubaiairports.ae/　（ドバイ国際空港HP）   
+https://www.emirates.com/ae/english/　（エミレーツ航空HP） 
+
+○３月２７日、豪州政府はドバイ国際空港近くにあるLe Meridien Hotel付近において継続的な脅威が存在するとし、ドバイのホテル周辺でのリスクが高まっている旨のアラートを出しています。空港やホテル周辺においては特に注意していただき、不要不急の訪問はお控えください。 
+https://www.smartraveller.gov.au/destinations/middle-east/united-arab-emirates 
+（豪州政府HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163964</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163964A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163964.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163964L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163963</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/29 14:30:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>中東情勢に伴う注意喚起について（３月２９日）</title>
+        <lead>３月２９日、イラン革命防衛隊は、米国とイスラエルの攻撃によって国内の大学2校が破壊されたとして、イスラエルの全ての大学及び中東にある米国系大学が標的となる可能性があると警告しました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163963</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163963A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163963.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163963L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163962</keyCd>
         <infoType>R10</infoType>
@@ -757,26 +821,5 @@ GULF NEWS：https://gulfnews.com/uae/weather/heavy-rain-and-thunderstorms-sweep-
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163926.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163926L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163924</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/27 14:25:46</leaveDate>
-        <area>
-            <cd>20</cd>
-        </area>
-        <country areaCd="20">
-            <cd>0061</cd>
-        </country>
-        <title>宗教関連祝祭日やイベント等に関連した安全対策</title>
-        <lead>●宗教に関連した祝祭日やイベントにおいては、人の集まりや移動が増えるため、テロの標的とされる可能性が高まります。
-●４月１日（水）から約１週間は、ユダヤ教の過越祭（ペサハ）、４月５日（日）にはキリスト教の復活祭（イースター）が予定されています。
-●現下の中東情勢に鑑みれば、中東地域以外でも、警備や監視が手薄で一般市民が多く集まる場所（ソフトターゲット）を狙った、テロ等の不測の事態が発生する可能性は排除されません。特に、イベント会場、ショッピングモール、レストラン、公共交通機関（空港や主要駅を含む）、宗教関連施設等の人が多く集まる場所は、テロの標的となりやすいです。 
-●常に最新情報の入手に努めるとともに、ご自身の安全確保に十分注意を払ってください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163924</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163924A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163924.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163924L.xml</xmlLightUrl>
-        <koukanCd>614E</koukanCd>
     </mail>
 </opendata>
