@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/30 22:10:49" mailCount="28" odType="02">
+<opendata dataType="L" lastModified="2026/03/30 22:45:50" mailCount="29" odType="02">
+    <mail>
+        <keyCd>163994</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/30 22:45:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0239</cd>
+        </country>
+        <title>【情報提供】サントメ・プリンシペにおける観光税の徴収方法の変更について</title>
+        <lead>　報道によれば、サントメ・プリンシペ政府当局は、これまで宿泊施設において徴収していた観光税について、入国時に一括徴収する方式への変更に向けた試験運用を開始した旨発表しました。
+
+　主な内容は以下のとおりです。
+
+・外国人観光客は、入国時に一人当たり25ユーロの観光税を支払う必要があります。
+・従来は宿泊施設において1泊あたり約3ユーロが徴収されていましたが、今後は入国時の一括支払いとなるとされています。
+・支払いは空港において行われ、現金、クレジットカード、オンライン決済の方法が利用可能とされています。
+・本観光税は外国人観光客に適用され、自国民、12歳未満の子ども、6時間以内のトランジット客等は免除されるとされています。
+・本制度の導入に伴い、ホテルや宿泊施設において観光税が徴収されなくなるとされています。
+
+　同国に渡航される予定の方におかれましては、あらかじめご留意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163994</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163994A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163994.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163994L.xml</xmlLightUrl>
+        <koukanCd>B77A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163993</keyCd>
         <infoType>R10</infoType>
