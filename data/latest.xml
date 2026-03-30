@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/30 21:30:50" mailCount="27" odType="02">
+<opendata dataType="L" lastModified="2026/03/30 22:10:49" mailCount="28" odType="02">
+    <mail>
+        <keyCd>163993</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/30 21:35:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>ミサイル、ドローンへの防空対処、攻撃の着弾及び被害状況等の撮影、SNS投稿・共有に関する注意喚起</title>
+        <lead>１　３月２７日、サウジアラビア国防省は「ミサイル及びドローンへの防空対処、落下地点等に関連する撮影、公開及び共有は法的責任を負うことになる」旨発表しました。
+　https://x.com/i/status/2037537352168391141</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163993</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163993A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163993.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163993L.xml</xmlLightUrl>
+        <koukanCd>708D</koukanCd>
+    </mail>
     <mail>
         <keyCd>163991</keyCd>
         <infoType>R10</infoType>
