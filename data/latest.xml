@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/31 00:55:50" mailCount="29" odType="02">
+<opendata dataType="L" lastModified="2026/03/31 01:20:52" mailCount="31" odType="02">
+    <mail>
+        <keyCd>163999</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/31 01:10:57</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0051</cd>
+        </country>
+        <title>アヤクチョ州・ワンカベリカ州・クスコ州・フニン州の一部地域に対する非常事態宣言の延長</title>
+        <lead>●ペルー政府は、テロ・麻薬対策のため、アヤクチョ州、ワンカベリカ州、クスコ州、フニン州の一部地域に対する非常事態宣言の延長を官報に告示しました。
+●同地域では、センデロ・ルミノソ等のテロ組織が麻薬生産等の活動をしており、テロ事件等も発生しています。同地域には立ち入らないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163999</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163999A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163999.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163999L.xml</xmlLightUrl>
+        <koukanCd>412A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163998</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/31 01:10:57</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0033</cd>
+        </country>
+        <title>中東情勢を踏まえた注意喚起（続報）</title>
+        <lead>　報道等によれば、３月２８日（土）未明、パリ市第８区に所在するバンク・オブ・アメリカ（Bank of America）パリ支店に対する襲撃未遂事件が発生し、当該事件と現在の中東情勢との関連の可能性が指摘されています。
+
+　つきましては、目下の中東情勢を踏まえ、以下について改めてご注意ください。
+１　フランス国内においても、従来から中東情勢の緊張を背景とするデモ・集会が頻繁に行われており、また、関連国の政府機関や施設周辺でも、不測の事態が発生する可能性を踏まえ、注意が必要です。
+　　報道等により最新の情勢を把握するよう努めるとともに、不測の事態に巻き込まれることのないようご注意ください。関連する集会やイベントが行われている現場には近づかないよう、また、万一そのような現場に遭遇した場合には、速やかにその場を離れる等、安全の確保を優先するよう心がけてください。
+
+２　現在、中東またはその周辺地域を発着する航空便の欠航、空港の一時閉鎖等の状況が生じています。航空便のご利用予定がある方は、ご自身がご利用する航空便の確認・変更等、必要に応じお早めに対応ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163998</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163998A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163998.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163998L.xml</xmlLightUrl>
+        <koukanCd>505H</koukanCd>
+    </mail>
     <mail>
         <keyCd>163997</keyCd>
         <infoType>R10</infoType>
