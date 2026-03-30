@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/31 03:25:49" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/03/31 04:05:49" mailCount="32" odType="02">
+    <mail>
+        <keyCd>164001</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/31 03:50:45</leaveDate>
+        <title>【注意喚起】不審メール（SMS詐欺メッセージ）への対応</title>
+        <lead>○ケンタッキー州運輸省（KYTC）は、州当局や州高速道路安全局、運転免許事務所等を騙る詐欺メッセージ（SMS）への注意を呼びかけています。
+
+○このメッセージは、「未払いの交通違反切符」や「交通違反」があるとして、「支払期限が迫っている」ことや、解決されない場合は「法的措置が取られる」と警告し、州政府のウェブサイト等に酷似した偽サイトへ誘導して個人情報や銀行口座情報等を入力させ、これらの情報や金銭を盗むものです。
+
+○このようなメッセージを受け取った場合は以下に留意し、詐欺被害に遭わないよう注意してください。
+・安易にリンクをクリックしない。
+・安易に返信をしない。
+・不審なサイトでは、個人情報や銀行口座情報等を入力しない。
+・関係当局の連絡先を調査し、確認を取る。
+
+○ケンタッキー州では、詐欺を見分けるヒントや不審なSMSを受信した場合の対処法に関し、stopscams.ky.govに情報を掲示しています。また、同様の詐欺事件は、ケンタッキー州に限らず、他の州でも発生しています。身に覚えのない案件に対しては、慎重な対応を心がけてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164001</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164001A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164001.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164001L.xml</xmlLightUrl>
+        <koukanCd>301X</koukanCd>
+    </mail>
     <mail>
         <keyCd>163999</keyCd>
         <infoType>R10</infoType>
