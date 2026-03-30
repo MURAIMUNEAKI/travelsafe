@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/30 20:25:48" mailCount="27" odType="02">
+<opendata dataType="L" lastModified="2026/03/30 20:55:48" mailCount="27" odType="02">
+    <mail>
+        <keyCd>163991</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/30 20:40:56</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0033</cd>
+        </country>
+        <title>中東情勢を踏まえた注意喚起（続報）</title>
+        <lead>　報道等によれば、３月２８日（土）未明、パリ市第８区に所在するバンク・オブ・アメリカ（Bank of America）パリ支店に対する襲撃未遂事件が発生し、当該事件と現在の中東情勢との関連の可能性が指摘されています。
+
+　つきましては、目下の中東情勢を踏まえ、以下について改めてご注意ください。
+
+１　当地においても、従来から中東情勢の緊張を背景とするデモ・集会が頻繁に行われており、また、関連国の政府機関や施設周辺でも、不測の事態が発生する可能性を踏まえ、注意が必要です。
+　　報道等により最新の情勢を把握するよう努めるとともに、不測の事態に巻き込まれることのないようご注意ください。関連する集会やイベントが行われている現場には近づかないよう、また、万一そのような現場に遭遇した場合には、速やかにその場を離れる等、安全の確保を優先するよう心がけてください。
+
+２　現在、中東またはその周辺地域を発着する航空便の欠航、空港の一時閉鎖等の状況が生じています。航空便のご利用予定がある方は、ご自身がご利用する航空便の確認・変更等、必要に応じお早めに対応ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163991</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163991A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163991.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163991L.xml</xmlLightUrl>
+        <koukanCd>505A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>163990</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/30 20:35:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0974</cd>
+        </country>
+        <title>ハマド国際空港情報（３月３０日午後２時時点）</title>
+        <lead>カタール航空は2026年４月15日までのドーハ発着便の段階的な増便を反映した最新のスケジュールを公表しています。
+
+Qatarairways.com/travelupdates</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163990</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163990A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163990.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163990L.xml</xmlLightUrl>
+        <koukanCd>756A</koukanCd>
+    </mail>
     <mail>
         <keyCd>163989</keyCd>
         <infoType>R10</infoType>
@@ -759,81 +804,5 @@ Qatarairways.com/travelupdates</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163962.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163962L.xml</xmlLightUrl>
         <koukanCd>756A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163961</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/28 20:45:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>クウェート国際空港の状況（3月28日14:00時点）について</title>
-        <lead>○3月28日（現地時間）、クウェート民間航空局はクウェート国際空港が複数のドローンの標的となり、物的被害が発生した旨発表しました。
-
-○3月28日14:00時点（現地時間）、クウェート国際空港は閉鎖されています。
-邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
-
-○同空港のサイトを以下のとおりお知らせします。
-クウェート国際空港（Kuwait International Airport）
-https://www.kuwaitairport.gov.kw/en/　
-※	クウェート発着便の運行状況について確認できます。
-
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163961</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163961A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163961.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163961L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163959</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/28 20:30:41</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0977</cd>
-        </country>
-        <title>デモに対する注意喚起（3月28日第2報)</title>
-        <lead>　警察などによれば、本日（3月28日）、オリ元首相の逮捕により、ネパール共産党（統一マルクス・レーニン主義）（UML）がデモを実施しており、カトマンズ盆地内では、
-・　カトマンズ市Maitighar MandalaからNew Baneshwor間において、800人規模の抗議者と治安機関の衝突
-・　カトマンズ市Bhrikutimandap付近のRatna Rajya College前において、タイヤを燃やす抗議活動
-・　ラリトプール郡ChyasalのUML事務所前において、文書を燃やす抗議活動
-が確認されているとのことです。
-
-　また、明日（3月29日）は、正午頃から、ネパール全77地区の役所（ District Administration Office）前においてデモが行われ、カトマンズでは約1,500人規模のデモが行われる見込みとのことです。
-
-　在留邦人や旅行者の皆様におかれましては、上記抗議活動の場や、デモ、集会、政党事務所などには近づかず、また、報道等で最新の情報を入手の上、安全確保に努め、不測の事態に巻き込まれることのないよう十分注意をお願いします。
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-※　この情報は、お知り合いの方や旅行者にもお知らせください。
-※　このメールは、在留届にて届けられたメールアドレス及び「たびレジ」に登録されたメールアドレスに自動的に配信されております。「たびレジ」簡易登録をされた方でメールの配信を停止されたい方は、以下のURLから停止手続きをお願いします。
-https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
-
-※　帰国や転勤などにより既に当地に住んでいない方は、以下の領事班代表メールにご連絡ください。
-
-在ネパール日本国大使館
-代表電話：+977(国番号)-1-4526680
-領事班代表メール：consular-emb@km.mofa.go.jp
-※　閉館時間帯（夜間や週末、休館日など）に事件事故など真に緊急の用件にて当館に連絡を希望される場合、上記大使館代表電話から緊急電話対応者に転送されます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163959</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163959A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163959.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163959L.xml</xmlLightUrl>
-        <koukanCd>617A</koukanCd>
     </mail>
 </opendata>
