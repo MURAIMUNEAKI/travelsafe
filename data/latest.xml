@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/31 18:05:50" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/03/31 18:30:49" mailCount="30" odType="02">
     <mail>
         <keyCd>164011</keyCd>
         <infoType>R10</infoType>
@@ -854,29 +854,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163971.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163971L.xml</xmlLightUrl>
         <koukanCd>757A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163970</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/29 18:10:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0966</cd>
-        </country>
-        <title>イラン関連情報第１７報：ミサイル、ドローンへの防空対処、攻撃の着弾及び被害状況等の撮影、SNS投稿・共有に関する注意喚起</title>
-        <lead>１　３月２７日、国防省は「ミサイル及びドローンへの防空対処、落下地点等に関連する撮影、公開及び共有は法的責任を負うことになる」旨発表しました。
-　https://x.com/i/status/2037537352168391141
-
-２　他の湾岸諸国では、類似する行為を行った者が逮捕されたという報道もなされています。在留邦人の皆様におかれましては、ミサイル・ドローンへの防空対処状況や、攻撃の着弾及び被害状況等の撮影、SNSへの投稿・共有等は、現地の法律によって罰せられるリスクがあることを十分に認識し、厳に慎むようお願いいたします。
-
-３　また、引き続き不測の事態に備え、米国関連施設、軍事関連施設、石油施設等、攻撃の対象となる可能性のある施設には近づかない（写真撮影等も厳禁）ほか、信頼できる公式の情報源から最新情報を確認し、ご自身の安全確保に努めて下さい。
-　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163970</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163970A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163970.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163970L.xml</xmlLightUrl>
-        <koukanCd>708A</koukanCd>
     </mail>
 </opendata>
