@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/31 15:00:51" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/03/31 15:35:49" mailCount="30" odType="02">
+    <mail>
+        <keyCd>164004</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/31 15:15:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>モディ首相訪問に伴うチェンナイ市内の警戒強化について</title>
+        <lead>１．報道等によりますと、本年４月３日から４日にかけて、モディ首相がプドゥチェリー連邦直轄地及びタミル・ナド州チェンナイを訪問することに伴い、チェンナイ市内の警備が強化されます。
+
+２．チェンナイ市内においては、チェンナイ国際空港及びマイラポール、ティーナガール地区付近において政治集会が行われることに伴い、大規模な警備体制が敷かれます。付近を通行予定の方や空港ご利用予定の方におかれましては時間に十分余裕を持って行動してください。
+
+３．今後も州内への要人訪問及び同様の警備体制が予想されますので、ニュース・新聞等の報道にご留意いただくようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164004</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164004A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164004.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164004L.xml</xmlLightUrl>
+        <koukanCd>606T</koukanCd>
+    </mail>
     <mail>
         <keyCd>164003</keyCd>
         <infoType>R10</infoType>
@@ -842,43 +864,5 @@ ISRAIR AIRLINES &lt;5&gt;
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163967.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163967L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163966</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/29 15:35:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0965</cd>
-        </country>
-        <title>米国系大学等に対する脅威情報について(3月29日)</title>
-        <lead>○報道によれば、3月29日(現地時間)、イスラム革命防衛隊はイラン国内の大学への攻撃を受けて、地域内の米国系大学およびイスラエルの全ての大学を標的にする可能性を示唆し、人々は同大学から半径1キロ以内に留まらないように警告しています。
-( https://t.me/Tasnimnews/402183 )
-
-○不測の事態に備え、不要不急の外出を控えるとともに複数の情報源から最新情報を確認し、ご自身の安全確保に努めてください。情報の入手に当たっては、信頼のおける報道等の情報源に当たるよう心がけてください。
-
-○爆発音が聞こえた場合には、
-屋外にいる場合　…　近くの建物や地下へ避難、物陰に身を隠す
-屋内にいる場合　…　窓から離れる、窓のない部屋に移動する
-といった行動の徹底をお願いします。
-
-在クウェート日本国大使館
-当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
-メールアドレス： consular@kw.mofa.go.jp 
-電話：（+965）2530-9400
-
-※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
-※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。
-（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163966</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163966A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163966.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163966L.xml</xmlLightUrl>
-        <koukanCd>706A</koukanCd>
     </mail>
 </opendata>
