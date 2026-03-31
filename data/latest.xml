@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/31 16:05:49" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/03/31 16:35:49" mailCount="30" odType="02">
     <mail>
         <keyCd>164005</keyCd>
         <infoType>R10</infoType>
@@ -860,29 +860,5 @@ ISRAIR AIRLINES &lt;5&gt;
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163968.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163968L.xml</xmlLightUrl>
         <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163967</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/29 16:15:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>米国関連大学への脅威情報(３月２９日）</title>
-        <lead>１．３月２９日(現地時間)、イランのイスラム革命防衛隊（IRGC）は、関連するテレグラム（SNS）において、イラン国内の大学が攻撃された旨を主張しつつ、「地域内の全ての米国系大学は正当な標的となる。」「職員、学生等は当該大学から半径１キロメートル以内に近づかないよう警告する。」との声明を投稿しました。
-タスニーム通信（ペルシャ語）：https://t.me/Tasnimnews/402183 
-２．当該内容を踏まえ、当面の間、米国系大学及びその近傍施設への立ち寄り等は避けるようにしてください。
-３．また、ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合は、決して近づくことなく、
-　　屋外にいる場合：近くの建物や地下への避難、物陰に身を隠す
-　　屋内にいる場合：窓から離れる、窓のない部屋に移動する
-といった、ご自身の身を守る行動を最優先に行うようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163967</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163967A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163967.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163967L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
     </mail>
 </opendata>
