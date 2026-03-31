@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/03/31 16:35:49" mailCount="30" odType="02">
+<opendata dataType="L" lastModified="2026/03/31 17:05:50" mailCount="31" odType="02">
+    <mail>
+        <keyCd>164009</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/03/31 17:05:41</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>インド入国カード電子版への完全移行</title>
+        <lead>【ポイント】
+●４月１日より、インドへの入国審査の際に提出する入国カード（Arrival Card）は電子版へ移行されます。
+●電子版の入国カードは、インド到着前７２時間以内に専用ウェブサイトでの手続きが必要です。
+
+【本文】
+１　昨年１０月、インド当局はインド入国カードの電子版（e-Arrival Card）を導入しましたが、３月３１日まで、移行期間として紙媒体による入国カードも認められていました。
+２　移行期間の終了に伴い、４月１日より、入国カードが電子版に完全に移行されますので、インド入国管理局の専用ウェブサイト (https://indianvisaonline.gov.in/earrival/) 上において、必要情報の入力をインド到着前７２時間以内に済ませる必要があるとのことです。
+３　本件措置を含むインド入国に関するお問い合わせは、下記の各インド当局宛にご照会ください。
+
+在京インド大使館　https://www.indembassy-tokyo.gov.in/ 
+インド内務省入国管理局　https://indianvisaonline.gov.in/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164009</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164009A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164009.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164009L.xml</xmlLightUrl>
+        <koukanCd>606F</koukanCd>
+    </mail>
     <mail>
         <keyCd>164005</keyCd>
         <infoType>R10</infoType>
