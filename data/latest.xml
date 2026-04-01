@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/02 00:00:53" mailCount="56" odType="02">
+<opendata dataType="L" lastModified="2026/04/02 00:30:51" mailCount="58" odType="02">
+    <mail>
+        <keyCd>164071</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 00:25:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0044</cd>
+        </country>
+        <title>宗教関連イベント期間のテロに関する注意喚起</title>
+        <lead>　宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、テロの標的とされる可能性が高まります。特に現在、中東情勢の悪化を受け、中東地域以外でも不測の事態が発生する可能性は排除できません。
+
+　４月１日（水）からは約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月５日（日）にはキリスト教の復活祭（イースター）が予定されています。
+ 
+　常に最新情報の入手に努め、安全確保に十分注意を払ってください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164071</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164071A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164071.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164071L.xml</xmlLightUrl>
+        <koukanCd>518E</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>164070</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 00:15:42</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0381</cd>
+        </country>
+        <country areaCd="42">
+            <cd>0382</cd>
+        </country>
+        <title>最近のセルビア各地における衝突事案について</title>
+        <lead>【ポイント】 
+・最近、セルビア各地で暴力を伴う衝突事案が増加しています。 
+・今後も散発的に同様の衝突事案が発生する可能性があることから、大規模な集会や警察との衝突を認知した場合は、なるべく近づかずに十分な距離を取ることを心がけて下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164070</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164070A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164070.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164070L.xml</xmlLightUrl>
+        <koukanCd>520A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164069</keyCd>
         <infoType>R10</infoType>
