@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/02 01:25:49" mailCount="57" odType="02">
+<opendata dataType="L" lastModified="2026/04/02 01:50:49" mailCount="58" odType="02">
+    <mail>
+        <keyCd>164075</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 01:30:40</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0048</cd>
+        </country>
+        <title>【安全情報】宗教関連の祝祭日等におけるテロに関する注意喚起</title>
+        <lead>１ 宗教に関連する祝祭日やイベントでは、人の集まりや移動が増えるため、不特定多数の市民を標的としたテロのリスクが高まります。また、現在、中東情勢が悪化しており、情勢に影響を受けた不測の事態が発生する可能性も否定できません。 
+
+２ ４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月５日（日）にはキリスト教のカトリックの復活祭（イースター）、４月１２日（日）には東方正教会の復活祭が予定されています。
+
+３ 近年、警備や監視が手薄で、一般市民が多く集まる場所（ソフトターゲット）を標的としたテロが発生しています。これらは組織とのつながりが薄い単独犯による場合が多く、事前の取締りが難しいため、今後も継続することが懸念されます。  
+
+４ ついては、外務省が発出した以下の「広域情報」をご参照の上、一層の安全対策にご留意ください。  
+２０２６年２月１３日付外務省「広域情報」：
+https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C012.html
+
+
+【お問い合わせ先】 
+在ポーランド日本国大使館　領事班 
+☆電話：＋４８ ２２ ６９６ ５００５※開館時間のみ[09:00～12:30、13:30～17:00]。開館時間外に緊急を要する場合には大使館代表番号（+48 22 696 5000）へお掛けください（閉館時電話対応委嘱業者がまずは伺うことになります）。 
+☆メール：cons@wr.mofa.go.jp  
+☆ＨＰ：https://www.pl.emb-japan.go.jp/itpr_ja/ryouji.html
+
+※災害や騒乱等が発生した際、ご家族、ご友人、同僚を守るため、一人でも多く
+の方に安全対策に関する情報が届くよう、在留届（3か月以上の滞在）の届出、又はたびレジ（3か月未満の滞在）の登録を、お知り合いの方や出張者・旅行者にご案内いただきますようお願いいたします。
+
+＜たびレジ＞
+https://www.ezairyu.mofa.go.jp/tabireg/index.html
+＜オンライン在留届＞
+https://www.ezairyu.mofa.go.jp/RRnet/index.html</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164075</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164075A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164075.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164075L.xml</xmlLightUrl>
+        <koukanCd>512A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164074</keyCd>
         <infoType>R10</infoType>
