@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/01 19:30:49" mailCount="50" odType="02">
+<opendata dataType="L" lastModified="2026/04/01 20:00:50" mailCount="51" odType="02">
+    <mail>
+        <keyCd>164054</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/01 19:35:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>イラン関連情報第１８報：米国関連企業に対する脅威情報</title>
+        <lead>１　３月３１日夜、イランの革命防衛隊系メディアは、これまでの米・イスラエルによるイラン国民を標的とした攻撃において米国のICT及びAI企業が関与しているとして、以下18社を正当な標的とするなどと警告しました。
+対象企業：(1)Cisco, (2)HP, (3)Intel, (4)Oracle, (5)Microsoft, (6)Apple, (7)Google, (8)Meta, (9)IBM, (10)DELL, (11)Palantir, (12)Nvidia,(13)J.P.Morgan, (14)Tesla, (15)General Electric, (16)Spire Solutions,(17)Group 42, (18)Boeing
+
+２　さらに、上記企業周辺の住民に対して、半径１キロメートル以内の場所から避難するよう警告するとともに、今後イラン国内で暗殺行為が発生した場合、４月１日午後８時（テヘラン時間）以降、上記企業が攻撃されることを覚悟するよう警告しました。
+
+３　これを受けて同日、在サウジアラビア米国大使館は、セキュリティ・アラートを以下のとおり更新しています。
+－ 米国市民が集まる場所に対する脅迫の報告をフォローしています。米国市民の皆様には、ホテル、その他米国内の企業や教育機関を含む集会場所が標的となる可能性があることにご留意ください。
+https://sa.usembassy.gov/security-alert-u-s-embassy-riyadh-saudi-arabia-march-31-2026/
+
+４　在留邦人の皆様におかれましては、引き続き、
+－ 攻撃の対象となる可能性のある施設には近づかない（写真撮影も厳禁）
+－ ミサイル・ドローン、着弾状況等の写真撮影、SNSへの投稿・共有を行わない
+－ 信頼できる公式の情報源からの最新情報を確認する
+などして、ご自身の安全確保に努めてください。
+　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164054</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164054A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164054.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164054L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164053</keyCd>
         <infoType>R10</infoType>
