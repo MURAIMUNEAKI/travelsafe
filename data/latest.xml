@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/02 05:45:49" mailCount="59" odType="02">
+<opendata dataType="L" lastModified="2026/04/02 06:25:49" mailCount="60" odType="02">
+    <mail>
+        <keyCd>164080</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 06:10:40</leaveDate>
+        <area>
+            <cd>33</cd>
+        </area>
+        <country areaCd="33">
+            <cd>0591</cd>
+        </country>
+        <title>注意喚起：サンタクルス-コチャバンバ間旧街道の通行について</title>
+        <lead>●降雨により、3月28日夜にはサンタクルスーコチャバンバ間（旧街道）で再び土砂崩れが発生し、落石により死傷者が出て、道路が一時期閉鎖されました。
+●道路復旧後、4月1日未明に再度発生した土砂崩れにより、ラ・アンゴストゥーラ-サマイパタ間の道路が再度閉鎖されています。
+●また、洪水のため閉鎖されているサンロレンソ-サリナス間でも、車両通行止めが続いています。
+●今後も、サンタクルスーコチャバンバ間(旧街道)では土砂崩れ等が発生するおそれがあるため、当面の間、同区間の不要不急のバスを含む車両による移動はできるだけ控えるようにしてください。
+●また、今後も洪水等の恐れがありますので、河川周辺地域には近づかないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164080</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164080A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164080.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164080L.xml</xmlLightUrl>
+        <koukanCd>002A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164079</keyCd>
         <infoType>R10</infoType>
