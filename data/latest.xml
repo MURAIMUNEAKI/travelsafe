@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/01 14:25:49" mailCount="50" odType="02">
+<opendata dataType="L" lastModified="2026/04/01 15:15:49" mailCount="51" odType="02">
+    <mail>
+        <keyCd>164043</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/01 15:10:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0260</cd>
+        </country>
+        <title>【注意喚起】ルサカ市内のデモの可能性について</title>
+        <lead>令和８年４月１日
+在ザンビア日本国大使館
+○４月１日７時現在、ルサカ市内のザンビア大学周辺にて、学生による抗議デモの可能性があるとの複数の情報が確認されました。 ○邦人の皆様におかれましては、同大学周辺には不用意に近づかないようお願いするとともに、安全確保に十分ご留意ください。 
+以下、事案の詳細および注意喚起事項をお伝えします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164043</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164043A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164043.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164043L.xml</xmlLightUrl>
+        <koukanCd>725A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>164042</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/01 15:00:42</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>イランからの攻撃に伴う注意喚起（４月１日 ９時３０分）</title>
+        <lead>○本日、ドバイ国際空港（DXB）では、成田行き及び羽田行きの便は運航され、すでに出発しました。今後の運航につきましては、空港・航空会社のホームページ等をご確認ください。 
+https://dubaiairports.ae/　（ドバイ国際空港HP）   
+https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164042</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164042A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164042.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164042L.xml</xmlLightUrl>
+        <koukanCd>755D</koukanCd>
+    </mail>
     <mail>
         <keyCd>164039</keyCd>
         <infoType>R10</infoType>
@@ -1243,25 +1284,5 @@ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163977.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163977L.xml</xmlLightUrl>
         <koukanCd>605D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163975</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/30 15:00:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月３０日 ９時３０分）</title>
-        <lead>○本日、ドバイ国際空港（DXB）では、成田行き及び羽田行きの便は運航され、すでに出発しました。今後の運航につきましては、空港・航空会社のホームページ等をご確認ください。 
-https://dubaiairports.ae/　（ドバイ国際空港HP）   
-https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163975</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163975A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163975.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163975L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
