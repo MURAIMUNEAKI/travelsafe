@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/01 19:00:49" mailCount="48" odType="02">
+<opendata dataType="L" lastModified="2026/04/01 19:30:49" mailCount="50" odType="02">
+    <mail>
+        <keyCd>164053</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/01 19:20:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>米国関連企業への脅威情報(４月１日）</title>
+        <lead>１．3月31日(現地時間)、イランのイスラム革命防衛隊（IRGC）関連のテレグラム（SNS）において、「イランへの攻撃において主要な役割を果たしている米国のICT及びAI企業を標的にする。」「地域内の関連企業の従業員及び周辺住民は半径１キロメートル以内から離れること。」「現地時間の4月1日午後8時（バーレーン時間午後7時30分）以降、イラン国内への攻撃が発生する度に、当該企業は攻撃され得る。」旨の内容を投稿し、関連企業としてCisco、Oracle、Microsoft、GP.Morgan等18の企業を名指しました。
+（関連リンク：ペルシャ語）：https://t.me/sepahpasdaran/20555 
+２．これら企業は、World Trade CenterやFinancial Harbourが所在するManama地区北部やSeef地区等に所在しているとの情報もあることから、本声明内容を踏まえ、当面の間、関連する可能性のある施設及びその近傍施設への不要不急の立ち寄りは避けるようにしてください。
+３．また、ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合は、決して近づくことなく、
+　　屋外にいる場合：近くの建物や地下への避難、物陰に身を隠す
+　　屋内にいる場合：窓から離れる、窓のない部屋に移動する
+といった、ご自身の身を守る行動を最優先に行うようお願いします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164053</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164053A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164053.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164053L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>164052</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/01 19:10:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0091</cd>
+        </country>
+        <title>西ベンガル州議会総選挙期間中の注意喚起</title>
+        <lead>＜ポイント＞
+●西ベンガル州では、西ベンガル州議会総選挙が、４月２３日と４月２９日の２段階で実施されます。
+●５月４日の開票・結果発表までの間は、各地で選挙運動の加熱化や政党間支持者の衝突、投票妨害等不測の事態が発生する恐れは排除できませんので、選挙関連の現場にはできるかぎり近づかず、やむを得ない場合も十分に注意してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164052</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164052A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164052.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164052L.xml</xmlLightUrl>
+        <koukanCd>606E</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>164051</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/01 19:05:44</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0041</cd>
+        </country>
+        <title>宗教関連イベントにおけるテロに関する注意喚起</title>
+        <lead>●宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、無差別テロに遭遇する可能性が高まります。特に現在、中東情勢が悪化しており、中東地域以外でも、不測の事態が発生する可能性は排除されません。  
+●４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月５日（日）にはキリスト教の復活祭（イースター）が予定されています。  
+●常に最新情報の入手に努め、安全確保に十分注意を払ってください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164051</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164051A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164051.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164051L.xml</xmlLightUrl>
+        <koukanCd>516A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164050</keyCd>
         <infoType>R10</infoType>
@@ -1092,44 +1156,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163989.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163989L.xml</xmlLightUrl>
         <koukanCd>706A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>163987</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/30 19:25:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>大使館からの情報発信・トランジット含む渡航に関する注意喚起（３月３０日午後２時）</title>
-        <lead>１　現在、アラブ首長国全域は危険情報レベル３（渡航中止勧告）となっております。
-https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T028.html#ad-image-0
- 
-２　航空便の運航状況
-ザイード国際空港の運航発着情報や航空便の運行状況については流動的な状況です。
-今後は定期的に月曜日・金曜日を基準として、航空便の運航情報を配信いたします。
-トランジットで当地を渡航予定の方におかれましても、情勢の影響により、足止めされる可能性が高く、別ルートの検討をお勧めいたします。　
-邦人の皆様におかれては、関連情報を公式情報等から入手するようお願いします。
-●エティハド航空（３月３０日午後２時）
-https://www.etihad.com/en-jo/manage/flight-status
-●エティハド航空チケットHP※情勢によってはキャンセルされる可能性があり流動的です。
-https://www.etihad.com/en-jo/
-●Emirates News Agency-WAM
-https://www.wam.ae/en/home/main
-●Khaleej Times
-https://www.khaleejtimes.com/
- 
-３　米国・イスラエル関係施設（企業・金融・教育機関含む）、港及び石油関連施設及びその周辺地域は攻撃の標的にされる可能性があります。引き続き、これら関連施設などに近寄らず、不要不急の外出はお控えいただくとともに、特にUAE当局から、攻撃に関する緊急速報（アラート）がスマートフォンに配信された際は、十分ご注意ください。また、UAE当局による退避の呼びかけ等が発出された場合には、速やかに安全な場所へ退避してください。
-爆発音が聞こえた場合には、   
-屋外にいる場合：　近くの建物や地下へ避難し、物陰に身を隠してください   
-屋内にいる場合：　窓から離れ、窓のない部屋に移動してください
-なお、攻撃に際し、当地当局から指示等があった場合は、必ず従ってください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=163987</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163987A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163987.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/163987L.xml</xmlLightUrl>
-        <koukanCd>755A</koukanCd>
     </mail>
 </opendata>
