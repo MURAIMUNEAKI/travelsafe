@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/02 01:50:49" mailCount="58" odType="02">
+<opendata dataType="L" lastModified="2026/04/02 02:20:50" mailCount="59" odType="02">
+    <mail>
+        <keyCd>164076</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 02:00:40</leaveDate>
+        <area>
+            <cd>60</cd>
+        </area>
+        <country areaCd="60">
+            <cd>0222</cd>
+        </country>
+        <title>【モーリタニア】都市部における夜間車両通行禁止の決定について</title>
+        <lead>モーリタニア政府は、４月２日（木）から、都市部において午前０時から午前５時までの車両通行を禁止することを決定しました。
+国営通信報道によれば、これは国際的な原油の供給不足に対処するための決定であり、資源を効率的に使用することを目的としたものです。また、生活必需サービス、自転車、歩行者は通行禁止の対象外であり、バイクによる配達サービスは継続されるとされています。
+これにより、ヌアクショット市内では当面の間、前記時間帯における自家用自動車及びバイクの運転は禁止されますので、ご承知おきください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164076</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164076A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164076.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164076L.xml</xmlLightUrl>
+        <koukanCd>736A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164075</keyCd>
         <infoType>R10</infoType>
