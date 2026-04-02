@@ -1,5 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/02 17:55:49" mailCount="64" odType="02">
+<opendata dataType="L" lastModified="2026/04/02 18:25:49" mailCount="64" odType="02">
+    <mail>
+        <keyCd>164092</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 18:15:43</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0972</cd>
+        </country>
+        <country areaCd="50">
+            <cd>0970</cd>
+        </country>
+        <title>テルアビブ（ベン・グリオン）空港等の状況について（4月2日(木)12:00時点）</title>
+        <lead>・4月2日(木)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での極めて限定された運用となっています。 
+・イスラエル系航空会社のみによる特別運航（Recovery/Rescue/Emergency Flight）が継続しています。
+・3月23日(月)17時から、１時間あたり出発機１機、到着機１機の制限及びイスラエル出発便搭乗可能人数が50人となっています。
+・エル・アルの定期便は、4月11日(土)までキャンセルされています。
+・本日、「4月6日(月)出発便フライト予定」追加
+
+==============================
+◆イラン、ヒズボッラーからのミサイル等に 
+　よる攻撃が継続しています。  
+◆在留邦人・渡航者の方で、負傷等の被害に 
+　遭われた方や被害の情報に接した方がいらっ
+　しゃいましたら、下記の当館連絡先まで 
+　ご連絡をお願いします。 
+==============================
+
+▲▼▲▼▲▼新着情報▲▼▲▼▲▼ 
+
+■■ベン・グリオン空港運航状況 
+●公式ウェブページ（出発便情報） 
+https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures　
+※掲載されているのは4月6日(月)まで（本日、「4月6日分フライト予定」追加）。
+
+●4月2日(木)出発便フライト予定（22便）
+AIR HAIFA&lt;3&gt;
+----LARNACA 3
+ARKIA ISRAELI AIRLINES&lt;8&gt;
+----ATHENS 4
+----LARNACA 3
+----LARNACA via BANGKOK 1
+ISRAIR AIRLINES&lt;11&gt;
+----ATHENS 3
+----LARNACA 3
+----ROME    3
+----FRANKFURT    1
+----TBILISI    1</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164092</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164092A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164092.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164092L.xml</xmlLightUrl>
+        <koukanCd>705A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164090</keyCd>
         <infoType>R10</infoType>
@@ -1442,45 +1497,5 @@ Qatarairways.com/travelupdates</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164012.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164012L.xml</xmlLightUrl>
         <koukanCd>553A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164011</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/31 18:00:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0972</cd>
-        </country>
-        <country areaCd="50">
-            <cd>0970</cd>
-        </country>
-        <title>テルアビブ（ベン・グリオン）空港等の状況について（3月31日(火)12:00時点）</title>
-        <lead>・3月31日(火)12時現在（現地時間）、テルアビブ（ベン・グリオン）空港は、便数・搭乗者数を制限した状態での極めて限定された運用となっています。 
-・イスラエル系航空会社のみによる特別運航（Recovery/Rescue/Emergency Flight）が継続しています。
-・3月23日(月)17時から、１時間あたり出発機１機、到着機１機の制限及びイスラエル出発便搭乗可能人数が50人となっています。
-・エル・アルの定期便は、4月11日(土)までキャンセルされています。
-
-==============================
-◆イラン、ヒズボッラーからのミサイル等に 
-　よる攻撃が継続しています。  
-◆在留邦人・渡航者の方で、負傷等の被害に 
-　遭われた方や被害の情報に接した方がいらっ
-　しゃいましたら、下記の当館連絡先まで 
-　ご連絡をお願いします。 
-==============================
-
-▲▼▲▼▲▼新着情報▲▼▲▼▲▼ 
-
-■■ベン・グリオン空港運航状況 
-●公式ウェブページ（出発便情報） 
-https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departures　
-※従来、二日分の公開でしたが、本日は五日分まで拡大して公開されています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164011</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164011A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164011.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164011L.xml</xmlLightUrl>
-        <koukanCd>705A</koukanCd>
     </mail>
 </opendata>
