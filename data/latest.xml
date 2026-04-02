@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/02 23:20:50" mailCount="57" odType="02">
+<opendata dataType="L" lastModified="2026/04/03 00:00:51" mailCount="55" odType="02">
+    <mail>
+        <keyCd>164098</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 23:55:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0973</cd>
+        </country>
+        <title>バーレーン国際空港及びキング・ファハド・コーズウェイの状況（４月２日　１８：００現在）</title>
+        <lead>○ バーレーン国際空港は、引き続きバーレーンの空域が閉鎖されているため、バーレーン国際空港における離発着は行われていません。同空港が再開される等の情報がありましたら、改めてメールや当館ホームページでお知らせします。
+○ ダンマン空港におけるガルフエアの運航便について、新たにイスタンブール（トルコ）、アテネ（ギリシャ）、ティルヴァナンタプラム（インド）とダンマン間の運航が追加されました。
+○ 深夜帯の緊急警報システムの運用が４月１日から変更されました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164098</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164098A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164098.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164098L.xml</xmlLightUrl>
+        <koukanCd>727A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>164097</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 23:45:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>9007</cd>
+        </country>
+        <title>宗教関連イベントにおけるテロに関する注意事項</title>
+        <lead>●宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、無差別テロに遭遇する可能性が高まります。特に現在、中東情勢が悪化しており、中東地域以外でも、不測の事態が発生する可能性は排除されません。  
+●４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月１２日（日）にはロシア正教会の復活祭（キリスト教では４月５日（日））が予定されています。  
+●常に最新情報の入手に努め、安全確保に十分注意を払ってください。
+
+１ 宗教に関連した祝祭日やイベントは、人の集まりや移動が増えるため、無差別テロに遭遇する可能性が高まります。現在、中東情勢が悪化しており、中東地域以外でも、不測の事態が発生する可能性は排除されません。
+
+２ 近年、警備や監視が手薄で、一般市民が多く集まる場所（ソフトターゲット）を標的としたテロが各国で発生していますが、これらは組織とのつながりが薄い単独犯による場合が多く、事前の取締りが難しいため、こうしたテロの発生が今後も継続することが懸念されます。  
+
+３ ４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月１２日にはロシア正教会の復活祭（キリスト教では４月５日（日））が予定されています。 
+
+４ ついては、外務省が発出した以下の「広域情報」を御参照の上、テロの被害に遭うことのないよう十分御注意願います。  
+２０２６年２月１３日付外務省「広域情報」：
+https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C012.html
+
+５ 万一被害に遭った場合や邦人の被害を認知した場合は、警察に通報し対応を依頼するとともに、安全な場所に避難した後、当館まで御一報ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164097</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164097A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164097.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164097L.xml</xmlLightUrl>
+        <koukanCd>517F</koukanCd>
+    </mail>
     <mail>
         <keyCd>164096</keyCd>
         <infoType>R10</infoType>
@@ -1262,84 +1314,5 @@ https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164027.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164027L.xml</xmlLightUrl>
         <koukanCd>412A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164026</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/01 00:00:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0358</cd>
-        </country>
-        <title>【安全情報】宗教関連イベント期間等におけるテロに関する注意喚起</title>
-        <lead>●宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、テロの標的とされる可能性が高まります。 
-●４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月５日（日）にはキリスト教の復活祭（イースター）が予定されています。  
-●常に最新情報の入手に努め、安全確保に十分注意を払ってください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164026</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164026A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164026.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164026L.xml</xmlLightUrl>
-        <koukanCd>504A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164025</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/31 23:45:58</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0046</cd>
-        </country>
-        <title>（注意喚起）宗教関連イベント期間等におけるテロへの警戒について</title>
-        <lead>○　欧州各国で、米国及びイスラエル権益がテロの標的となるケースが相次いで発生しています。
-○　４月１日（水）から約１週間、ユダヤ教の過越の祭り（ペサハ）やキリスト教の復活祭（イースター）などのイベントが予定されており、人の集まりや移動が増える場所がテロの標的となる可能性があることから、安全確保に努めてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164025</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164025A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164025.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164025L.xml</xmlLightUrl>
-        <koukanCd>515A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164024</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/31 23:45:58</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0033</cd>
-        </country>
-        <title>宗教関連イベント期間等におけるテロに関する注意喚起</title>
-        <lead>●宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、テロの標的とされる可能性が高まります。 
-●４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月５日（日）にはキリスト教の復活祭（イースター）が予定されています。  
-●常に最新情報の入手に努め、安全確保に十分注意を払ってください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164024</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164024A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164024.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164024L.xml</xmlLightUrl>
-        <koukanCd>505E</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164023</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/31 23:25:42</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0033</cd>
-        </country>
-        <title>宗教関連イベント期間等におけるテロに関する注意喚起</title>
-        <lead>●宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、テロの標的とされる可能性が高まります。 
-●４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月５日（日）にはキリスト教の復活祭（イースター）が予定されています。  
-●常に最新情報の入手に努め、安全確保に十分注意を払ってください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164023</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164023A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164023.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164023L.xml</xmlLightUrl>
-        <koukanCd>505F</koukanCd>
     </mail>
 </opendata>
