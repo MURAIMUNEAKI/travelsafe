@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/02 14:40:49" mailCount="67" odType="02">
+<opendata dataType="L" lastModified="2026/04/02 15:35:50" mailCount="65" odType="02">
     <mail>
         <keyCd>164089</keyCd>
         <infoType>R10</infoType>
@@ -1509,56 +1509,5 @@ https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/?flightType=departure
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164005.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164005L.xml</xmlLightUrl>
         <koukanCd>614D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164004</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/31 15:15:41</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0091</cd>
-        </country>
-        <title>モディ首相訪問に伴うチェンナイ市内の警戒強化について</title>
-        <lead>１．報道等によりますと、本年４月３日から４日にかけて、モディ首相がプドゥチェリー連邦直轄地及びタミル・ナド州チェンナイを訪問することに伴い、チェンナイ市内の警備が強化されます。
-
-２．チェンナイ市内においては、チェンナイ国際空港及びマイラポール、ティーナガール地区付近において政治集会が行われることに伴い、大規模な警備体制が敷かれます。付近を通行予定の方や空港ご利用予定の方におかれましては時間に十分余裕を持って行動してください。
-
-３．今後も州内への要人訪問及び同様の警備体制が予想されますので、ニュース・新聞等の報道にご留意いただくようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164004</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164004A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164004.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164004L.xml</xmlLightUrl>
-        <koukanCd>606T</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164003</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/03/31 15:00:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（３月３１日 ９時００分）</title>
-        <lead>○本日、ドバイ国際空港（DXB）では、成田行き及び羽田行きの便は運航され、すでに出発しました。今後の運航につきましては、空港・航空会社のホームページ等をご確認ください。 
-https://dubaiairports.ae/（ドバイ国際空港HP）   
-https://www.emirates.com/ae/english/（エミレーツ航空HP） 
-
-○UAE国防省による３月３０日午後４時の発表によれば、同日中に１１発の弾道ミサイル及び２７機のドローンが迎撃された模様です。また昨日以降、シャルジャでは通信施設に対するドローン攻撃が行われたほか、ドバイでは港に停泊中のタンカーに対するドローン攻撃、Al Bada’a地区における迎撃による落下物により、それぞれ火災が発生しています。 当館管轄区域に滞在中の邦人の皆様におかれては、引き続き、不要不急の外出はお控えいただくとともに、特にUAE当局から、攻撃に関する緊急速報（アラート）がスマートフォンに配信された際は、十分ご注意ください。また、UAE当局による退避の呼びかけ等が発出された場合には、速やかに安全な場所へ退避してください。 
-爆発音が聞こえた場合には、
-屋外にいる場合：　近くの建物や地下へ避難し、物陰に身を隠してください    
-屋内にいる場合：　窓から離れ、窓のない部屋に移動してください  
-なお、攻撃に際し、当地当局から指示等があった場合は、必ず従ってください。 
-
- ○豪州政府はドバイ国際空港近くにあるLe Meridien Hotel付近において継続的な脅威が存在するとし、ドバイのホテル周辺でのリスクが高まっている旨のアラートを出しています。空港やホテル周辺においては特に注意していただき、不要不急の訪問はお控えください。 
-https://www.smartraveller.gov.au/destinations/middle-east/united-arab-emirates （豪州政府HP）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164003</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164003A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164003.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164003L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
