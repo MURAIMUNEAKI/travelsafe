@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/02 18:25:49" mailCount="64" odType="02">
+<opendata dataType="L" lastModified="2026/04/02 18:55:49" mailCount="65" odType="02">
+    <mail>
+        <keyCd>164093</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 18:35:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0968</cd>
+        </country>
+        <title>米国関連企業への脅威情報（４月２日）</title>
+        <lead>1. イランのイスラム革命防衛隊（IRGC）は、「イランへの攻撃において主要な役割を果たしている米国のICT及びAI企業を標的にする。」と宣言し、地域内の関連企業の従業員及び周辺住民は半径１キロメートル以内からの避難を呼びかけ、「今後イラン国内で暗殺行為が発生した場合、4月1日以降当該企業は攻撃され得る。」として、関連企業としてCisco、Oracle、GE等18の企業を名指ししました。
+（関連リンク：ペルシャ語）：https://t.me/sepahpasdaran/20555 
+ 
+2. 本声明内容を踏まえ、当面の間、関連する可能性のある施設への、不要不急の立ち寄りは避けるようにしてください。
+
+3. ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合には、決して興味本位で近づくことなく、
+屋外にいる場合：　近くの建物や地下への避難、物陰に身を隠す
+屋内にいる場合：　窓から離れる、窓のない部屋に移動する
+といった、ご自身の身を守る行動を最優先に行うようお願いします。
+
+4. また、オマーン当局は、軍事・治安関連の画像・動画の公開や未確認情報のSNS等での拡散を控えるよう警告していますので、そうした行為には厳に控えてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164093</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164093A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164093.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164093L.xml</xmlLightUrl>
+        <koukanCd>761A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164092</keyCd>
         <infoType>R10</infoType>
