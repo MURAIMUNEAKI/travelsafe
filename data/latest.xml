@@ -1,5 +1,94 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/02 09:35:49" mailCount="60" odType="02">
+<opendata dataType="L" lastModified="2026/04/02 10:20:51" mailCount="64" odType="02">
+    <mail>
+        <keyCd>164086</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 10:20:40</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0691</cd>
+        </country>
+        <title>ヤップ州に対する津波警報の注意喚起の発出</title>
+        <lead>●ヤップ州に津波に対する注意喚起が発出されました
+
+本日４月２日ヤップ州時刻午前8時48分、インドンシア北スラウェシ州の東沖海底62キロを震源とするマグニチュード7.6の地震が発生しました。地震に伴って、米国津波センターは、ヤップ州を津波警報地域に指定致しました。情報収集するとともに、同地域に滞在中の皆様におかれましては、海岸には極力近づかないなどご注意下さい。
+
+●万一、被害にあった方または被害にあった方を認知した場合には、大使館までご連絡願います。
+
+ＮＯＡＡ：　https://www.tsunami.gov/
+警報内容：
+https://www.tsunami.gov/events/PHEB/2026/04/01/26091003/6/WEPA40/WEPA40.txt
+
+在ミクロネシア日本大使館
+電話：（６９１）３２０－５４６５ 
+E-mail：japanemb-consul@pi.mofa.jp 
+ＨＰ: https://www.micronesia.emb-japan.go.jp/itprtop_ja/index.html 
+ＦＢ: https://www.facebook.com/embassyofjapaninfsm/
+
+※「たびレジ」に簡易登録された方でメールの配信を変更・停止したい方は、以下のURLから手続きをお願いいたします。
+（変更）https://www.ezairyu.mofa.go.jp/tabireg/simple/auth
+（停止）https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164086</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164086A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164086.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164086L.xml</xmlLightUrl>
+        <koukanCd>627A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>164085</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 09:55:57</leaveDate>
+        <title>【津波情報】米国津波センター発表</title>
+        <lead>米国津波センターにより北マリアナ諸島を含む地域に津波予想が発表されましたので（北マリアナ諸島沿岸では30cm以下の予想）、海岸付近での行動には十分にご注意下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164085</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164085A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164085.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164085L.xml</xmlLightUrl>
+        <koukanCd>067C</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>164084</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 09:55:56</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>【津波注意】北スラウェシ州ビトゥン沖での地震の発生</title>
+        <lead>●4月2日6時48分(中部インドネシア時間) 北スラウェシ州のビトゥン沖（南東方向129km）を震源（震源の深さは62Km）としたM7.6の地震発生を受け、インドネシア気象庁は北スラウェシ州に津波注意報を発報しております。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164084</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164084A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164084.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164084L.xml</xmlLightUrl>
+        <koukanCd>607X</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>164083</keyCd>
+        <infoType>R20</infoType>
+        <leaveDate>2026/04/02 09:51:21</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>スラウェシ州東沖におけるマグニチュード7.6の地震の発生</title>
+        <lead>●本日４月２日西部インドネシア時刻午前5時48分（中部インドネシア午前6時48分）北スラウェシ州の東沖海底62キロを震源とするマグニチュード7.6の地震が発生しました。地震に伴って津波警報が発令されたものの、当館管轄州（バリ州、NTB州、NTT州）には発令されていません。今後、警報の発令範囲は変更される可能性があるため、情報収集するとともに、海岸には極力近づかないなどご注意下さい。
+●今後も地震の情報に注意し身の安全確保に努めてください。
+インドネシア気象庁（BMKG）ホームページ:
+https://www.bmkg.go.id
+●万一、被害にあった方または被害にあった方を認知した場合には、総領事館ま
+でご連絡願います。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164083</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164083A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164083.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164083L.xml</xmlLightUrl>
+        <koukanCd>607F</koukanCd>
+    </mail>
     <mail>
         <keyCd>164080</keyCd>
         <infoType>R10</infoType>
