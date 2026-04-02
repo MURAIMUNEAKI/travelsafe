@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/02 12:35:50" mailCount="65" odType="02">
+<opendata dataType="L" lastModified="2026/04/02 13:15:50" mailCount="66" odType="02">
+    <mail>
+        <keyCd>164088</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/02 12:40:41</leaveDate>
+        <title>【津波情報】米国津波センター発表（津波予想解除）</title>
+        <lead>本日午前にお知らせした津波予想は解除されました。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164088</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164088A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164088.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164088L.xml</xmlLightUrl>
+        <koukanCd>067C</koukanCd>
+    </mail>
     <mail>
         <keyCd>164087</keyCd>
         <infoType>R10</infoType>
