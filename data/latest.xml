@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/03 00:00:51" mailCount="55" odType="02">
+<opendata dataType="L" lastModified="2026/04/03 00:30:50" mailCount="54" odType="02">
+    <mail>
+        <keyCd>164099</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/03 00:05:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0965</cd>
+        </country>
+        <title>クウェート国際空港の状況（4月2日18:00時点）について</title>
+        <lead>○4月2日18:00時点（現地時間）、クウェート国際空港は閉鎖されています。
+邦人の皆様におかれましても、関連情報の入手に努めるようお願いします。
+
+○同空港のサイトを以下のとおりお知らせします。
+クウェート国際空港（Kuwait International Airport）
+https://www.kuwaitairport.gov.kw/en/　
+※	クウェート発着便の運行状況について確認できます。
+
+○今後、同空港が再開される等の変更がありましたら、改めてお知らせします。
+
+
+在クウェート日本国大使館
+当館公式サイト： https://www.kw.emb-japan.go.jp/itprtop_ja/index.html
+メールアドレス： consular@kw.mofa.go.jp 
+電話：（+965）2530-9400
+
+※「在留届」を提出された方で、既に日本に帰国又は他国に転出された方は、以下のURLから「変更届・帰国届」の提出をお願いいたします。
+（ https://www.ezairyu.mofa.go.jp/RRnet/index.html ）
+※「たびレジ」簡易登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願い致します。
+（ https://www.ezairyu.mofa.go.jp/tabireg/simple/delete ）
+※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
+災害や騒乱等が発生した際、ご家族、ご友人、同僚の方を守るため、一人でも多くの方に安全対策に関する情報が届くよう、「在留届」（３か月以上の滞在）または「たびレジ」（３か月未満の滞在）の登録を、お知り合いの方や出張者、旅行者の方にご案内いただけますようお願いいたします。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164099</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164099A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164099.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164099L.xml</xmlLightUrl>
+        <koukanCd>706A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164098</keyCd>
         <infoType>R10</infoType>
@@ -1276,43 +1315,5 @@ https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164030.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164030L.xml</xmlLightUrl>
         <koukanCd>514A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164028</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/01 00:21:01</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0051</cd>
-        </country>
-        <title>トゥンベス州サルミージャ郡に対する非常事態宣言の発出</title>
-        <lead>●ペルー政府は、治安対策のため、トゥンベス州サルミージャ郡に対する非常事態宣言を官報に告示しました。
-●同宣言により、憲法で保障された権利の一部が制限されます。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164028</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164028A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164028.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164028L.xml</xmlLightUrl>
-        <koukanCd>412A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164027</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/01 00:21:00</leaveDate>
-        <area>
-            <cd>33</cd>
-        </area>
-        <country areaCd="33">
-            <cd>0051</cd>
-        </country>
-        <title>リマ市及びカヤオ憲法特別市に対する治安対策のための非常事態宣言の延長</title>
-        <lead>●ペルー政府は、治安対策のため、リマ市及びカヤオ憲法特別市に対する非常事態宣言の延長を官報に告示しました。
-●同宣言により、治安当局が犯罪捜査を目的として、検問等で令状無く所持品の検査や車両内の捜索を行う可能性があります。外出時は身分証を必ず携行するようにしてください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164027</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164027A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164027.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164027L.xml</xmlLightUrl>
-        <koukanCd>412A</koukanCd>
     </mail>
 </opendata>
