@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/03 18:30:49" mailCount="49" odType="02">
+<opendata dataType="L" lastModified="2026/04/03 18:45:49" mailCount="49" odType="02">
+    <mail>
+        <keyCd>164114</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/03 18:45:42</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0033</cd>
+        </country>
+        <title>One Health Summitに伴う交通規制（4月7日）</title>
+        <lead>　4月5日から7日の間、リヨン市内においてOne Health Summitが開催されます。4月7日はマクロン大統領、各国要人等の参加が報じられており、特にローヌ県庁周辺及びCite internationale周辺は厳重な警備強化及び交通規制が敷かれる見込みです。
+　リヨン滞在中の皆様は、報道等から最新の情報を入手し、思わぬ騒動に巻き込まれることのないようご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164114</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164114A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164114.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164114L.xml</xmlLightUrl>
+        <koukanCd>505H</koukanCd>
+    </mail>
     <mail>
         <keyCd>164113</keyCd>
         <infoType>R10</infoType>
@@ -1210,25 +1229,5 @@ https://sa.usembassy.gov/security-alert-u-s-embassy-riyadh-saudi-arabia-march-31
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164050.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164050L.xml</xmlLightUrl>
         <koukanCd>522A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164049</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/01 18:35:45</leaveDate>
-        <area>
-            <cd>10</cd>
-        </area>
-        <country areaCd="10">
-            <cd>0886</cd>
-        </country>
-        <title>清明節等期間中の閉所日及び安全対策に関するお知らせ</title>
-        <lead>●台湾の清明節等の祝日に合わせ、当協会台北事務所及び高雄事務所は、４月３日（金）から４月６日（月）まで閉所となります。４月７日（火）より開所します。
-●清明節期間中は、多くの人が移動し、特に観光地等は大勢の人が集まることが見込まれます。貴重品・旅券（パスポート）等の管理含め、外出の際には周囲の状況にくれぐれも留意し、可能な限りの安全対策に努めてください。また、渡航にあたっては、十分な補償内容の海外旅行保険等に加入することを強く推奨します。
-●出入境時の持ち出し・持ち込みに制限のある物品もありますので、ご留意ください。また、感染症にご注意ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164049</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164049A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164049.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164049L.xml</xmlLightUrl>
-        <koukanCd>632A</koukanCd>
     </mail>
 </opendata>
