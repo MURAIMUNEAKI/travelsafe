@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/03 22:00:51" mailCount="40" odType="02">
+<opendata dataType="L" lastModified="2026/04/03 22:35:49" mailCount="39" odType="02">
+    <mail>
+        <keyCd>164116</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/03 22:25:41</leaveDate>
+        <area>
+            <cd>42</cd>
+        </area>
+        <country areaCd="42">
+            <cd>0036</cd>
+        </country>
+        <title>米国副大統領訪問に際するブダペスト市内における交通規制</title>
+        <lead>○４月６日（月）から８日（水）の間、ヴァンス米国副大統領の訪問に伴い、ブダペスト市内各所で交通規制が敷かれます。
+○上記期間にブダペスト市内での移動を予定されている方は、必要に応じて予定の調整や迂回を検討して下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164116</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164116A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164116.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164116L.xml</xmlLightUrl>
+        <koukanCd>508A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164115</keyCd>
         <infoType>R10</infoType>
@@ -949,70 +968,5 @@ https://sa.usembassy.gov/security-alert-u-s-embassy-riyadh-saudi-arabia-march-31
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164065.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164065L.xml</xmlLightUrl>
         <koukanCd>708D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164062</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/01 22:25:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0030</cd>
-        </country>
-        <title>悪天候ERMINIOに関する注意喚起</title>
-        <lead>○ギリシャ気象庁は、本日1日（水）から明日2日（木）にかけて、アッティカ県を含むほぼ全国での大雨や豪雨、強風のほか、山間部では降雪を予想し、最も高い警戒レベルである「赤」を発令しました（4段階の警戒レベルの4）。
-○ギリシャ気候危機・市民防災省は、悪天候に対する以下の予防措置を呼びかけています。
-・テレビ、ラジオ等で最新情報を入手し、当局の指示に従う。
-・悪天候時には、不要不急の外出を控える。
-・海域や沿岸部での活動は避ける。
-・氾濫した沢や道路は、車でも徒歩でも横断しないこと。
-・強風時は、大きな木や標識等、倒れたり落下する危険性のあるものに近づかない。また、その下に駐車しない。
-・一部地域では、車のタイヤチェーン（降雪時は装着）の搭載など、滑り止め対策が義務付けられ、搭載していない場合は違反金が科せられることがある。
-・危険な時は、「112番」（緊急サービスに繋がる欧州共通緊急番号）または「100番」（警察）、「199番」（消防庁）、「166番」（救急救命）に連絡する。
-○ギリシャに滞在中の方は、報道や以下のサイトで最新の気象情報を確認し、悪天候時には不要不急の外出を控えるなど、身の安全の確保に努めてください。
-
-・ギリシャ気候危機・市民防災省
-https://civilprotection.gov.gr/
-https://civilprotection.gov.gr/odigies-prostasias?lang=en（安全対策）
-・ギリシャ気象庁
-https://emy.gr/en/warnings?tab=mainland&amp;area=current-alerts</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164062</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164062A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164062.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164062L.xml</xmlLightUrl>
-        <koukanCd>507A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164061</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/01 22:10:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0964</cd>
-        </country>
-        <title>イラク国内の状況及び注意喚起（４月１日）</title>
-        <lead>１　当地米国大使館は、引き続きセキュリティアラートを発出しており、イラクからの早期退避を含めた注意喚起を行っています。以下ウェブサイトの言及のとおり、これまでにスレイマーニーヤ県（クルディスタン地域）の米系大学を標的とした可能性のある攻撃があった他、昨日は米国人ジャーナリストの誘拐事案が報じられています。
-https://iq.usembassy.gov/security-alert-u-s-embassy-baghdad-iraq-march-29-2026/
-
-２　また、バグダッドやエルビル等の都市部も含め爆発物を使用した事案が連日継続的に発生しています。さらに今週４日（土）には、当地の宗教指導者であるサドル師の呼びかけで反米・イスラエルを訴える集会が各地で予定されています。
-
-３　現在も、イラク空域封鎖は継続されており、航空便の再開のめどはたっていませんが、トルコ、クウェート等の陸路国境は開放されています。特にイラクからトルコへ入国に際しては、以下の情報の事前通報が必要となっており、他のルートについても今後、類似の措置がとられる可能性がありますので、万一現在もイラク滞在をされている場合は、当館又はエルビル領事事務所に必要情報の連絡の上、早期の出国※をお願いします。
-
-（陸路でのイラク出国に必要な情報）
-●　出国日
-●　パスポート情報（顔写真ページ写し）
-●　出国先での一時滞在先
-●　出国先からの航空券情報（Eチケット写し）
-
-※現在、イラク全域は危険情報がレベル４（退避勧告）となっています。
-https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T036.html#ad-image-0</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164061</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164061A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164061.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164061L.xml</xmlLightUrl>
-        <koukanCd>704A</koukanCd>
     </mail>
 </opendata>
