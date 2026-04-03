@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/04 05:25:49" mailCount="31" odType="02">
+<opendata dataType="L" lastModified="2026/04/04 05:45:49" mailCount="30" odType="02">
     <mail>
         <keyCd>164120</keyCd>
         <infoType>R10</infoType>
@@ -743,25 +743,5 @@ https://www.bmkg.go.id
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164080.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164080L.xml</xmlLightUrl>
         <koukanCd>002A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164079</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/02 05:40:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0421</cd>
-        </country>
-        <title>宗教関連イベント期間等におけるテロに関する注意喚起</title>
-        <lead>●　宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、テロの標的とされる可能性が高まります。特に現在、中東情勢が悪化しており、中東地域以外でも、不測の事態が発生する可能性は排除されません。
-●　4月1日（水）から約1週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、4月5日（日）にはキリスト教のカトリックの復活祭（イースター）、4月12日（日）には東方正教会の復活祭が予定されています。
-●　常に最新情報の入手に努め、安全確保に十分注意を払ってください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164079</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164079A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164079.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164079L.xml</xmlLightUrl>
-        <koukanCd>543A</koukanCd>
     </mail>
 </opendata>
