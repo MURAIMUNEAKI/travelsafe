@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/03 23:25:49" mailCount="38" odType="02">
+<opendata dataType="L" lastModified="2026/04/04 00:00:48" mailCount="35" odType="02">
     <mail>
         <keyCd>164116</keyCd>
         <infoType>R10</infoType>
@@ -868,76 +868,5 @@ https://www.ezairyu.mofa.go.jp/RRnet/index.html</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164070.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164070L.xml</xmlLightUrl>
         <koukanCd>520A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164069</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/01 23:55:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0420</cd>
-        </country>
-        <title>宗教関連イベント期間等におけるテロに関する注意喚起</title>
-        <lead>●宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、テロの標的とされる可能性が高まります。 
-●４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月５日（日）にはカトリックの復活祭（イースター）、４月１２日（日）には東方正教会の復活祭（イースター）が予定されています。  
-●常に最新情報の入手に努め、安全確保に十分注意を払ってください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164069</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164069A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164069.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164069L.xml</xmlLightUrl>
-        <koukanCd>502A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164068</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/01 23:50:40</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>0355</cd>
-        </country>
-        <title>（注意喚起）宗教関連イベント期間等におけるテロに関する注意喚起</title>
-        <lead>〇４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月５日（日）にはキリスト教の復活祭（イースター）が予定されています。
-〇宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、テロの標的とされる可能性が高まります。特に現在、中東情勢が悪化しており、中東地域以外でも、不測の事態が発生する可能性は排除されません。
-〇常に最新情報の入手に努め、安全確保に十分注意を払ってください。
-
-　万が一、事件・事故等に巻き込まれた場合、アルバニア警察当局に被害届を提出するとともに、その概要を在アルバニア日本国大使館に連絡して下さい。
-
-【問い合わせ先】
-在アルバニア日本国大使館
-電話　： +355 4 454 7930（領事窓口受付時間：09:00～12:00,13:30～16:00（祝休日除く））
-メール： konsullore@av.mofa.go.jp
-※このメールは在留届、たびレジに登録されたメールアドレスに配信されております。
-※「たびレジ」簡易登録をされた方で、メールの配信を変更・停止されたい場合は、以下の URL から停止手続きをお願いいたします。
-https://www.ezairyu.mofa.go.jp/tabireg/simple/delete
-※災害や騒乱等が発生した際、ご家族、ご友人、同僚を守るため、一人でも多くの方に安全対策に関する情報が届くよう、在留届（3か月以上の滞在）の届出、又はたびレジ（3か月未満の滞在）の登録を、お知り合いの方や出張者・旅行者にご案内いただけますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164068</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164068A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164068.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164068L.xml</xmlLightUrl>
-        <koukanCd>552A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164066</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/01 23:35:41</leaveDate>
-        <area>
-            <cd>60</cd>
-        </area>
-        <country areaCd="60">
-            <cd>0260</cd>
-        </country>
-        <title>【注意喚起】ルサカ市内のデモの発生等（注意を要する場所等）について</title>
-        <lead>○４月１日１５時現在、ルサカ市内のザンビア大学周辺及び同大学構内にて発生していた抗議デモは沈静化しました。 
-○一方、今後も同大学周辺における予測不能なデモ発生の可能性があります。
-○邦人の皆様におかれましては、以下の場所に不用意に近づくことは避けると共に引き続き安全確保に十分ご留意ください。事件・事故に遭遇された場合や不審な点に気づかれた場合は、直ちに警察（緊急電話番号：991または999）へご連絡いただくとともに、当館（電話：＋260-211-251-555）にもご一報くださいますようお願いいたします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164066</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164066A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164066.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164066L.xml</xmlLightUrl>
-        <koukanCd>725A</koukanCd>
     </mail>
 </opendata>
