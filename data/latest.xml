@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/03 14:10:49" mailCount="50" odType="02">
+<opendata dataType="L" lastModified="2026/04/03 14:40:49" mailCount="51" odType="02">
+    <mail>
+        <keyCd>164107</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/03 14:30:40</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0092</cd>
+        </country>
+        <title>カラチ市内における抗議活動に関する注意喚起</title>
+        <lead>本日（４月３日）、カラチ市内において、ガソリン等の燃料の値上げに対する抗議活動が予定されているため、最新の情報取得に努め、混雑している場所には近づかないようにしてください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164107</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164107A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164107.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164107L.xml</xmlLightUrl>
+        <koukanCd>610E</koukanCd>
+    </mail>
     <mail>
         <keyCd>164105</keyCd>
         <infoType>R10</infoType>
