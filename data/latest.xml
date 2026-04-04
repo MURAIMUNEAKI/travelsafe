@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/05 02:45:49" mailCount="16" odType="02">
+<opendata dataType="L" lastModified="2026/04/05 03:30:49" mailCount="15" odType="02">
     <mail>
         <keyCd>164122</keyCd>
         <infoType>R10</infoType>
@@ -385,30 +385,5 @@ https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164104.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164104L.xml</xmlLightUrl>
         <koukanCd>517E</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164103</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/03 03:10:41</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0973</cd>
-        </country>
-        <title>キング・ファハド・コーズウェイへの脅威情報(４月２日）</title>
-        <lead>１．４月２日(現地時間)、イランのイスラム革命防衛隊（IRGC）の機関であるファールス通信は、キャラジB1橋への空爆に対する報復としてクウェート、サウジアラビア、アブダビ、ヨルダンにある複数の橋をイラン軍の攻撃目標候補として挙げました。
-
-２．攻撃目標として挙げた橋には、サウジアラビアとバーレーンを結ぶキング・ファハド・コーズウェイも含まれています。同道路を利用してサウジアラビアへ出国する際は、夜間や混雑時の利用を避けるとともに、ウェブサイト（ https://kfca.sa/en/ ）から最新の状況を確認するなど情報収集に努めてください。
-
-３．また、ドローンやミサイル等に起因すると思われる爆発音等が聞こえた場合は、決して近づくことなく、
-屋外にいる場合：近くの建物や地下への避難、物陰に身を隠す
-屋内にいる場合：窓から離れる、窓のない部屋に移動する
-といった、ご自身の身を守る行動を最優先に行うようお願いします。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164103</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164103A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164103.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164103L.xml</xmlLightUrl>
-        <koukanCd>727A</koukanCd>
     </mail>
 </opendata>
