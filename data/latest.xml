@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/04 23:20:49" mailCount="20" odType="02">
+<opendata dataType="L" lastModified="2026/04/04 23:45:49" mailCount="19" odType="02">
     <mail>
         <keyCd>164122</keyCd>
         <infoType>R10</infoType>
@@ -498,37 +498,5 @@ https://www.kuwaitairport.gov.kw/en/　
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164098.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164098L.xml</xmlLightUrl>
         <koukanCd>727A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164097</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/02 23:45:41</leaveDate>
-        <area>
-            <cd>42</cd>
-        </area>
-        <country areaCd="42">
-            <cd>9007</cd>
-        </country>
-        <title>宗教関連イベントにおけるテロに関する注意事項</title>
-        <lead>●宗教に関連した祝祭日やイベントでは、人の集まりや移動が増えるため、無差別テロに遭遇する可能性が高まります。特に現在、中東情勢が悪化しており、中東地域以外でも、不測の事態が発生する可能性は排除されません。  
-●４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月１２日（日）にはロシア正教会の復活祭（キリスト教では４月５日（日））が予定されています。  
-●常に最新情報の入手に努め、安全確保に十分注意を払ってください。
-
-１ 宗教に関連した祝祭日やイベントは、人の集まりや移動が増えるため、無差別テロに遭遇する可能性が高まります。現在、中東情勢が悪化しており、中東地域以外でも、不測の事態が発生する可能性は排除されません。
-
-２ 近年、警備や監視が手薄で、一般市民が多く集まる場所（ソフトターゲット）を標的としたテロが各国で発生していますが、これらは組織とのつながりが薄い単独犯による場合が多く、事前の取締りが難しいため、こうしたテロの発生が今後も継続することが懸念されます。  
-
-３ ４月１日（水）から約１週間、ユダヤ教の過越祭（ペサハ）が予定されているほか、４月１２日にはロシア正教会の復活祭（キリスト教では４月５日（日））が予定されています。 
-
-４ ついては、外務省が発出した以下の「広域情報」を御参照の上、テロの被害に遭うことのないよう十分御注意願います。  
-２０２６年２月１３日付外務省「広域情報」：
-https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C012.html
-
-５ 万一被害に遭った場合や邦人の被害を認知した場合は、警察に通報し対応を依頼するとともに、安全な場所に避難した後、当館まで御一報ください。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164097</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164097A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164097.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164097L.xml</xmlLightUrl>
-        <koukanCd>517F</koukanCd>
     </mail>
 </opendata>
