@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/05 21:30:51" mailCount="10" odType="02">
+<opendata dataType="L" lastModified="2026/04/05 21:55:49" mailCount="10" odType="02">
+    <mail>
+        <keyCd>164127</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/05 21:45:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>イラン関連情報第１０報：サウジアラビアの電気・水道事業社に対する脅威情報について</title>
+        <lead>１　４月５日未明、イラン国営メディアは、米・イスラエルによるマフシャール石油化学特別経済区に対する攻撃を受け、イラン軍の標的リストが更新されたと発表しました。更新された標的リストは以下のとおりであり、サウジアラビア所在の電力・水道供給事業社も含まれています。
+　　－Marafiq（※ジュベイル市及びヤンブー市に所在する電力・水道等供給事業社）
+　　－Israel Electric Corporation（※イスラエル）
+　　－TAQA（※アラブ首長国連邦）
+　　－Qatar Energy Utilities Affiliates（※カタール）</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164127</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164127A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164127.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164127L.xml</xmlLightUrl>
+        <koukanCd>708D</koukanCd>
+    </mail>
     <mail>
         <keyCd>164126</keyCd>
         <infoType>R10</infoType>
@@ -283,28 +305,5 @@ https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164116.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164116L.xml</xmlLightUrl>
         <koukanCd>508A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164115</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/03 21:35:40</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0962</cd>
-        </country>
-        <title>イランへの攻撃に伴う注意喚起（その１２）</title>
-        <lead>【ポイント】
-●２月２８日のイスラエル及び米国によるイランに対する攻撃を受けて、ヨルダン以外にも、ＵＡＥ、バーレーン、カタール等米軍基地が所在する国々に対するイランからの攻撃が、エネルギー・インフラ施設、空港、ホテル等を含め確認されています。ヨルダンでも、今後、事態が急速に悪化する可能性も排除されません。
-●４月２日（現地時間）、イランのイスラム革命防衛隊（IRGC）系のファールス通信は、同国キャラジB1橋への空爆に対する報復としてヨルダン、クウェート、サウジアラビア、UAEにある複数の橋をイラン軍の攻撃目標候補として挙げました。報道によると、攻撃目標として挙げられた橋には、ヨルダンのアブドゥーン橋、キング・フセイン橋、ダミア橋が含まれています。これらの橋、特にアンマン市内のアブドゥーン橋は迂回する等、使用を回避するようご注意ください。
-●３月２８日、イラクの親イラン民兵組織は、ヨルダン国内の米国及びイスラエルの権益を攻撃対象とすることを決定し、住民に対して米国の権益等周辺には近寄らないように呼びかける声明を、SNS（テレグラム）上で出しました。既にイランの合同軍事司令部は、中東地域における米国及びイスラエルに関連する経済拠点・銀行を標的にする旨を発表しています。また、中東地域に所在するイスラエル及び米系大学への攻撃に係る警告も行われているとの報道もあります。
-●引き続き、不要不急の外出を避け、軍事施設や当地米国大使館、上述の米国の権益等攻撃の標的となり得る施設付近には近づかないようにしてください。また、ホテルや空港に行かれる場合は、テロの可能性を含め十分な注意を払って下さい。
-●今後、ヨルダン発着の航空便が停止する可能性も念頭に、ヨルダンからの出国を希望されている方は、航空便が運航している間に、早期の出国を検討してください。当地旅行会社の情報によれば、現時点では、アンマンのクィーン・アーリア国際空港からはロイヤル・ヨルダン航空を中心に商業便が運航していますが、今後の状況次第では減便・欠航の可能性があることに注意願います。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164115</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164115A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164115.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164115L.xml</xmlLightUrl>
-        <koukanCd>757A</koukanCd>
     </mail>
 </opendata>
