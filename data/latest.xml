@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/05 16:50:50" mailCount="13" odType="02">
+<opendata dataType="L" lastModified="2026/04/05 17:20:49" mailCount="11" odType="02">
     <mail>
         <keyCd>164124</keyCd>
         <infoType>R10</infoType>
@@ -318,44 +318,5 @@ ISRAIR AIRLINES&lt;4&gt;
         <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164112.xml</xmlNormalUrl>
         <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164112L.xml</xmlLightUrl>
         <koukanCd>705A</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164111</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/03 17:10:42</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>テロに関する注意喚起</title>
-        <lead>イスラム過激派組織「イラク・レバントのイスラム国」（ISIL）は、４月２日付で公開したオンライン機関誌で、エルサレムに所在するアル・アクサ・モスクの閉鎖が継続していることに対する報復として、イースター（復活祭）の休暇中、米国、欧州、ロシア、UAE、シリア、チュニジア、モロッコに所在する教会・シナゴーグに対する攻撃を呼び掛けました。 
-またISILは、ユダヤ教の過越祭（ペサハ）期間中（４月１日から約１週間）に開催される関連イベントに対する攻撃についても呼び掛けています。</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164111</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164111A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164111.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164111L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
-    </mail>
-    <mail>
-        <keyCd>164110</keyCd>
-        <infoType>R10</infoType>
-        <leaveDate>2026/04/03 17:05:43</leaveDate>
-        <area>
-            <cd>50</cd>
-        </area>
-        <country areaCd="50">
-            <cd>0971</cd>
-        </country>
-        <title>イランからの攻撃に伴う注意喚起（４月３日１２ 時００分）</title>
-        <lead>○本日、ドバイ国際空港（DXB）では、成田行き及び羽田行きの便は運航され、すでに出発しました。今後の運航につきましては、空港・航空会社のホームページ等をご確認ください。 
-https://dubaiairports.ae/　（ドバイ国際空港HP）   
-https://www.emirates.com/ae/english/　（エミレーツ航空HP）</lead>
-        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164110</infoUrl>
-        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164110A.xml</xmlAllUrl>
-        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164110.xml</xmlNormalUrl>
-        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164110L.xml</xmlLightUrl>
-        <koukanCd>755D</koukanCd>
     </mail>
 </opendata>
