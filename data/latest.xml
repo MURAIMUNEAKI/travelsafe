@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/06 06:20:50" mailCount="7" odType="02">
+<opendata dataType="L" lastModified="2026/04/06 06:50:50" mailCount="8" odType="02">
+    <mail>
+        <keyCd>164128</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/06 06:30:40</leaveDate>
+        <area>
+            <cd>20</cd>
+        </area>
+        <country areaCd="20">
+            <cd>0679</cd>
+        </country>
+        <title>サイクロンの発生に伴う大雨や洪水への警戒</title>
+        <lead>○４月６日未明、フィジー気象局は、勢力を強めた熱帯低気圧を熱帯サイクロンに格上げしたと発表し、引き続きフィジー全土での大雨や洪水への警戒を呼びかけています。
+
+○フィジー気象庁発表によれば、フィジー時間４月６日午前４時の時点で、中心気圧990hPa の熱帯サイクロン「ヴァイアヌ（VAIANU）」は、ヤサワ諸島の西北西約 610kmに位置し、毎時約 9km の速度で南東方向に進んでいます。フィジー気象局は、フィジー全土を対象に大雨洪水警報を継続して発出しています。
+
+○サイクロンの強度を示す５段階の指標で、サイクロン「ヴァイアヌ」は、現在、最も弱いカテゴリー１とされていますが、フィジー諸島の西側海域を南東方向に進むにつれ勢力を強め、最大カテゴリー３まで発達すると予想されています。
+
+○低地の浸水、河川の増水、橋や道路の寸断、海上や海岸付近での水難事故に遭遇する可能性が高まっています。一部地域では、すでに家屋浸水等の被害が発生しています。フィジーに滞在中の皆様におかれては、周囲の状況に十分注意して、安全確保に努めてください。
+
+○フィジー気象局が発出する警報・注意報等の最新情報は、以下のリンクからご確認いただけます。こまめな情報収集に努め、安全確保にお役立てください。
+
+フィジー気象局 HP：https://www.met.gov.fj/alerts/</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164128</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164128A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164128.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164128L.xml</xmlLightUrl>
+        <koukanCd>623A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164127</keyCd>
         <infoType>R10</infoType>
