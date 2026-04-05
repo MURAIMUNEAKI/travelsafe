@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/05 19:50:49" mailCount="9" odType="02">
+<opendata dataType="L" lastModified="2026/04/05 20:25:49" mailCount="10" odType="02">
+    <mail>
+        <keyCd>164126</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/05 19:55:40</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0966</cd>
+        </country>
+        <title>イラン関連情報第１９報：サウジアラビアの電気・水道事業社に対する脅威情報</title>
+        <lead>１　４月５日未明、イラン国営メディアは、米・イスラエルによるマフシャール石油化学特別経済区に対する攻撃を受け、イラン軍の標的リストが更新されたと発表しました。更新された標的リストは以下のとおりであり、サウジアラビア所在の電力・水道供給事業社も含まれています。
+－Marafiq（※ジュベイル市及びヤンブー市に所在する電力・水道等供給事業社）
+－Israel Electric Corporation（※イスラエル）
+－TAQA（※アラブ首長国連邦）
+－Qatar Energy Utilities Affiliates（※カタール）
+
+２　在留邦人の皆様におかれましては、引き続き、
+－　攻撃の対象となる可能性のある施設には近づかない（写真撮影も厳禁）
+－　ミサイル・ドローン、着弾状況等の写真撮影、SNSへの投稿・共有を行わない
+－　信頼できる公式の情報源からの最新情報を確認する
+などして、ご自身の安全確保に努めてください。
+　　万が一、被害に遭われた場合や邦人の被害情報に接した場合には、大使館まですぐにお知らせください。
+
+（問い合わせ先） 
+在サウジアラビア日本国大使館領事班 
+TEL：011-488-1100 
+FAX：011-488-0189 
+E-mail：consular-sec@rd.mofa.go.jp 
+ホームページ： https://www.ksa.emb-japan.go.jp/itprtop_ja/index.html 
+　※「たびレジ」登録をされた方でメールの配信を停止したい方は、以下のURLから停止手続きをお願いいたします。 
+https://www.ezairyu.mofa.go.jp/tabireg/simple/delete</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164126</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164126A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164126.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164126L.xml</xmlLightUrl>
+        <koukanCd>708A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164125</keyCd>
         <infoType>R10</infoType>
