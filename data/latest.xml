@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/06 09:50:51" mailCount="8" odType="02">
+<opendata dataType="L" lastModified="2026/04/06 10:55:48" mailCount="9" odType="02">
+    <mail>
+        <keyCd>164129</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/06 10:00:42</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0063</cd>
+        </country>
+        <title>【総領事館からのお知らせ】当館休館日（２０２６年４月９日（木））のお知らせ</title>
+        <lead>●４月９日（木）は当館休館日となります。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164129</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164129A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164129.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164129L.xml</xmlLightUrl>
+        <koukanCd>611F</koukanCd>
+    </mail>
     <mail>
         <keyCd>164128</keyCd>
         <infoType>R10</infoType>
