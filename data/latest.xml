@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/06 13:25:50" mailCount="9" odType="02">
+<opendata dataType="L" lastModified="2026/04/06 14:20:52" mailCount="10" odType="02">
+    <mail>
+        <keyCd>164130</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/06 13:50:47</leaveDate>
+        <area>
+            <cd>10</cd>
+        </area>
+        <country areaCd="10">
+            <cd>0062</cd>
+        </country>
+        <title>デモ情報（ジャカルタ：４月６日）</title>
+        <lead>●　本６日、ジャカルタ各地においてデモ活動が予定されています。
+
+●　主なデモの開始時間及び場所は次のとおりです。
+　　午前１０時００分頃～　独立記念塔（モナス）周辺（ジャカルタ中心部）
+　　午後０時３０分頃～　　国家警察本部前（南ジャカルタ地区）
+　　午後１時００分頃～　　国会前（中央ジャカルタ地区）
+　　　　　　　　　　　　　汚職撲滅委員会前（南ジャカルタ地区）
+　　　　　　　　　　　　　最高検察庁前（南ジャカルタ地区）
+　　　　　　　　　　　　　東ジャカルタ市庁舎前（東ジャカルタ地区）
+　
+●　デモの周辺道路では交通規制が行われ、交通状況に影響が生じる可能性があります。外出の際にはご注意ください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164130</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164130A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164130.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164130L.xml</xmlLightUrl>
+        <koukanCd>607A</koukanCd>
+    </mail>
     <mail>
         <keyCd>164129</keyCd>
         <infoType>R10</infoType>
