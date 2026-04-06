@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<opendata dataType="L" lastModified="2026/04/06 16:40:50" mailCount="10" odType="02">
+<opendata dataType="L" lastModified="2026/04/06 17:35:50" mailCount="12" odType="02">
+    <mail>
+        <keyCd>164133</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/06 17:35:41</leaveDate>
+        <area>
+            <cd>50</cd>
+        </area>
+        <country areaCd="50">
+            <cd>0971</cd>
+        </country>
+        <title>大使館からの情報発信・トランジット含む渡航に関する注意喚起（４月６日午後０時）</title>
+        <lead>１　現在、アラブ首長国全域は危険情報レベル３（渡航中止勧告）となっております。
+https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T028.html#ad-image-0
+ 
+２　航空便の運航状況
+ザイード国際空港の運航発着情報や航空便の運行状況については流動的な状況です。
+今後は定期的に月曜日・金曜日を基準として、航空便の運航情報を配信いたします。
+トランジットで当地を渡航予定の方におかれましても、情勢の影響により、足止めされる可能性が高く、別ルートの検討をお勧めいたします。　
+邦人の皆様におかれては、関連情報を公式情報等から入手するようお願いします。
+なお、アブダビー関空便が4/2から週３便程度再開されているのが確認されています。
+●エティハド航空（４月６日午後０時）
+https://www.etihad.com/en-jo/manage/flight-status
+●エティハド航空チケットHP※情勢によってはキャンセルされる可能性があり流動的です。
+https://www.etihad.com/en-jo/
+●Emirates News Agency-WAM
+https://www.wam.ae/en/home/main
+●Khaleej Times
+https://www.khaleejtimes.com/
+ 
+３(1)米国・イスラエル関係施設（企業・金融・教育機関・宗教施設（シナゴーグ）含む）、港及び石油関連施設及びその周辺地域は攻撃の標的にされる可能性があります。引き続き、これら関連施設などに近寄らず、不要不急の外出はお控えいただくとともに、特にUAE当局から、攻撃に関する緊急速報（アラート）がスマートフォンに配信された際は、十分ご注意ください。また、UAE当局による退避の呼びかけ等が発出された場合には、速やかに安全な場所へ退避してください。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164133</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164133A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164133.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164133L.xml</xmlLightUrl>
+        <koukanCd>755A</koukanCd>
+    </mail>
+    <mail>
+        <keyCd>164132</keyCd>
+        <infoType>R10</infoType>
+        <leaveDate>2026/04/06 17:05:41</leaveDate>
+        <title>【注意喚起】特別海上注意報（危険な離岸流）</title>
+        <lead>国家気象局により、サイパン島、テニアン島、ロタ島の東側珊瑚礁沖に特別海上注意報（危険な離岸流）が発出されています。当該海域での行動には危険を伴いますので、十分な注意を払って下さい。</lead>
+        <infoUrl>https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyCd=164132</infoUrl>
+        <xmlAllUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164132A.xml</xmlAllUrl>
+        <xmlNormalUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164132.xml</xmlNormalUrl>
+        <xmlLightUrl>https://www.ezairyu.mofa.go.jp/opendata/mail/164132L.xml</xmlLightUrl>
+        <koukanCd>067C</koukanCd>
+    </mail>
     <mail>
         <keyCd>164131</keyCd>
         <infoType>R10</infoType>
